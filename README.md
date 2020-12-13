@@ -19,7 +19,7 @@ Wabbajack modlist installer for Librum
     - [Copy "Game Folder Files"](#copy-game-folder-files)
     - [Starting Librum and Choosing Optional Plugins](#starting-librum-and-choosing-optional-plugins)
     - [Start Skyrim... again](#start-up-skyrim-again)
-    - [MCM Settings](#mcm)
+    - [MCM Settings](#configure-the-mcm)
   - [Updating](#updating)
   - [Features of Librum](#features)
     - [Leveling and Experience](#leveling-and-experience)
@@ -160,5 +160,10 @@ To start the game for real, start SKSE through Mod Organizer 2. This will be nec
 Start a new game once you get to the main menu. The "yes/no" dialogue in the _New Game_ menu does not always indicate which you are selecting, but the buttons will work as expected. You will start in the character creation area from [Realm of Lorkhan](https://www.nexusmods.com/skyrimspecialedition/mods/18223). Here are some things to know as you create your character:
 
 1. Race and gender differences are changed in accordance with [Race Abilities Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/23223) and [Genders are Boringly Indistinct](https://www.nexusmods.com/skyrimspecialedition/mods/23145), but with the modifications made by [Elemental Destruction Magic](https://www.nexusmods.com/skyrimspecialedition/mods/440). Namely, Orcs are 50% resistant to earth magic, and Argonians are 50% resistant to water magic.
-2. Standing stones are changed in accordance with [Andromeda](https://www.nexusmods.com/skyrimspecialedition/mods/14910). However, **the standing stone you choose in the Realm of Lorkhan is final**.
+2. Standing stones are changed in accordance with [Andromeda](https://www.nexusmods.com/skyrimspecialedition/mods/14910). However, **the standing stone you choose in the Realm of Lorkhan is final**. That is, you will not be able to change it without first returning to the Realm of Lorkhan.
+3. Be particular with the items, spells, and powers you bring back from the Realm of Lorkhan. Much moreso than in vanilla Skyrim, having additional weapons, armors, spell tomes, gold, or even food items can start you out with a significant advantage. If you do not want this advantage, do not take anything with you.
+
+#### Configure the MCM
+Once you have created your character, open up the in-game settings and navigate to the _Mod Configuration Menu_ (MCM). You will need to make several changes here to adhere to the suggested Librum setup:
+1. 
 
