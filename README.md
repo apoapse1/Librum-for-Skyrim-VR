@@ -205,3 +205,10 @@ Further, there are a few settings to change using mod configuration spells:
 Congratulations! You've completed the Librum setup, and you are ready to play. The next several sections will explain what Librum is and does, as well as provide support.
 
 %% Updating
+If Librum receives an update, please check the Changelog before doing anything. Always back up your saves or start a new game after updating.
+
+**Wabbajack will delete all files that are not part of the updated modlist when updating!**
+
+This means that any additional mods you have installed on top of Librum will be deleted. However, your downloads folder will not be touched!
+
+Updating is like installing. You only have to make sure that you select the same path and tick the _Overwrite existing modlist_ button.
