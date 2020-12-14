@@ -15,7 +15,7 @@ Wabbajack modlist installer for Librum
       - [Preparations](#preparations)
       - [Downloading and Installing](#downloading-and-installing)
         - [Problems with Wabbajack](#problems-with-wabbajack)
-    - [Post-Installation](#post-installation)
+    - [Post-Installation](#pnost-installation)
       - [Copy "Game Folder Files"](#copy-game-folder-files)
       - [Starting Librum and Choosing Optional Plugins](#starting-librum-and-choosing-optional-plugins)
       - [Start Skyrim... again](#start-up-skyrim-again)
@@ -156,7 +156,7 @@ Start a new game once you get to the main menu. The "yes/no" dialogue in the _Ne
 3. Be particular with the items, spells, and powers you bring back from the Realm of Lorkhan. Much moreso than in vanilla Skyrim, having additional weapons, armors, spell tomes, gold, or even food items can start you out with a significant advantage. If you do not want this advantage, do not take anything with you.
 
 #### Configure the MCM
-Once you have created your character, open up the in-game settings and navigate to the _Mod Configuration Menu_ (MCM). You will need to make several changes here to adhere to the suggested Librum setup. Keep in mind that you will need to do this each time you create a new character.
+Once you have created your character, open up the in-game settings and navigate to the _Mod Configuration Menu_ (MCM). You will need to make several changes here to adhere to the suggested Librum setup. Unfortunately, very few of the mods used in Librum support FISS, so you will need to do this each time you create a new character.
 
 The suggested MCM options are as follows:
 1. **Bounty Gold.** In the left column, set "Bandits" to 300, "Forsworn" to 350, "Giants" to 400, and "Dragons" to 500. These match the default values of The Notice Board.
@@ -167,8 +167,8 @@ The suggested MCM options are as follows:
   - _Alchemy_ tab: change all potion/poison durations to 10s. 
   - _Harvest_ tab: change _Food containers_ frequency to "scarce", and quantity to "reduced".
 6. **Dynamic Things.** Apply the following changes:
-  -_Containers/Activators_ tab: deactvivate "Dynamic Safe Containers".
-  -_Advanced Options_ tab: activate "Containers are destructible", "Realistic amount of wood per tree", and "Realistic chopping time".
+  - _Containers/Activators_ tab: deactvivate "Dynamic Safe Containers".
+  - _Advanced Options_ tab: activate "Containers are destructible", "Realistic amount of wood per tree", "Realistic chopping time", and "No food containers".
 7. **End Times.** Adjust to taste -- I leave this at 365 days.
 8. **Frostfall**. Apply the following changes:
   - _Overview_ tab: Activate the mod. 
@@ -176,7 +176,7 @@ The suggested MCM options are as follows:
   - _Meters_ tab: "Layout preset" -> "bottom left" recommended.
 9. **Hunterborn**. Start the mod, and then under the _Enable_ tab, disable the Hunterborn config power.
 10. **iNeed.** Apply the following settings:
-  - _Basics_ tab: Automate eating and drinking.
+  - _Basics_ tab: Automate eating and drinking, and set the timescale to 8.
   - _Difficulty_ tab: "Food spoilage" -> "numbers".
   - _Notifications_ tab: "Widget style" -> "disabled".
 11. **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Realistic".
@@ -185,9 +185,9 @@ The suggested MCM options are as follows:
   - _Special_ tab: Enable minotaurs and spiders.
 13. **OBIS - Patrols.** Enable under _Settings_.
 14. **SkyUI.** Under _General_, disable the Active Effects HUD.
-15. **SkyVoice.** VRemove the Skyvoice Options Spell.
+15. **SkyVoice.** Remove the Skyvoice Options Spell.
 16. **Sleep to Level Up.** Disable "Require Sleep to spend Perk Points".
-17. **Smart Training.** Disable "Training Perk Points".
+17. **Smart Training.** Disable "Training Perk Points" and activate the mod.
 18. **Sneak Tools.** Under the _Patch_ tab, disable Horstar's extra dialogue. It is not voiced, unfortunately.
 19. **Sounds of Skyrim.** Adjust to taste, but I don't disable anything.
 20. **Sands of Time Sleeping Encounters.** In the left column, disable home invasions, set "Jorrvaskr Hall HQ" and "College Ambush Odds" to 0, set "Dungeon Ambush Odds" and "Draugr Keep Ambush Odds" to 50, and set "All Other Places" to 25.
@@ -195,7 +195,7 @@ The suggested MCM options are as follows:
 22. **Spell Research.** Import all spells.
 23. **Tentapalooza.** The tents _should_ provide Frostfall support without changing these settings, but let me know if this fails.
 24. **Trade & Barter.** Under _Barter Rates_, enable "Modify Barter Settings" and set "Barter Presets" -> "Hardcore".
-25. **WeaponThrowVR.** Under _Presets_, enable "Cangar's Selection".
+25. **WeaponThrowVR.** Under _Presets_, enable either "Cangar's Selection" or "Classic Medium", depending on whether you think the awesome auto-return animation is worth a slight lack of realism.
 26. **Wildcat Combat.** Enable "Allow Wildcat to manage difficulty".
 
 Further, there are a few settings to change using mod configuration spells:
