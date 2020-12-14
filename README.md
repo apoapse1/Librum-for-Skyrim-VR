@@ -15,11 +15,11 @@ Wabbajack modlist installer for Librum
       - [Preparations](#preparations)
       - [Downloading and Installing](#downloading-and-installing)
         - [Problems with Wabbajack](#problems-with-wabbajack)
-  - [Post-Installation](#post-installation)
-    - [Copy "Game Folder Files"](#copy-game-folder-files)
-    - [Starting Librum and Choosing Optional Plugins](#starting-librum-and-choosing-optional-plugins)
-    - [Start Skyrim... again](#start-up-skyrim-again)
-    - [MCM Settings](#configure-the-mcm)
+    - [Post-Installation](#post-installation)
+      - [Copy "Game Folder Files"](#copy-game-folder-files)
+      - [Starting Librum and Choosing Optional Plugins](#starting-librum-and-choosing-optional-plugins)
+      - [Start Skyrim... again](#start-up-skyrim-again)
+      - [MCM Settings](#configure-the-mcm)
   - [Updating](#updating)
   - [Features of Librum](#features)
     - [Leveling and Experience](#leveling-and-experience)
@@ -160,67 +160,48 @@ Once you have created your character, open up the in-game settings and navigate 
 
 The suggested MCM options are as follows:
 1. **Bounty Gold.** In the left column, set "Bandits" to 300, "Forsworn" to 350, "Giants" to 400, and "Dragons" to 500. These match the default values of The Notice Board.
-2. **Campfire.** Under the _Advanced_ tab, disable "Advanced Object Placement". It conflicts with b.
-3. **Caranthir Tower.** Leave default.
-4. **Clockwork.** Turn off "Recall Spell Fast-travel Check". This makes the Clockwork Recall spell a very good reward, which fits new difficulty of surviving during Clockwork's questline.
-5. **Clothing Fixes.** Leave default.
-6. **Cobb Encumbrance.** In the _Presets_ tab, apply the preset "Classic (SEM)".
-7. **Complete Alchemy and Crafting Overhaul.** Apply the following changes:
+2. **Campfire.** Under the _Advanced_ tab, disable "Advanced Object Placement". It conflicts with VR.
+3. **Clockwork.** Turn off "Recall Spell Fast-travel Check". This makes the Clockwork Recall spell a very good reward, which fits new difficulty of surviving during Clockwork's questline.
+4. **Cobb Encumbrance.** In the _Presets_ tab, apply the preset "Classic (SEM)".
+5. **Complete Alchemy and Crafting Overhaul.** Apply the following changes:
   - _Alchemy_ tab: change all potion/poison durations to 10s. 
   - _Harvest_ tab: change _Food containers_ frequency to "scarce", and quantity to "reduced".
-8. **Diverse Dragons Collection 3.** Leave default -- we do not want to delevel dragons, as they are critical to progressing the character.
-9. **Dynamic Things.** Apply the following changes:
+6. **Dynamic Things.** Apply the following changes:
   -_Containers/Activators_ tab: deactvivate "Dynamic Safe Containers".
   -_Advanced Options_ tab: activate "Containers are destructible", "Realistic amount of wood per tree", and "Realistic chopping time".
-10. **DynDOLOD.** Leave default.
-11. **EGO - CWO.** Leave default.
-12. **End Times.** Adjust to taste -- I leave this at 365 days.
-13. **Enhanced Blood.** Leave default.
-14. **FEC**. Leave default.
-15. **Forgotten Magic Redone.** Leave default.
-16. **Frostfall**. Apply the following changes:
+7. **End Times.** Adjust to taste -- I leave this at 365 days.
+8. **Frostfall**. Apply the following changes:
   - _Overview_ tab: Activate the mod. 
   - _Gameplay_ tab: "At max exposure" -> "death", and disable fast travel and waiting while outdoors.
   - _Meters_ tab: "Layout preset" -> "bottom left" recommended.
-17. **Growl Werebeasts.** Leave default.
-18. **Hunterborn**. Start the mod, and then under the _Enable_ tab, disable the Hunterborn config power.
-19. **I.C.O.W.** Leave default.
-20. **Immersive Fort Dawnguard.** Leave default.
-21. **iNeed.** Apply the following settings:
+9. **Hunterborn**. Start the mod, and then under the _Enable_ tab, disable the Hunterborn config power.
+10. **iNeed.** Apply the following settings:
   - _Basics_ tab: Automate eating and drinking.
   - _Difficulty_ tab: "Food spoilage" -> "numbers".
   - _Notifications_ tab: "Widget style" -> "disabled".
-22. **LoTD.** Leave default.
-23. **Lucien.** Leave default.
-24. **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Realistic".
-25. **OBIS - Bandits.** Apply the following settings:
+11. **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Realistic".
+12. **OBIS - Bandits.** Apply the following settings:
   - _Settings_ tab: Enable extra spawns.
   - _Special_ tab: Enable minotaurs and spiders.
-26. **OBIS - Patrols.** Enable under _Settings_.
-27. **Realistic Water Two.** Leave default.
-28. **Sacrosanct Vampires.** Leave default.
-29. **Shadow Spell Package.** Leave default.
-30. **SkyUI.** Under _General_, disable the Active Effects HUD.
-31. **SkyVoice.** VRemove the Skyvoice Options Spell.
-32. **Sleep to Level Up.** Disable "Require Sleep to spend Perk Points".
-33. **Smart Training.** Disable "Training Perk Points".
-34. **Sneak Tools.** Under the _Patch_ tab, disable Horstar's extra dialogue. It is not voiced, unfortunately.
-35. **Sounds of Skyrim.** Adjust to taste, but I don't disable anything.
-36. **Sands of Time Sleeping Encounters.** In the left column, disable home invasions, set "Jorrvaskr Hall HQ" and "College Ambush Odds" to 0, set "Dungeon Ambush Odds" and "Draugr Keep Ambush Odds" to 50, and set "All Other Places" to 25.
-37. **Souls Do Things 2.** Under _Settings_, enable "Conversion Spell Learned" if and only if you disabled perk points on level-up earlier.
-38. **Spell Research.** Import all spells.
-39. **Summermyst Enchantments.** Leave default.
-40. **Survival Control Panel.** Leave default.
-41. **Tentapalooza.** The tents _should_ provide Frostfall support without changing these settings, but let me know if this fails.
-42. **The Notice Board.** Leave default.
-43. **The Tools of Kagrenac.** Leave default,
-44. **Trade & Barter.** Under _Barter Rates_, enable "Modify Barter Settings" and set "Barter Presets" -> "Hardcore".
-45. **Vigilant.** Leave default.
-46. **WeaponThrowVR.** Under _Presets_, enable "Cangar's Selection".
-47. **Wet and Cold.** Leave default.
-48. **Wildcat Combat.** Enable "Allow Wildcat to manage difficulty".
-49. **Wintersun Faiths.** Leave default.
+13. **OBIS - Patrols.** Enable under _Settings_.
+14. **SkyUI.** Under _General_, disable the Active Effects HUD.
+15. **SkyVoice.** VRemove the Skyvoice Options Spell.
+16. **Sleep to Level Up.** Disable "Require Sleep to spend Perk Points".
+17. **Smart Training.** Disable "Training Perk Points".
+18. **Sneak Tools.** Under the _Patch_ tab, disable Horstar's extra dialogue. It is not voiced, unfortunately.
+19. **Sounds of Skyrim.** Adjust to taste, but I don't disable anything.
+20. **Sands of Time Sleeping Encounters.** In the left column, disable home invasions, set "Jorrvaskr Hall HQ" and "College Ambush Odds" to 0, set "Dungeon Ambush Odds" and "Draugr Keep Ambush Odds" to 50, and set "All Other Places" to 25.
+21. **Souls Do Things 2.** Under _Settings_, enable "Conversion Spell Learned" if and only if you disabled perk points on level-up earlier.
+22. **Spell Research.** Import all spells.
+23. **Tentapalooza.** The tents _should_ provide Frostfall support without changing these settings, but let me know if this fails.
+24. **Trade & Barter.** Under _Barter Rates_, enable "Modify Barter Settings" and set "Barter Presets" -> "Hardcore".
+25. **WeaponThrowVR.** Under _Presets_, enable "Cangar's Selection".
+26. **Wildcat Combat.** Enable "Allow Wildcat to manage difficulty".
 
 Further, there are a few settings to change using mod configuration spells:
 1. **Destructible Skyrim.** Simply click "remove spell".
 2. **Obsidian Weathers.** Enable seasonal effects, and choose the "Bleak" preset.
+
+Congratulations! You've completed the Librum setup, and you are ready to play. The next several sections will explain what Librum is and does, as well as provide support.
+
+%% Updating
