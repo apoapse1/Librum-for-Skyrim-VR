@@ -109,27 +109,19 @@ The download and installation process can take a very long time, depending on yo
 
 There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off, so you lose no progress.
 
-***Could not download x***:
+***Could not download X.*** If a mod updated and the old files got deleted, it is impossible to download them. In this case, just wait until I update Librum.
 
-If a mod updated and the old files got deleted, it is impossible to download them. In this case, just wait until I update Librum.
+***X is not a whitelisted download.*** This can happen when I update the modlist. Check if a new update is available and wait if there is none.
 
-***x is not a whitelisted download***:
+***Wabbajack could not find my game folder.*** Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
 
-This can happen when I update the modlist. Check if a new update is available and wait if there is none.
-
-***Wabbajack could not find my game folder***:
-
-Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
-
-***Windows is reporting that a virus has been detected***:
-
-Windows 10 has started to auto-quarantine the usvfs_proxy_x86.exe file from the latest version of Mod Organizer 2, saying a threat has been detected. This is a known false postive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. Example for Windows Defender can be found [here](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
+***Windows is reporting that a virus has been detected.*** Windows 10 has started to auto-quarantine the usvfs_proxy_x86.exe file from the latest version of Mod Organizer 2, saying a threat has been detected. This is a known false postive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. Example for Windows Defender can be found [here](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
 ### Post-Installation
 Now that Librum is installed, it is time to start the game up for real and create your character. The character creation process has changed with Librum, so we will give details below. Moreover, it is highly recommended that you **configure the MCM after race selection** as described below.
 
 #### Copy "Game Folder Files"
-Navigate to the installed Librum folder, where you will find a folder titled `Game Folder Files`. Copy the contents of this folder to the Skyrim VR root folder.
+Navigate to the installed Librum folder, where you will find a folder titled `Game Folder Files`. Copy the contents of this folder to the Skyrimv root folder.
 
 #### Starting Librum and Choosing Optional Plugins
 Navigate back to the installed Librum folder, and launch the program `ModOrganizer2.exe`. Before launching the game itself, take a look at the _Optional_ category at the bottom of the Mod Organizer 2 mod list. I will go over each below.
@@ -146,7 +138,7 @@ If you do not want this plugin, disable it in MO2.
 
 If you do not want this plugin, disable it in MO2.
 
-***High Fidelity ENB - LCD vs OLED*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/27308)]. Librum makes use of the excellent _High Fidelity ENB_, which fixes Skyrim's lighting while retaining the high framerates necessary for a good VR experience. If you have an LCD-based headset (Valve Index, Rift S), enable only the LCD version. If you have an OLED-based headset (Vive, Rift CV1), enable only the OLED version.
+***High Fidelity ENB - LCD vs OLED*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/27308)]. Librum makes use of the excellent _High Fidelity ENB_, which fixes Skyrim's lighting while retaining the high framerates necessary for a good experience. If you have an LCD-based headset (Valve Index, Rift S), enable only the LCD version. If you have an OLED-based headset (Vive, Rift CV1), enable only the OLED version.
 
 Choose the appropriate plugin.
 
@@ -164,6 +156,25 @@ Start a new game once you get to the main menu. The "yes/no" dialogue in the _Ne
 3. Be particular with the items, spells, and powers you bring back from the Realm of Lorkhan. Much moreso than in vanilla Skyrim, having additional weapons, armors, spell tomes, gold, or even food items can start you out with a significant advantage. If you do not want this advantage, do not take anything with you.
 
 #### Configure the MCM
-Once you have created your character, open up the in-game settings and navigate to the _Mod Configuration Menu_ (MCM). You will need to make several changes here to adhere to the suggested Librum setup:
-1. 
+Once you have created your character, open up the in-game settings and navigate to the _Mod Configuration Menu_ (MCM). You will need to make several changes here to adhere to the suggested Librum setup. Keep in mind that you will need to do this each time you create a new character.
+
+The suggested MCM options are as follows:
+1. **Bounty Gold.** Ignore the right-hand column, and change the left as follows:
+  - Bandits -> 200 gold
+  - Giants -> 400 gold
+  - Forsworn -> 200 gold
+  - Dragons -> 750 gold
+2. **Campfire.** Under the _Advanced_ tab, disable "Advanced Object Placement". It conflicts with b.
+3. **Caranthir Tower.** Leave default.
+4. **Clockwork.** Turn off "Recall Spell Fast-travel Check". This makes the Clockwork Recall spell a very good reward, which fits new difficulty of surviving during Clockwork's questline.
+5. **Clothing Fixes.** Leave default.
+6. **Cobb Encumbrance.** In the _Presets_ tab, apply the preset "Classic (SEM)".
+7. **Complete Alchemy and Crafting Overhaul.** Apply the following changes:
+  - _Alchemy_ tab: change all potion/poison durations to 10s. 
+  - _Harvest_ tab: change _Food containers_ frequency to "scarce", and quantity to "reduced".
+8. **Diverse Dragons Collection 3.** Leave default -- we do not want to delevel dragons, as they are critical to progressing the character.
+9. **Dynamic Things.** Apply the following changes:
+  -_Containers/Activators_ tab: deactivate "Dynamic Safe Containers".
+  -_Advanced Options_ tab: activate "Containers are destructible", "Realistic amount of wood per tree", and "Realistic chopping time".
+10. vvvvv
 
