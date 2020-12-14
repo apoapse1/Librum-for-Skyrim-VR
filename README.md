@@ -22,8 +22,10 @@ Wabbajack modlist installer for Librum
       - [MCM Settings](#configure-the-mcm)
   - [Updating](#updating)
   - [Features of Librum](#features-of-librum)
-    - [Leveling and Experience](#leveling-and-experience)
+    - [General Philosophy](#general-philosophy)
+    - [Leveling and Skills](#leveling-and-skills)
     - [Survival and Realism](#survival-and-realism)
+    - [Dynamic World](#dynamic-world)
     - [Combat, Loot, and Challenge](#combat-loot-and-challenge)
     - [Magic](#magic)
     - [Quests and Adventures](#quests-and-adventures)
@@ -213,12 +215,12 @@ This means that any additional mods you have installed on top of Librum will be 
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _Overwrite existing modlist_ button.
 
-%% Features of Librum
+## Features of Librum
 Librum significantly affects nearly every aspect of gameplay; in this section, I explain all of the significant changes that have been made, and how they change the Skyrim experience. I will separate it here into various "modules" for ease of explanation -- however, this does not reflect any clean-cut separations of Librum mechanics. Changes from the various modules overlap, affect one another, and work together to create a consistent Librum experience. For instance, _Spell Research_ forces mages to interact with the survival elements of Librum, and these survival elements turn a quest like _Clockwork_ into a precarious and time-sensitive escape mission.
 
 With this in mind, here is a rough breakdown of what Librum accomplishes.
 
-%%% General Philosophy
+### General Philosophy
 With every change, Librum attempts to adhere to the points of its _core philosophy_:
 
 1. Librum is a game about _being Dragonborn_. Your dragon soul is a fundamental part of your character's development, and there is no way to indefinitely avoid this destiny.
@@ -227,12 +229,19 @@ With every change, Librum attempts to adhere to the points of its _core philosop
 
 We will reference these points by number in the sections that follow. 
 
-%%% Leveling and Skills
-Librum makes several major changes to the skill system, described by the following comparison table:
+### Leveling and Skills
+Librum makes several major changes to character progression, described by the following comparison table:
 
- Vanilla Skyrim | Librum
- -------------- | ------
- Sucks ass	| Is good
+ | Vanilla Skyrim | Librum
+ | -------------- | ------
+ | Character progression happens primarily as you level, and primarily through the allocation of perk points.	  | Character progression occurs through three unrelated aspects of your character: spell/equipment progression, character level, and collected dragon souls.
+ | Available equipment and enemies depend exclusively on your level.	| Librum's loot distribution is based on [Morrowloot Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/3058), and equipment and enemies (with the exception of dragons -- see below) are entirely unleveled. 
+ | Available spell tomes depend exclusively on your skill level, but are readily available at spell merchants.	| Spell tomes do not exist, by and large, with the exception of select hand-placed tomes. Rather, all spell progression is done through [Spell Research](https://www.nexusmods.com/skyrimspecialedition/mods/20983).
+ | Perk points are gained when you level up.	| You do not gain perk points through leveling. Using [Souls Do Things 2](https://www.nexusmods.com/skyrimspecialedition/mods/33518), you will have a power to convert one dragon soul to one perk point. Leveling will continue to grant you 10 Health, Magicka, or Stamina.
+ | Dragon souls are exclusively used to unlock dragon shouts.	| Dragon souls have three purposes. They can be used to unlock shouts, they can be used to unlock perk points (as mentioned above), and finally, you will have powerful passive buffs applied depending on the number of unspent souls in your collection.
+ | You can level up at any time by opening the Skills menu.	| You must sleep for 8 hours in order to level up, in order to prevent level-ups in dangerous locations.
+ | Perks are typically straight buffs to your existing skills, and form the core part of your character's identity.	| Librum makes use of EnaiSiaion's excellent [Vokrii](https://www.nexusmods.com/skyrimspecialedition/mods/26176), with changes to account for other mods in Librum, to mix up perk benefits. Furthermore, a single perk investment in any tree replaces vanilla's "20/40/60/80/100%" improvement perks or "Novice/Apprentice/Adept/Expert/Master" perks. Finally, Librum is balanced around having only a small handful of perks for most of the game, leaving your equipment and spells to make up your character's identity.
+ | Standing Stones provide moderate benefits to an existing character build, and can be changed at any time.	| Standing Stones entirely change your character's make-up, thanks to [Andromeda](https://www.nexusmods.com/skyrimspecialedition/mods/14910), but they can only be chosen during character creation.
 
 
 
