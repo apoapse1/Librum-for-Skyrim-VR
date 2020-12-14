@@ -21,7 +21,7 @@ Wabbajack modlist installer for Librum
       - [Start Skyrim... again](#start-up-skyrim-again)
       - [MCM Settings](#configure-the-mcm)
   - [Updating](#updating)
-  - [Features of Librum](#features)
+  - [Features of Librum](#features-of-librum)
     - [Leveling and Experience](#leveling-and-experience)
     - [Survival and Realism](#survival-and-realism)
     - [Combat, Loot, and Challenge](#combat-loot-and-challenge)
@@ -212,3 +212,27 @@ If Librum receives an update, please check the Changelog before doing anything. 
 This means that any additional mods you have installed on top of Librum will be deleted. However, your downloads folder will not be touched!
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _Overwrite existing modlist_ button.
+
+%% Features of Librum
+Librum significantly affects nearly every aspect of gameplay; in this section, I explain all of the significant changes that have been made, and how they change the Skyrim experience. I will separate it here into various "modules" for ease of explanation -- however, this does not reflect any clean-cut separations of Librum mechanics. Changes from the various modules overlap, affect one another, and work together to create a consistent Librum experience. For instance, _Spell Research_ forces mages to interact with the survival elements of Librum, and these survival elements turn a quest like _Clockwork_ into a precarious and time-sensitive escape mission.
+
+With this in mind, here is a rough breakdown of what Librum accomplishes.
+
+%%% General Philosophy
+With every change, Librum attempts to adhere to the points of its _core philosophy_:
+
+1. Librum is a game about _being Dragonborn_. Your dragon soul is a fundamental part of your character's development, and there is no way to indefinitely avoid this destiny.
+2. The world is static in ways that make sense, but dynamic in all others. The world is not centered around you, but it reacts realistically to the actions you take and the choices you make. In particular, the ways in which you interact with the world change as you become more powerful.
+3. Magic in all forms is a dangerous, arcane, and powerful force. Magic can solve most any problem you have, but -- as an example -- acquiring a single Master-level spell might take a whole playthrough.
+
+We will reference these points by number in the sections that follow. 
+
+%%% Leveling and Skills
+Librum makes several major changes to the skill system, described by the following comparison table:
+
+ Vanilla Skyrim | Librum
+ -------------- | ------
+ Sucks ass	| Is good
+
+
+
