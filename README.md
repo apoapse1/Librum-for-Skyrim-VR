@@ -211,7 +211,7 @@ The suggested MCM options are as follows:
 38. **Spell Research.** Import all spells.
 39. **Summermyst Enchantments.** Leave default.
 40. **Survival Control Panel.** Leave default.
-41. **Tentapalooza.**
+41. **Tentapalooza.** The tents _should_ provide Frostfall support without changing these settings, but let me know if this fails.
 42. **The Notice Board.** Leave default.
 43. **The Tools of Kagrenac.** Leave default,
 44. **Trade & Barter.** Under _Barter Rates_, enable "Modify Barter Settings" and set "Barter Presets" -> "Hardcore".
