@@ -244,4 +244,4 @@ Librum makes several major changes to character progression, described by the fo
 ### User Interface and Controls
 Librum makes a few changes to the default user interface, to (a) create a unique visual experience and (b) to improve the VR experience. For the first point, Librum uses the excellent [Adventurer Theme Mod](https://www.nexusmods.com/skyrimspecialedition/mods/35568) in order to blend a Skyrim-style modern UI with touches of a more Oblivion-style classic visual theme:
 
-![This is a rendering in Skyrim SE, of course.](Resources/UI.jpeg?raw=true "Adventurer Theme Mod)
+![This is a rendering in Skyrim SE, of course.](Resources/UI.jpeg?raw=true "Adventurer Theme Mod")
