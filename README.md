@@ -27,7 +27,7 @@ Wabbajack modlist installer for Librum
     - [User Interface and Controls](#user-interface-and-controls)
     - [Dynamic World](#dynamic-world)
     - [Survival and Realism](#survival-and-realism)
-    - [Combat, Loot, and Challenge](#combat-loot-and-challenge)
+    - [Combat and Enemies](#combat-loot-and-challenge)
     - [Magic](#magic)
     - [Quests and Adventures](#quests-and-adventures)
     - [Followers](#followers)
@@ -200,7 +200,7 @@ The suggested MCM options are as follows:
 23. **Tentapalooza.** The tents _should_ provide Frostfall support without changing these settings, but let me know if this fails.
 24. **Trade & Barter.** Under _Barter Rates_, enable "Modify Barter Settings" and set "Barter Presets" -> "Hardcore".
 25. **WeaponThrowVR.** Under _Presets_, enable either "Cangar's Selection" or "Classic Medium", depending on whether you think the awesome auto-return animation is worth a slight lack of realism.
-26. **Wildcat Combat.** Enable "Allow Wildcat to manage difficulty".
+26. **Wildcat Combat.** Enable "Allow Wildcat to manage difficulty" and "Burst injuries".
 
 Further, there are a few settings to change using mod configuration spells:
 1. **Destructible Skyrim.** Simply click "remove spell".
@@ -208,7 +208,7 @@ Further, there are a few settings to change using mod configuration spells:
 
 Congratulations! You've completed the Librum setup, and you are ready to play. The next several sections will explain what Librum is and does, as well as provide support.
 
-%% Updating
+## Updating
 If Librum receives an update, please check the Changelog before doing anything. Always back up your saves or start a new game after updating.
 
 **Wabbajack will delete all files that are not part of the updated modlist when updating!**
@@ -235,13 +235,15 @@ Librum makes several major changes to character progression, described by the fo
  | Vanilla Skyrim | Librum
  | -------------- | ------
  | Character progression happens primarily as you level, and primarily through the allocation of perk points.	  | Character progression occurs through three unrelated aspects of your character: spell/equipment progression, character level, and collected dragon souls.
- | Available equipment and enemies depend exclusively on your level.	| Librum's loot distribution is based on [Morrowloot Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/3058), and equipment and enemies (with the exception of dragons -- see below) are entirely unleveled. 
+ | Available equipment and enemies depend exclusively on your level.	| Librum's loot distribution is based on [Morrowloot Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/3058), so equipment and enemies (with the exception of dragons -- see below) are entirely unleveled.
+ | Higher level equipment can be made and improved at any time, mitigating any effect of leveled weapons and armor	| Smithing now requires more knowledge than just a perk point; for instance, you need to acquire the _[Ancient Knowledge](http://en.uesp.net/wiki/Skyrim:Powers#Ancient_Knowledge)_ effect to make any Dwarven equipment, and Daedric smithing requires uncovering the secret of its construction. Improving equipment is no longer as effective.
  | Available spell tomes depend exclusively on your skill level, but are readily available at spell merchants.	| Spell tomes do not exist, by and large, with the exception of select hand-placed tomes. Rather, all spell progression is done through [Spell Research](https://www.nexusmods.com/skyrimspecialedition/mods/20983).
  | Perk points are gained when you level up.	| You do not gain perk points through leveling. Using [Souls Do Things 2](https://www.nexusmods.com/skyrimspecialedition/mods/33518), you will have a power to convert one dragon soul to one perk point. Leveling will continue to grant you 10 Health, Magicka, or Stamina.
  | Dragon souls are exclusively used to unlock dragon shouts.	| Dragon souls have three purposes. They can be used to unlock shouts, they can be used to unlock perk points (as mentioned above), and finally, you will have passive buffs applied depending on the number of unspent souls in your collection.
  | You can level up at any time by opening the Skills menu.	| You must sleep for 8 hours in order to level up, in order to prevent level-ups in dangerous locations.
  | Perks are typically straight buffs to your existing skills, and form the core part of your character's identity.	| Librum uses [Vokrii](https://www.nexusmods.com/skyrimspecialedition/mods/26176) to mix up perk benefits and to help balance around having only a small handful of perks; a single perk investment in any tree replaces vanilla's "20/40/60/80/100%" improvement perks or "Novice/Apprentice/Adept/Expert/Master" perks.
  | Standing Stones provide moderate benefits to an existing character build, and can be changed at any time.	| Standing Stones entirely change your character's make-up, thanks to [Andromeda](https://www.nexusmods.com/skyrimspecialedition/mods/14910), but they can only be chosen during character creation.
+ | Your race typically gives you a once-a-day power, as well as some moderate resistances. Your gender has no effect.	| Through [Race Abilities Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/23223) and [Genders are Boringly Indistinct](https://www.nexusmods.com/skyrimspecialedition/mods/23145/), your race and gender confer significant passive strengths and weaknesses. In particular, certain skills will increase faster than others, and your racial bonuses will improve with your level.
 
 ### User Interface and Controls
 Librum makes a few changes to the default user interface, to (a) create a unique visual experience and (b) to improve the VR experience. For the first point, Librum uses [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604) along with the excellent [Adventurer Theme Mod](https://www.nexusmods.com/skyrimspecialedition/mods/35568) and [Natural Colored Map Markers](https://www.nexusmods.com/skyrimspecialedition/mods/27503) in order to blend a Skyrim-style modern UI with touches of a more Oblivion-style classic visual theme:
@@ -285,4 +287,27 @@ Getting food is a more involved process, thanks to [Hunterborn](https://www.nexu
 
 _Sleep_ is also more complicated than it may seem. Although it is necessary both for general survival and to [level up](https://www.nexusmods.com/skyrimspecialedition/mods/32357), it is fairly dangerous to fall asleep in Skyrim's wilderness or in its dungeons. Thanks to [Sands of Time Sleeping Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/8257), any time you fall asleep, you will have a location-dependent chance of being attacked during the night. This is particularly true in dungeons, making it imperative to either (a) quickly get to safety or (b) bring along a follower or lay traps.
 
-### Combat, Loot, and Challenge
+Finally, through the _Dangerous Diseases_ addon to iNeed, diseases have become much more dangerous. Instead of applying a minor debuff to your stats, each disease will now progress through various stages, with many becoming deadly if left untreated. To avoid this all-new danger, you will need to take care to apply _Resist Disease_ effects, properly prepare your foods and water, and try not to get bitten or scratched in fights with wild animals. If you _do_ contract a disease, and it doesn't go away on its own, you will have to rest up, find an alchemical cure (unique to each disease), or pay through the nose for a priest to dispel your illness.
+
+### Combat and Enemies
+Librum uses a slew of mods to improve the combat experience overall, with a strong focus on making each fight (within reason) a dangerous and harrowing experience.
+
+For general combat, Librum combines its many [new VR options](#user-interface-and-controls) with [Wildcat](https://www.nexusmods.com/skyrimspecialedition/mods/1368), [Mortal Enemies](#https://www.nexusmods.com/skyrimspecialedition/mods/4881), [Advanced Adversary Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/6843?tab=description), and [Morrowloot Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/3058). The former two mods add an element of dynamism to combat -- instead of standing and swinging your Touch controllers wildly, you will need to duck, weave, and carefully time both your attacks and your blocks. If you interrupt an opponent's power attack pullback or bow draw, or if you hit them from behind or while staggered, you will gain massive "attack of opportunity" damage bonuses. Similarly, if you properly time your block, you can negate most damage and stagger your opponent (thus allowing for an attack of opportunity). Of course, the same effects apply to your opponents, so you will need to keep your guard up as you fight.
+
+On the flip side, you (and your opponents) will have to be much more careful in order to avoid Wildcat's all-new injuries, which can quickly turn the tide of combat. Any time someone sustains a major attack (30% or more of their total health), they have a chance of injuring your head, chest, arms, legs, or back, and thus facing major body-part-specific penalties to their combat abilities.
+
+The latter two mods, AAE and MLU, step in before you've even started a fight. The latter delevels all enemies, so you'll have to make sure you're properly prepared to be wherever you're going. The former drastically changes enemies' resistances, weaknesses, and abilities, forcing you to plan in advance before a difficult fight. You will now _need_ to pack a silver, Daedric, or magical weapon in order to fight ghosts, for instance, and you'll need to clobber skeletons instead of shooting at them. Furthermore, opponents will use all of the tools at their disposal. From the mod page, "witches will now summon spriggans and use poison spells to their advantage, Thalmor will try to subdue their foes by way of paralysis, while vampires can use hand to hand combat, as well as summon gargoyles, and even morph into a swarm of bats while in combat". Combined with AI tweaks from Wildcat and more minor mods (like [Multiple Floors Sandboxing](https://www.nexusmods.com/skyrimspecialedition/mods/4524)), these improvements will make any fight a life-or-death experience.
+
+Special attention has been given to wild animals, combining [SkyTEST - Realistic Animals and Predators](https://www.nexusmods.com/skyrimspecialedition/mods/1104) with [Savage Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/37768). Animals will go about normal animal behaviors: hunting prey, running from predators or competing with other predators, raising cubs, and finding mates. Animals will search for food and water, bears will hibernate in the winter, and, importantly, not reporting your crimes. There will also be significantly more variety in different animals, with many animals now sporting different colorations:
+
+![Alt Text](Resources/Wolves.jpeg?raw=true "New wolf colorations from Savage Skyrim")
+
+Savage Skyrim goes one step further, however, combining the several graphical mods from Rougeshot over the years. Many enemies now have more unique, more characteristic, and (often) more terrifying body structures. Dragons and vampire lords have gotten larger wings; Dwemer constructs, spriggans, and spiders have become more imposing; and _many_ other animals and creatures have undergone similar changes.
+
+Of course, dragon combat still forms the foundation of Librum, and dragons are not excluded from our tweaks here. Firstly, there is now a _much_ wider variety of dragon types available, thanks to [Splendor](https://www.nexusmods.com/skyrimspecialedition/mods/9670) and [Diverse Dragons Collection](https://www.nexusmods.com/skyrimspecialedition/mods/695). They have all each been given unique names through [Zim's Dragon Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/38693), and they all [talk to you](https://www.nexusmods.com/skyrimspecialedition/mods/26955) during your fights. Along with changes to make dragon combat more difficult and dynamic, this combination turns each dragon fight into a unique boss fight, rather than another generic Skyrim opponent.
+
+![Alt Text](Resources/Dragon.jpeg?raw=true "Named dragon from Zim's Dragon Improvements")
+
+Finally, Librum turns Skyrim's half-baked sneaking mechanic into a stealth experience worthy of the _Thief_ franchise. With the many thoroughly researched changes from [Realistic AI Detection](https://www.nexusmods.com/skyrimspecialedition/mods/2345), you will now need to use darkness and silence to your advantage. Many dungeons have undergone [significant lighting improvements](https://www.nexusmods.com/skyrimspecialedition/mods/8586), which you need to make use of as you sneak around enemies' now-more-realistic detection skills. Speaking of the _Thief_ franchise, Librum adds many new tools of the trade to aspiring rogues, courtesy of [Sneak Tools](https://www.nexusmods.com/skyrimspecialedition/mods/1863). You can now knock unsuspecting opponents out with your bare hands or a blackjack, ignite and extinguish light sources with fire/frost magic or fire/water arrows, and better navigate your environment with rope arrows. You can also set things ablaze after hitting them with oil arrows, fool opponents with noisemaker arrows, and conceal your identity with various masks and hoods (a la Grey Cowl of Nocturnal). 
+
+
