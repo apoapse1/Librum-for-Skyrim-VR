@@ -27,12 +27,11 @@ Wabbajack modlist installer for Librum
     - [User Interface and Controls](#user-interface-and-controls)
     - [Dynamic World](#dynamic-world)
     - [Survival and Realism](#survival-and-realism)
-    - [Combat and Enemies](#combat-loot-and-challenge)
+    - [Combat and Enemies](#combat-and-enemies)
     - [Magic](#magic)
     - [Quests and Adventures](#quests-and-adventures)
     - [Followers](#followers)
     - [Graphics and Ambience](#graphics-and-ambience)
-  - [Getting Started in Librum](#getting-started-in-librum)
   - [Frequently Asked Questions](#frequently-asked-questions)
   - [Credits and Thanks](#credits-and-thanks)
   - [Contact](#contact)
@@ -41,7 +40,7 @@ Wabbajack modlist installer for Librum
   - [Discussions](#discussions)
  
 ## Preamble
-![Alt text](Resources/Banner3.png?raw=true)
+![Alt text](Resources/Banner3.png?raw=true "I made this image myself, and I am proud of it.")
 
 _You're lost in the woods, having narrowly escaped after scaring off a pack of wolves with a summoned flame atronach. Your torch finally fades out, and it's getting cold. You can conjure basic foods, and your summoned atronach provides enough heat for the time being, but you'll need to gather wood in order to sustain a fire and survive the night. With little time to spare, you can't search far for materials -- luckily, you've fashioned a basic hatchet the night before, and you can chop down a nearby tree for lumber. You fall asleep next to your fire, having placed several runes nearby to dispatch would-be predators. Despite a few interruptions in the night, the morning comes at last, and the sun finally breaks over the horizon._
 
@@ -279,7 +278,7 @@ The combined effects of these mods are as follows:
 ### Survival and Realism
 On the flip side, _you_ have to appropriately react to Skyrim's environment. The core of this, of course, is [Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/667) and [Frostfall](https://www.nexusmods.com/skyrimspecialedition/mods/671). Along with some more resource-adding mods (notably, [Tentapalooza](https://www.nexusmods.com/skyrimspecialedition/mods/652)), these mods add a complete cold-weather survival system to Skyrim. Your character will be subject to Skyrim's harsh climate, and you will need to bundle up, set up camp frequently, and avoid frigid water and inclement weather in order to survive. Mages will have various options to escape the cold (all compatible with Librum's [Spell Research](https://www.nexusmods.com/skyrimspecialedition/mods/20983) mechanics!): summoning cloaks or various tents and shelters, transmuting or summoning materials, summoning a Fire Atronach for heat, or teleporting to safety, among others. Finally, your character's survival skills will improve over time, unlocking various survival-themed perks available at a campfire.
 
-![Alt text](Resources/Campfire.jpg?raw=true)
+![Alt text](Resources/Campfire.jpg?raw=true "This is a generic picture of a dude at a campfire.")
 
 You will also need to keep track of your hunger, thirst, and fatigue, thanks to [iNeed (Continued)](https://www.nexusmods.com/skyrimspecialedition/mods/19390). Although you will eat and drink automatically (to avoid more menu-searching than is necessary), you will need to maintain a supply of water (or alcohol!) and fresh or salted food in order to survive. Thankfully, these resources can be obtained from many sources. You can get water from snowbanks, wells, rivers, or the ocean -- although it may have to be boiled for hygiene's sake -- and many NPCs are happy to share or sell water, if you ask nicely. 
 
@@ -310,4 +309,49 @@ Of course, dragon combat still forms the foundation of Librum, and dragons are n
 
 Finally, Librum turns Skyrim's half-baked sneaking mechanic into a stealth experience worthy of the _Thief_ franchise. With the many thoroughly researched changes from [Realistic AI Detection](https://www.nexusmods.com/skyrimspecialedition/mods/2345), you will now need to use darkness and silence to your advantage. Many dungeons have undergone [significant lighting improvements](https://www.nexusmods.com/skyrimspecialedition/mods/8586), which you need to make use of as you sneak around enemies' now-more-realistic detection skills. Speaking of the _Thief_ franchise, Librum adds many new tools of the trade to aspiring rogues, courtesy of [Sneak Tools](https://www.nexusmods.com/skyrimspecialedition/mods/1863). You can now knock unsuspecting opponents out with your bare hands or a blackjack, ignite and extinguish light sources with fire/frost magic or fire/water arrows, and better navigate your environment with rope arrows. You can also set things ablaze after hitting them with oil arrows, fool opponents with noisemaker arrows, and conceal your identity with various masks and hoods (a la Grey Cowl of Nocturnal). 
 
+### Magic
+If anything, Librum makes _more_ significant changes to the mage experience than the warrior or thief experiences mentioned in the last section. First and foremost, the process for obtaining new spells adheres to the [Spell Research](https://www.nexusmods.com/skyrimspecialedition/mods/20983) format. In short, ***spell tomes no longer exist***, by and large, with the exception of certain hand-placed tomes. This means that you will need to _research_ to discover each new spell, in one of three general fashions:
+1. _Researching existing spells_. Using your research journal, you can spend time studying any spell already in your possession, in order to increase your knowledge of the spell's various archetypes. For instance, studying _Lesser Ward_ would improve your knowledge of Restoration magic, of shielding spells, of "magical force" inducing spells, of self-targeting spells, and of concentration spells. This is slow, but a very straightforward method of progression for existing mages.
+2. _Distilling and studying alchemical ingredients_. Using an alembic or a cauldron, you can distill alchemy ingredients into concentrated serums, which you can then (a) use for interesting crafting recipes or (b) study to improve your knowledge of their effects. This is relatively fast, but expensive and terribly confusing.
+3. _Beating the shit out of valuable artifacts_. Along your adventures, you will come across all manner of new magical artifacts, ranging from the relatively commonplace enchanted weapon fragments to the dangerous and rare _Grimoires_. By studying magical items, translating old tomes, or destroying all of these artifacts, you can learn a huge amount about various spell archetypes, or even gain new spells automatically. However, these methods can be finnicky and dangerous, and they may harm you more than they help.
 
+Once you've learned enough about the spell archetypes you're interested in, you can attempt to write "magical theses" and apply them towards gaining a new spell. If you are skillful, lucky, and not mentally drained, you may discover a new spell that fits the archetypes of the theses you wrote.
+
+Now, there are several important gameplay consequences of this system. Existing mages will have an easier time learning new spells than new apprentices -- if you don't have any spells to start with (which may well be the case, thanks to [RAE](https://www.nexusmods.com/skyrimspecialedition/mods/23223)), you must study alchemical ingredients or artifacts in order to improve. Furthermore, as spell tomes are largely unavailable, you will have to make do with lower level magic than is otherwise the case; learning your first _Adept_ or _Expert_ spell, for instance, is a very difficult process.
+
+On the other hand, Librum adds many new spells and classes of magic, organized loosely around the [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) framework. Mysticism itself rebalances all of the vanilla spells, and it adds a wide swath of new spells corresponding to those of "legacy" Elder Scrolls games. The list below gives some examples, but is _noncomprehensive_:
+
+ - ***Open X Lock.*** Instantly open any lock of the corresponding level.
+ - ***Mark and Recall.*** Set a location with _Mark_, and instantly teleport there with _Recall_.
+ - ***Absorb Health.*** Drain a target's health pool, and restore your own the same amount.
+ - ***Weakness to X.*** Inflict a target with weakness to a given spell type.
+ - ***Reflect Damage.*** For X seconds, a percentage of received melee damage is reflected back at your attacker.
+ - ***Command.*** For X seconds, targets up to a given level are placed under your control.
+ - ***Slow Time.*** For X seconds, the caster's perception of time is slowed by a given percentage.
+
+Mysticism makes these effects -- and many more -- available in a number of different formats. This pairs particularly nicely with Spell Research, because each spell type is available in a variety of archetypes, and so the spells you discover are truly unique to your character. For instance, each elemental effect is now available in cloak, bolt, "stream", on-touch, wall, and rune formats, each at several different magic levels. This means that, where vanilla only had the novice "Flames" spell in the stream format, Mysticism gives the novice "Flames", the adept "Greater Flames", and the (very well-animated) master "Flames of Oblivion" spells.
+
+In addition, unique spells from previous games make a comeback. These range from Destruction spells like "Finger of the Mountain" and the fan-favorite "Enemies Explode" to unique Conjuration spells, allowing you to summon any type of weapon as well as various types of Dremora, Skeletons, and other creatures.
+
+![Alt Text](Resources/Shield.jpeg?raw=true "Shield of Awe, from Triumvirate's Cleric school")
+
+This is just the core of Librum's magic offerings, however. Through the addition of several curated spell packs, Librum opens up many more-specific branches of magic:
+
+ - ***Earth, Wind, and ~Fire~ Water Magic.*** Cast the same Mysticism-style destruction spells for the elements of earth, wind, water, and poison, thanks to [Elemental Destruction Magic](https://www.nexusmods.com/skyrimspecialedition/mods/440). Certain enemies will resist or be weak to these elements, and Vokrii perks have been changed to reflect these new additions. You can also summon earth, wind, and water atronachs, in the same style as the vanilla elements, and you can apply enchantments that make use of these new elements.
+ - ***Shadow Magic.*** Teleport through shadows, cloak areas in darkness or reveal important items in existing darkness, and draw power from the shadows around you, with [Triumvirate's](https://www.nexusmods.com/skyrimspecialedition/mods/39170) expansive Shadow magic options. You can also deal all-new "shadow damage", petrify opponents, and apply shadow-based curses, combining Triumvirate's more aggressive options with [Shadow Spell Package](https://www.nexusmods.com/skyrimspecialedition/mods/13299).
+ - ***Blood Magic.*** Use your health in place of your Magicka to cast spells, with [Ace Blood Magic](https://www.nexusmods.com/skyrimspecialedition/mods/16995). You can also manipulate blood in the environment, with bleeding effects, blood-mists that can infect opponents, and defensive orbs or pools of blood. Vampires have their own sort of blood magic, through [Sacrosanct's](https://www.nexusmods.com/skyrimspecialedition/mods/3928) "Hemomancy" mechanic. The more you feed, the more hemomancy spells you unlock.
+ - ***Nature Magic.*** Follow the path of the druid, using nature-themed spell schools from Triumvirate and [Forgotten Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/12711). Draw power or healing from the environment, infect your target with damaging spores or poisons, or grow various damaging brambles, vines, or mushrooms around your opponent. You can also call unique animals to aid you in combat, or take the form of these animals to gain unique abilities.
+ - ***Expanded Fire/Frost/Shock Magic.*** Use Forgotten Magic Redone's heavily expanded elemental options to add new combat mechanics to your Destruction mage. Teleport around the battlefield through shock gates, surround yourself with a glacial fortress or freeze would-be attackers solid, or drop meteors on distant opponents. 
+ - ***Holy Magic.*** Call upon the Divines to aid you in your quest, using spells from [Dawnguard Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/25094) as well as Triumvirate and Forgotten Magic Redone. Sun spells have been expanded to match the other elements, but you can also bless your weapons in combat, protect and buff nearby allies, or summon divine weapons or guardians to fight on your behalf.
+ - ***Shaman Magic.*** Triumvirate offers something for the follower of the ancient Nordic pantheon, as well. Summon Nordic totems to heal you or damage your opponents, consecrate your surroundings to gain an easily-accessible sanctuary, or look upon the land from the eye of a bird. 
+ - ***Celestial Magic.*** Applying the two spell schools from _Cosmic Spells_, you can unlock the powers of the Magna-Ge. Teleport targets through wormholes or draw them with gravitational force toward a summoned body, place "Umbral Orbs" or "Luminous Crescents" around the battlefield to extend your cosmic powers, or deal _lunar_ or _void_ damage to your opponents. 
+ - ***Daedric Magic.*** Through Triumvirate, Forgotten Magic Redone, and [Zim's Dremora Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/12128), unlock the magic of the Daedra. Cast the same (now heavily-expanded) fire-based protection and Destruction spells as Dremora, summon all manner of new Daedra, or banish targets to Oblivion. You can also apply a whole selection of new curses, or bind enemy spirits into your summons for stronger effects. 
+
+In addition to the above list, Librum includes a ton of new "miscellaneous" spells -- for instance, from [Tentapalooza](https://www.nexusmods.com/skyrimspecialedition/mods/652), [Caranthir Tower Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/4269) or [Immersive College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/17004) -- that do not fit neatly into these categories. It also includes mods like [Thunderchild](https://www.nexusmods.com/skyrimspecialedition/mods/1460), [Summermyst](https://www.nexusmods.com/skyrimspecialedition/mods/6285), and [Complete Alchemy and Crafting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/19924), which, along with some of the mods from Librum's other "modules", allow for mage-tangent playstyles utilizing enchantments, alchemy, or shouts primarily.
+
+Finally, Librum adds a new element of challenge in the form of [FIZZLE](https://www.nexusmods.com/skyrimspecialedition/mods/18180). If your magic skill isn't high enough to comfortably cast a certain spell, there is a chance that it will fail on the spot (but still drain your Magicka!). This is affected by other environmental factors, forcing mages to adapt appropriately to Skyrim's harsh climate; for instance, if you are suffering from frostbite, your magic skills will be significantly reduced, and most of your spells will fail.
+
+## Bugs
+Cure disease spell. Yes/no in menus. 
+
+Campfire placement not working.
