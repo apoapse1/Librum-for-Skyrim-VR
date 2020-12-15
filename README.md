@@ -227,8 +227,6 @@ With every change, Librum attempts to adhere to the points of its _core philosop
 2. The world is static in ways that make sense, but dynamic in all others. The world is not centered around you, but it reacts realistically to the actions you take and the choices you make. In particular, the ways in which you interact with the world change as you become more powerful.
 3. Magic in all forms is a dangerous, arcane, and powerful force. Magic can solve most any problem you have, but -- as an example -- acquiring a single Master-level spell might take a whole playthrough.
 
-We will reference these points by number in the sections that follow. 
-
 ### Leveling and Skills
 Librum makes several major changes to character progression, described by the following comparison table:
 
@@ -243,4 +241,7 @@ Librum makes several major changes to character progression, described by the fo
  | Perks are typically straight buffs to your existing skills, and form the core part of your character's identity.	| Librum uses [Vokrii](https://www.nexusmods.com/skyrimspecialedition/mods/26176) to mix up perk benefits and to help balance around having only a small handful of perks; a single perk investment in any tree replaces vanilla's "20/40/60/80/100%" improvement perks or "Novice/Apprentice/Adept/Expert/Master" perks.
  | Standing Stones provide moderate benefits to an existing character build, and can be changed at any time.	| Standing Stones entirely change your character's make-up, thanks to [Andromeda](https://www.nexusmods.com/skyrimspecialedition/mods/14910), but they can only be chosen during character creation.
 
+### User Interface and Controls
+Librum makes a few changes to the default user interface, to (a) create a unique visual experience and (b) to improve the VR experience. For the first point, Librum uses the excellent [Adventurer Theme Mod](https://www.nexusmods.com/skyrimspecialedition/mods/35568) in order to blend a Skyrim-style modern UI with touches of a more Oblivion-style classic visual theme:
 
+![This is a rendering in Skyrim SE, of course.](Resources/UI.jpeg?raw=true "Adventurer Theme Mod)
