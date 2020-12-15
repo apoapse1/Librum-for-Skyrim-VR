@@ -24,8 +24,9 @@ Wabbajack modlist installer for Librum
   - [Features of Librum](#features-of-librum)
     - [General Philosophy](#general-philosophy)
     - [Leveling and Skills](#leveling-and-skills)
-    - [Survival and Realism](#survival-and-realism)
+    - [User Interface and Controls](#user-interface-and-controls)
     - [Dynamic World](#dynamic-world)
+    - [Survival and Realism](#survival-and-realism)
     - [Combat, Loot, and Challenge](#combat-loot-and-challenge)
     - [Magic](#magic)
     - [Quests and Adventures](#quests-and-adventures)
@@ -39,6 +40,8 @@ Wabbajack modlist installer for Librum
   - [Changelog](#changelog)
   - [Discussions](#discussions)
  
+![Alt text](Resources/Banner3?raw=true)
+
 ## Preamble
 
 _You're lost in the woods, having narrowly escaped after scaring off a pack of wolves with a summoned flame atronach. Your torch finally fades out, and it's getting cold. You can conjure basic foods, and your summoned atronach provides enough heat for the time being, but you'll need to gather wood in order to sustain a fire and survive the night. With little time to spare, you can't search far for materials -- luckily, you've fashioned a basic hatchet the night before, and you can chop down a nearby tree for lumber. You fall asleep next to your fire, having placed several runes nearby to dispatch would-be predators. Despite a few interruptions in the night, the morning comes at last, and the sun finally breaks over the horizon._
@@ -242,6 +245,33 @@ Librum makes several major changes to character progression, described by the fo
  | Standing Stones provide moderate benefits to an existing character build, and can be changed at any time.	| Standing Stones entirely change your character's make-up, thanks to [Andromeda](https://www.nexusmods.com/skyrimspecialedition/mods/14910), but they can only be chosen during character creation.
 
 ### User Interface and Controls
-Librum makes a few changes to the default user interface, to (a) create a unique visual experience and (b) to improve the VR experience. For the first point, Librum uses the excellent [Adventurer Theme Mod](https://www.nexusmods.com/skyrimspecialedition/mods/35568) in order to blend a Skyrim-style modern UI with touches of a more Oblivion-style classic visual theme:
+Librum makes a few changes to the default user interface, to (a) create a unique visual experience and (b) to improve the VR experience. For the first point, Librum uses [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604) along with the excellent [Adventurer Theme Mod](https://www.nexusmods.com/skyrimspecialedition/mods/35568) and [Natural Colored Map Markers](https://www.nexusmods.com/skyrimspecialedition/mods/27503) in order to blend a Skyrim-style modern UI with touches of a more Oblivion-style classic visual theme:
 
-![This is a rendering in Skyrim SE, of course.](Resources/UI.jpeg?raw=true "Adventurer Theme Mod")
+![Alt text](Resources/UI.jpeg?raw=true "Adventurer Theme Mod, Rendered in Skyrim SE")
+
+Librum makes larger changes in terms of controls. For one, it includes [Dual Wield Block VR](https://www.nexusmods.com/skyrimspecialedition/mods/28456), [Weapon Throw VR](https://www.nexusmods.com/skyrimspecialedition/mods/31374), [Sprint Jump VR](https://www.nexusmods.com/skyrimspecialedition/mods/28354), [VR Power Attack Fix](https://www.nexusmods.com/skyrimspecialedition/mods/28004), [Haptic Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/20364), and [Realistic Mining VR](https://www.nexusmods.com/skyrimspecialedition/mods/16692) in order to better match player motions to character actions. With this suite of mods, VR combat is a much more natural experience, and you have all the options -- such as blocking with an off-hand weapon or throwing your weapon -- that you would expect. In particular, as we will further discuss in the next section, you can swing your pickaxe at _any_ in-game rock (including, but not limited to standard ore veins) and swing your woodcutter's axe at (most) any in-game tree or wooden object to get the resources you expect.
+
+In a similar vein, Librum includes [Dragonborn Speaks Naturally](https://www.nexusmods.com/skyrimspecialedition/mods/16514) and [SkyVoice](https://www.nexusmods.com/skyrimspecialedition/mods/17840) to have the world respond naturally to your voice. When you say "hello" or "excuse me" to an NPC, they will begin conversation; when you begin reciting a dialogue option, the game will select it for you; and when you say the words of a learned dragon shout, you will use that shout in game. Not to worry, of course -- thanks to [Shout Pronunciations](https://www.nexusmods.com/skyrimspecialedition/mods/18572), the Dragon Language words of each shout will be shown in your shout menu.
+
+Last but not least, Librum includes [MageVR](https://www.nexusmods.com/skyrimspecialedition/mods/21297), which generally overhauls the way you interact with spells and equipment. I recommend thoroughly reading its mod page for more information, but in short, it adds the following features:
+1. Spells can be slotted to drawn "glyphs". You can re-draw the glyph later to either equip or auto-cast the slotted spell, all without entering your menu.
+2. You can store weapons and potions/poisons on your back, all accessible by reaching behind you and "pulling" out the weapon, potion, or poison, again without opening a menu.
+3. Archery is realistic. You will need to manually retrieve an arrow from your quiver in order to fire another shot.
+4. You can quickslot shouts and powers in a similar way to weapons.
+5. You are able to "immersively" loot a container, in which you manually drag loot from the container to your backpack.
+6. You are able to "immersively" lockpick, in a way resembling the real procedure fora tumbler lock.
+
+### Dynamic World
+Continuing on with the theme of the last section, Librum includes a suite of mods designed to make static objects react to your actions. Along with the mods mentioned before, the key players here are [Dynamic Things](https://www.nexusmods.com/skyrimspecialedition/mods/19520), [Dynamic Things Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/19521?tab=posts), [Destructible Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/28291), and [Sneak Tools](https://www.nexusmods.com/skyrimspecialedition/mods/1863) (which will come up again later).
+
+The combined effects of these mods are as follows:
+1. Any haypile or stack of wood you find in the game can be looted, and will decrease in size as you loot them.
+2. Almost all "static" containers in Skyrim -- crates, barrels, and others -- can now be looted. They can also be destroyed with a woodcutter's axe, which will drop all of their contents and firewood.
+3. You can drink or bottle liquids from mead barrels and similar containers.
+4. Using your weapons or Destruction magic on training dummies and archery targets will yield experience.
+5. You can harvest mammoth tusks from mammoth skulls you find.
+6. Most "standard" objects, like barrels, urns, and small furniture, will be destroyed if you hit them.
+7. Light sources around Skyrim can be ignited and put out, either by standard fire/frost effects or by the fire/water arrows included in Sneak Tools.
+
+### Survival and Realism
+On the flip side, _you_ have to appropriately react to Skyrim's environment. 
