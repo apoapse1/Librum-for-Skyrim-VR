@@ -40,7 +40,7 @@ Wabbajack modlist installer for Librum
   - [Changelog](#changelog)
   - [Discussions](#discussions)
  
-![Alt text](Resources/Banner3?raw=true)
+![Alt text](Resources/Banner3.png?raw=true)
 
 ## Preamble
 
@@ -267,11 +267,23 @@ Continuing on with the theme of the last section, Librum includes a suite of mod
 The combined effects of these mods are as follows:
 1. Any haypile or stack of wood you find in the game can be looted, and will decrease in size as you loot them.
 2. Almost all "static" containers in Skyrim -- crates, barrels, and others -- can now be looted. They can also be destroyed with a woodcutter's axe, which will drop all of their contents and firewood.
-3. You can drink or bottle liquids from mead barrels and similar containers.
-4. Using your weapons or Destruction magic on training dummies and archery targets will yield experience.
-5. You can harvest mammoth tusks from mammoth skulls you find.
-6. Most "standard" objects, like barrels, urns, and small furniture, will be destroyed if you hit them.
-7. Light sources around Skyrim can be ignited and put out, either by standard fire/frost effects or by the fire/water arrows included in Sneak Tools.
+3. Most rocks can be mined with a pickaxe, giving you Hearthfire resources.
+4. Most trees can be cut down with any axe, giving you firewood and other resources.
+5. You can drink or bottle liquids from mead barrels and similar containers.
+6. Using your weapons or Destruction magic on training dummies and archery targets will yield experience.
+7. You can harvest mammoth tusks from mammoth skulls you find.
+8. Most "standard" objects, like barrels, urns, and small furniture, will be destroyed if you hit them.
+9. Light sources around Skyrim can be ignited and put out, either by standard fire/frost effects or by the fire/water arrows included in Sneak Tools.
 
 ### Survival and Realism
-On the flip side, _you_ have to appropriately react to Skyrim's environment. 
+On the flip side, _you_ have to appropriately react to Skyrim's environment. The core of this, of course, is [Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/667) and [Frostfall](https://www.nexusmods.com/skyrimspecialedition/mods/671). Along with some more resource-adding mods (notably, [Tentapalooza](https://www.nexusmods.com/skyrimspecialedition/mods/652)], these mods add a complete cold-weather survival system to Skyrim. Your character will be subject to Skyrim's harsh climate, and you will need to bundle up, set up camp frequently, and avoid frigid water and inclement weather in order to survive. Mages will have various options to escape the cold (all compatible with Librum's [Spell Research](https://www.nexusmods.com/skyrimspecialedition/mods/20983) mechanics!): summoning cloaks or various tents and shelters, transmuting or summoning materials, summoning a Fire Atronach for heat, or teleporting to safety, among others. Finally, your character's survival skills will improve over time, unlocking various survival-themed perks available at a campfire.
+
+![Alt text](Resources/Campfire.jpg?raw=true)
+
+You will also need to keep track of your hunger, thirst, and fatigue, thanks to [iNeed (Continued)](https://www.nexusmods.com/skyrimspecialedition/mods/19390). Although you will eat and drink automatically (to avoid more menu-searching than is necessary), you will need to maintain a supply of water (or alcohol!) and fresh or salted food in order to survive. Thankfully, these resources can be obtained from many sources. You can get water from snowbanks, wells, rivers, or the ocean -- although it may have to be boiled for hygiene's sake -- and many NPCs are happy to share or sell water, if you ask nicely. 
+
+Getting food is a more involved process, thanks to [Hunterborn](https://www.nexusmods.com/skyrimspecialedition/mods/7900). When you hunt an animal, you now need to properly dress and skin the carcass, using a hunting knife. On the other hand, you will have access to many more resources when you harvest from an animal carcass: more kinds of meats and animal products, pelts from each animal, and animal bones. Your hunting, foraging, bone-carving, and cooking skills will improve with each use, improving your harvests and giving access to new recipes over time.
+
+_Sleep_ is also more complicated than it may seem. Although it is necessary both for general survival and to [Level up](https://www.nexusmods.com/skyrimspecialedition/mods/32357), it is fairly dangerous to fall asleep in Skyrim's wilderness or in its dungeons. Thanks to [Sands of Time Sleeping Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/8257), any time you fall asleep, you will have a location-dependent chance of being attacked during the night. This is particularly true in dungeons, making it imperative to either (a) quickly get to safety or (b) bring along a follower or lay traps.
+
+### Combat, Loot, and Challenge
