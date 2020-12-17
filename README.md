@@ -357,7 +357,21 @@ Note that almost all of the above spells must be discovered on your own, through
 
 Finally, Librum adds a new element of challenge in the form of [FIZZLE](https://www.nexusmods.com/skyrimspecialedition/mods/18180). If your magic skill isn't high enough to comfortably cast a certain spell, there is a chance that it will fail on the spot (but still drain your Magicka!). This is affected by other environmental factors, forcing mages to adapt appropriately to Skyrim's harsh climate; for instance, if you are suffering from frostbite, your magic skills will be significantly reduced, and most of your spells will fail.
 
-## Bugs
-Cure disease spell. Yes/no in menus. 
+### Quests and Adventures
+For all its strengths, Skyrim never got the questing aspect quite right. The game's many questlines are fairly straightforward and predictable, and most of its dungeons are as well. Librum only touches the worst offenders among Skyrim's vanilla quests, but it adds a great deal of new content to experience. Putting together dozens of curated quest and adventure mods, Librum's new content totals to hundreds of new quests and new areas to explore, including more questlines than are in the vanilla game, and several extensive dungeon systems and expansive new lands. In compiling these mods, there were a few specific requirements I upheld (excluding many otherwise fantastic mods, unfortunately):
+1. Every line of dialogue is voiced, and always of high quality.
+2. Every addition is lore-friendly, at least within the limits of artistic license.
+3. Every addition is balanced (within reason), interesting, and natural within the existing game world.
+
+With that said, 
+
+### Followers
+
+### Graphics and Ambience
+
+## Known Issues
+There are a few known issues in Librum. I will correct these in future updates, but they are relatively minor and do not impact gameplay:
+1. Two spells are known not to work. The first is Mysticism's _Cure Disease_ spell, which -- thanks to iNeed's _Dangerous Diseases_ module -- will not truly cure diseases. The second is Elemental Destruction Magic's _Spy_ spell, which is not compatible with VR.
+2. Sometimes, the indicators around a messagebox's responses (like "yes/no" in the loading menu) will not properly display. To get around this, note that the cursor always starts on the leftmost response, and move left/right as normal.
 
 Campfire placement not working.
