@@ -407,6 +407,7 @@ Finally, Librum adds several _follower_ mods, to make the game world a little le
  - Skyrim Underground creature patches.
  - Forgotten Dungeons
  - Death Consumes All / Shezarrine - The Fate of Tamriel
+ - Bleak Falls Barrow Revisited
 
 ## Known Issues
 There are a few known issues in Librum. I will correct these in future updates, but they are relatively minor and do not impact gameplay:
