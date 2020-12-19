@@ -35,8 +35,9 @@ Wabbajack modlist installer for Librum
   - [Credits and Thanks](#credits-and-thanks)
   - [Contact](#contact)
   - [Contributing](#contributing)
+  - [Planned Changes](#planned-changes)
   - [Changelog](#changelog)
-  - [Discussions](#discussions)
+  - [Known Issues](#known-issues)
  
 ## Preamble
 ![Alt text](Resources/Banner3.png?raw=true "I made this image myself, and I am proud of it.")
@@ -401,13 +402,29 @@ Finally, Librum adds several _follower_ mods, to make the game world a little le
 23. ***[Useful Dogs](https://www.nexusmods.com/skyrimspecialedition/mods/1666).*** Although a minor addition relative to the follower mods above, Useful Dogs allows you to give commands to your canine companion. You can send them looking for food, weapons, ammunition, keys, and more, in the style of Fallout 3 and 4.
 
 ### Graphics and Ambience
+Last but not least, Librum includes a full graphical makeover of Skyrim. The goal is to match the photorealism we are used to these days, but with a bend towards realizing Librum's dark, gritty, and foreboding nature in Skyrim's atmosphere.Perhaps most important for this end, Librum includes a suite of literal atmosphere mods, centered around a Frankenstein-ing of [Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/12125) and [True Storms](https://www.nexusmods.com/skyrimspecialedition/mods/2472):
 
-## Mods to be Added
+![Alt Text](Resources/boat.jpg?raw=true "Image courtesy of unnamed user on [this](https://www.nexusmods.com/skyrimspecialedition/mods/17198) page")
+
+We top this off with several lighting mods:
+
+
+## Frequently Asked Questions
+
+## Credits and Thanks
+
+## Contact
+
+## Contributing
+
+## Planned Changes
 
  - Skyrim Underground creature patches.
  - Forgotten Dungeons
  - Death Consumes All / Shezarrine - The Fate of Tamriel
  - Bleak Falls Barrow Revisited
+
+## Changelog
 
 ## Known Issues
 There are a few known issues in Librum. I will correct these in future updates, but they are relatively minor and do not impact gameplay:
