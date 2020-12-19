@@ -404,7 +404,7 @@ Finally, Librum adds several _follower_ mods, to make the game world a little le
 ### Graphics and Ambience
 Last but not least, Librum includes a full graphical makeover of Skyrim. The goal is to match the photorealism we are used to these days, but with a bend towards realizing Librum's dark, gritty, and foreboding nature in Skyrim's atmosphere.Perhaps most important for this end, Librum includes a suite of literal atmosphere mods, centered around a Frankenstein-ing of [Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/12125) and [True Storms](https://www.nexusmods.com/skyrimspecialedition/mods/2472):
 
-![Alt Text](Resources/boat.jpg?raw=true "Image courtesy of unnamed user on [this](https://www.nexusmods.com/skyrimspecialedition/mods/17198) page")
+![Alt Text](Resources/boat.jpg?raw=true "Image courtesy of unnamed user on mod page.")
 
 We top this off with several lighting mods:
 
