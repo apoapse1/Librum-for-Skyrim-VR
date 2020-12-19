@@ -30,7 +30,6 @@ Wabbajack modlist installer for Librum
     - [Combat and Enemies](#combat-and-enemies)
     - [Magic](#magic)
     - [Quests and Adventures](#quests-and-adventures)
-    - [Followers](#followers)
     - [Graphics and Ambience](#graphics-and-ambience)
   - [Frequently Asked Questions](#frequently-asked-questions)
   - [Credits and Thanks](#credits-and-thanks)
@@ -363,11 +362,51 @@ For all its strengths, Skyrim never got the questing aspect quite right. The gam
 2. Every addition is lore-friendly, at least within the limits of artistic license.
 3. Every addition is balanced (within reason), interesting, and natural within the existing game world.
 
-With that said, 
+![Alt Text](Resources/molag.jpg?raw=true "Welcome to Coldharbour.")
 
-### Followers
+With that in mind, here are the major new quest mods included in Librum:
+
+1. ***[Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802).*** Legacy of the Dragonborn is, without a doubt, the largest museum curator simulator available for Skyrim.  Legacy adds a large museum -- the _Dragonborn Gallery_ -- to Solitude, in which you can store and display nearly any artifact from your collection (including those from the following mods). Not only that, Legacy adds a ton of new artifacts hidden around Skyrim, and it comes complete with a new _archaeology guild_ and an expansive questline. Though it is hard to explain here, Legacy typically becomes the center of any playthrough that involves it.
+2. ***[Beyond Skyrim: Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917).*** The first release of the ambitious and far-reaching _Beyond Skyrim_ project, Bruma allows you to explore the titular region in the north of Cyrodiil, which you may remember from _The Elder Scrolls IV: Oblivion_. Bruma is feature-complete, with a collection of excellent quests, locations, and characters; top-notch voice-acting; and a level of polish matching Bethesda's own.
+3. ***[Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849).*** Join forces with the Vigilant of Stendarr, to face a growing threat from the _Harvester of Souls_ himself, Molag Bal. Vigilant features a huge, branching main quest, steeped in the darker sides of Elder Scrolls lore, with many secrets to uncover and difficult choices to make.
+4. ***[Project AHO](https://www.nexusmods.com/skyrimspecialedition/mods/15996).*** Working with (or against!) the hidden Telvanni outpost of Sadrith Kegran, discover one of the best-kept secrets of Dwarven invention. Project AHO offers a beautifully-rendered DLC-sized area to explore, as well as a branching main quest and many Dwemeri secrets to unlock.
+5. ***[Carved Brink](https://www.nexusmods.com/skyrimspecialedition/mods/24351).*** From the makers of Project AHO, Carved Brink offers a look at two new planes of Oblivion: Peryite's _Pits_ and the all-new _Faceted Stones_. Explore the excellent world design of the _Haem Projects_ team through two main questlines, using puzzle-solving and new forms of transportation to traverse these otherwise un-transversable alien landscapes.
+6. ***[Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155).*** Clockwork offers a fully-featured player home -- the Chlodovech family's _Clockwork Castle_, high in the Velothi mountains. Though it has not been touched in two centuries, you may lay claim to it as soon as you arrive. However, once in, the castle's inhabitants may not let you leave. Uncover the secrets of the castle's founding, and of its mysterious inhabitants, through a fleshed-out and horror-themed questline.
+7. ***[Moon and Star](https://www.nexusmods.com/skyrimspecialedition/mods/4301).*** Explore the quaint Dunmeri village of _Little Vivec_, floating in the center of Lake Ilinalta. Though charged with protecting Little Vivec from a dangerous criminal, you may find that Little Vivec and its inhabitants are hiding more than it seems.
+8. ***[The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168).*** The Tools of Kagrenac completes the story of Arniel Gane and the legendary dagger Keening; what happened to weaken Keening so thoroughly, and where are the remaining tools of the Dwemer smith Kagrenac? Delve through sprawling new dungeons and face challenging new obstacles, in order to uncover these secrets and claim the most legendary Dwarven artifacts for yourself.
+9. ***[The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179).*** The only mod so far to win a National Writers' Guild award, The Forgotten City offers a unique and enthralling mystery, set in its titular city in the far reaches of Skyrim. Investigate the inhabitants of the Forgotten City, solve intricate new puzzles, and travel through time to uncover a murder plot and escape back to the surface.
+10. ***[Moonpath to Elsweyr](https://www.nexusmods.com/skyrimspecialedition/mods/4341).*** One of the great classics of Skyrim modding, but remastered for a modern experience, Moonpath to Elsweyr brings you south to the heart of the Khajiiti homeland in order to recover the legendary _Staff of Indarys_. Along the way, explore the alien jungles of Elsweyr, join forces with the Khajiiti rebellion, and gain access to the airship _Dev Aveza_.
+11. ***[The Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748).*** Return to Sotha Sil's mysterious clockwork city, and take a trip through the stranger side of Elder Scrolls lore. Along the way, solve new puzzles and tread through Zelda-esque dungeons, unlock the fantastical weapons and equipment of Sotha Sil's Chronographers, and explore alien landscapes, all in the labyrinthian expanse of Sotha Sil.
+12. ***[Teldryn Serious](https://www.nexusmods.com/skyrimspecialedition/mods/5541).*** Teldryn Serious heavily expands the backstory of the mercenary Teldryn Sero, taking you around Solstheim once more in order to uncover a dangerous plot and defend Raven Rock.
+
+![Alt Text](Resources/sotha.jpg?raw=true "Trainwiz's work, at its finest.")
+
+Next, Librum adds a number of dungeon mods, which are only loosely distinguished from the "quest" mods above. These add expansive dungeons or dungeon networks, often with difficult puzzles or obstacles, and often with powerful rewards at the end.
+
+13. ***[Skyrim Underground](https://www.nexusmods.com/skyrimspecialedition/mods/131).*** Skyrim Underground adds a _gigantic_ network of dungeons below Skyrim's surface. You can now travel from Solitude to Riften on foot, for instance, though you'll have to uncover secret passages and face many new and powerful opponents to do so. Fit for its scope, it also adds many secrets to discover, from ancient artifacts to undead merchants and impromptu underground settlements. *In future versions, I will patch Underground's creatures to be more lore-friendly. It is not criminally non-lore-friendly at present, and updates will be compatible with existing savegames.*
+14. ***[Konahrik's Accoutrements](https://www.nexusmods.com/skyrimspecialedition/mods/22206).*** This mod adds a great deal of new content surrounding Skyrim's Dragon Priests. Use the forgotten field of Abjuration magic to collect and cleanse the Dragon Priests' powerful new relics, and go back in time to explore the lost Dragon Priest temple of Revakheim.
+15. ***[Skyrim Sewers](https://www.nexusmods.com/skyrimspecialedition/mods/9320).*** Skyrim Sewers adds sewer systems below Windhelm, Solitude, and Whiterun (and a few forts), bringing back the age-old Elder Scrolls experience of murdering rats, discovering secrets, and getting lost in the sewers.
+16. ***[The Lost Wonders of Mzark](https://www.nexusmods.com/skyrimspecialedition/mods/40674).*** Far beyond Skyrim's northern border, the great Dwemer lord Mzark left his final projects and greatest artifacts -- but also his most clever traps and puzzles.
+
+![Alt Text](Resources/map.jpg?raw=true "Skyrim Underground Map")
+
+Finally, Librum adds several _follower_ mods, to make the game world a little less lonely. Though some of these mods add quests, their primary role within Librum is to allow you to (a) connect with your followers as real people and (b) effectively run a party-style playthrough. Think _Fallout: New Vegas_ or _Dragon Age_, but in Skyrim.
+
+17. ***[Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194).*** Interesting NPCs adds a ton of new quests, matching even Bruma for size. It also adds, of course, _interesting NPCs_, breathing new life into many of Skyrim's familiar locations. In particular, some of the new NPCs are "super followers", meaning that they comment on your quests, choices, and locations, and they generally behave like real people. An interesting aspect of Interesting NPCs is, many of the new quests and questlines tie several NPCs together -- this gives the game more of a "Dragon Age" feel, in terms of how characters are relatable and recurrent in your adventures.
+18. ***[Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461).*** Inigo is Skyrim's most popular follower mod, for good reason. Not only is he an effective combatant and willing to roll with whatever moral code you're comfortable with, Inigo is as close to a real companion as any Skyrim follower has come. Importantly, he responds dynamically to most situations, and he talks naturally with you and with other NPCs. Inigo can talk dynamically with vanilla and Interesting NPCs followers.
+19. ***[Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035).*** Lucien has all the benefits of Inigo, but instead of a burglarizing cat-man, he is a scholar from the Arcane University. Lucien can talk dynamically with Inigo, as well as with vanilla and Interesting NPCs followers.
+20. ***[Song of the Green](https://www.nexusmods.com/skyrimspecialedition/mods/11278).*** Song of the Green adds the excellent follower Auri, who is a female Bosmer from Valenwood. Although she does not have as much dialogue as the above followers, this reflects her character naturally. Further, she can talk dynamically with Lucien, as well as with vanilla and Interesting NPCs followers.
+21. ***[Hoth](https://www.nexusmods.com/skyrimspecialedition/mods/16137).*** One of the most visually unique follower mods available, Hoth is a grizzled bounty hunter and a new sort of companion to your character. Uniquely, he can provide bounty quests radiantly, dependent on your current area. He can talk dynamically with Auri.
+22. ***[Serana Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/16222) and [Serana Dialogue Addon](https://www.nexusmods.com/skyrimspecialedition/mods/32161).*** Together, these mods turn Dawnguard's beloved vampire follower into the sort of "super follower" introduced by the above mods. She is now aware of most quests and situations you find yourself in, and she speaks naturally with you and with others.
+23. ***[Useful Dogs](https://www.nexusmods.com/skyrimspecialedition/mods/1666).*** Although a minor addition relative to the follower mods above, Useful Dogs allows you to give commands to your canine companion. You can send them looking for food, weapons, ammunition, keys, and more, in the style of Fallout 3 and 4.
 
 ### Graphics and Ambience
+
+## Mods to be Added
+
+ - Skyrim Underground creature patches.
+ - Forgotten Dungeons
+ - Death Consumes All / Shezarrine - The Fate of Tamriel
 
 ## Known Issues
 There are a few known issues in Librum. I will correct these in future updates, but they are relatively minor and do not impact gameplay:
