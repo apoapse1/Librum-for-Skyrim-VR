@@ -414,9 +414,11 @@ We top this off with several lighting mods:
  - ***[Enhanced Lighting for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/1377).*** This is our "general purpose" lighting overhaul, and it makes a _big_ difference. In short, it makes light sources look much nicer and more natural, with a side effect of making dungeons and nights very dark.
  - ***[High Fidelity ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27308).*** "But wait!" you say, "don't ENBs trash your framerate?" The answer, in this case, is _no_. High Fidelity ENB accomplishes all of the things you've come to expect from your ENB, but it's highly performance-friendly for a better VR experience. Furthermore, it pairs very nicely with the mods listed above, to give Skyrim the bleak, hopeless feel you've been waiting for.
 
+The above only gives a small taste of the various atmosphere and ambience mods included in Librum -- you can visit the manifest for a complete list, but Librum includes everything from [new dust effects](https://www.nexusmods.com/skyrimspecialedition/mods/2407) to [better cloud textures](https://www.nexusmods.com/skyrimspecialedition/mods/2393) and even [better sound dynamics](https://www.nexusmods.com/skyrimspecialedition/mods/701).
+
 ![Alt Text](Resources/lights.png?raw=true "ELE + RS")
 
-The above only gives a small taste of the various atmosphere and lighting mods included in Librum -- you can visit the manifest for a complete list, but Librum also includes everything from [new dust effects](https://www.nexusmods.com/skyrimspecialedition/mods/2407) to [better cloud textures](https://www.nexusmods.com/skyrimspecialedition/mods/2393). Similarly, Librum includes a wide array of texture and mesh improvements ADD MORE HERE
+
 
 Finally, one of my major goals of Librum was to make the existing Skyrim content feel new and different. As such, Librum completely redoes every town and city in Skyrim, from large-scale architecture and layout changes to a re-imagining of citizens' AI, all towards the end of making Skyrim a natural-but-exciting place to be.
 
