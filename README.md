@@ -3,6 +3,7 @@ Wabbajack modlist installer for Librum
 
 - [Librum](#librum-for-skyrim-vr)
   - [Preamble](#preamble)
+  - [Technical Requirements](#technical-requirements)
   - [Installation](#installation)
     - [Pre-Installation](#pre-installation)
       - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
@@ -18,7 +19,7 @@ Wabbajack modlist installer for Librum
     - [Post-Installation](#pnost-installation)
       - [Copy "Game Folder Files"](#copy-game-folder-files)
       - [Starting Librum and Choosing Optional Plugins](#starting-librum-and-choosing-optional-plugins)
-      - [Start Skyrim... again](#start-up-skyrim-again)
+      - [Start up Skyrim... again](#start-up-skyrim-again)
       - [MCM Settings](#configure-the-mcm)
   - [Updating](#updating)
   - [Features of Librum](#features-of-librum)
@@ -47,6 +48,16 @@ _You're lost in the woods, having narrowly escaped after scaring off a pack of w
 Skyrim VR is a wonderful experience, but it's a very familiar one. Even in stunning 3D, we visit the same locales and repeat the same adventures we have since the end of 2011.
 
 _Librum_ is a comprehensive gameplay, graphics, and content overhaul that attempts to change all of this. Combining together some of the best and most popular mods for Skyrim SE, a suite of new quests and adventures that outnumber Skyrim's own, the tradition of great "hardcore" gameplay overhauls that have come before -- like Skyrim's _Requiem_ and _YASH_ or Oblivion's _Oscuro's Oblivion Overhaul_ -- and a host of unique-to-VR immersion improvements, Librum brings new life (and new challenge!) to Skyrim in a way that has never been experienced before.
+
+## Technical Requirements
+Librum is fairly technically intensive, but in line with standard Skyrim VR graphics enhancements. Your mileage will certainly vary -- I can only provide my own specs, but I imagine you will find good performance on a weaker system.
+
+***Space Requirements.*** Librum requires 38 GB of space for its downloads, and 70 GB of space for the installation. In total, you will need 118 GB free on your computer.
+
+***Recommended Specs.*** This was the machine I compiled Librum on. I have gotten very smooth gameplay, with an occasional stutter in a new area, before the included [VR FPS Stabilizer](https://www.nexusmods.com/skyrimspecialedition/mods/31392) kicks into gear.
+ - **CPU**: Intel Core i7-7700HQ, 4 cores at 2.80 GHz.
+ - **GPU**: NVIDIA GeForce GTX 1060, 6 GB of VRAM
+ - **RAM**: 16 GB DDR4
 
 ## Installation
 
