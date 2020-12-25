@@ -54,7 +54,7 @@ Librum is fairly technically intensive, but in line with standard Skyrim VR grap
 
 ***Space Requirements.*** Librum requires 38 GB of space for its downloads, and 70 GB of space for the installation. In total, you will need 118 GB free on your computer.
 
-***Recommended Specs.*** This was the machine I compiled Librum on. I have gotten very smooth gameplay, with an occasional stutter in a new area, before the included [VR FPS Stabilizer](https://www.nexusmods.com/skyrimspecialedition/mods/31392) kicks into gear.
+***Recommended Specs.*** This was the machine I compiled Librum on. I have gotten very smooth gameplay, with an occasional stutter in a new area before the included [VR FPS Stabilizer](https://www.nexusmods.com/skyrimspecialedition/mods/31392) kicked into gear.
  - **CPU**: Intel Core i7-7700HQ, 4 cores at 2.80 GHz.
  - **GPU**: NVIDIA GeForce GTX 1060, 6 GB of VRAM
  - **RAM**: 16 GB DDR4
