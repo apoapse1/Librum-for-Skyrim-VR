@@ -149,6 +149,8 @@ Choose the appropriate plugin.
 
 If you want this plugin, enable it in MO2.
 
+There are also two "preview" mods included in the Librum download, located directly above the optional plugins. See below for more information on what they do; they should be entirely compatible with the rest of the modlist, but they are not thoroughly tested in the modlist at present.
+
 #### Start up Skyrim... again
 To start the game for real, start SKSE through Mod Organizer 2. This will be necessary every time you start the game; if you try to launch Skyrim through its default folder or through Steam, the game will be entirely vanilla.
 
@@ -466,18 +468,27 @@ Although Librum is still early in development, I have gathered a few questions t
 
 ***I've found a bug!*** Let me know about bugs, as well! I'll try to help you figure it out -- of course, if you modified Librum in any fashion, you may be on your own.
 
+***I think [insert mod] should be added/removed!*** As before, let me know of any suggestions you have. There are many cases where I made specific choices for compatibility's sake (i.e., Dawn of Skyrim over JK's Skyrim, or excluding EFF/NFF/AFT), but there are many others where I may have overlooked an excellent candidate for inclusion in Librum.
+
 ## Credits and Thanks
+Of course, I can only take a small slice of the credit for this modlist. I compiled the list and Frankenstein-ed many of these mods together, but the mod authors themselves did most of the work. If you particularly like a certain quest, location, or gameplay mechanic, please go thank the mod authors!
 
 ## Contact
+For any questions, comments, or suggestions, please contact me on Discord -- either through the Wabbajack Discord or through a private message (at `Apoapse#6933`).
+
+If you want to report an issue, the best way to do this is through the [Librum GitHub Issues page](https://github.com/apoapse1/Librum-for-Skyrim-VR/issues). If your issue is already there, and I have not responded within a week or so, please send me a message over Discord.
 
 ## Contributing
+The best way you can contribute to this project is to play the game! Play through different quests, explore different areas, and try to push the game to its limits -- then report the issues you find.
+
+The second best way to contribute is to send me suggestions for Librum's development. As mentioned above, I may have missed some great mods, or I may not have correctly balanced certain gameplay features or locations.
 
 ## Planned Changes
+There are a few changes planned already for future versions of Librum:
 
- - Skyrim Underground creature patches.
- - Forgotten Dungeons
- - Death Consumes All / Shezarrine - The Fate of Tamriel
- - Bleak Falls Barrow Revisited
+ - I will clean up _Skyrim Underground_'s creatures. At present, it includes only non-vanilla creatures, and it includes a _ton_ of them. I will remove some of the worst offenders, and mix in vanilla creatures to make the Underground flow better into the Aboveground.
+ - I will de-level some of the added content -- importantly, _Skyrim Underground_ and _Forgotten Dungeons_. They're currently pretty good in this regard, but there are improvements to be made.
+ - I will test _Death Consumes All_ and _Shezarrine_ more thoroughly, and either remove them or move them to the core mod list.
 
 ## Changelog
 
