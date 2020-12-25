@@ -433,7 +433,7 @@ Another interesting addition to Librum comes in the form of [Frozen Electrocuted
 
 Finally, one of my major goals of Librum was to make the existing Skyrim content feel new and different. As such, Librum completely redoes every town and city in Skyrim, from large-scale architecture and layout changes to a re-imagining of citizens' AI, all towards the end of making Skyrim a natural-but-exciting place to be.
 
-![Alt Text](Resources/dawnstar.jpeg?raw=true "Cities of the North and The Great City of Dawnstar, together.")
+![Alt Text](Resources/city.jpg?raw=true "Cities of the North and The Great City of Dawnstar, together.")
 
 ## Frequently Asked Questions
 
