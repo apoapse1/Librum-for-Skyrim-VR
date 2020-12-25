@@ -154,7 +154,7 @@ To start the game for real, start SKSE through Mod Organizer 2. This will be nec
 
 Start a new game once you get to the main menu. The "yes/no" dialogue in the _New Game_ menu does not always indicate which you are selecting, but the buttons will work as expected. You will start in the character creation area from [Realm of Lorkhan](https://www.nexusmods.com/skyrimspecialedition/mods/18223). Here are some things to know as you create your character:
 
-1. Race and gender differences are changed in accordance with [Race Abilities Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/23223) and [Genders are Boringly Indistinct](https://www.nexusmods.com/skyrimspecialedition/mods/23145), but with the modifications made by [Elemental Destruction Magic](https://www.nexusmods.com/skyrimspecialedition/mods/440). Namely, Orcs are 50% resistant to earth magic, and Argonians are 50% resistant to water magic.
+1. Race differences are changed in accordance with [Imperious](https://www.nexusmods.com/skyrimspecialedition/mods/1315), but with the modifications made by [Elemental Destruction Magic](https://www.nexusmods.com/skyrimspecialedition/mods/440). Namely, Orcs are 50% resistant to earth magic, and Argonians are 50% resistant to water magic.
 2. Standing stones are changed in accordance with [Andromeda](https://www.nexusmods.com/skyrimspecialedition/mods/14910). However, **the standing stone you choose in the Realm of Lorkhan is final**. That is, you will not be able to change it without first returning to the Realm of Lorkhan.
 3. Be particular with the items, spells, and powers you bring back from the Realm of Lorkhan. Much moreso than in vanilla Skyrim, having additional weapons, armors, spell tomes, gold, or even food items can start you out with a significant advantage. If you do not want this advantage, do not take anything with you.
 
@@ -170,37 +170,37 @@ The suggested MCM options are as follows:
   - _Alchemy_ tab: change all potion/poison durations to 10s. 
   - _Harvest_ tab: change _Food containers_ frequency to "scarce", and quantity to "reduced".
 6. **Dynamic Things.** Apply the following changes:
-  - _Containers/Activators_ tab: deactvivate "Dynamic Safe Containers".
+  - _Containers/Activators_ tab: deactivate "Dynamic Safe Containers".
   - _Advanced Options_ tab: activate "Containers are destructible", "Realistic amount of wood per tree", "Realistic chopping time", and "No food containers".
 7. **End Times.** Adjust to taste -- I leave this at 365 days.
-8. **Forgotten Magic Redone.**
-8. **Frostfall**. Apply the following changes:
+8. **Forgotten Magic Redone.** Under _Settings_, set the spell tome drop chance to zero.
+9. **Frostfall**. Apply the following changes:
   - _Overview_ tab: Activate the mod. 
   - _Gameplay_ tab: "At max exposure" -> "death", and disable fast travel and waiting while outdoors.
   - _Meters_ tab: "Layout preset" -> "bottom left" recommended.
-9. **Hunterborn**. Start the mod, and then under the _Enable_ tab, disable the Hunterborn config power.
-10. **iNeed.** Apply the following settings:
+10. **Hunterborn**. Start the mod, and then under the _Enable_ tab, disable the Hunterborn config power.
+11. **iNeed.** Apply the following settings:
   - _Basics_ tab: Automate eating and drinking, and set the timescale to 8.
   - _Difficulty_ tab: "Food spoilage" -> "numbers".
   - _Notifications_ tab: "Widget style" -> "disabled".
-11. **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Realistic".
-12. **OBIS - Bandits.** Apply the following settings:
+12. **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Realistic".
+13. **OBIS - Bandits.** Apply the following settings:
   - _Settings_ tab: Enable extra spawns.
   - _Special_ tab: Enable minotaurs and spiders.
-13. **OBIS - Patrols.** Enable under _Settings_.
-14. **SkyUI.** Under _General_, disable the Active Effects HUD.
-15. **SkyVoice.** Remove the Skyvoice Options Spell.
-16. **Sleep to Level Up.** Disable "Require Sleep to spend Perk Points".
-17. **Smart Training.** Disable "Training Perk Points" and activate the mod.
-18. **Sneak Tools.** Under the _Patch_ tab, disable Horstar's extra dialogue. It is not voiced, unfortunately.
-19. **Sounds of Skyrim.** Adjust to taste, but I don't disable anything.
-20. **Sands of Time Sleeping Encounters.** In the left column, disable home invasions, set "Jorrvaskr Hall HQ" and "College Ambush Odds" to 0, set "Dungeon Ambush Odds" and "Draugr Keep Ambush Odds" to 50, and set "All Other Places" to 25.
-21. **Souls Do Things 2.** Under _Settings_, enable "Conversion Spell Learned" if and only if you disabled perk points on level-up earlier.
-22. **Spell Research.** Import all spells.
-23. **Tentapalooza.** The tents _should_ provide Frostfall support without changing these settings, but let me know if this fails.
-24. **Trade & Barter.** Under _Barter Rates_, enable "Modify Barter Settings" and set "Barter Presets" -> "Hardcore".
-25. **WeaponThrowVR.** Under _Presets_, enable either "Cangar's Selection" or "Classic Medium", depending on whether you think the awesome auto-return animation is worth a slight lack of realism.
-26. **Wildcat Combat.** Enable "Allow Wildcat to manage difficulty" and "Burst injuries".
+14. **OBIS - Patrols.** Enable under _Settings_.
+15. **SkyUI.** Under _General_, disable the Active Effects HUD.
+16. **SkyVoice.** Remove the Skyvoice Options Spell.
+17. **Sleep to Level Up.** Disable "Require Sleep to spend Perk Points".
+18. **Smart Training.** Disable "Training Perk Points" and activate the mod.
+19. **Sneak Tools.** Under the _Patch_ tab, disable Horstar's extra dialogue. It is not voiced, unfortunately.
+20. **Sounds of Skyrim.** Adjust to taste, but I don't disable anything.
+21. **Sands of Time Sleeping Encounters.** In the left column, disable home invasions, set "Jorrvaskr Hall HQ" and "College Ambush Odds" to 0, set "Dungeon Ambush Odds" and "Draugr Keep Ambush Odds" to 50, and set "All Other Places" to 25.
+22. **Souls Do Things 2.** Under _Settings_, enable "Conversion Spell Learned" if and only if you disabled perk points on level-up earlier.
+23. **Spell Research.** Import all spells.
+24. **Tentapalooza.** The tents _should_ provide Frostfall support without changing these settings, but let me know if this fails.
+25. **Trade & Barter.** Under _Barter Rates_, enable "Modify Barter Settings" and set "Barter Presets" -> "Hardcore".
+26. **WeaponThrowVR.** Under _Presets_, enable either "Cangar's Selection" or "Classic Medium", depending on whether you think the awesome auto-return animation is worth a slight lack of realism.
+27. **Wildcat Combat.** Enable "Allow Wildcat to manage difficulty" and "Burst injuries".
 
 Further, there are a few settings to change using mod configuration spells:
 1. **Destructible Skyrim.** Simply click "remove spell".
@@ -243,7 +243,7 @@ Librum makes several major changes to character progression, described by the fo
  | You can level up at any time by opening the Skills menu.	| You must sleep for 8 hours in order to level up, in order to prevent level-ups in dangerous locations.
  | Perks are typically straight buffs to your existing skills, and form the core part of your character's identity.	| Librum uses [Vokrii](https://www.nexusmods.com/skyrimspecialedition/mods/26176) to mix up perk benefits and to help balance around having only a small handful of perks; a single perk investment in any tree replaces vanilla's "20/40/60/80/100%" improvement perks or "Novice/Apprentice/Adept/Expert/Master" perks.
  | Standing Stones provide moderate benefits to an existing character build, and can be changed at any time.	| Standing Stones entirely change your character's make-up, thanks to [Andromeda](https://www.nexusmods.com/skyrimspecialedition/mods/14910), but they can only be chosen during character creation.
- | Your race typically gives you a once-a-day power, as well as some moderate resistances. 	| Through [Imperious](https://www.nexusmods.com/skyrimspecialedition/mods/1315), your race and gender confer significant passive strengths and weaknesses. In particular, certain skills will increase faster than others, and your racial bonuses will improve with your level.
+ | Your race typically gives you a once-a-day power, as well as some moderate resistances. 	| Through [Imperious](https://www.nexusmods.com/skyrimspecialedition/mods/1315), your race confers significant passive abilities. These typically change gameplay drastically.
 
 ### User Interface and Controls
 Librum makes a few changes to the default user interface, to (a) create a unique visual experience and (b) to improve the VR experience. For the first point, Librum uses [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604) along with the excellent [Adventurer Theme Mod](https://www.nexusmods.com/skyrimspecialedition/mods/35568) and [Natural Colored Map Markers](https://www.nexusmods.com/skyrimspecialedition/mods/27503) in order to blend a Skyrim-style modern UI with touches of a more Oblivion-style classic visual theme:
@@ -380,6 +380,7 @@ With that in mind, here are the major new quest mods included in Librum:
 10. ***[Moonpath to Elsweyr](https://www.nexusmods.com/skyrimspecialedition/mods/4341).*** One of the great classics of Skyrim modding, but remastered for a modern experience, Moonpath to Elsweyr brings you south to the heart of the Khajiiti homeland in order to recover the legendary _Staff of Indarys_. Along the way, explore the alien jungles of Elsweyr, join forces with the Khajiiti rebellion, and gain access to the airship _Dev Aveza_.
 11. ***[The Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748).*** Return to Sotha Sil's mysterious clockwork city, and take a trip through the stranger side of Elder Scrolls lore. Along the way, solve new puzzles and tread through Zelda-esque dungeons, unlock the fantastical weapons and equipment of Sotha Sil's Chronographers, and explore alien landscapes, all in the labyrinthian expanse of Sotha Sil.
 12. ***[Teldryn Serious](https://www.nexusmods.com/skyrimspecialedition/mods/5541).*** Teldryn Serious heavily expands the backstory of the mercenary Teldryn Sero, taking you around Solstheim once more in order to uncover a dangerous plot and defend Raven Rock.
+13. *(optional)* ***[Death Consumes All](https://www.nexusmods.com/skyrimspecialedition/mods/41910).*** Death Consumes All changes the game drastically, adding a spreading plague to the game world. Find and recruit the excellent companion Livia Salvian, fight the forces of the undead, and try to stop the plague and its mysterious source before it lays all of Skyrim to rest. ***This mod is excellent, and feature-complete -- it is only optional because of its drastic changes to the gameworld.***
 
 ![Alt Text](Resources/sotha.jpg?raw=true "Trainwiz's work, at its finest.")
 
@@ -403,7 +404,8 @@ Finally, Librum adds several _follower_ mods, to make the game world a little le
 23. ***[Hoth](https://www.nexusmods.com/skyrimspecialedition/mods/16137).*** One of the most visually unique follower mods available, Hoth is a grizzled bounty hunter and a new sort of companion to your character. Uniquely, he can provide bounty quests radiantly, dependent on your current area. He can talk dynamically with Auri.
 24. ***[Serana Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/16222) and [Serana Dialogue Addon](https://www.nexusmods.com/skyrimspecialedition/mods/32161).*** Together, these mods turn Dawnguard's beloved vampire follower into the sort of "super follower" introduced by the above mods. She is now aware of most quests and situations you find yourself in, and she speaks naturally with you and with others.
 25. ***[Useful Dogs](https://www.nexusmods.com/skyrimspecialedition/mods/1666).*** Although a minor addition relative to the follower mods above, Useful Dogs allows you to give commands to your canine companion. You can send them looking for food, weapons, ammunition, keys, and more, in the style of Fallout 3 and 4.
-
+26. *(optional)* ***[Shezarrine -- The Fate of Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/15866).*** In its current iteration, _Shezarrine_ overhauls the College of Winterhold's Onmund as a "super follower" of the above sort. In addition to greatly improved behavior and world interactions for Onmund, it adds a signifant amount to the end of the College's questline, completing the story of Onmund's family. ***This mod is optional because, at present, it is only the prologue of a larger story.***
+ 
 ### Graphics and Ambience
 Last but not least, Librum includes a full graphical makeover of Skyrim. The goal is to match the photorealism we are used to these days, but with a bend towards realizing Librum's dark, gritty, and foreboding nature in Skyrim's atmosphere.Perhaps most important for this end, Librum includes a suite of literal atmosphere mods, centered around a Frankenstein-ing of [Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/12125) and [True Storms](https://www.nexusmods.com/skyrimspecialedition/mods/2472):
 
@@ -419,11 +421,19 @@ The above only gives a small taste of the various atmosphere and ambience mods i
 
 ![Alt Text](Resources/lights.png?raw=true "ELE + RS")
 
+As we have become accustomed to, Librum also overhauls everything graphical about Skyrim, its world, and its inhabitants. Although I will not cover every detail of this graphical redux (see the manifest for a complete list), I will touch on some of the points that add to Librum's unique, gritty feel.
 
+First of all, as mentioned earlier in the [Combat and Enemies](#combat-and-enemies) section, Librum uses [Savage Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/37768) (along with several texture-enhancing mods) to redesign many of Skyrim's creatures. Some, like Spriggans, Seekers, and Lurkers, have been made significantly creepier and more imposing, befitting their supernatural nature. Ice Wraiths have been made more serpent-like, Netches have been given longer tentacles, and Rieklings have been made larger and more muscular. Hardy animals, from mammoths to horkers, have been made to look hardier; more slender animals, such as wolves and skeevers, have been made to look hungrier, more vicious, and wild-eyed. Dragons, vampire lords, and gargoyles have been given larger wings, Dwemer automata have been given better and scarier-looking proportions, and the new insects have been called "pure nightmare fuel".
+
+![Alt Text](Resources/treedude.jpg?raw=true "Spriggans, in all their creepy-ass glory.")
+
+Another interesting addition to Librum comes in the form of [Frozen Electrocuted Combustion](https://www.nexusmods.com/skyrimspecialedition/mods/3532). This mod adds bodily repurcussions to magic and elemental effects of all kinds. Fire may burn an opponent's skin right off, or just leave a nasty scar. Shock can cause spasms, or many worse effects. Frost can freeze an opponent solid -- striking a frozen foe will break them into several pieces. Effects have been added to everything from Fear to Soul Trap, so see the mod page for more information. In general, these new effects make the battlefield a grisly sight, and they make you think twice before zapping a fellow human person with _Lightning Storm_.
+
+![Alt Text](Resources/oof.png?raw=true "Oof.")
 
 Finally, one of my major goals of Librum was to make the existing Skyrim content feel new and different. As such, Librum completely redoes every town and city in Skyrim, from large-scale architecture and layout changes to a re-imagining of citizens' AI, all towards the end of making Skyrim a natural-but-exciting place to be.
 
-![Alt Text](Resources/dawnstar.jpeg?raw=true "The Great Dawnstar of JK's North")
+![Alt Text](Resources/dawnstar.jpeg?raw=true "Cities of the North and The Great City of Dawnstar, together.")
 
 ## Frequently Asked Questions
 
