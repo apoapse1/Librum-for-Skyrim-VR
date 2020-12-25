@@ -501,8 +501,6 @@ There are a few changes planned already for future versions of Librum:
  - I will de-level some of the added content -- importantly, _Skyrim Underground_ and _Forgotten Dungeons_. They're currently pretty good in this regard, but there are improvements to be made.
  - I will test _Death Consumes All_ and _Shezarrine_ more thoroughly, and either remove them or move them to the core mod list.
 
-## Changelog
-
 ## Known Issues
 There are a few known issues in Librum. I will correct these in future updates, but they are relatively minor and do not impact gameplay:
 1. Two spells are known not to work. The first is Mysticism's _Cure Disease_ spell, which -- thanks to iNeed's _Dangerous Diseases_ module -- will not truly cure diseases. The second is Elemental Destruction Magic's _Spy_ spell, which is not compatible with VR.
