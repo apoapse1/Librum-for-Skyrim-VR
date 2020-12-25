@@ -497,4 +497,4 @@ There are a few known issues in Librum. I will correct these in future updates, 
 1. Two spells are known not to work. The first is Mysticism's _Cure Disease_ spell, which -- thanks to iNeed's _Dangerous Diseases_ module -- will not truly cure diseases. The second is Elemental Destruction Magic's _Spy_ spell, which is not compatible with VR.
 2. Sometimes, the indicators around a messagebox's responses (like "yes/no" in the loading menu) will not properly display. To get around this, note that the cursor always starts on the leftmost response, and move left/right as normal.
 
-Campfire placement not working.
+
