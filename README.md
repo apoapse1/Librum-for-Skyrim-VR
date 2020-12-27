@@ -135,7 +135,9 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 Now that Librum is installed, it is time to start the game up for real and create your character. The character creation process has changed with Librum, so we will give details below. Moreover, it is highly recommended that you **configure the MCM after race selection** as described below.
 
 #### Copy "Game Folder Files"
-Navigate to the installed Librum folder, where you will find a folder titled `Game Folder Files`. Copy the contents of this folder to the Skyrimv root folder.
+Navigate to the installed Librum folder, where you will find a folder titled `Game Folder Files`. Copy the contents of this folder to the Skyrim root folder.
+
+There are two options available in the copied files: the "ENB - LCD" folder and the "ENB - OLED" folder. Depending on your headset, copy the contents of the appropriate folder to the Skyrim root folder; they should overwrite a few ENB-related files. If you do not know, the Valve Index and the Oculus Rift S are _LCD_ headsets, while the HTC Vive and Rift CV1 are _OLED_ headsets. 
 
 #### Starting Librum and Choosing Optional Plugins
 Navigate back to the installed Librum folder, and launch the program `ModOrganizer2.exe`. Before launching the game itself, take a look at the _Optional_ category at the bottom of the Mod Organizer 2 mod list. I will go over each below.
@@ -157,10 +159,6 @@ If you do not want this plugin, disable it in MO2.
 If you want this plugin, enable it in MO2.
 
 There are also two "preview" mods included in the Librum download, located directly above the optional plugins. See below for more information on what they do; they should be entirely compatible with the rest of the modlist, but they are not thoroughly tested in the modlist at present.
-
-Finally, there are two options when copying `Game Folder Files`; only copy one of the following subfolders, and copy its contents into the game directory.
-
-***High Fidelity ENB - LCD vs OLED*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/27308)]. Librum makes use of the excellent _High Fidelity ENB_, which fixes Skyrim's lighting while retaining the high framerates necessary for a good experience. If you have an LCD-based headset (Valve Index, Rift S), enable only the LCD version. If you have an OLED-based headset (Vive, Rift CV1), enable only the OLED version.
 
 #### Start up Skyrim... again
 To start the game for real, start SKSE through Mod Organizer 2. This will be necessary every time you start the game; if you try to launch Skyrim through its default folder or through Steam, the game will be entirely vanilla.
