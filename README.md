@@ -152,15 +152,15 @@ If you do not want this plugin, disable it in MO2.
 
 If you do not want this plugin, disable it in MO2.
 
-***High Fidelity ENB - LCD vs OLED*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/27308)]. Librum makes use of the excellent _High Fidelity ENB_, which fixes Skyrim's lighting while retaining the high framerates necessary for a good experience. If you have an LCD-based headset (Valve Index, Rift S), enable only the LCD version. If you have an OLED-based headset (Vive, Rift CV1), enable only the OLED version.
-
-Choose the appropriate plugin.
-
 ***WICO Non-Nude Meshes*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/2136)]. Librum uses WICO as a base, in order to overhaul character appearances in a natural-looking way. If you do not want nudity in your game, enable this plugin.
 
 If you want this plugin, enable it in MO2.
 
 There are also two "preview" mods included in the Librum download, located directly above the optional plugins. See below for more information on what they do; they should be entirely compatible with the rest of the modlist, but they are not thoroughly tested in the modlist at present.
+
+Finally, there are two options when copying `Game Folder Files`; only copy one of the following subfolders, and copy its contents into the game directory.
+
+***High Fidelity ENB - LCD vs OLED*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/27308)]. Librum makes use of the excellent _High Fidelity ENB_, which fixes Skyrim's lighting while retaining the high framerates necessary for a good experience. If you have an LCD-based headset (Valve Index, Rift S), enable only the LCD version. If you have an OLED-based headset (Vive, Rift CV1), enable only the OLED version.
 
 #### Start up Skyrim... again
 To start the game for real, start SKSE through Mod Organizer 2. This will be necessary every time you start the game; if you try to launch Skyrim through its default folder or through Steam, the game will be entirely vanilla.
