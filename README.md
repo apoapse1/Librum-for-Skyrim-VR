@@ -9,6 +9,7 @@ Wabbajack modlist installer for Librum
       - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
       - [Steam Config](#steam-config)
         - [Disable the Steam Overlay](#disable-the-steam-overlay)
+        - [Disable Motion Smoothing(#disable-motion-smoothing)
         - [Set the Game language to English](#set-the-game-language-to-english)
         - [Clean Skyrim](#clean-skyrim)
       - [Start Skyrim](#start-up-skyrim)
@@ -86,6 +87,10 @@ I doubt you need to do this since you likely already have this installed. The pa
 The Steam Overlay can cause issues with ENB and is recommended to be turned off.
 
 Open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
+
+##### Disable Motion Smoothing
+
+In SteamVR's video settings, turn off _Motion Smoothing_. It causes problems with a jittery UI and gameplay.
 
 ##### Set the Game language to English
 
