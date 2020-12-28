@@ -163,6 +163,10 @@ If you do not want this plugin, disable it in MO2.
 
 If you want this plugin, enable it in MO2.
 
+***The Adventurer Theme Mod*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/35568)]. The Adventurer Theme adds Oblivion-like elements to Skyrim's UI, changing (among other things) the inventory, magic menu, and crafting menus to look like parchment. See the [UI section below](#user-interface-and-controls) for more details.
+
+If you do not want this plugin, disable it in MO2.
+
 There are also two "preview" mods included in the Librum download, located directly above the optional plugins. See below for more information on what they do; they should be entirely compatible with the rest of the modlist, but they are not thoroughly tested in the modlist at present.
 
 #### Start up Skyrim... again
@@ -219,8 +223,8 @@ The suggested MCM options are as follows:
 27. **Wildcat Combat.** Enable "Allow Wildcat to manage difficulty" and "Burst injuries".
 
 Further, there are a few settings to change using mod configuration spells:
-1. **Destructible Skyrim.** Simply click "remove spell".
-2. **Obsidian Weathers.** Enable seasonal effects, and choose the "Bleak" preset.
+1. **Destructible Skyrim.** This configuration spell is available in the _Illusion_ tab. Simply cast and click "remove spell".
+2. **Obsidian Weathers.** This configuration spell is available in the _Powers_ tab. Enable seasonal effects, and choose the "Bleak" preset.
 
 Congratulations! You've completed the Librum setup, and you are ready to play. The next several sections will explain what Librum is and does, as well as provide support.
 

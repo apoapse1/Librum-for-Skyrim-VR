@@ -9,7 +9,7 @@
   "ModManager": 0,
   "ModManagerName": "MO2",
   "DownloadSize": 40236873969,
-  "InstallSize": 71478580467,
+  "InstallSize": 71478580114,
   "IsNSFW": false,
   "Archives": [
     {
@@ -9680,4123 +9680,4123 @@
   "InlinedFiles": [
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "51bb4d8f-4739-460e-ae0d-b2b4f705974f",
+      "SourceDataID": "a3c9b11e-d366-4cf7-a203-37e912b28a9d",
       "Hash": "0BH8eC9R9ng=",
       "Size": 51,
       "To": "dump_running_process.bat"
     },
     {
       "$type": "RemappedInlineFile, Wabbajack.Lib",
-      "SourceDataID": "0aebef9e-e4ca-46a6-bfe3-d77e670ea9a5",
-      "Hash": "uoTI4z78MOo=",
-      "Size": 12155,
+      "SourceDataID": "5bbf2eda-f9f2-4429-a378-d7e0a68cf28a",
+      "Hash": "GtlT7MpFvVg=",
+      "Size": 12176,
       "To": "ModOrganizer.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "64e7f042-e187-4255-bfc9-d38f193f661d",
+      "SourceDataID": "c224f16c-3fea-424f-bd38-f157a8a487a1",
       "Hash": "XAvuacyw0pw=",
       "Size": 2518,
       "To": "mods\\3DNPC-TGCoMM Patch by WiZkiD-36350-1-0-1591299024\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ccbc8989-c0c8-4a02-9c60-eec915af3c41",
+      "SourceDataID": "0c62c266-84c6-405d-86a2-ec1788c354bb",
       "Hash": "CSgWMpcH5qE=",
       "Size": 1365,
       "To": "mods\\4K HQ Cowhide Yeehaw\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "24839a4a-070c-4633-a9c1-dd06784b5eb8",
+      "SourceDataID": "d2e0d357-3381-497e-8c3f-5fb590363101",
       "Hash": "p896GkgQYYs=",
       "Size": 7082,
       "To": "mods\\Ace Blood Magic\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e157c4ff-ade5-4941-8031-9826f227ddcb",
+      "SourceDataID": "9eb718a2-475a-44c5-99cd-de0832f7dfd2",
       "Hash": "mmXY5sy1d3M=",
       "Size": 11762,
       "To": "mods\\Address Library for SKSE Plugins\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e9a94cf9-210e-4024-807c-44ca1881c6c5",
+      "SourceDataID": "1b4f96a4-9061-46ba-8181-059c00f99b8b",
       "Hash": "5zcRkqN42e8=",
       "Size": 7714,
       "To": "mods\\Advanced Adversary Encounters - Ultimate SSE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4e4e0615-ad09-4c1e-800e-ef6560d7fa8c",
+      "SourceDataID": "fbb0d56a-80bb-4dcf-a083-96f00022157b",
       "Hash": "7i7mSbFpjmI=",
       "Size": 596,
       "To": "mods\\Advanced Adversary Encounters Patches SE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c132502c-ef7a-4262-9c5b-8c1c77711ddd",
+      "SourceDataID": "d46296bc-b4fe-494b-8c8f-419c8ce53875",
       "Hash": "F26nEJ8k4iM=",
       "Size": 429,
       "To": "mods\\AI_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6e931734-d5bd-49a2-b6c0-b417876f20f0",
+      "SourceDataID": "7480fc45-8ec3-4908-811e-5cd1b2d11243",
       "Hash": "hyeroA7eKY8=",
       "Size": 9379,
       "To": "mods\\aMidianBorn Book of Silence SE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "200a3d9b-a1d6-4f94-a33a-c1a203d41edf",
+      "SourceDataID": "e2bcc114-3bf9-449a-8293-4b65c867cdbc",
       "Hash": "gs4aNS9ZR2U=",
       "Size": 523,
       "To": "mods\\Ancient Automatons 2K\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ac6a498e-a0cb-4ec9-b25c-b2395c665e56",
+      "SourceDataID": "de6a0794-681a-47e0-a611-af006d691e6c",
       "Hash": "6xr3MWWpXQc=",
       "Size": 551,
       "To": "mods\\Ancient Dwemer Metal\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b5cb3973-98b3-470f-a472-523a5f8a8b1e",
+      "SourceDataID": "91e3b8a8-2f57-4d2d-8b72-174a01039766",
       "Hash": "9EBWSMZaa3U=",
       "Size": 2161,
       "To": "mods\\Ancient Pottery\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "2c2dd47e-5ece-49ef-967d-10bb402e5752",
+      "SourceDataID": "dcd31307-91ab-40ff-8845-d51d2ee2c159",
       "Hash": "ThVmSpBVTrg=",
       "Size": 532,
       "To": "mods\\Andromeda - Unique Standing Stones of Skyrim\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "41f2fc84-9cca-400c-a6e5-5aec9a8a4f4b",
+      "SourceDataID": "06e939f5-2899-45d4-842e-55c899f5d2bc",
       "Hash": "ogp6agxw+XA=",
       "Size": 6314,
       "To": "mods\\Animated Clutter\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3fdd3292-ca4e-4980-b3eb-79c16a710d53",
+      "SourceDataID": "865ffe53-0e84-4502-97d8-bef3f34477fd",
       "Hash": "QH7Hl5alc4M=",
       "Size": 7075,
       "To": "mods\\Arc Blood Magic - No Anti-Vampire Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "731a6124-35a9-4098-9e91-57d2abbb1952",
+      "SourceDataID": "10869d08-1d4d-463a-84f4-d72142b525e3",
       "Hash": "9s+yMWpUF2w=",
       "Size": 7959,
       "To": "mods\\Armor and Clothing Extension\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5f495241-9b37-4c1d-9337-3d7983db3e1b",
+      "SourceDataID": "4cbf4dc8-0a6a-4286-8376-e7d8a05afaa3",
       "Hash": "Hnjx+jbpWYk=",
       "Size": 3874,
       "To": "mods\\Arri's Snow Elf Ruins Retexture Special Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "84fc66ec-c8ff-49ea-9996-353e3cfce084",
+      "SourceDataID": "69c8eff8-a864-41aa-bbb5-93e7b4022e6a",
       "Hash": "dLYtbtLHXWQ=",
       "Size": 3379,
       "To": "mods\\Ashbound -- Better Tel Mithryn\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a21f956d-5af1-4444-a2bd-2649748e17f8",
+      "SourceDataID": "12ec2b6f-954a-490e-90ac-16f4fe67ef53",
       "Hash": "nNiIaIZ4sok=",
       "Size": 3378,
       "To": "mods\\Ashbound -- Quaint Raven Rock\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "fdfa85c9-5361-42fc-973d-49132a0b6809",
+      "SourceDataID": "f2b7e0cb-c82a-4417-9ebc-e42091b4fad5",
       "Hash": "iPwiUneCeuM=",
       "Size": 3367,
       "To": "mods\\Ashbound -- Solstheim Enhanced\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "247201d0-406c-43f9-89ec-44ea99ab0557",
+      "SourceDataID": "4d119a41-2a0b-4abc-bb59-a3663b5f381a",
       "Hash": "URvvMyzc0C4=",
       "Size": 11024,
       "To": "mods\\Bandolier - Bags and Pouches Classic\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "41ca2751-2ba5-4454-a88d-8d99181b81a6",
+      "SourceDataID": "2626c93d-baa0-47cb-b144-e0c73abab4b7",
       "Hash": "dT9DN4TZ51c=",
       "Size": 5562,
       "To": "mods\\BDS - Beyond Skyrim Windmill fan - animated\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6e85100f-8181-4d22-9514-bfe9699a823c",
+      "SourceDataID": "bc96e28f-0139-462c-9719-769b509e6139",
       "Hash": "YyD44xy7FpQ=",
       "Size": 593,
       "To": "mods\\Bellyaches Animal and Creature Pack\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9be1384c-a9c8-4efb-8928-690f27efef0f",
+      "SourceDataID": "b7c765c2-7fc5-4443-ab47-6a1e5c47434c",
       "Hash": "221c+eb+TfQ=",
       "Size": 532,
       "To": "mods\\Bellyaches HD Dragon Replacer Pack (SE)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "09c82166-8048-43a9-ac7c-a1d93bb4b7b7",
+      "SourceDataID": "9f528963-fea8-4fd3-aad4-4b012c0c61cd",
       "Hash": "mXvzTrFmUJ0=",
       "Size": 2253,
       "To": "mods\\Better Dynamic Ash SE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "27e22ac4-c094-475e-82c6-36d792bf2e8d",
+      "SourceDataID": "1e9cb6c5-2bcc-49dc-99e4-89a24f987c6e",
       "Hash": "U6kCIK9eYZA=",
       "Size": 8600,
       "To": "mods\\Better Dynamic Majestic Mountains\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9f0d06e2-7149-4f66-a938-cd6fdfd42403",
+      "SourceDataID": "07d1f4dc-979f-4b1c-8f95-39847fc16119",
       "Hash": "6RR4Fvn7f2k=",
       "Size": 8591,
       "To": "mods\\Better Dynamic Snow\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ec5dbf43-876f-45f7-bff0-d4c7d58fb074",
+      "SourceDataID": "b5f7eb3d-52c2-4807-bdef-70dfb2a0a185",
       "Hash": "gXUtd+NGEo4=",
       "Size": 5557,
       "To": "mods\\Better Dynamic Snow - Beyond Skyrim\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "76be3ac3-2ade-47a0-9827-1ec307dde81c",
+      "SourceDataID": "3c6bdf8f-e7dd-4f94-8753-c92aa593b444",
       "Hash": "VBxY/KvqsAk=",
       "Size": 5546,
       "To": "mods\\Better Dynamic Snow - Patches\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "619e1f13-8445-41e7-96c1-53eec00a586d",
+      "SourceDataID": "1e3962e9-452d-41a7-b22f-48bcbb7d5a3c",
       "Hash": "nG0ivH1PFqs=",
       "Size": 5182,
       "To": "mods\\Better Tel Mithryn\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "901d3a7d-8083-4312-863b-dcdc1a6ee49d",
+      "SourceDataID": "097952e8-240e-4d95-bda7-3d0697d4a155",
       "Hash": "gMXhL8aqopk=",
       "Size": 5217,
       "To": "mods\\Better Tel Mithryn - Spongeman131 Update\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "74c3989e-2d00-4af3-be2d-9dca25a595b6",
+      "SourceDataID": "2bdf1f14-d101-4b30-8c2f-b72276f0d006",
       "Hash": "PNlAAuNIgAM=",
       "Size": 5713,
       "To": "mods\\Beyond Skyrim - Bruma - Tweaks Enhancements and Patches SSE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9d1bea7b-cbe0-459c-8e3d-812c23e2acef",
+      "SourceDataID": "1f90bc44-edc2-4bf4-a55d-3e7a77abeca0",
       "Hash": "cmHhPSv6Ics=",
       "Size": 12222,
       "To": "mods\\Beyond Skyrim - Bruma SE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d1e10da8-1204-4ca2-84d5-7e4ab7c5e7b9",
+      "SourceDataID": "113b9e62-9139-47c9-91d2-c3ce1c30b659",
       "Hash": "ttHqSMtShuI=",
       "Size": 12237,
       "To": "mods\\Beyond Skyrim DLC Integration Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "afb7aa3d-ef34-4876-9056-87757ff59157",
+      "SourceDataID": "3be8099c-6afd-4cd4-a539-71186301700c",
       "Hash": "X95zo0nO9RY=",
       "Size": 5078,
       "To": "mods\\Birds and Flocks SSE Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c8dd3fed-897c-4e65-9332-e8bdf96dd8d9",
+      "SourceDataID": "131c6001-6e0e-40f4-bc65-302e30d3e109",
       "Hash": "XyAStp9lI5I=",
       "Size": 581,
       "To": "mods\\Birds of Skyrim SSE Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "36c8dd30-f4d0-4c98-9c12-ea5484ca1db8",
+      "SourceDataID": "da1d065f-15a7-4630-b0a4-2bc1346ceb91",
       "Hash": "XCDvl+NxBTM=",
       "Size": 5674,
       "To": "mods\\Bleak Falls Barrow - Revisited\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "426d2e26-0980-475e-9e8a-d4385a7c55f4",
+      "SourceDataID": "fc504e3f-6c67-48fe-ac6a-4ed30a751537",
       "Hash": "OvC8zS3oWkA=",
       "Size": 581,
       "To": "mods\\Blended Roads\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0d7c38c7-a74a-405f-baee-fd17590597d9",
+      "SourceDataID": "44286d21-56a5-4118-a8fa-df75cdb24a1f",
       "Hash": "KMPIuz0e5vc=",
       "Size": 3535,
       "To": "mods\\BLOODSTONE CHALICE REBORN\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5dc6dcd7-ed29-4b73-892c-aad06cbedef3",
+      "SourceDataID": "e9ac54df-b62c-47b6-8d98-abd8735132f0",
       "Hash": "u0ZjhQtdGeM=",
       "Size": 3808,
       "To": "mods\\Bounty Gold SSE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e4ae1e56-c8cc-43f6-b3dc-d45b832d6cf6",
+      "SourceDataID": "3d12e195-b73b-4f5b-b3e9-f3ede87cb3f0",
       "Hash": "UeVL7WJkzeQ=",
       "Size": 1765,
       "To": "mods\\Bruma Signs SMIM patch - SE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "43e119ba-6bfa-4ef4-9f42-9da06b8c2926",
+      "SourceDataID": "308c1c53-4b24-4ad7-91d3-e8dd409aa6c9",
       "Hash": "rem/u9m1H3o=",
       "Size": 4701,
       "To": "mods\\BSBUT_Armor_4x\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e365b98d-cfd6-4b9f-89a8-1bab3918405f",
+      "SourceDataID": "d7b11b46-e5c1-4510-80ee-e86266be0222",
       "Hash": "eaC1NDlCyio=",
       "Size": 4700,
       "To": "mods\\BSBUT_Clothes_4x\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "dd28aedc-7278-4ac1-a225-55d95f64e529",
+      "SourceDataID": "34cca27e-a70f-4248-a276-113599e7572d",
       "Hash": "sqmHxgJcGVM=",
       "Size": 4702,
       "To": "mods\\BSBUT_Weapons_4x\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "32e04087-6e32-44bc-91b9-7cc57744ee27",
+      "SourceDataID": "56de30e6-93ad-420f-891b-4848a750b448",
       "Hash": "cQaUpHKjKeM=",
       "Size": 529,
       "To": "mods\\Bug Fixes SSE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "81a2725f-7b9f-4b54-a286-344a9c13295c",
+      "SourceDataID": "24538a48-9888-448d-a7a1-fb284fb70849",
       "Hash": "SIiO/h6pfhE=",
       "Size": 545,
       "To": "mods\\CACO - Beyond Skyrim Bruma Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "69d0790f-8ab5-4968-9fba-28f6881b702e",
+      "SourceDataID": "10fea676-8400-4a0d-8278-36cbce7e8322",
       "Hash": "pvuN+2oaInU=",
       "Size": 63610,
       "To": "mods\\CACO - True Fortify Effects for Magic Skills\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "fbfb6bf7-87b8-4745-b932-0c4f6ff8ea36",
+      "SourceDataID": "dd947b49-663c-4f1b-b038-dfb19974dc98",
       "Hash": "WMhoXSAWaxI=",
       "Size": 7636,
       "To": "mods\\CACO-ZIA Patch Plus\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1ab45306-fb28-40b5-bcb1-ae9dda84df86",
+      "SourceDataID": "a0652f0c-9e2a-482d-af98-6ef135b18287",
       "Hash": "/EzX2e2LZw8=",
       "Size": 7456,
       "To": "mods\\Campfire - Complete Camping System (Supports Skyrim VR)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "044e3d78-1a74-4b30-9ee2-f8813fc8168b",
+      "SourceDataID": "71fad0bb-a476-419e-8b63-c94e2a8382f8",
       "Hash": "Vw+W2+d7eGo=",
       "Size": 8212,
       "To": "mods\\Campfire and Frostfall - Unofficial SSE Update\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d0e4aa90-821f-440e-8771-43acbc02bab0",
+      "SourceDataID": "f67abd0f-e825-4e4f-b414-bfefda67dd25",
       "Hash": "gr69ejuUJak=",
       "Size": 528,
       "To": "mods\\Caranthir Tower Reborn SE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d2ab974b-8c06-41a1-9465-f5f67171cc38",
+      "SourceDataID": "2035e614-620a-4d77-abc5-851e02dc09f8",
       "Hash": "J9zGmQHPfbU=",
       "Size": 21858,
       "To": "mods\\Carriage and Ferry Travel Overhaul\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ec73ab86-bd32-4661-b7d4-2caf9641b270",
+      "SourceDataID": "59fbce05-e41d-4e8f-9d78-d8a34281562f",
       "Hash": "KaSbQIeGimc=",
       "Size": 573,
       "To": "mods\\Carved Brink\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b9713caa-a10e-4107-ad57-4e6362b76e85",
+      "SourceDataID": "982d8eab-7193-4ad4-8d75-61becf2f81a5",
       "Hash": "Qn/x2mMVUbU=",
       "Size": 5409,
       "To": "mods\\CC's Enhanced Ore Veins SSE - 2K - 8.0\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "dd26f708-59fe-434e-925a-71d3554e085a",
+      "SourceDataID": "2d82fec9-4fba-4e7a-9011-bd1b9e911299",
       "Hash": "wa+LPPiaqTE=",
       "Size": 2682,
       "To": "mods\\CC's HQ Fort Dawnguard\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e2f95907-7477-40e0-9382-1356a7757d96",
+      "SourceDataID": "38bed8b0-2c6f-4d89-8a1e-51d191c84dfd",
       "Hash": "InaZomr9+B8=",
       "Size": 1260,
       "To": "mods\\Centered Messages Box VR\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "409614ff-b1e0-47f0-bc98-192a5bcf4519",
+      "SourceDataID": "fe2aa170-5dce-448a-806d-b15bfb45bb30",
       "Hash": "mmW1u4/Jx8M=",
       "Size": 21871,
       "To": "mods\\CFTO - Immersive Citizens AI Overhaul Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "39a62bc9-e392-4236-b87d-4e3fb0f20338",
+      "SourceDataID": "83c14729-401a-46b9-baf3-b4736467a329",
       "Hash": "CO5I9Mno2Eo=",
       "Size": 21847,
       "To": "mods\\CFTO - iNeed patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "00ed44bb-1b83-4b03-900c-a8a51c172847",
+      "SourceDataID": "74203805-df9d-4191-8c3c-b77117644619",
       "Hash": "LBPM+bao7xs=",
       "Size": 1920061,
       "To": "mods\\Cinematic Dragon Soul Absorbtion\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0d3a2e98-d5b6-42e8-98f1-3cad06f0872b",
+      "SourceDataID": "e1a7e3fb-d155-433c-9093-c073a9f3dd63",
       "Hash": "ACn75tGxPHs=",
       "Size": 1742,
       "To": "mods\\Circlet USSEP Fixes\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e792f7e3-91ac-4572-962e-291086fbc1bf",
+      "SourceDataID": "d3b0cb0a-9072-4315-b187-ac5b38974317",
       "Hash": "s50frX+qmy4=",
       "Size": 6912,
       "To": "mods\\Cities of the North - Dawnstar\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "cd433e81-2033-48ef-9395-5ea2bcc4832e",
+      "SourceDataID": "52a98043-da95-4e41-8ce8-72e00e5281d6",
       "Hash": "B6vzYe+d6xs=",
       "Size": 6900,
       "To": "mods\\Cities of the North - Dawnstar - BDS\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b7c573a6-0fde-431c-90e2-64231644e393",
+      "SourceDataID": "21df8811-0477-4b3f-b3d5-30b8883b4f81",
       "Hash": "P4hQZB2R+VU=",
       "Size": 6903,
       "To": "mods\\Cities of the North - Dawnstar - NSUTR\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9f920820-3c3a-4802-9dff-476c126984ec",
+      "SourceDataID": "c30d6823-b53b-4cdd-9d86-afbe24adf104",
       "Hash": "cDxQHCtWvs4=",
       "Size": 5932,
       "To": "mods\\Cities of the North - Morthal\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d80aa8f1-a8b9-45ab-acf3-0d584886a54a",
+      "SourceDataID": "08f55b7d-21a8-4b8e-8230-8d31f1013481",
       "Hash": "tft8DDVdZqA=",
       "Size": 545,
       "To": "mods\\Cities of the North - Winterhold\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "769e4770-216e-4ad4-91e9-36dd6ff52edb",
+      "SourceDataID": "9f0d868e-486a-45df-8578-0bccaee904e6",
       "Hash": "ffwhigA+gRA=",
       "Size": 428,
       "To": "mods\\City Overhauls_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "550a9d7c-e5c6-4733-8311-9afeb71a87c8",
+      "SourceDataID": "76e08614-9fb9-41f9-993a-7354df005256",
       "Hash": "tY5eOo6Qw6o=",
       "Size": 62095,
       "To": "mods\\CIVIL WAR OVERHAUL - Redux\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8259b753-3e2a-42f3-9a1a-f95d1734bad5",
+      "SourceDataID": "641d5b2d-b6a9-4865-a775-757246065606",
       "Hash": "u1krVJy4jzc=",
       "Size": 2071,
       "To": "mods\\Cloaks of Skyrim HD SSE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b1a1dad0-ca9d-4d52-b738-234612e51b71",
+      "SourceDataID": "bfcd0e84-2a69-458f-ab28-d62c47940fda",
       "Hash": "9u5pPYRBHQU=",
       "Size": 13990,
       "To": "mods\\Cloaks of Skyrim SSE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5cb98ffd-d0fe-443a-b25e-02d0f9dd6189",
+      "SourceDataID": "2a0548b6-a67b-41db-a8d8-c027082f5aca",
       "Hash": "7wxoWp1Eoc0=",
       "Size": 40521,
       "To": "mods\\Clockwork (SSE)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "bba097d0-3e07-4a30-8dca-d3d7cfd7a544",
+      "SourceDataID": "89a625fb-ce29-41eb-b150-7a35573065b2",
       "Hash": "h+KOC8pLf6o=",
       "Size": 3624,
       "To": "mods\\Cobb Encumbrance\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "7907fb35-3137-4a98-9382-5ad92b4a8a23",
+      "SourceDataID": "9ddf4399-a8aa-4c40-a814-ba2af46d67d7",
       "Hash": "jfTVtmkR31g=",
       "Size": 429,
       "To": "mods\\Combat_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "7b90a846-285a-4996-b157-4eaef47a037e",
+      "SourceDataID": "5f942599-73ee-4710-87ec-92bf7761b15e",
       "Hash": "A0ScTcmuvQM=",
       "Size": 63608,
       "To": "mods\\Complete Alchemy and Cooking Overhaul\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5f88e468-e303-4410-b79d-17275c19617c",
+      "SourceDataID": "b0a4544d-fe9b-4c27-a684-aad5c454d601",
       "Hash": "2zcY3b59DF4=",
       "Size": 63602,
       "To": "mods\\Complete Alchemy and Cooking Overhaul - VR\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4f4a773a-5e95-4538-9a34-26c80931ee28",
+      "SourceDataID": "0f335b69-22da-4660-bb10-e78724d837fb",
       "Hash": "HcZQbDVO6Ms=",
       "Size": 536,
       "To": "mods\\Cosmic Spells\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "410f3db4-7717-4f60-ba42-81c35e3f77c6",
+      "SourceDataID": "a5c1e766-efb1-4e5b-a55a-7defdaf42deb",
       "Hash": "3tpnUy7sAZ8=",
       "Size": 27901,
       "To": "mods\\COTN Dawnstar Patch Collection\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "52d30772-7f09-4433-a3d1-9a1df0e6d6ca",
+      "SourceDataID": "c514d272-4615-4367-8082-76f394d19cfa",
       "Hash": "UEK465utRsA=",
       "Size": 24637,
       "To": "mods\\COTN Morthal Patch Collection\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f7969198-38dd-4c41-883e-79e6eba48126",
+      "SourceDataID": "b8260d6c-b347-4bea-97a0-86ec744733a0",
       "Hash": "gsYvcOTSFzk=",
       "Size": 603,
       "To": "mods\\COTN Winterhold Patch Collection\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "352a68f5-cfdd-4fbd-be20-e3ff95829a7e",
+      "SourceDataID": "aee472c1-27a0-4bb6-8cd1-af2d20d72e72",
       "Hash": "wPdCdRP7MXs=",
       "Size": 2127,
       "To": "mods\\Cutting Room Floor - No Snow Under the Roof SE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "fcbed0f9-b063-4700-9da6-cb1e8297c33d",
+      "SourceDataID": "31bf74f5-387f-4fde-beb9-a87b4624cbba",
       "Hash": "iB4QZ4wryJc=",
       "Size": 528,
       "To": "mods\\Cutting Room Floor - SSE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d7d0a867-8d14-48e2-9672-5c09728cd928",
+      "SourceDataID": "087af210-eae8-40cf-9242-00eb99ed7746",
       "Hash": "Us8q2f0zE7k=",
       "Size": 916,
       "To": "mods\\CWO - Only Nords in the Stormcloak Army\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "45063a89-ced6-4a87-a1a5-866ad01d3b28",
+      "SourceDataID": "e60f0866-56f4-4e0a-8fef-2248347e4730",
       "Hash": "E4b0q+/gwsQ=",
       "Size": 855,
       "To": "mods\\CWO - Only Nords in the Stormcloak Army\\zPatch.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0cbc7838-7bd0-4654-bbe2-78f3de2574d6",
+      "SourceDataID": "b82657fe-6e22-4b8a-a4c6-2da12e8b169b",
       "Hash": "vHN1A8yHbJw=",
       "Size": 62098,
       "To": "mods\\CWO - TCIY - Wintersun Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6a85fac5-85ed-4ca3-aa68-ea5d27127322",
+      "SourceDataID": "c48dcaf4-fdaf-4b07-b3bf-e8d11afa30ff",
       "Hash": "cZ8aiAAKYrw=",
       "Size": 562,
       "To": "mods\\Daedra-tastic Rune Spells\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "519f56a2-a2c3-44d7-85d2-3d7020d6cd97",
+      "SourceDataID": "a68d1d03-9b5d-4a38-b6ae-9deb9a1dad60",
       "Hash": "5cnCHnlmD0M=",
       "Size": 4538,
       "To": "mods\\Dark Brotherhood Tenets Restored - Performance Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6a7e9bcc-259a-4d90-a2e0-71f72a50420e",
+      "SourceDataID": "c0b12a1e-5e21-4c51-ae65-63b9e272442b",
       "Hash": "vdUinVnZtGQ=",
       "Size": 8049,
       "To": "mods\\Dawn of Skyrim (Director's Cut) SE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b7e5a92b-1dfa-4977-8286-0ce111114dcc",
+      "SourceDataID": "158a7f91-b11a-48ab-953b-22111aa2d173",
       "Hash": "xgJEvOCFTBw=",
       "Size": 1646,
       "To": "mods\\Dawn Of Skyrim - Immersive Citizens AIO - Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ac05802f-ef6c-467a-ac17-a5375c045d63",
+      "SourceDataID": "7ffe0343-409e-46ba-b2c2-fc4219e67f85",
       "Hash": "OBzs5hkdu/0=",
       "Size": 7175,
       "To": "mods\\Dawnguard Arsenal SSE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "949cf5ab-1c74-4c22-9390-069a6c5578f1",
+      "SourceDataID": "816af3dc-d12d-4f89-b235-63ecc74e1534",
       "Hash": "/P4PHF3JkGA=",
       "Size": 1606,
       "To": "mods\\Deadly Spell Impacts\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1fc7dc4d-9cef-49f3-a6e8-ba1d5bc0d482",
+      "SourceDataID": "083df0d2-c0f8-4615-be57-fce380da43ee",
       "Hash": "382YOjlDfbM=",
       "Size": 561,
       "To": "mods\\Destructible Skyrim - Breakable Objects SE (Beta)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8f68aff8-c529-4817-9d0b-319be43c4a74",
+      "SourceDataID": "50c7b200-f20d-40e4-9f1e-1798f1091c31",
       "Hash": "EcgYmbSRBr0=",
       "Size": 8007,
       "To": "mods\\Distinct Interiors\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "bb203dd5-2a01-447b-bb3e-ff6bb3a27034",
+      "SourceDataID": "ee578961-0b23-4eaf-b545-5367d289f999",
       "Hash": "+GPq++W/s6M=",
       "Size": 1000,
       "To": "mods\\Distinct Interiors - Immersive Citizens Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "aa0902c7-06b2-438d-82e2-9fd2c998016c",
+      "SourceDataID": "0ed09204-577c-427c-bb3e-781a98d00a23",
       "Hash": "pPDodZ10twU=",
       "Size": 13934,
       "To": "mods\\Diverse Dragons Collection SE (DDCse)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c5a8023b-b531-4c7c-ae2e-eb89fd87fd05",
+      "SourceDataID": "7071fedd-c3ce-419e-ac6f-36c7ed733c80",
       "Hash": "KM5q6vgStls=",
       "Size": 532,
       "To": "mods\\DIVERSE SKYRIM SSE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c6199057-9fa3-43cd-88ef-ecc89d943aa5",
+      "SourceDataID": "47fd7801-a2c7-46c3-bb7a-22987dc73511",
       "Hash": "9ivU+naxOyk=",
       "Size": 1672,
       "To": "mods\\Dragon Animation Replace in Special Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "057690bc-2cce-4763-a571-797131521056",
+      "SourceDataID": "715fb43c-af51-4f7e-82bf-37d1a6c2cac1",
       "Hash": "3tb2ReHUolE=",
       "Size": 563,
       "To": "mods\\Dragonborn HD Ultra - Volume One - Apocrypha\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4b12d6a3-1b30-4371-b27e-99cfe761540c",
+      "SourceDataID": "069e64d7-66e7-4ca3-a524-0d483b033a27",
       "Hash": "vbjyr+hWIcU=",
       "Size": 538,
       "To": "mods\\Dragons from the Start\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "111ea849-7f60-49d2-88c8-9c9a7e930457",
+      "SourceDataID": "e19406fb-2fb9-4a70-9145-e4f8e86ff278",
       "Hash": "YTZMupd0cGY=",
       "Size": 8597,
       "To": "mods\\Draugr.by.Kajuan\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f530dd63-1104-4856-947c-56f3e2ceada2",
+      "SourceDataID": "0b481898-f083-4dd1-a160-28f63cd032d7",
       "Hash": "NjdVe2iHLwE=",
       "Size": 536,
       "To": "mods\\Dual Wield Block VR\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "2afc5e57-fadb-4f50-a078-3d8a06f4633b",
+      "SourceDataID": "c85953bb-8b1a-4a3a-b353-45e17a548fff",
       "Hash": "SxtuyNewJj0=",
       "Size": 429,
       "To": "mods\\Dungeons_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ebd853ee-41b0-4d43-840f-39220ae5645c",
+      "SourceDataID": "abdc3716-1b6a-4b62-a98f-c16ac06cd86f",
       "Hash": "eCeClN0S2Fg=",
       "Size": 1970,
       "To": "mods\\Dust Effects by HHaleyy\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "65a27d16-e2dc-4784-8669-a4ccfc35fe96",
+      "SourceDataID": "85a10fcd-6ea8-4266-aeea-95b858ebe784",
       "Hash": "QMy9cH+l9F0=",
       "Size": 995,
       "To": "mods\\Dynamic Things - Enhanced\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a89db133-5a15-4029-be63-6c43920a9b85",
+      "SourceDataID": "f094abdc-aada-44d0-93e0-b1ad580825cd",
       "Hash": "+sVKLEf6gHo=",
       "Size": 1043,
       "To": "mods\\Dynamic Things - Woodpiles and Barrels and More Oh My\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f852808b-2595-48fd-8b40-b95ae4b83a54",
+      "SourceDataID": "c38a1cae-ccee-4bd2-bfe2-9b8a1c8700f2",
       "Hash": "U9bEcEn+e6c=",
       "Size": 603,
       "To": "mods\\DynDOLOD Resources SE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c7d578b2-42e8-4454-aba5-ac1810db50e1",
+      "SourceDataID": "ea0fb655-4c2a-40a0-b1fa-3db5d7298829",
       "Hash": "4qzcQxqLhAk=",
       "Size": 2124,
       "To": "mods\\EASIER LOCKPICKING - Without Cheating - Nordic Retexture\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "bfe39717-f253-49bb-8615-6aec5eabaf5a",
+      "SourceDataID": "83ec05a5-26b5-4764-87ea-16bf0327ae1c",
       "Hash": "/JDkO/sEgUw=",
       "Size": 429,
       "To": "mods\\Economy and Resources_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8b1ebb2f-6efd-47f9-a996-0c98b3be3900",
+      "SourceDataID": "851bf4f4-4eb6-4e59-a3e5-9a48d4c3d862",
       "Hash": "fMiHV62Hcl0=",
       "Size": 34915,
       "To": "mods\\EDITED (INI) Dragonborn Speaks Naturally\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ca2897b6-dfb1-4c4f-a769-28771293b3dc",
+      "SourceDataID": "958152f1-4685-426f-b80b-70cc7603dec0",
       "Hash": "uwiSEFzPCSk=",
       "Size": 6890,
       "To": "mods\\EDITED - Solitude and Temple Frescoes SSE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d8b5eba4-2722-4140-8afa-c364d3f1abe5",
+      "SourceDataID": "903f4a19-6410-458e-8f06-28168f814d3b",
       "Hash": "AIP2mfKaHXw=",
       "Size": 554,
       "To": "mods\\EDITED Gemling Queen Jewelry SE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "2d7afdc8-e620-4c24-b8e5-05de3523552e",
+      "SourceDataID": "d2ad83c7-f0f4-4191-aae0-e912224aac74",
       "Hash": "nLuJ3WJu2eg=",
       "Size": 7470,
       "To": "mods\\ELE SE - Beyond Skyrim - Bruma patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a4b26dd4-e034-470f-be53-08b2ffd05e3b",
+      "SourceDataID": "e644bf0e-6826-41e2-a860-15c88d43c31a",
       "Hash": "Qfy819reVmc=",
       "Size": 7465,
       "To": "mods\\ELE SE - Cutting Room Floor patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6eef0b5c-1ee3-4ac0-bb53-6231ffee1481",
+      "SourceDataID": "7e296a07-b639-492a-a2ac-489518518023",
       "Hash": "XA50P/Mppng=",
       "Size": 7476,
       "To": "mods\\ELE SE - Legacy of the Dragonborn patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ed344d60-24db-482d-a6b4-9825f64e6e8e",
+      "SourceDataID": "4cb1bcc4-2c63-4ca1-9a31-c90bf28aceee",
       "Hash": "V19uxlqvlGY=",
       "Size": 16312,
       "To": "mods\\Elemental Destruction Magic\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "44563a29-cab7-4043-8595-5d0982cd0c92",
+      "SourceDataID": "5b3d26a9-5124-428b-acde-398a46accc31",
       "Hash": "mXv4jUzXgxc=",
       "Size": 2489,
       "To": "mods\\ElSopa - Campfire HD SE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e43204dd-535c-4b2a-ab7f-bf3bed67a01e",
+      "SourceDataID": "32b607c0-2f5f-406c-9690-8076964bdc89",
       "Hash": "nmq7+F+8DR8=",
       "Size": 1114,
       "To": "mods\\ENB Helper SE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "692301fc-dcd9-4e30-9ce9-acbceadabf1a",
+      "SourceDataID": "8471c40d-ee03-478d-813b-901af19fa3cf",
       "Hash": "cLbpGM+2ppM=",
       "Size": 527,
       "To": "mods\\End Times\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "750b31fd-a525-435f-a7ff-8528a53a3ef1",
+      "SourceDataID": "d1c0d4b5-e1c5-44f1-8e63-d36f3974b304",
       "Hash": "WkMxogVnTNo=",
       "Size": 471,
       "To": "mods\\EngineFixesVR_dll\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "270a9c29-e8ed-41b6-b085-d7b090a1d5d7",
+      "SourceDataID": "7c74e02f-f870-443f-9d67-101dd475e3ed",
       "Hash": "w8HHxAFWQo0=",
       "Size": 470,
       "To": "mods\\EngineFixesVR_ini\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c1f04a19-e233-4c1f-8c82-851ca76ed256",
+      "SourceDataID": "37606299-6187-4157-8762-b17c8da6504d",
       "Hash": "wc4NOuapwZg=",
       "Size": 562,
       "To": "mods\\Enhanced Blood Textures\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8e035c9d-3182-4526-b5ee-9e8a9a92dd03",
+      "SourceDataID": "866f47bb-e36f-49f2-b7b2-b357f5504e3f",
       "Hash": "vpGsnT0PRq4=",
       "Size": 7453,
       "To": "mods\\Enhanced Lighting for ENB (ELE) - Special Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f3144fba-b130-44b9-adb5-ed8f52bbf90c",
+      "SourceDataID": "3bbd3162-35b2-4cf4-95c5-b1ebe8e669b6",
       "Hash": "MTRQQ9C/DSQ=",
       "Size": 5351,
       "To": "mods\\Enhanced Ore Veins - 8.0.1 - Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "cbee4b42-6176-4105-8b77-5df729587951",
+      "SourceDataID": "c7ecd3cb-8217-4fa3-8c1b-dc9ae1d8a656",
       "Hash": "SW1ZcfoBXv4=",
       "Size": 3472,
       "To": "mods\\Ennead Shadowmarks\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3fbd42b9-8340-4473-8e1e-270415b8a80c",
+      "SourceDataID": "2bd4a1a3-8180-4885-95c5-86f15a6d1ad7",
       "Hash": "Io5IH7nVUds=",
       "Size": 3223,
       "To": "mods\\ETHEREAL CLOUDS - Special Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5c2347a7-a307-4228-92c9-f904c08d328d",
+      "SourceDataID": "b174d19b-40b1-4ebd-be5f-eb78e754fd64",
       "Hash": "hI0N1jg+z6A=",
       "Size": 532,
       "To": "mods\\ETHEREAL COSMOS - Special Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8972beb7-a5da-437f-8ee3-ece3e98e5c57",
+      "SourceDataID": "2adbd75e-67c6-4303-b604-94d0c199deb9",
       "Hash": "ysjw7cTE1mk=",
       "Size": 603,
       "To": "mods\\Even Better Quest Objectives SE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f30f684b-144f-46a9-8cc5-ddc5f2c06dfb",
+      "SourceDataID": "9ce84d5a-0642-4fef-bbc5-4a744f736af4",
       "Hash": "mTAjQLsuCKU=",
       "Size": 959,
       "To": "mods\\Fixes for Armor and Clothing Extension\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4f3fa0dd-06ea-43b7-8044-7c760d8df159",
+      "SourceDataID": "127019f8-6803-4aba-8faa-2272dff2287c",
       "Hash": "UJxv4xZ6QtU=",
       "Size": 428,
       "To": "mods\\Fixes_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "7ffd10bb-0d5c-40df-a8de-fb1e28cc8910",
+      "SourceDataID": "ceea21dd-be32-4cf5-b93c-e650d4ef8364",
       "Hash": "qKitf44z4hI=",
       "Size": 508,
       "To": "mods\\FIZZLE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "69a08589-d2fd-4b19-b555-551618c9e669",
+      "SourceDataID": "39cc03e4-f496-4f24-9c4a-4404dd7d67b0",
       "Hash": "vKKKyvW1Fco=",
       "Size": 7424,
       "To": "mods\\Fluffy Snow\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8925cf26-eddc-4ae3-a8a7-13e89a6d266d",
+      "SourceDataID": "689e950b-a197-4675-bf9b-209f85f46118",
       "Hash": "So6kP1Yg2nI=",
       "Size": 7452,
       "To": "mods\\Fluffy Snow - Blended Roads Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "778b8732-20bf-4e22-9a77-ddb821b9fef1",
+      "SourceDataID": "d9059aa6-76e7-4ea5-9bd9-56595052e331",
       "Hash": "pgG5Slb3WhU=",
       "Size": 7427,
       "To": "mods\\Fluffy Snow 3D Trees Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "15f7f20a-480f-41de-8972-792bb1058198",
+      "SourceDataID": "5508b29a-76a2-4898-8ad9-008eb361312c",
       "Hash": "vdKAoQQnZbc=",
       "Size": 7465,
       "To": "mods\\Fluffy Snow for Majestic Mountains - 2K (MM1.8 and newer)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "388b9a22-384b-4a8d-9ac4-2385ebd66e31",
+      "SourceDataID": "d9f23120-8384-4867-a8cf-24753da6c707",
       "Hash": "2Y91+iTVfUo=",
       "Size": 7431,
       "To": "mods\\Fluffy Snow iNeed Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "af064cae-89d9-471e-982c-2c610582f1df",
+      "SourceDataID": "60c78d98-0c20-46f3-8a6a-5fb29a493408",
       "Hash": "18N1KVylbG8=",
       "Size": 7443,
       "To": "mods\\Fluffy Snow Windhelm Bridge and Street Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "12673536-7eaa-4a84-9d49-ff6fb05a834a",
+      "SourceDataID": "982a2601-9cab-46c4-93bd-967af7cacc32",
       "Hash": "UJxv4xZ6QtU=",
       "Size": 428,
       "To": "mods\\Followers_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5aedea43-9818-429c-8a48-b03e02e3f583",
+      "SourceDataID": "4bd1a373-c6eb-47d0-8b81-ce6fe7ebe65a",
       "Hash": "14Rs0bXCuAk=",
       "Size": 531,
       "To": "mods\\Forgotten Dungeons (SSE)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "673cb8fb-8aaf-46d9-a23f-0775e27625b6",
+      "SourceDataID": "35e2915d-c3bd-4df1-9d65-96d8518353d2",
       "Hash": "9Fpni9OqVcs=",
       "Size": 6357,
       "To": "mods\\Forgotten Magic Redone SE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c86e56f3-d617-42b7-80ed-10cb7315c2d2",
+      "SourceDataID": "ef3860bc-6dbb-450f-b449-a6606b216b44",
       "Hash": "bNCpQfAsT7Q=",
       "Size": 626,
       "To": "mods\\Forgotten Magic Redone SE - Patch CTD\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b3f7ef23-3065-4cd3-b9d7-fbded2890625",
+      "SourceDataID": "57703232-0168-477e-8ca8-29ab250f7bbd",
       "Hash": "FxHZFg4K+sY=",
       "Size": 590,
       "To": "mods\\Forgotten Retex Project\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "477770d5-793e-4a26-9cc7-a737eb1ab31e",
+      "SourceDataID": "cd79e357-cbfd-419a-8f7f-5fff73e5dd5d",
       "Hash": "qHlwRUBVWiI=",
       "Size": 531,
       "To": "mods\\Frostfall - Hypothermia Camping Survival\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "18e2e920-ee71-4860-b66d-28b65081be77",
+      "SourceDataID": "6289643b-e1a1-42ce-a4a7-a418979c858c",
       "Hash": "SGNjsEqHeoM=",
       "Size": 4166,
       "To": "mods\\Frostfall - Vampire Fix for Vampire overhaul users - Sacrosanct - Better Vampire\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "13c62584-d463-4442-9901-be97dec4bbf1",
+      "SourceDataID": "802f6cc4-4e14-4cc5-bf07-3909d884037c",
       "Hash": "kJWC2iDoutQ=",
       "Size": 35767,
       "To": "mods\\Frozen Electrocuted Combustion\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "2482b676-5a28-4dc1-b980-c7220505d477",
+      "SourceDataID": "55c79e52-7bea-4fe5-aed8-fe0a5995357b",
       "Hash": "I3Qv0q9Y0Jc=",
       "Size": 35671,
       "To": "mods\\Frozen Electrocuted Combustion - Ordinator Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3df7d9d8-70ab-4140-8f68-2ee47f79ab42",
+      "SourceDataID": "f0667521-0fc0-4d44-ab39-8b6d456d228a",
       "Hash": "OraBsdqQSF0=",
       "Size": 35653,
       "To": "mods\\Frozen Electrocuted Combustion - VR Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a2162ece-104a-47a2-94c3-45c33b61f98d",
+      "SourceDataID": "ebb86964-ae01-4e74-93cd-1a834ae70676",
       "Hash": "itUDQusBoaY=",
       "Size": 428,
       "To": "mods\\Gameplay_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b966046c-1fd8-4376-9916-249377271b18",
+      "SourceDataID": "6f900e8d-4017-4766-b7d8-27a9ca0540db",
       "Hash": "5szfK1bPiLM=",
       "Size": 2862,
       "To": "mods\\Get rid of flying and disappearing Health bar and optional Magic and Stamina bar\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "073489dd-a16a-4876-b8b4-11aed4412db0",
+      "SourceDataID": "c220f6cd-307c-4b6e-991e-2ac9e4c42d9c",
       "Hash": "k3VzugtN4Mo=",
       "Size": 5102,
       "To": "mods\\Glorious Doors of Skyrim (GDOS)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "379b1510-8e21-4160-bf95-04670e986bf8",
+      "SourceDataID": "a62c59a8-258b-4af0-84b2-104151a39866",
       "Hash": "9IKPznOYhWY=",
       "Size": 5148,
       "To": "mods\\Glorious Doors of Skyrim SE - Update 1.04\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0f9a70cf-e3c4-46ba-811e-addbc75bbac9",
+      "SourceDataID": "fd869631-6b3a-4ba7-9ed8-afffe6c4d94a",
       "Hash": "+i9j+KL7l/Y=",
       "Size": 1475,
       "To": "mods\\Gold Coins Have Weight\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "46a913e0-0648-4bce-9a42-c331c734f4b3",
+      "SourceDataID": "621de43f-69e4-40a5-bcad-2311c68bf321",
       "Hash": "rErbKxt2zgo=",
       "Size": 424,
       "To": "mods\\Graphics - Architecture_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c9ad9a3c-4431-4cf8-8eba-750a26a862bd",
+      "SourceDataID": "e171b518-d51b-4cd2-9e95-eca92944eb67",
       "Hash": "E9+aL/5gq2A=",
       "Size": 424,
       "To": "mods\\Graphics - Base_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "623489af-c644-4af8-b06e-3ae683743664",
+      "SourceDataID": "17edd0af-9cd0-4db9-9cb0-33d5b40e3a58",
       "Hash": "xtGXMnPRzi4=",
       "Size": 425,
       "To": "mods\\Graphics - Creatures_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "45ba27d4-1360-4e34-909a-909dc2118487",
+      "SourceDataID": "a8f53cae-aa7a-4520-8339-c923fb9747fa",
       "Hash": "KlWaVA1bL24=",
       "Size": 425,
       "To": "mods\\Graphics - Environment_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "bd2c7c35-4e12-4f0f-84b5-a7f05c05f615",
+      "SourceDataID": "71d70f6b-7598-4eb6-a5b1-7decc337e5d4",
       "Hash": "FBaq9yOZ7jo=",
       "Size": 424,
       "To": "mods\\Graphics - Equipment_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "60518c54-c836-40dc-bd49-0e714e5b888a",
+      "SourceDataID": "fa12a93c-0e62-48a4-a4f2-1ac701a40365",
       "Hash": "zojoZvDC7RI=",
       "Size": 424,
       "To": "mods\\Graphics - Furniture_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "7b8298fd-6242-481b-9f78-a627590d91a3",
+      "SourceDataID": "7c6cfbc6-c8ee-4c05-ba23-e6dfecde1323",
       "Hash": "Joekt4d+yZo=",
       "Size": 424,
       "To": "mods\\Graphics - Magic_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8b65b9f2-229a-4659-b22c-81bc4dc7dcfa",
+      "SourceDataID": "1524d5ba-3598-407d-8f8b-3dfdb2f16381",
       "Hash": "IY9d5KGvLkA=",
       "Size": 425,
       "To": "mods\\Graphics - Misc_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b7475c6a-0ec0-4206-ac0f-eb06f3f6239e",
+      "SourceDataID": "22c4782d-2554-4bba-a5c1-cb0d739db847",
       "Hash": "M+tKjNHWrTA=",
       "Size": 425,
       "To": "mods\\Graphics - People_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "da7b1ec2-377c-4ff9-aef5-f06554d4b805",
+      "SourceDataID": "ba885abb-abd1-4240-93a2-e719e7016d93",
       "Hash": "5KuyNtw4Sb4=",
       "Size": 2645,
       "To": "mods\\Great Cities - Moonpath to Elsweyr Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3e72fb64-29ba-497f-9a6c-c18274db80b9",
+      "SourceDataID": "0ab4cf3b-3dd7-4bc3-9e54-8fec59ff70cd",
       "Hash": "+TncB7K483U=",
       "Size": 23157,
       "To": "mods\\Growl - Werebeasts of Skyrim\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "65e4142b-83ab-4860-af42-4cabda24106c",
+      "SourceDataID": "8dfa3d99-a274-4bf9-ae0b-33fd6b231a3c",
       "Hash": "6pPNq4ghpfY=",
       "Size": 540,
       "To": "mods\\Growl-Mortal Enemies Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5ce46aa2-60eb-4765-a559-6d73aed111c5",
+      "SourceDataID": "ca89048c-72f8-4913-b5d8-e1ca9c42aad9",
       "Hash": "oNxT7KSr3hI=",
       "Size": 10376,
       "To": "mods\\Guard Dialogue Overhaul Redux\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1dbaa036-beac-42c3-b0ac-9c38866f669e",
+      "SourceDataID": "76097870-c3ae-4356-b43f-99f8d1de960f",
       "Hash": "7s9nmpLMzsA=",
       "Size": 653,
       "To": "mods\\Haptic Skyrim VR - Spellcasting and Enhanced Bow and Melee Haptics\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5a0b8025-c3ba-4335-adf7-8a328b1cbf9a",
+      "SourceDataID": "24c399d3-d300-48bf-868d-b02fda0b021c",
       "Hash": "63nCNDPcqyg=",
       "Size": 523,
       "To": "mods\\HD Photorealistic Ivy\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "151872c0-fc4f-4635-b39b-81b2daec3e52",
+      "SourceDataID": "054937e7-4d36-47c0-81b3-44fa07c2394c",
       "Hash": "mGw5kqn5+0k=",
       "Size": 10694,
       "To": "mods\\Heavy Armory - New Weapons\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8b2db37f-b4fc-4b12-9b20-45570658234a",
+      "SourceDataID": "041b26c4-4d72-446a-9d54-e900ff0b98d7",
       "Hash": "9S3jY59J4F4=",
       "Size": 540,
       "To": "mods\\Heljarchen Farm - Skyrim Special Edition (Revamped)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b22af671-7064-4d09-ab39-f1d35eb28557",
+      "SourceDataID": "7c2df8be-388f-4634-9860-a5bb611145a6",
       "Hash": "8ftp520lbRc=",
       "Size": 598,
       "To": "mods\\High Poly Project\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "437f32bb-1423-428d-af87-4adba8335e99",
+      "SourceDataID": "e80da31b-8cb7-4252-9157-f85679254900",
       "Hash": "mydP1l/x89s=",
       "Size": 536,
       "To": "mods\\High Poly Vanilla Hair\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c08aac0a-36e2-40ad-b3be-91fe986745ee",
+      "SourceDataID": "d9969f5f-b855-4356-8138-712d5fd5bf64",
       "Hash": "x6RPcbcrRTc=",
       "Size": 2818,
       "To": "mods\\Hold Border Banners\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "69a2f078-da69-4a2c-aefe-1734f3ce03b9",
+      "SourceDataID": "2574270f-104a-48d7-9581-955e67a96b15",
       "Hash": "V88r0EqQbiI=",
       "Size": 7292,
       "To": "mods\\Horncandles.by.Kajuan\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ed469cd7-b8ab-490c-96d0-8f9d626142db",
+      "SourceDataID": "e125f53a-0848-4089-ac24-f8281fb4696d",
       "Hash": "5Oyr2H/c6o8=",
       "Size": 8430,
       "To": "mods\\Hoth\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e7ce47ee-8ec1-4017-98fc-9f75158bf3de",
+      "SourceDataID": "60f11389-9deb-4f37-b47d-5b848cb9ecd1",
       "Hash": "OvR3jzhcKzI=",
       "Size": 538,
       "To": "mods\\Hunterborn\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "52c4744a-0051-4a2b-99d7-4233e27f9014",
+      "SourceDataID": "fbf2520a-f05c-40d0-99f4-4e817004ed1a",
       "Hash": "CaH+6bCd7hk=",
       "Size": 590,
       "To": "mods\\Hunterborn SE MCM\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "59ea6005-c2f2-41d6-bcf5-517fc71d86ed",
+      "SourceDataID": "1891dd96-0f0c-463f-90c7-2c209f3d87bd",
       "Hash": "r6AIzx1fVRc=",
       "Size": 6915,
       "To": "mods\\Hvergelmir's Aesthetics - Beards\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d6dac64e-145f-4892-84a9-5677ee191faf",
+      "SourceDataID": "c0b5d6f0-bd6a-48bf-8a58-ee48c4290d06",
       "Hash": "TRWcmbaaUKk=",
       "Size": 5359,
       "To": "mods\\Hvergelmir's Aesthetics - Brows\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6a4656f8-b59c-4afc-a210-9d4ba2f33e51",
+      "SourceDataID": "a4f860ea-e424-4295-9b73-347b99143309",
       "Hash": "crU9a+6VVho=",
       "Size": 2261,
       "To": "mods\\ICOW - Konahrik's Accoutrements Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "37e58bb4-3220-4ef0-99a5-b375cc6bcdf8",
+      "SourceDataID": "e74f87ba-12e5-4547-ba7d-1fcd4c8fd6b7",
       "Hash": "TsETlw330jI=",
       "Size": 4342,
       "To": "mods\\IDDP - Beyond Skyrim - Bruma Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5e25c59d-b388-425f-a213-21d21fa9bc10",
+      "SourceDataID": "5b540c01-a4b5-4281-b2c5-0efb278d5a57",
       "Hash": "PczHsK2brOk=",
       "Size": 3131,
       "To": "mods\\Immersive Citizens - AI Overhaul\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "18721f03-1f79-4c07-8947-971fd68f9013",
+      "SourceDataID": "7776d974-6c7e-4cab-b35b-2dc41e1c5489",
       "Hash": "KimfedfBxPs=",
       "Size": 14742,
       "To": "mods\\Immersive College of Winterhold\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "fc1081d1-670c-468e-b81e-5e906711b8f1",
+      "SourceDataID": "09259566-9e9b-45b0-9755-fb14e091e65d",
       "Hash": "Hpf0XUvgVcY=",
       "Size": 4349,
       "To": "mods\\Immersive Dawnguard Dayspring Pass SE (IDDP)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "cdcd81d5-a008-4d36-9a73-ea63031af64a",
+      "SourceDataID": "35f337ff-34ed-418a-aea4-cf63cbd9b96f",
       "Hash": "1d/MNNag748=",
       "Size": 596,
       "To": "mods\\Immersive Fort Dawnguard\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "00ad72b7-d5d6-4b31-a6df-e7aa8afab282",
+      "SourceDataID": "18c7a423-d1aa-4a3e-a1aa-9c6969f36e6c",
       "Hash": "gHw69xYUbXk=",
       "Size": 2412,
       "To": "mods\\Immersive Patrols SE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "07d4467f-e7c1-4986-a382-f7d95e585ed4",
+      "SourceDataID": "9c5c85d2-dba7-4bd1-9269-776a46bb170d",
       "Hash": "Km5kddMgo04=",
       "Size": 25494,
       "To": "mods\\Immersive Sounds - Compendium\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e6df0df9-8e6b-4a59-b41e-4d4801e03106",
+      "SourceDataID": "200a86e0-8b6f-4075-aa13-a42c56dc7439",
       "Hash": "z+48MX3OrEM=",
       "Size": 533,
       "To": "mods\\Imperious - Races of Skyrim\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "744991fe-12f9-4ff9-8135-8db9e9980bfc",
+      "SourceDataID": "29b3ed92-b2a9-427e-a88e-e84ec18c55c0",
       "Hash": "SaH4fTbT0mY=",
       "Size": 920,
       "To": "mods\\Imperious-Elemental Destruction Magic Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8dce0fee-4643-45f8-80ae-c04395ca24b3",
+      "SourceDataID": "a62f8b0f-cddb-42c8-a75e-9b1fa6a6db8d",
       "Hash": "yAQp/63FuEk=",
       "Size": 1040,
       "To": "mods\\Improved Closedfaced Helmets - USSEP\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6173d376-de9e-42c8-a96d-3011f9869863",
+      "SourceDataID": "7fa4973e-c0fb-4748-9949-c90aca55750d",
       "Hash": "fYu5GHcIxdE=",
       "Size": 5565,
       "To": "mods\\Improved closefaced helmets\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "906a66b7-657e-4d6b-81af-f586782e5a07",
+      "SourceDataID": "2577228e-ae73-4ab6-ab14-71010a199324",
       "Hash": "ZcbwKWzHxws=",
       "Size": 15034,
       "To": "mods\\Indistinguishable Billboards for Skyrim SE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0e3ec2c5-6b74-4103-a98b-eccd3023baa6",
+      "SourceDataID": "83d1af11-3c31-4efc-bcf2-cf723c30c2ec",
       "Hash": "TawRY4IbFug=",
       "Size": 588,
       "To": "mods\\iNeed - Food, Water and Sleep - Continued\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f77d4c5f-cc33-4fcd-b347-f66a3c1be491",
+      "SourceDataID": "c9b4043b-8d19-4dac-8de5-adc06c03c553",
       "Hash": "hMz/p1BAhSg=",
       "Size": 847,
       "To": "mods\\iNeed Bruma Water Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "41676733-97a2-43d3-af36-0073270370c1",
+      "SourceDataID": "41be7171-75fb-4880-8bcc-dceeaae8ff80",
       "Hash": "g8U3RGx63nU=",
       "Size": 87646,
       "To": "mods\\INIGO\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b70149d2-09fa-402c-b14d-5f2cd5bb93b0",
+      "SourceDataID": "26f01ab7-67df-48e1-ba89-506751f402df",
       "Hash": "h+jnXUawLHA=",
       "Size": 1884,
       "To": "mods\\Interesting NPC's Imperious Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5573ae69-d7c1-401c-a3a5-af52e37f8cc4",
+      "SourceDataID": "d487ac50-efb7-4750-b545-74a3112e5761",
       "Hash": "Wb3lNAL84dc=",
       "Size": 517,
       "To": "mods\\Interesting NPCs (3DNPC) character Zora Fairchild's voice boosted\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5660d5ab-b4f5-4a63-b5bc-b3f215ce614d",
+      "SourceDataID": "18156ce1-5d0b-46b5-8cd3-17d572ff475e",
       "Hash": "0WNsFhhURII=",
       "Size": 16664,
       "To": "mods\\Interesting NPCs SE (3DNPC)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "378ce226-91e5-4777-a2be-58cde4b6983e",
+      "SourceDataID": "0809ad75-8182-4577-8fa0-3f48b3c8ff81",
       "Hash": "8lwTr0CK66Q=",
       "Size": 16663,
       "To": "mods\\Interesting NPCs SE - Rumarin Solstheim Commentary by Mazekial\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3e809991-07f1-40ed-a271-e6e8b58d47b3",
+      "SourceDataID": "76189653-1e3e-4a91-a739-2c0116dd9527",
       "Hash": "srEEMt7BpyY=",
       "Size": 16681,
       "To": "mods\\Interesting NPCs SE - Winterhold Mods Compatibility\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9707fe1d-a6a6-4405-9f75-d16877b3ea04",
+      "SourceDataID": "c1bb7bb4-8064-4395-9e1e-5cc5bf6d4f82",
       "Hash": "3HIQLt/1onY=",
       "Size": 6808,
       "To": "mods\\Interesting NPCs Visual Overhaul\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ffff6662-ffdf-4c10-9b53-1b521b189e50",
+      "SourceDataID": "f223686c-ac35-4f69-9409-d51977d5c208",
       "Hash": "hel+EXQ5Xgw=",
       "Size": 1061,
       "To": "mods\\ISC and MorrowLoot Ultimate PATCH\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ab3dbc23-bf45-428b-b0a9-d4c55faea590",
+      "SourceDataID": "9c46e5e4-304e-453b-a960-ec3568d92605",
       "Hash": "Wy/n7xLp0Mo=",
       "Size": 2594,
       "To": "mods\\JS Dragon Claws - Konahrik's Accoutrements Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "94d30ca0-fdbe-4965-bd61-92c61995d43f",
+      "SourceDataID": "2a1f6605-8eb8-4782-82e6-983b70e44f29",
       "Hash": "NxXRUtc9pjQ=",
       "Size": 2575,
       "To": "mods\\JS Dragon Claws - LOTD Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b6ee6b7f-c1d1-44c2-8974-b594fbd24534",
+      "SourceDataID": "6e0bb505-91a9-4b84-a852-a06d0b241d06",
       "Hash": "QKu9asIJykM=",
       "Size": 3826,
       "To": "mods\\JS Dragon Claws SE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e2faec58-3766-4d47-a5e6-cc504f1f5b7c",
+      "SourceDataID": "54846c78-ddde-4303-a73d-019177526164",
       "Hash": "bSuOplat9jY=",
       "Size": 510,
       "To": "mods\\Just Ice\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b922a807-79ba-46b9-95e0-ac8cbbbe628c",
+      "SourceDataID": "e7fa44bb-6bc5-4971-aaf5-4b37aab95a78",
       "Hash": "6DZYXESDRT0=",
       "Size": 3144,
       "To": "mods\\Konahrik's Accoutrements\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3d84c97d-b293-452b-8214-c4b57fa2a425",
+      "SourceDataID": "0fc66e35-7fea-4cc7-a0eb-ac464aa375eb",
       "Hash": "9E2rZy9cobM=",
       "Size": 1725,
       "To": "mods\\Konahrik's Accoutrements - Improved Closefaced Helmets (ICH) and WACCF Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a704a754-7252-49c1-9466-790673afbc8d",
+      "SourceDataID": "0042ea5c-68d6-4abd-a64f-7fdd5cd8d9e9",
       "Hash": "Ke0Y0sEehnw=",
       "Size": 571,
       "To": "mods\\kryptopyr's Automated Patches\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "093e1cff-fbbd-4aab-92f7-31bd1e5cb643",
+      "SourceDataID": "dff6ea7b-fd91-4e60-b1ff-21632f5a53e9",
       "Hash": "pJ2h7iptDSk=",
       "Size": 13640,
       "To": "mods\\LeanWolf's Better-Shaped Weapons - All in One Installer\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "60b17b59-218f-4fd4-a71b-284c0b2fa8aa",
+      "SourceDataID": "6a02ba49-d087-46e3-9667-77f897b8976f",
       "Hash": "2n1PsgVXu9s=",
       "Size": 18487,
       "To": "mods\\Legacy of the Dragonborn\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "593cdd46-001e-42ce-8b7a-39f1bc48384a",
+      "SourceDataID": "4f731f5b-fc47-4fe1-bf10-ab06d88a584a",
       "Hash": "keSBpUhMbeQ=",
       "Size": 9257,
       "To": "mods\\Legacy of the Dragonborn - Auri Follower Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "990c4247-cdd8-4e10-b6c5-f8b191c885c0",
+      "SourceDataID": "10262588-3b33-4212-88fb-f946150eb764",
       "Hash": "CtSdpCY47gg=",
       "Size": 3127,
       "To": "mods\\Legacy of the Dragonborn - Fate Cards Re-texture - Skyrim Concept Art\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c6a7fe58-1d7e-4e8b-9cc8-348249f87695",
+      "SourceDataID": "a2ee0dc3-e50b-4e06-a378-c838b4db2714",
       "Hash": "sLUFK6oE7O0=",
       "Size": 9262,
       "To": "mods\\Legacy of the Dragonborn - Inigo Follower Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "265b2023-8320-41e0-8e7a-515b59c11015",
+      "SourceDataID": "abdf3960-9752-4366-ae12-d59b2867fe93",
       "Hash": "rt2+ML1mHAE=",
       "Size": 9300,
       "To": "mods\\Legacy of the Dragonborn - Interesting NPCs Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "385df601-26b4-4e7a-8759-f55f4c2c4a7f",
+      "SourceDataID": "4d311400-5175-479b-bd7e-f09ef9924131",
       "Hash": "+NbOYS4P7Iw=",
       "Size": 37693,
       "To": "mods\\Legacy of the Dragonborn Patches (Official)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9f7c000e-5b73-4118-9361-d28e2b9e79bb",
+      "SourceDataID": "2ede88f3-95f1-4048-9010-efc093e9a33a",
       "Hash": "42Heh6Yv38o=",
       "Size": 14614,
       "To": "mods\\Legend of the Eagles Nest SSE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "cd064d75-0107-4b23-8349-ba9eab8fd522",
+      "SourceDataID": "553731aa-5170-4b7c-a27d-d5860fab99fe",
       "Hash": "82pPogMeeGI=",
       "Size": 510,
       "To": "mods\\Lethal Traps\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e8dcdfd3-7195-4866-b828-f90f854f10ed",
+      "SourceDataID": "b243cddb-d502-4004-a17d-007e076f05f5",
       "Hash": "e6yhWboxoQk=",
       "Size": 428,
       "To": "mods\\Librum Files_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "cb3e2047-7e28-4739-b4c0-ae44a05428b9",
+      "SourceDataID": "59047b90-1dcd-4ca2-b787-48e2d424cd89",
       "Hash": "7RZbUbpqsDk=",
       "Size": 428,
       "To": "mods\\Librum Preview (use at your own risk)_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a58d07ec-b57d-430b-84fb-75a043538df3",
+      "SourceDataID": "4713d572-e405-4e4e-8ea7-58556ba09986",
       "Hash": "vH9Z2Iqqpi4=",
       "Size": 135219,
       "To": "mods\\Librum_Final_Patches\\Bashed Patch Patch.BAK"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5528d640-e775-44fb-9698-8569ec9cf009",
+      "SourceDataID": "6292df5a-5ed4-4ab2-939c-79ce74a22f0f",
       "Hash": "Miqw/jhcesQ=",
       "Size": 135206,
       "To": "mods\\Librum_Final_Patches\\Bashed Patch Patch.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "21b57e15-cb29-4751-bd72-e67c9d5f9072",
+      "SourceDataID": "8d8a3354-691d-46aa-8fab-789b1a7ca2ea",
       "Hash": "7B9AKyav5a8=",
       "Size": 2268898,
       "To": "mods\\Librum_Final_Patches\\Bashed Patch, 0.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e4269503-2710-4b58-973e-da8b64b7a8e2",
+      "SourceDataID": "0016a45a-1648-4936-967d-57e534880651",
       "Hash": "QpvmVywQXvE=",
       "Size": 42236,
       "To": "mods\\Librum_Final_Patches\\Forgotten_Dungeons_Patch.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "aacf5fe8-2e0b-49a7-9fbd-49ad55728aab",
+      "SourceDataID": "b7e3d9f0-e4fc-4d5d-9a13-a01c22062769",
       "Hash": "lOvgZz9XBkM=",
       "Size": 6775,
       "To": "mods\\Librum_Final_Patches\\Librum_Animal_Loot_Patch.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ebc425f9-9b2a-41cc-8d75-08f84062358d",
+      "SourceDataID": "8101bbd1-e607-4283-90e1-6f147e239bda",
       "Hash": "6IZToSshQew=",
       "Size": 31879,
       "To": "mods\\Librum_Final_Patches\\Librum_Scarcity_Patch.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "265cc221-ea44-4271-91bd-14df187826e5",
+      "SourceDataID": "5a18ab6b-0c26-49e0-8b62-1030198c346c",
       "Hash": "UlxAmAsm5qI=",
       "Size": 134228,
       "To": "mods\\Librum_Final_Patches\\Librum_Spell_Tomes_Patch.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f80a1311-2476-4564-8ff0-454c840f45e8",
+      "SourceDataID": "b41d42bf-2bb5-4042-b290-a7238349c30f",
       "Hash": "p9RtAU5M6BA=",
       "Size": 445,
       "To": "mods\\Librum_Final_Patches\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d2eb060f-9734-4894-85bc-942d7f74e72a",
+      "SourceDataID": "6e0e5579-7c47-4ab3-b70d-76dd37929bb5",
       "Hash": "IH6JT8HMNfY=",
       "Size": 138158,
       "To": "mods\\Librum_Final_Patches\\No_Spell_Tomes_Patch.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "7d7a4e41-a7b1-47fd-a1a7-ed51bc2256d8",
+      "SourceDataID": "a48dcf4f-a525-41a7-a38a-fd603f67500c",
       "Hash": "u+Fmgo0fSzY=",
       "Size": 429,
       "To": "mods\\Locations_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4b43480d-831e-4d86-90cb-d6bbfe011ecc",
+      "SourceDataID": "092bd185-68be-4822-852d-fe5edd2213dc",
       "Hash": "5p/NoUV2yKg=",
       "Size": 425,
       "To": "mods\\LOD_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "56e8fff4-fcb3-4526-85f9-40c8b31bc537",
+      "SourceDataID": "3fe61207-395a-4542-b279-1197dc9dcfe0",
       "Hash": "RZ0+JbPve4g=",
       "Size": 19078,
       "To": "mods\\Lucien - Immersive Fully Voiced Male Follower\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "eaa8c65e-1fce-4999-b1de-5470e57cf21b",
+      "SourceDataID": "5429366c-39ab-4614-b464-ee0f38581db5",
       "Hash": "T0MhXlXGjMk=",
       "Size": 19081,
       "To": "mods\\Lucien - Moon and Star Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "10fc1695-e620-4cdf-954b-9c6ccbfdf294",
+      "SourceDataID": "d113a0f4-c26c-4150-a020-6a21aeb0c941",
       "Hash": "/syQ4jG3wf8=",
       "Size": 19087,
       "To": "mods\\Lucien - Moonpath to Elsweyr Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0b66a2dc-00eb-41fb-bf40-d592f0916a9d",
+      "SourceDataID": "782cfbc1-c628-403e-8600-612c7a3345c4",
       "Hash": "0qA+yeiidvs=",
       "Size": 493,
       "To": "mods\\MageVR\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d46b082e-b21e-4abd-9e58-7994e0915e9c",
+      "SourceDataID": "fcd6a084-242f-4a59-98b1-fc997fdec4be",
       "Hash": "itUDQusBoaY=",
       "Size": 428,
       "To": "mods\\Magic_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d432ba2d-1214-43f4-bbf0-c16e513d9935",
+      "SourceDataID": "68e9de4c-578b-40c7-b603-52e6de167355",
       "Hash": "CnCS8fIu4y0=",
       "Size": 2499,
       "To": "mods\\Majestic Landscapes\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ea0e383e-7423-4385-a5c7-beb091c5a320",
+      "SourceDataID": "0ff862f4-85fc-4d4c-948c-9ab482a8e264",
       "Hash": "cHaxOgt4cYc=",
       "Size": 2485,
       "To": "mods\\Majestic Landscapes - basic lod\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d7678c74-2f1b-4501-835d-4f9e43b21235",
+      "SourceDataID": "c08ef665-8db8-4f3f-844e-0c083f696d7b",
       "Hash": "ZygSG5pf8N4=",
       "Size": 7195,
       "To": "mods\\Majestic Mountains\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a346394f-c451-4ae9-b40f-46e2797a5320",
+      "SourceDataID": "490fb936-e037-4570-8ddc-4a6213d7c609",
       "Hash": "sQ8AjEiwdsA=",
       "Size": 11602,
       "To": "mods\\Man Those Borders SSE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "315eed51-46e8-4ab8-bb30-9cf7f9d877fa",
+      "SourceDataID": "8ddfca85-871d-48c3-b6b8-4788983e93ec",
       "Hash": "gD8wgAsJnEY=",
       "Size": 4455,
       "To": "mods\\MAPS\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d4d4d015-5104-427e-9ad5-afbe774bdd12",
+      "SourceDataID": "1c4a7761-c279-4f30-a768-e7e6208fd33b",
       "Hash": "/djO16EQMis=",
       "Size": 2368,
       "To": "mods\\Medieval Silverworks\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3e39f531-6c7d-447d-aef8-585433b1c1c7",
+      "SourceDataID": "119da228-8925-4f7e-9f2e-97e9cd7e524a",
       "Hash": "c+s83F1wIGo=",
       "Size": 531,
       "To": "mods\\Medieval Spirits\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c58f26e8-650b-40ae-9387-7e96cdd53fad",
+      "SourceDataID": "5271449c-306c-43b4-8778-fc9524948b4c",
       "Hash": "YaDaHtUh4PE=",
       "Size": 1334,
       "To": "mods\\Minimal Enemy Healthbar VR\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e209039d-e773-4032-88ff-5b5a5081d8fc",
+      "SourceDataID": "57c96ad4-fba9-40d7-b879-353f9936d036",
       "Hash": "4f1LeAfhGec=",
       "Size": 553,
       "To": "mods\\MLU - Advanced Adversary Encounters-ESL\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c5c58d99-1f0b-4ee5-99e4-f43ba78fdc57",
+      "SourceDataID": "c33f59cd-dde3-4c8d-a374-d495cfe3515d",
       "Hash": "bDRiTlaWJP4=",
       "Size": 5994,
       "To": "mods\\MLU - Bruma Loot Cap\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4388a180-a624-459b-99ca-b36fb46b97c3",
+      "SourceDataID": "2844cc5b-f110-40f8-a4bb-ad2a7147249f",
       "Hash": "7o49AYTIkkM=",
       "Size": 535,
       "To": "mods\\MLU - Cutting Room Floor\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "78a56060-55ab-4477-95a4-a6559923d21c",
+      "SourceDataID": "578ad4b8-b268-48a2-aff4-7ae613414611",
       "Hash": "JLTozD7qR/Y=",
       "Size": 541,
       "To": "mods\\MLU - Encounter Zone Update\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8f14ad39-d000-41f9-af61-c20285a54bac",
+      "SourceDataID": "dbc96e9f-fd95-4a96-8783-19ee4ea96163",
       "Hash": "z2zHGchsR3c=",
       "Size": 5983,
       "To": "mods\\MLU - Heavy Armory\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0ebeaf6c-61a8-469d-b68d-f8d38c70e20d",
+      "SourceDataID": "8371ec7d-af16-44d0-9fb4-22df94df92cd",
       "Hash": "fY1CUykUNJE=",
       "Size": 547,
       "To": "mods\\MLU - Improved Closefaced Helmets-ESL\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3bc68a90-98b9-472b-bbc0-10d32719ad91",
+      "SourceDataID": "d3bf1986-1893-45b9-b9df-89212c1fab6b",
       "Hash": "Sxl73BRvaqM=",
       "Size": 529,
       "To": "mods\\MLU - Inigo-ESL\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8308bafe-ba38-4565-b955-bb5b3a28848a",
+      "SourceDataID": "0585bd2d-94d2-435a-80f5-d8bda2d5d2e2",
       "Hash": "L2RsCuf49k0=",
       "Size": 5986,
       "To": "mods\\MLU - Royal Armory\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a28e46a5-6547-4c6f-b810-d93e51778364",
+      "SourceDataID": "d6fb31b7-5f0b-4fd9-8a1d-257f36ff6bff",
       "Hash": "0v9bj9BzeJ4=",
       "Size": 552,
       "To": "mods\\MLU - Summermyst - Enchantments of Skyrim\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "421ec6e6-3f52-45c0-96ef-3cf5ef33e5e1",
+      "SourceDataID": "22b90d33-1a5c-4229-ae05-4f6ea80075c7",
       "Hash": "Xja4++rmbLo=",
       "Size": 520,
       "To": "mods\\MLU - WACCF\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e7acb202-b7d4-4790-a816-66b38d93267f",
+      "SourceDataID": "7f12772b-b682-49b3-9212-6c053f172595",
       "Hash": "Zq57g/1tEY0=",
       "Size": 525,
       "To": "mods\\MLU - WICO-ESL\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "424bce28-1200-411c-9045-59316559a35c",
+      "SourceDataID": "0ebaa41e-20a1-4331-815e-7d4693aa1e2e",
       "Hash": "qVjcUxw5cNU=",
       "Size": 549,
       "To": "mods\\MLU - Zim's Immersive Artifacts-ESL\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "90dbd942-4a3c-4d1a-9674-f0335bcb3256",
+      "SourceDataID": "d75febb9-ad64-4241-b5dd-d0f3f5c8a0a0",
       "Hash": "8mSceDJzSCY=",
       "Size": 512,
       "To": "mods\\Moon and Star\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4d7b2156-6597-4e5d-8402-1eb70587d004",
+      "SourceDataID": "506fceaf-8f5f-4a3b-8ba9-d0998bb20dde",
       "Hash": "4eXz5ikmoNM=",
       "Size": 561,
       "To": "mods\\Moonpath to Elsweyr Sky and Lightning fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1d3b4ec1-2f13-4c14-9370-2b6348011f20",
+      "SourceDataID": "e2b7dcf3-19bd-4366-8a57-907ef74a7e82",
       "Hash": "6IQXtzGvofA=",
       "Size": 527,
       "To": "mods\\Moonpath to Elsweyr SSE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4b6cc272-cc63-49a6-8c28-a39302a8a68a",
+      "SourceDataID": "358b7c36-2fb7-465f-89ff-e3803be706a8",
       "Hash": "qlAYlmK7nGk=",
       "Size": 533,
       "To": "mods\\MorrowLoot Ultimate\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c7451727-fc61-4fb4-91ef-40de57735eeb",
+      "SourceDataID": "25c4054b-e2a1-4656-8e1d-52b8d191dfe4",
       "Hash": "2oW9T1XI53I=",
       "Size": 5392,
       "To": "mods\\Mortal Enemies SE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "eb71a405-de04-4d2e-9492-77ce5f8b693f",
+      "SourceDataID": "2adef7c7-3d8d-4b2a-9aed-df1edfa9c6e6",
       "Hash": "tX0QqfR+ETo=",
       "Size": 6849,
       "To": "mods\\Multiple Floors Sandboxing\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a4a645fe-1e3d-4df5-87a2-6a8a553d9d20",
+      "SourceDataID": "b67dcc3f-9cbf-4968-b8fe-80ce593ca3f9",
       "Hash": "+JiU3iz52a0=",
       "Size": 544,
       "To": "mods\\Mysticism - A Magic Overhaul\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "dd771524-48df-41c4-a34b-de14f69aaa74",
+      "SourceDataID": "02a39c7e-afc3-4b79-af5c-9cd2e1724fb1",
       "Hash": "mfCKoJA3pkg=",
       "Size": 555,
       "To": "mods\\Mysticism - Vokrii Compatibility Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9de46730-a0ef-4f24-a791-a0d70e75b1e3",
+      "SourceDataID": "f723ae1c-fbbe-43ca-ab00-95172a980386",
       "Hash": "t7/Vp8ggE0o=",
       "Size": 515,
       "To": "mods\\Natural Colored Map Markers 4K VR and SSE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1f307bc0-9cca-4a39-815f-bb3469aa0518",
+      "SourceDataID": "9a0f3d65-2493-4810-b7f9-a3aac94ac288",
       "Hash": "itUDQusBoaY=",
       "Size": 428,
       "To": "mods\\New Items_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "89029a7f-44f0-41fb-92c6-bc313a4c647d",
+      "SourceDataID": "b6eae039-76ca-4b34-8a63-930993912349",
       "Hash": "KB+6hByf+S0=",
       "Size": 521,
       "To": "mods\\No snow under the roof\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "bfbb643a-718c-490a-ba4e-7b1a340791fc",
+      "SourceDataID": "d1dc8811-4246-4680-a6ec-3bbc1317fc0a",
       "Hash": "1A2v+wM0AmU=",
       "Size": 4252,
       "To": "mods\\Noble Skyrim Mod HD-2K\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5e24ab9d-ebf8-4a41-ab5c-e43e5bf2c44d",
+      "SourceDataID": "578058ef-0a96-454b-9256-7d23d7b75389",
       "Hash": "/cZem4uZnWo=",
       "Size": 2321,
       "To": "mods\\Nordic Ruins of Skyrim SSE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "15e7acf3-e792-4535-8163-e32cd2433f96",
+      "SourceDataID": "a24c23e8-e696-415e-bccc-8d11a14b74aa",
       "Hash": "qlhMzDVgsUU=",
       "Size": 5191,
       "To": "mods\\Northborn Scars\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b85c3187-8f49-439a-a9fa-8185ed075a86",
+      "SourceDataID": "024c6b6d-2fed-4a98-b49b-3731e911efe2",
       "Hash": "BrhRL60/et4=",
       "Size": 532,
       "To": "mods\\Northern Shores SE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "2d420959-e03a-4dc2-bad5-ae8941702a1d",
+      "SourceDataID": "c8a6547b-0ef0-4bdf-9070-f99106e148b4",
       "Hash": "w0H4ETFftHU=",
       "Size": 3202,
       "To": "mods\\Not So Fast - Main Quest\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "df0f5124-4c55-474e-be0b-111e8e7a8aa9",
+      "SourceDataID": "82c9bb41-2d07-40c6-93c9-bffbaaabd354",
       "Hash": "kA1CAH5PEq8=",
       "Size": 2865,
       "To": "mods\\No_Fly_Health_Magic_Stamina\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "281862c9-3854-4153-ab69-ca805f932434",
+      "SourceDataID": "e4c98e1a-813f-48ea-a4ce-6c80169046b3",
       "Hash": "HpFLTE27KcU=",
       "Size": 4221,
       "To": "mods\\NSM - SMIM Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d55d75c4-1e57-477d-8c60-de2767b0ee15",
+      "SourceDataID": "3ac789cf-008b-4856-9b7b-f19398c26fed",
       "Hash": "MGhpP0RSR0Q=",
       "Size": 17559,
       "To": "mods\\NSUTR_Bug_fixes\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "01834a53-268e-4cd3-98ad-231c7874a97b",
+      "SourceDataID": "b9b11485-f78a-49e7-a019-9b1ca0ad43ab",
       "Hash": "c7aQ6wxLUgk=",
       "Size": 17530,
       "To": "mods\\NSUTR_Bug_fixes-static_objects_hotfixes\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "642fd710-3a08-412f-9f38-688970a0e631",
+      "SourceDataID": "5672a7b6-d648-42d9-a921-4de234b62f82",
       "Hash": "WtRKvT1ZV2s=",
       "Size": 13906,
       "To": "mods\\OBIS SE - NoticeBoard - Addon\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e87bc731-f441-4635-9e38-6a5cd12163d6",
+      "SourceDataID": "ea33b6bf-5c66-4774-aa99-038985e586c9",
       "Hash": "HagJiwBlb88=",
       "Size": 13897,
       "To": "mods\\OBIS SE - Organized Bandits In Skyrim Special Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d6cfaff0-4c02-42a6-b200-bfc54d478f67",
+      "SourceDataID": "e0ba56da-19ae-4fbe-b6c3-9fb55c07a996",
       "Hash": "psNNhSB+Bjg=",
       "Size": 13898,
       "To": "mods\\OBIS SE Patrols Addon\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9db7ec13-1472-4b5b-9181-fa020892278b",
+      "SourceDataID": "ed0d9b32-558f-4547-a512-9a1227435547",
       "Hash": "ZkQ31hlHnbY=",
       "Size": 636,
       "To": "mods\\Obsidian Weathers - True Storms Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c35220a3-c884-4f76-9ed3-aecfeb2ffdeb",
+      "SourceDataID": "08a4a153-da5e-4279-8c9b-2eb486884c17",
       "Hash": "uH9Waxvanu4=",
       "Size": 2884,
       "To": "mods\\Obsidian Weathers - Updated Vigilant Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "aa679e8c-0953-4979-a703-2b0462ff33cd",
+      "SourceDataID": "72ca749e-45d6-4dde-8ce3-571e752aaa56",
       "Hash": "Snj973qtfjw=",
       "Size": 535,
       "To": "mods\\Obsidian Weathers and Seasons\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "af67c4de-624c-4d05-9c4e-f3a20f566d71",
+      "SourceDataID": "372fce04-07b1-43dd-8935-d27fe509771b",
       "Hash": "gpJ1wnD/ic0=",
       "Size": 612,
       "To": "mods\\Obsidian Weathers And Seasons - Beyond Skyrim Bruma Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ffe4ab67-3206-4bb2-a918-163dd0650bdf",
+      "SourceDataID": "67322be0-1e3b-4c71-98a3-040d55ad5047",
       "Hash": "m9QynLzMftA=",
       "Size": 536,
       "To": "mods\\Open Face Guard Helmets\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "fa39cc26-fc17-4ab8-b0b0-5247a7f3e231",
+      "SourceDataID": "3dffc9b3-86f7-4271-b5c4-36609e2ed10d",
       "Hash": "pXmMvaoKa48=",
       "Size": 7744,
       "To": "mods\\Optional Balance Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9e703e0e-d2a9-4d5a-8775-82bcfeab8c72",
+      "SourceDataID": "a3ce6cf5-15df-4a88-b572-449b86889766",
       "Hash": "B0w0qiRxRAA=",
       "Size": 425,
       "To": "mods\\Optional_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "fde73c81-0613-4236-bd4f-459c1908a37b",
+      "SourceDataID": "2e6a1d37-2da4-4878-a9a7-8113e24853b7",
       "Hash": "xotnmlEjdb8=",
       "Size": 540,
       "To": "mods\\Organic Riften Leaves\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "20ffef71-8478-40ba-ac30-5df0a26e5aeb",
+      "SourceDataID": "a22de67b-0b74-49f7-a19e-6a45a9bec854",
       "Hash": "dMjEBGJWyns=",
       "Size": 4539,
       "To": "mods\\PAINTERLY - a High Res Vanilla Warpaint Retexture\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "64d17a88-6484-43d8-83c2-5a3f137b2e11",
+      "SourceDataID": "7fa01ab8-9ec3-486d-801f-304c7925c7b3",
       "Hash": "8LoF7VRy7M4=",
       "Size": 595,
       "To": "mods\\Palaces and Castles Enhanced - Compatibility Patches (ESL)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9dfccfaf-0f52-4900-8897-4c5639e3bafb",
+      "SourceDataID": "4eeea8a2-34cf-4c8f-b0c5-5af61e2345ee",
       "Hash": "XC3Ce6EZAgQ=",
       "Size": 586,
       "To": "mods\\Palaces and Castles Enhanced Patch Collection\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6217173d-ce72-4c4a-99a5-4cfc265cc7de",
+      "SourceDataID": "c44a9776-8146-4284-9413-b275e6f162ed",
       "Hash": "eIaNcpM/zvI=",
       "Size": 53367,
       "To": "mods\\Palaces and Castles Enhanced SSE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "35429a78-0e1d-4057-b9ae-f944dceb310f",
+      "SourceDataID": "5007c893-0310-4d5d-ae41-05bad92f0f86",
       "Hash": "7zqybbwQxjY=",
       "Size": 10144,
       "To": "mods\\PapyrusUtil SE - Modders Scripting Utility Functions\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "972733d8-bbec-49ec-b846-d8361e4d3d67",
+      "SourceDataID": "ee36ae15-d975-42d8-bd7c-485d8d65a791",
       "Hash": "foW3bJ5sGEI=",
       "Size": 10138,
       "To": "mods\\PapyrusUtil VR - Scripting Utility Functions\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "80d0ffbb-c976-4792-9323-8aeb843686d6",
+      "SourceDataID": "31592631-0a3e-4577-8104-86407303064f",
       "Hash": "JytEDey1WnQ=",
       "Size": 428,
       "To": "mods\\Patches_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e764b9b2-e6ac-4458-bbe5-dcb6a39fa077",
+      "SourceDataID": "db4c3b28-9e13-4ae9-ba7c-a3ccfc118ecd",
       "Hash": "0Jd6YmNudT4=",
       "Size": 5707,
       "To": "mods\\PELTAPALOOZA - Special Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "867abcb8-995c-4511-aa89-cfb488448e49",
+      "SourceDataID": "faf172ca-2adf-45a4-ae0d-4d27f2ec7d3f",
       "Hash": "BSp94XdDj3U=",
       "Size": 3924,
       "To": "mods\\People are Strangers\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "841ba244-713c-4127-9e89-79ffe599c0a1",
+      "SourceDataID": "82722732-cb16-4296-8231-2a86821b5719",
       "Hash": "psrRga3FBl0=",
       "Size": 3911,
       "To": "mods\\People are Strangers - Race option\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0839f801-d5f8-40ab-9593-7c0bd4640d4a",
+      "SourceDataID": "595c8551-84a3-46be-a959-cc4fb8d5b713",
       "Hash": "fbBlre9upvs=",
       "Size": 541,
       "To": "mods\\powerofthree's Papyrus Extender for SSE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "594aa27f-6500-461c-a75f-fd83d993fde4",
+      "SourceDataID": "d3c8e427-3834-4bb8-8e2f-bfcca22f5261",
       "Hash": "nXk9opR++ak=",
       "Size": 13329,
       "To": "mods\\Practical Female Armors\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c51377c1-8ac0-4918-9d37-a4810f174c00",
+      "SourceDataID": "0a650178-5c95-4e05-b36e-d18cb6f21deb",
       "Hash": "jpa0m3TsSlY=",
       "Size": 530,
       "To": "mods\\Project AHO\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3822f66b-eee2-4dee-ab33-9e51ce94b8bd",
+      "SourceDataID": "a4ed3fcc-f8b5-4768-b907-c9f4f7475b85",
       "Hash": "yGki4kELNkw=",
       "Size": 2416,
       "To": "mods\\Project AHO - Cosmic Spells Spell Crafting Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6e5ebdd8-fec6-42bf-8bf4-2d6276d9da3a",
+      "SourceDataID": "8a036e70-495f-43c2-a3f4-1321de88c445",
       "Hash": "IPfJhlcCANw=",
       "Size": 2428,
       "To": "mods\\Project AHO - Cutting Room Floor Spell Crafting Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "20e1686f-1760-4556-93cc-7398da7818ef",
+      "SourceDataID": "106c79fc-42e5-46f7-85f5-34d06cce5f13",
       "Hash": "/sLR/a1fknQ=",
       "Size": 2438,
       "To": "mods\\Project AHO - Mysticism - A Magic Overhaul Spell Crafting Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b914bbc1-b645-4e58-bb60-a6c7f995e821",
+      "SourceDataID": "fc46a869-8d68-4ae6-967b-18c37e3289f9",
       "Hash": "U/NpgmXKzII=",
       "Size": 7651,
       "To": "mods\\Project AHO-CACO Consistency Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "be39c317-ee75-46a2-bba1-ff0bd8666a0a",
+      "SourceDataID": "dd9669b2-6bc2-45d3-9ee2-370552039edc",
       "Hash": "I7rnDvNoORY=",
       "Size": 8293,
       "To": "mods\\Quaint Raven Rock - Clockwork - ESL\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ade82df6-0fc3-4103-b109-29d0b79c4e39",
+      "SourceDataID": "21a1e58b-9ed9-4c92-b154-5732099d8308",
       "Hash": "qAxW3P0oNDw=",
       "Size": 8288,
       "To": "mods\\Quaint Raven Rock - SE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c360dd64-c9c5-4127-8924-711328f8fcbe",
+      "SourceDataID": "1e767876-1290-48f7-91d0-02808f5eb422",
       "Hash": "z4nnjRcvsOw=",
       "Size": 582,
       "To": "mods\\QUASIPC - Qwinn's Unified Automated Self Installing Patch Compendium\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "7d75db54-243d-402d-b41c-ea722c5d48fe",
+      "SourceDataID": "29c68fb3-54e6-4710-927b-7e5bc4caf699",
       "Hash": "UJxv4xZ6QtU=",
       "Size": 428,
       "To": "mods\\Quests_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e65adab5-2a3d-4602-8501-af1df5793078",
+      "SourceDataID": "0686bcc6-3b0f-45e2-a2cf-4054cd048730",
       "Hash": "y/5MxS0mU48=",
       "Size": 8615,
       "To": "mods\\RAO - ELE patch SSE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e541afba-4127-4793-a731-6fbfcb317a8b",
+      "SourceDataID": "887b263a-3b96-4513-ba49-151d4d75a2a1",
       "Hash": "itUDQusBoaY=",
       "Size": 428,
       "To": "mods\\Realism and Survival_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b0574864-887b-496b-b4a4-d7a5aa8cff4b",
+      "SourceDataID": "9303fbd8-8030-4d91-937d-3be0486d99af",
       "Hash": "W0GnS2o1X5I=",
       "Size": 532,
       "To": "mods\\Realistic AI Detection SE (better sneaking)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "7065cb10-f18e-4ade-ab21-c6fafd06c538",
+      "SourceDataID": "09fc16a7-45b5-4f98-8728-99462e20d5d5",
       "Hash": "4kaktCiF93E=",
       "Size": 577,
       "To": "mods\\Realistic Conversations - longer pause between sentences\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3692c866-c131-4fa9-9615-0e16b9e5fbf3",
+      "SourceDataID": "13fd4de2-b776-4ff6-a457-3242ef3fd445",
       "Hash": "88Zfr6PX6hs=",
       "Size": 2846,
       "To": "mods\\Realistic HD Baskets Remastered\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ea91255b-a157-472d-9c66-e9bb4d344f0e",
+      "SourceDataID": "b6533147-69c1-46c8-9f68-c09266f7de05",
       "Hash": "+knSqO2jJ1o=",
       "Size": 3090,
       "To": "mods\\Realistic HD Food Remastered\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "379e16bd-1f18-42aa-9a2f-2121230b1ed2",
+      "SourceDataID": "0862e6ec-0deb-428c-8620-8cb6333ea76f",
       "Hash": "nUa2zrz2x8I=",
       "Size": 3211,
       "To": "mods\\Realistic HD Mushrooms Remastered\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "7d2717f5-04dd-4ce6-8a25-fbf14ab34027",
+      "SourceDataID": "2c8d3dc2-73d4-499e-b0bd-394f97be8dc9",
       "Hash": "jhNtX+txKok=",
       "Size": 5355,
       "To": "mods\\Realistic Mining for VR\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8af74b19-c12e-49a2-9f6a-8b19ebebaa52",
+      "SourceDataID": "57f48dd9-aca9-48a6-b8ab-98ed30b37f80",
       "Hash": "MXUxLGCS71s=",
       "Size": 15402,
       "To": "mods\\Realistic Water Two\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8ea18c8e-e109-444c-9c68-14dcf800f16e",
+      "SourceDataID": "057da182-2a51-464c-a501-901c2902524e",
       "Hash": "SsY3NcjROXY=",
       "Size": 4837,
       "To": "mods\\Realistic Water Two - Bruma\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1ab092dc-e905-4a7e-a5d2-1cae053ed979",
+      "SourceDataID": "e716822d-d50c-4724-81c4-a0a664cb79f5",
       "Hash": "Ko2SkriDrJY=",
       "Size": 15359,
       "To": "mods\\Realistic Water Two SE - ENB Texture Update\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0e0f4e1b-b983-4e5a-8c03-4139748058a6",
+      "SourceDataID": "abbf229e-3eea-46d1-8351-05f32c9c5f1b",
       "Hash": "5VNQURUnqhQ=",
       "Size": 18014,
       "To": "mods\\Realm of Lorkhan - Freeform Alternate Start\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "43d7482d-1379-4b6d-8ffb-8026b8fce190",
+      "SourceDataID": "d2533fab-9fa2-4c3e-8714-3d1e9282d6c8",
       "Hash": "rE8qir5SqA8=",
       "Size": 6409,
       "To": "mods\\Relighting Skyrim - SSE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6e831bf5-64c4-4762-943e-e6d7939b86a7",
+      "SourceDataID": "53eff0a1-4777-4333-b465-05c6ea1800c3",
       "Hash": "f92HDTOLn9s=",
       "Size": 811,
       "To": "mods\\Remove Blurry Snowflakes\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "65b4daf6-58db-468c-b2ac-95e836c40777",
+      "SourceDataID": "8b4f16e7-bceb-427e-a3da-67c6d4839200",
       "Hash": "jbWcRhwxtYA=",
       "Size": 586,
       "To": "mods\\Ren's HD Shrines by Rengel\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b6618f01-dc7f-4832-8544-8f05b71129d6",
+      "SourceDataID": "787159bc-f0a3-4b35-a271-d011b61441a5",
       "Hash": "klyGFSA9eto=",
       "Size": 4591,
       "To": "mods\\Retexture for Soup - SMIM\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "515675fa-89e6-4288-9a2f-263fbf20926f",
+      "SourceDataID": "767d9006-eeb7-4663-bfe1-db2cc6e88701",
       "Hash": "4UwFRBVJPro=",
       "Size": 8631,
       "To": "mods\\Reverb and Ambiance Overhaul\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4038ad79-8e90-4a60-b883-df79b882ed92",
+      "SourceDataID": "440f2b85-8d77-4f62-a812-6576c6f96a59",
       "Hash": "ltK9UchU6EY=",
       "Size": 516,
       "To": "mods\\Royal Armory - New Artifacts\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a1c199ea-fc04-47e9-bc45-de92d68c18ba",
+      "SourceDataID": "feee6b52-e642-4ff6-b84f-f8ecd7595cee",
       "Hash": "YHkSupt+i88=",
       "Size": 530,
       "To": "mods\\RUGNAROK - Special Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9587e087-bd69-41e4-b2be-63d2668ddbd0",
+      "SourceDataID": "9c0886c7-320d-49b6-ba7a-5c1b41e3c456",
       "Hash": "2EtBTq49gxw=",
       "Size": 5988,
       "To": "mods\\Ruins Clutter Improved\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f570c42b-062b-43b0-8e17-831d9a2f842c",
+      "SourceDataID": "64000bd7-de4d-47ec-8e8d-7dd14bc1ce48",
       "Hash": "UeYJKxLTFoc=",
       "Size": 5928,
       "To": "mods\\Ruins Clutter Improved - Falmer Temple Chandelier\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ca91bb76-3167-41fe-805d-5f1b1aeb158b",
+      "SourceDataID": "ba24918d-1eda-49b9-a63b-42a7883ea487",
       "Hash": "c9vctw4UQiQ=",
       "Size": 548,
       "To": "mods\\Ruins Clutter Improved - Fixes\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "dbc23e12-fbfb-4db6-8597-de71491bf1cf",
+      "SourceDataID": "af9fe359-776a-4d65-9594-fe36b5b03e5f",
       "Hash": "WxSJYZBqkGY=",
       "Size": 5922,
       "To": "mods\\Ruins Clutter Improved - Ratway Wood Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9d34adde-166a-4713-bb14-2f01880bbfe9",
+      "SourceDataID": "e37dd3a9-bc76-46ba-a325-4e0b0c769d67",
       "Hash": "nuE+3jGJsdM=",
       "Size": 5933,
       "To": "mods\\Ruins Clutter Improved - Ruins Linen Normal Map Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "94f9cdae-592a-4d36-8234-4a4eccee87bf",
+      "SourceDataID": "6637a391-5578-417d-b221-015016a0091b",
       "Hash": "TqU8hn93TBY=",
       "Size": 525,
       "To": "mods\\RUSTIC ARMOR and WEAPONS SE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a1c99bd4-6738-4c43-9c30-099df4aae31b",
+      "SourceDataID": "19a4a745-be8d-45c0-91b6-f11ca0e31664",
       "Hash": "7yzMQcTyVaE=",
       "Size": 2536,
       "To": "mods\\RUSTIC AZURA'S STAR - Special Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8049b9fc-2974-4aae-8f0e-a781f1a026fa",
+      "SourceDataID": "52d097ea-7a6e-4636-b894-6c5394865c7c",
       "Hash": "GxbSQ+SLR6o=",
       "Size": 6301,
       "To": "mods\\RUSTIC CLOTHING - Special Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3da1d677-aea2-43a7-bd7e-bfbcf27f24db",
+      "SourceDataID": "1cfb3754-a9f0-4bdb-b42f-360b233ea3de",
       "Hash": "tMIGlkYR2ZU=",
       "Size": 3363,
       "To": "mods\\RUSTIC CLUTTER COLLECTION - Special Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "762db40c-9957-45db-ae22-de6ebafc5f70",
+      "SourceDataID": "6d6686d1-5e97-411d-b268-6a41a381c18d",
       "Hash": "nbFQkGw3WxE=",
       "Size": 4591,
       "To": "mods\\RUSTIC COOKING - Special Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a424094c-a338-4fc3-8946-5fcb489c5751",
+      "SourceDataID": "fca44025-8b4f-446d-8fb4-8052922f75e6",
       "Hash": "c/dBylyjcls=",
       "Size": 4485,
       "To": "mods\\RUSTIC DAEDRA - Special Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c3ef729d-01af-4fa2-b8de-28fb8ef36050",
+      "SourceDataID": "655c3622-00c1-4390-b722-5161b3fc112e",
       "Hash": "/lD4xpi2aGw=",
       "Size": 542,
       "To": "mods\\RUSTIC DEATH HOUND and GARGOYLE - Special Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f36c0196-198e-4f54-8ac9-a915acce0b62",
+      "SourceDataID": "72012aea-5db3-474b-a9a6-9a4e49540530",
       "Hash": "PiRpMB4IOm8=",
       "Size": 4023,
       "To": "mods\\RUSTIC DRAGON CORPSE - Special Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "dc3a3d87-2a52-4a48-8eda-2d76abb2c67b",
+      "SourceDataID": "7426d66c-c187-4ae9-b29f-0524fcae4548",
       "Hash": "ejXpxu15kOU=",
       "Size": 3223,
       "To": "mods\\RUSTIC ELDERSCROLL - Special Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "992af877-e12d-44b5-8032-340d5629e6f2",
+      "SourceDataID": "c77abecc-a4aa-454f-8247-889de21f8c49",
       "Hash": "hYmFxr9ggUA=",
       "Size": 4216,
       "To": "mods\\RUSTIC FORSWORN - Special Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b4e5a39e-2191-41d8-8562-1b0cc1263ec4",
+      "SourceDataID": "4535590d-d707-449a-9ff2-6b3fd4bb8f70",
       "Hash": "RGE//HgnG9s=",
       "Size": 1771,
       "To": "mods\\RUSTIC FROSTBITE SPIDER - Special Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "fcfcfd8e-2ff5-4a62-a593-f8bea42ee272",
+      "SourceDataID": "315505ed-2625-4cd4-b606-646137310f0f",
       "Hash": "ARHc57gC6Y0=",
       "Size": 2804,
       "To": "mods\\RUSTIC FURNITURE - SPECIAL EDITION\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "422f383c-dac3-47ca-87cc-d604d625e18f",
+      "SourceDataID": "4d9c0187-0d61-4b96-a2e4-e67f70d5d052",
       "Hash": "OiwhXtuyQ90=",
       "Size": 6789,
       "To": "mods\\RUSTIC SOULGEMS - Special Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0aa404db-5dfc-4216-99d7-62e6c23c33ae",
+      "SourceDataID": "7091eef1-9aed-42c2-a10a-ea3d442cf95d",
       "Hash": "wC2pCC6Sb54=",
       "Size": 2557,
       "To": "mods\\RUSTIC SPRIGGAN - Special Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "fa0dbc93-a71a-4ac8-8563-9a29d1f9618a",
+      "SourceDataID": "959b523a-a745-49a4-8ff3-cb7b5b18d80f",
       "Hash": "ACI101ja5fg=",
       "Size": 7086,
       "To": "mods\\RUSTIC WINDOWS - Special Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5bfa690f-b560-4590-bd4d-e60f99ed8be5",
+      "SourceDataID": "ef70ca35-7bb7-468f-8251-5a136891cac5",
       "Hash": "kJLOk6HHtt0=",
       "Size": 527,
       "To": "mods\\Sacrosanct - Vampires of Skyrim\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "11380b51-a0e6-4f20-86ba-bebcef654ee4",
+      "SourceDataID": "d81d06ca-86c3-4918-8ccb-b333e3399dcd",
       "Hash": "ywDXclbYdIk=",
       "Size": 9077,
       "To": "mods\\Sands of Time Sleeping Encounters Standalone Module\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5b9c3b24-26f3-455a-9d3b-59245641b48e",
+      "SourceDataID": "52b983c8-7ba0-42da-8631-3ef2d3458680",
       "Hash": "r3CEUYlOw8k=",
       "Size": 583,
       "To": "mods\\Scarcity SE - Less Loot Mod\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5294a007-03a1-4507-a4db-977a280ef662",
+      "SourceDataID": "3a40e87d-53e7-4095-a6a1-052bf05455e3",
       "Hash": "cd+g3XRUkKg=",
       "Size": 547,
       "To": "mods\\Scarcity SE - Spell Research\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "135e4398-5a56-41c1-9836-082c2842f1b2",
+      "SourceDataID": "b13b29cd-3ee5-4211-8cf6-6a1eabec1ccb",
       "Hash": "ymoX/QTULSA=",
       "Size": 16347,
       "To": "mods\\SDA Wintersun Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "299bf2c6-cb0b-448e-af0e-ae250dc2b29f",
+      "SourceDataID": "9a838434-6379-4588-af3f-431613e47651",
       "Hash": "x0Jz0VnkBMQ=",
       "Size": 2561,
       "To": "mods\\Sedentary Standing Stones\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "cb32c5cc-8f80-4119-a1c1-969ee1f5c8f3",
+      "SourceDataID": "ca73ab0a-c3b5-4afd-a6bc-03ea44e4f2c2",
       "Hash": "xme7sD0RvB4=",
       "Size": 2551,
       "To": "mods\\Sedentary Standing Stones - Realm of Lorkhan\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c70a00cd-a5bf-4385-b09a-5d7523b9568d",
+      "SourceDataID": "c6dfdad7-eb47-4065-90bc-12b34af6b7f0",
       "Hash": "43riihODdEc=",
       "Size": 16320,
       "To": "mods\\Serana Dialogue Add-On\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5c489532-a309-4bfe-bfaf-8c8d255324d2",
+      "SourceDataID": "f99ab974-981f-4821-a695-966efd59f5cc",
       "Hash": "tE0OGnquvVA=",
       "Size": 6273,
       "To": "mods\\Serana Dialogue Edit - Skyrim Special Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "818a37da-f708-49dd-8552-af9f8d12c0bc",
+      "SourceDataID": "3eb3e38b-b0a5-4382-ba6b-4e3e5331b3bb",
       "Hash": "q6qJm+Hd7E0=",
       "Size": 524,
       "To": "mods\\Shadow Spell Package\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e00f344c-5e95-47b4-8f0f-04213a04722c",
+      "SourceDataID": "f70a9e09-4de2-43bb-b9ec-ca990baa96c4",
       "Hash": "/pd/IfRwpFg=",
       "Size": 7892,
       "To": "mods\\Shout Pronunciations\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d5624fc3-e9da-4577-93aa-71d3fc220df1",
+      "SourceDataID": "298c2f0e-c268-4eb5-9d6e-1ce102720ce3",
       "Hash": "H6Q/0nuHnGM=",
       "Size": 2547,
       "To": "mods\\Sigils of Skyrim - Banners\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5f3ed933-826e-47c2-8f7b-1e3d856dbf50",
+      "SourceDataID": "a6ef1b2c-28b3-4036-bf26-70963fd59be0",
       "Hash": "g2yWk3d2Z/g=",
       "Size": 2547,
       "To": "mods\\Sigils of Skyrim - Shields\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "7f4de201-4be0-42d0-a6ba-8acbc88c230c",
+      "SourceDataID": "03186151-8cff-4d1f-9860-cd3f60ad7917",
       "Hash": "1NamLzKyUCA=",
       "Size": 467,
       "To": "mods\\sksevr data\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "82d07fb0-0ebc-4130-9536-b85f1c78d2a0",
+      "SourceDataID": "3bafb363-3d19-481f-8885-702356855a87",
       "Hash": "KnhP+YDiLpg=",
       "Size": 3893,
       "To": "mods\\Skygazer Moons - Masser and Secunda Ultra HD 4K (2K and 1K) Moon Textures\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "16d54177-c90a-4e4d-ab5c-8477ab6e1cf2",
+      "SourceDataID": "d2995083-9071-406b-8a79-2d44fb0fbf84",
       "Hash": "aimG03bmDE4=",
       "Size": 2817,
       "To": "mods\\Skyrim 2018 - Bugfixes 1.6\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e7352adc-8912-4e52-8fd9-4d02a63ee952",
+      "SourceDataID": "66a62b67-0d1c-4ace-8914-b47063a68ab1",
       "Hash": "2uPUs1HEXT0=",
       "Size": 2873,
       "To": "mods\\Skyrim 2018 by Pfuscher\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a6b78296-c04e-4656-96e8-3a01e72726f5",
+      "SourceDataID": "3d585151-b96d-4fc7-92ab-84dbb013acc6",
       "Hash": "XmChyk5vyh8=",
       "Size": 2635,
       "To": "mods\\Skyrim 3D Blacksmith\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "866ea83b-3743-473d-92d2-ae57eb31ce6e",
+      "SourceDataID": "ab23334f-71e3-4a55-b2d2-dcf1acf4a861",
       "Hash": "jjDhGaB/lHk=",
       "Size": 532,
       "To": "mods\\Skyrim 3D Cooking\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f1eeba90-209a-464f-a334-429ebe711d08",
+      "SourceDataID": "1ed84762-07ec-497c-a30b-40c64e6c7577",
       "Hash": "zWX8w6fybbI=",
       "Size": 2715,
       "To": "mods\\Skyrim 3D Docks and Boardwalks\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b54733b7-f4bf-4a78-a413-bebee3ce1186",
+      "SourceDataID": "adc191c4-395f-4e12-913f-7e51c2390517",
       "Hash": "722FlpJCUQ8=",
       "Size": 4198,
       "To": "mods\\Skyrim 3D Furniture\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5766c187-a331-4b65-b4d5-837ee59129e0",
+      "SourceDataID": "19227d9f-c662-4a5c-b7c2-b9750f9a9c7d",
       "Hash": "rchlptXlwWw=",
       "Size": 4201,
       "To": "mods\\Skyrim 3D Furniture SMIM patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "57ea45b3-282c-476a-97e8-a2d2594ddb92",
+      "SourceDataID": "642ce610-ab7a-4c0a-87e8-8a747fe3d8d3",
       "Hash": "PGe/B4+WgiI=",
       "Size": 949,
       "To": "mods\\Skyrim 3D Icefloes\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f609b3c0-2f81-41b9-90a5-07c4bee58a03",
+      "SourceDataID": "690e58f1-ab85-4cf4-8cda-1c4831298d7e",
       "Hash": "unHIlIu/Vw8=",
       "Size": 3760,
       "To": "mods\\Skyrim 3D Landscapes\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "96347181-122a-4069-bbbd-bbe00f581b3b",
+      "SourceDataID": "ee9f9f3d-9579-4440-a240-f7341ef553bd",
       "Hash": "GGwuBm83OOQ=",
       "Size": 3764,
       "To": "mods\\Skyrim 3D Landscapes BILLBOARDS\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9a94b47d-9e61-4a75-9fe6-55f60a4e5e03",
+      "SourceDataID": "c8c4324c-a9e7-4f14-8f59-82e9b513acea",
       "Hash": "CK4ZR7RL6F4=",
       "Size": 3776,
       "To": "mods\\Skyrim 3D Landscapes Groundcovers 2k\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b1c37d03-0faa-40a3-96bc-517702094279",
+      "SourceDataID": "15cdf303-fa02-4dd7-9d6c-88172b27cd22",
       "Hash": "t+/1ryv6H+w=",
       "Size": 4003,
       "To": "mods\\Skyrim 3D Misc - Barrels\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ca1829ed-640c-43d0-a49c-54956ee939ca",
+      "SourceDataID": "3db584be-a4b5-463e-aa11-718b3c53f9e7",
       "Hash": "6HJqtP7T0AM=",
       "Size": 4014,
       "To": "mods\\Skyrim 3D Misc - Buckets\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "90d69202-98c3-4e6e-b6e3-95470acd78c7",
+      "SourceDataID": "446b3a9d-7642-4835-8515-e2d0eb9d5ead",
       "Hash": "PfpKnon1sas=",
       "Size": 4008,
       "To": "mods\\Skyrim 3D Misc - Butterchurn\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4a62bac4-d10d-497d-80c7-bafb1928fe83",
+      "SourceDataID": "fafdfbdc-47e5-4fbc-85aa-c417e2f01bcd",
       "Hash": "h7IYMNA03oo=",
       "Size": 4026,
       "To": "mods\\Skyrim 3D Misc - Chopping Block and Axe\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "711a2c1a-0f0d-4e3b-a5d3-2a5bd697e34c",
+      "SourceDataID": "fdb44810-84f3-49bd-8e8b-cae7323c599e",
       "Hash": "sYkRdfWhx3s=",
       "Size": 4013,
       "To": "mods\\Skyrim 3D Misc - Dining Set\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "2f2253fe-c337-44be-af41-63393ca25610",
+      "SourceDataID": "fb331552-c8ce-4161-a477-c11c852d66d7",
       "Hash": "7SmTU/PDA/A=",
       "Size": 4027,
       "To": "mods\\Skyrim 3D Misc - Giant Mortar and Pestle\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8c7829f9-2eb5-4ef5-b1bf-5ecbc250c853",
+      "SourceDataID": "2b302602-1db9-4dbc-b3fb-0481ba558f6e",
       "Hash": "FYPlrret9AQ=",
       "Size": 4011,
       "To": "mods\\Skyrim 3D Misc - Mammoth Cheese\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "82468527-057a-4b34-a016-f874ca4a157c",
+      "SourceDataID": "6a83d666-fd39-4386-9723-ba0f4927f70a",
       "Hash": "WX1xutr/OPc=",
       "Size": 4016,
       "To": "mods\\Skyrim 3D Misc - Markarth Cage\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c9098ad9-ae52-4d44-9418-0d1163d78806",
+      "SourceDataID": "4ffa0c83-e107-4450-a409-39c552c8de12",
       "Hash": "pnC97GCSomA=",
       "Size": 4016,
       "To": "mods\\Skyrim 3D Misc - Tanning Rack\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "7edc55ad-9d4c-45a9-8ac6-72223f1cb6db",
+      "SourceDataID": "d9311869-83a3-4ada-b347-360f19425371",
       "Hash": "X5gJu7rEccM=",
       "Size": 4009,
       "To": "mods\\Skyrim 3D Misc - Traps\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "06a8e819-3fb6-4cee-a31e-042eb7e135cd",
+      "SourceDataID": "1f4cf58c-7050-4382-ba9a-d1e1f8b215e6",
       "Hash": "tzXZFFNqjxA=",
       "Size": 4017,
       "To": "mods\\Skyrim 3D Misc - Windhelm Doors\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "372002ac-ee8c-45c7-ac59-30e709b813d6",
+      "SourceDataID": "83de06b0-dbc5-4748-9585-e82bbd9aa8d7",
       "Hash": "fHjs3X0g61s=",
       "Size": 4012,
       "To": "mods\\Skyrim 3D Misc - Winterhold Gate\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "59f2c57c-13d4-44c4-8665-e3ffe12cd74e",
+      "SourceDataID": "e24c14b9-7c10-44c9-b572-de718a21fb32",
       "Hash": "5dK3mTx91/s=",
       "Size": 2557,
       "To": "mods\\Skyrim 3D Misc Chopping Block Texture Map Fixes\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "26bfb83a-6a30-47a2-8c04-060ff34d4108",
+      "SourceDataID": "264ede36-2dbc-423f-94d4-d72775a090b4",
       "Hash": "wV12WbHf8SE=",
       "Size": 531,
       "To": "mods\\Skyrim 3D Rocks\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "cd9464d6-4345-4925-ab0b-c290539251cc",
+      "SourceDataID": "7142df53-3113-417c-825a-205f4609b2ce",
       "Hash": "0Iw4onHdddQ=",
       "Size": 3888,
       "To": "mods\\Skyrim 3D Trees and Plants\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "267bda8c-6fba-4311-9c1d-d5250b5a2bd5",
+      "SourceDataID": "2d6a8fcf-2fd5-4c85-a01e-9835da19f568",
       "Hash": "dDplCEyKczc=",
       "Size": 3901,
       "To": "mods\\Skyrim 3D Trees and Plants - CACO Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d39a4eec-c3f6-462d-9bf2-dbfe2ccc4a38",
+      "SourceDataID": "9a927962-d0ae-4ce9-a032-f58c63c1e711",
       "Hash": "5Vc6JN9ZxUY=",
       "Size": 3892,
       "To": "mods\\Skyrim 3D Trees and Plants BILLBOARDS\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "84e7c90b-0b5f-4c0a-a3b8-d146e4d8c2cf",
+      "SourceDataID": "4dde786b-53a9-44d3-a644-a585230af114",
       "Hash": "crMWbJwY1Ss=",
       "Size": 594,
       "To": "mods\\Skyrim 3D Trees and Plants Patches\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4251ef23-ddc8-4379-9c20-b3912b5f8437",
+      "SourceDataID": "6fb90a1b-335a-4c8b-8e3c-c3c6568512ab",
       "Hash": "nSKPz49uYN8=",
       "Size": 2057,
       "To": "mods\\Skyrim 3D Windmill\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "88bf496f-6661-4612-b5f2-a3253f04b5bc",
+      "SourceDataID": "713b3775-c5c5-44ba-8afe-0992f64ee961",
       "Hash": "QPaDxuCEd0Y=",
       "Size": 531,
       "To": "mods\\Skyrim Sewers 4\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0a9c8544-287d-4ff1-be72-de9162f6458a",
+      "SourceDataID": "b00b2b59-685f-4cf7-a3a9-04d1abacf793",
       "Hash": "CIsIa1W9NN8=",
       "Size": 1138,
       "To": "mods\\Skyrim underground Lore friendly sanity patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f6026e84-4520-420a-a91b-13f5833e9c3d",
+      "SourceDataID": "a1560e7a-7ecd-4594-b97b-727aebcd63c8",
       "Hash": "2zzr9EAHiDg=",
       "Size": 16328,
       "To": "mods\\Skyrim Underground SSE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "91a73151-242b-4c9c-9ab1-b704e20a208f",
+      "SourceDataID": "2178adc7-7c12-42c4-8ab7-dfbc73409181",
       "Hash": "JwO6EucVjsU=",
       "Size": 543,
       "To": "mods\\Skyrim VR Tools\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6212c4cb-fca3-4aff-850f-2300f99f6c33",
+      "SourceDataID": "98fe67b0-5975-4deb-9b03-73cd894cc0ac",
       "Hash": "A7NKA09npCQ=",
       "Size": 1355,
       "To": "mods\\Skyrim VR USSEP Dwarven Ballista missing texture fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0cbccadc-faa9-4ac2-aa82-7969e64679e3",
+      "SourceDataID": "18c123b2-d991-499b-b263-01e418fabd94",
       "Hash": "5+uVIJEKuG0=",
       "Size": 3895,
       "To": "mods\\Skyrim3DTrees and Plants 3dLOD Resources\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d833e738-24b4-4328-bec5-7757a35f95b2",
+      "SourceDataID": "49742bd8-fe0f-4cb2-a98e-fd063aa06f8c",
       "Hash": "bDG+7ug8EAo=",
       "Size": 541,
       "To": "mods\\SkyrimVR - USSEP Compatibility Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f0da75fa-0544-46ff-9002-570f23ac3d42",
+      "SourceDataID": "c106544b-83a0-40a9-816e-f08f53803afe",
       "Hash": "X0SFohIRXbU=",
       "Size": 5366,
       "To": "mods\\SkySight Skins - Shoe Fixes (Standard Shine)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ba786883-6d9a-4cb8-8e9f-346003fc1e83",
+      "SourceDataID": "db3cc1c7-9fe6-4f47-bf7e-cbb10ab57de4",
       "Hash": "dbSRDCTMEAg=",
       "Size": 5463,
       "To": "mods\\SkySight Skins - Ultra HD Male Textures and Real Feet Meshes (4K2K HIGH)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "fc60167c-297e-41ef-aa12-81f6cc9d1965",
+      "SourceDataID": "2bad9754-ac53-4d65-b74d-bff8a9054723",
       "Hash": "DQjwti4c8Gk=",
       "Size": 17581,
       "To": "mods\\SkyTEST - Realistic Animals and Predators SE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "7653eb83-7426-446c-8567-6184b702595a",
+      "SourceDataID": "dc5d64ae-ed56-4844-9202-50aff202e460",
       "Hash": "uIElCg2D8ZU=",
       "Size": 4743,
       "To": "mods\\SkyTEST Vanilla and DLC Creation Extension\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b09adf67-5c10-454d-afc1-eb4a37641c8c",
+      "SourceDataID": "13f124e4-c400-4688-b011-33afdae88432",
       "Hash": "zqUACMDNaCY=",
       "Size": 472,
       "To": "mods\\SkyUI\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "99502e84-3dfd-452e-85f9-16d53e3cd222",
+      "SourceDataID": "f130095d-043b-4152-9342-97d09b3bf946",
       "Hash": "LzU4GRYrjkI=",
       "Size": 3120,
       "To": "mods\\SkyUI The Adventurer Theme Mod\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f5e83eeb-f439-46d0-a061-3830c8b63cd4",
+      "SourceDataID": "b788c858-afc1-411b-88d2-8837b57f366e",
       "Hash": "L6YHkyx7rPU=",
       "Size": 493,
       "To": "mods\\SkyUIVR.and.Frostfall.Patch.v1.0F-beta.1\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4763a9d8-d95d-4a7b-b656-a8e8301a6dbe",
+      "SourceDataID": "231ef5c8-1460-4c67-b54f-826ce656f552",
       "Hash": "SWLPtrM1p78=",
       "Size": 25716,
       "To": "mods\\SkyVoice Dragonborn Speaks Naturally Config File by zbigdogz\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "08aa955a-db45-4a92-8686-6d02fa1286d9",
+      "SourceDataID": "c33221ec-1aa2-4306-87db-3b619da39548",
       "Hash": "KWYfOQISaZI=",
       "Size": 25680,
       "To": "mods\\SkyVoice VR Main File - Required\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3f71a990-b528-4267-a63d-e0d499008f2b",
+      "SourceDataID": "40ea3ea1-6423-4d2a-8bb9-22b8a7c388eb",
       "Hash": "SxKszVfxpVs=",
       "Size": 9977,
       "To": "mods\\Sleep to Level Up\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "feaed64d-d51a-4d1d-8dee-98fcae2f581a",
+      "SourceDataID": "719ccd55-2133-4f0b-9958-5708c7267e56",
       "Hash": "2gI2ts4aJhk=",
       "Size": 540,
       "To": "mods\\Smart Training - Tweaked SE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "fa83ae08-1379-43c1-b998-4d270db9ee0f",
+      "SourceDataID": "add4cc5e-2991-4883-8625-1167ddbe83ec",
       "Hash": "aexkjIN7JFk=",
       "Size": 2524,
       "To": "mods\\SMIM Rope TGCoMM by WiZkiD\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "2afac769-aebe-40eb-b517-1196ae70ca24",
+      "SourceDataID": "24f9ebd9-2b9e-41f3-99a5-23722287752d",
       "Hash": "FmWpaq7U44w=",
       "Size": 7094,
       "To": "mods\\Song of the Green (Auri Follower)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "bdb6708a-53bf-41ee-99ea-ce9573d3b8f5",
+      "SourceDataID": "241b7b0a-cc70-42ff-8ab2-d2950d393af7",
       "Hash": "963Fi1kowoM=",
       "Size": 532,
       "To": "mods\\Song of the Green - Auri Replacer - Ella's version\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5963c3d4-6def-4295-a9bf-682e4c12123a",
+      "SourceDataID": "10b085d3-a81f-4741-9e45-0922332f8615",
       "Hash": "OU8uUifEwl4=",
       "Size": 527,
       "To": "mods\\Soul Cairn HD\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d9160129-3f4a-4463-b6fc-daeceae0ae6b",
+      "SourceDataID": "b77d86ea-92d4-481e-bb78-60d23074c37e",
       "Hash": "auonPN8e8qA=",
       "Size": 444,
       "To": "mods\\Souls Do Things - Thunderchild\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e4f8ccbd-aba4-49d4-83a6-7c05bceee0ef",
+      "SourceDataID": "dc5f67ec-5475-4ce6-8eb0-49ae750858d5",
       "Hash": "6AXSjq6pCR0=",
       "Size": 3872,
       "To": "mods\\Souls Do Things - Thunderchild\\SoulsDoThings - Thunderchild Patch.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "038caed3-81d1-4623-959b-03f4b7fa1015",
+      "SourceDataID": "1ea6f7c0-8698-4d6b-8235-311fd1ed9bab",
       "Hash": "2b5vRdKsQo4=",
       "Size": 535,
       "To": "mods\\Souls Do Things 2 SE - A Dragon Soul Utilities Mod\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "457be2f2-9adb-4e0a-b9ca-6cb61bf52505",
+      "SourceDataID": "bfab0226-ccfc-4441-8647-4b3c39b4fdc4",
       "Hash": "HPVS5Rm28xw=",
       "Size": 560,
       "To": "mods\\Souls Do Things 2 VR Compatibility Scripts\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "85a4015f-7a11-40cb-8efa-d22a8369954d",
+      "SourceDataID": "ccb4deea-0815-49cd-9167-d0a3c40649c2",
       "Hash": "TOsDxZJu2HM=",
       "Size": 424,
       "To": "mods\\Sound and Ambiance_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e3d085d5-2a8b-4a63-83c5-906c2380bc25",
+      "SourceDataID": "7e9c9d0c-3f80-41ad-9f10-520191cb1da3",
       "Hash": "5IswCauTB2Q=",
       "Size": 597,
       "To": "mods\\Sounds of Skyrim Complete SE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "246ff268-b809-45be-8237-f751b5438aa5",
+      "SourceDataID": "8b6949ff-7739-4d53-99b9-ae5c555ac099",
       "Hash": "/R0hmxzzHQQ=",
       "Size": 1412,
       "To": "mods\\Sovngarde HD\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e2850469-84e6-40ab-a03c-c96a1d1a1f76",
+      "SourceDataID": "5136c8c6-e2b0-402f-9a60-2dd65ec719da",
       "Hash": "PT7j/34ltCY=",
       "Size": 23325,
       "To": "mods\\Spell Research\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f442bac3-b46d-4e08-be4e-36c36e63c600",
+      "SourceDataID": "38ad3986-7f2e-4db6-a2d7-2074b21c032f",
       "Hash": "Rutrfwg/pwk=",
       "Size": 535,
       "To": "mods\\Spell Research - Convenience Add-On\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6284d741-6fe2-47df-bad4-b4196d64614b",
+      "SourceDataID": "e6e61c0f-b680-4c1e-990b-1cb457b8795c",
       "Hash": "G7KdJR5watE=",
       "Size": 957,
       "To": "mods\\Spell Research - Mysticism - Patched Script\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b4898e8e-c56b-49be-be51-15979e20bb7b",
+      "SourceDataID": "8f207668-8910-426e-880c-70c69f353e49",
       "Hash": "1aX/yCd4/h0=",
       "Size": 9534,
       "To": "mods\\Spell Research - Patch Compendium\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "84c0da9b-c3b9-4512-88b2-75997f268dbf",
+      "SourceDataID": "b246580b-a67b-4e73-81cc-d7b78bc73541",
       "Hash": "KR6WQ96wO6I=",
       "Size": 2252,
       "To": "mods\\Spell Research - Patch for Mysticism\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "522edecd-bd02-481b-b84d-4e64ed49cc99",
+      "SourceDataID": "ae0dce1d-5ade-46ec-b79e-7eb90af957a2",
       "Hash": "TXllppGYjFU=",
       "Size": 976,
       "To": "mods\\Spell Research Patch for Triumvirate - Mage Archetypes\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a15d5f76-86cc-4297-bbf5-9771e1a7b560",
+      "SourceDataID": "43377b36-6285-4786-9567-ff28e5e426ac",
       "Hash": "DJ3UypirsuY=",
       "Size": 594,
       "To": "mods\\Spice Of Life - Orc Longhouses\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "553351da-df18-4557-8bd5-c62f78ef4411",
+      "SourceDataID": "9791887b-1894-4c92-add0-d2396ad3cb72",
       "Hash": "CDhDKg2lhAI=",
       "Size": 7892,
       "To": "mods\\Splendor - Dragon Variants SE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "62dd60f3-9cf7-4aee-8f0e-bf9b8334b290",
+      "SourceDataID": "d8733c3c-8fb5-48cc-8ee0-81eb4aef98b5",
       "Hash": "/KaqZskmalc=",
       "Size": 524,
       "To": "mods\\Sprint Jump VR\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8be96233-b616-4de2-b770-6da096de958b",
+      "SourceDataID": "e9f3ef97-2f1b-4e55-be20-71a2cfd06241",
       "Hash": "UFT5qhkycfw=",
       "Size": 7694,
       "To": "mods\\SSIRT v4.1\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9ecb2c4f-66ec-4c96-91a0-4683d0e68827",
+      "SourceDataID": "a7a22c62-8f4e-40df-9b04-086234ec3d9f",
       "Hash": "3/l8/8z5xb4=",
       "Size": 2187,
       "To": "mods\\Stalhrim Source\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e1cf0e68-8302-45c2-94b7-6a2f1f654a7d",
+      "SourceDataID": "321f782a-6ad1-4c26-bcd5-580dcd49e40f",
       "Hash": "o1jFbZ9Y5AE=",
       "Size": 2185,
       "To": "mods\\Stalhrim Source - Pulse\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c769ef99-4455-48f9-83c4-5e6c8e0037ac",
+      "SourceDataID": "53179ccb-4ba1-4e90-8547-db394806b2cd",
       "Hash": "46e6Hd/hBfk=",
       "Size": 10525,
       "To": "mods\\Static Mesh Improvement Mod\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "09215bf2-8dfd-483b-8d9d-29740bc6090e",
+      "SourceDataID": "e27b6d73-17b3-4990-91be-bf7d3eb03686",
       "Hash": "HQzgvwy1W0g=",
       "Size": 10012,
       "To": "mods\\StLU - Growl 2.3.0 Compatibility Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c0ca68a6-a03b-46bd-b1f6-6322b00d513a",
+      "SourceDataID": "a4545efb-f25a-4150-9a23-c9c49982bf74",
       "Hash": "Bbdw0D9sWlY=",
       "Size": 547,
       "To": "mods\\Stunning Statues of Skyrim\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "2ff8934a-f0ba-4230-b916-f4501e981e27",
+      "SourceDataID": "11720c21-9cd7-4278-873d-cb82c5b7f7ec",
       "Hash": "JhrQMI4D6Lg=",
       "Size": 521,
       "To": "mods\\Summermyst - Enchantments of Skyrim\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "987b8f89-a233-4771-a1f0-4819295ae932",
+      "SourceDataID": "b573bb8f-b291-4b8a-afcf-4fefff39eab7",
       "Hash": "NRMB6RHE/7g=",
       "Size": 543,
       "To": "mods\\Summermyst - WACCF Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b37ef5ce-6fee-45e2-a038-3de08f6dacca",
+      "SourceDataID": "6669dfb9-dea0-4eea-9c26-e820720bac03",
       "Hash": "m5LEg6nr8aA=",
       "Size": 539,
       "To": "mods\\Survival Control Panel\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5d54d459-67cd-4051-8bc6-b35d51ad5fd7",
+      "SourceDataID": "0c98f3c9-9b6c-4c19-a0cf-6a4c34797665",
       "Hash": "9n9sRbEy/Fo=",
       "Size": 530,
       "To": "mods\\Talkative Dragons\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "899e2387-58df-4c9f-b0b6-ca4b56782956",
+      "SourceDataID": "cd329814-bcbf-4213-a27f-634dcfea9507",
       "Hash": "v2q+ckJr2A4=",
       "Size": 5094,
       "To": "mods\\Teldryn Serious - A Teldryn Sero Backstory Quest SSE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "54a5cf92-6ff1-498d-8777-b45fb7d4da6c",
+      "SourceDataID": "af3e8177-63c3-404e-bccf-397d1a04f780",
       "Hash": "auussv38ybU=",
       "Size": 544,
       "To": "mods\\Teldryn Serious Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "18547878-2b76-49a4-8c58-3c64e1595f76",
+      "SourceDataID": "b14b9287-d046-4807-8fcf-91bd5cdc3867",
       "Hash": "2DFETXJwVN0=",
       "Size": 19268,
       "To": "mods\\Tentapalooza for Campfire\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ac58340b-cd1b-4d6f-a19f-ed1123d79669",
+      "SourceDataID": "69e5938b-af65-4229-a902-0f115212101f",
       "Hash": "wMPGS1uUEIo=",
       "Size": 4876,
       "To": "mods\\Terrain LOD redone\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "dab2151e-7f57-4926-a72c-680b62b0ab0a",
+      "SourceDataID": "3ecefcdc-1634-48c8-a35e-f47428dc2967",
       "Hash": "RN1C04Ey/nY=",
       "Size": 6742,
       "To": "mods\\The Choice is Yours\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0e01dd7c-e62f-4052-8438-1e22bbcc00bc",
+      "SourceDataID": "d947a244-08ae-4bb8-9931-44b9aeeb041e",
       "Hash": "IARNMuvfP+c=",
       "Size": 518,
       "To": "mods\\The Forgotten City\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1e8c7c52-ca93-4c69-9cfa-2abb31b9981f",
+      "SourceDataID": "e51dd390-4bea-4502-9b8a-885e3af2a881",
       "Hash": "qQR2nXJBlqg=",
       "Size": 4784,
       "To": "mods\\The Great Cities - Resources\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "2895b62d-f013-4aa2-85dd-68b73475e0ad",
+      "SourceDataID": "66b159c0-1718-4105-bfb4-81f695df7dc5",
       "Hash": "3MbG36qgIdw=",
       "Size": 547,
       "To": "mods\\The Great City Of Dawnstar SSE Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "cd4f6e66-8d21-4d3f-8d25-1b6151377b91",
+      "SourceDataID": "edc20bad-b019-4852-aaa7-e32a1ff94241",
       "Hash": "a2creSglxiM=",
       "Size": 552,
       "To": "mods\\The Great City of Dragon Bridge SSE Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "660dba26-d927-4af8-8805-793134576a25",
+      "SourceDataID": "c22f3116-23bd-41fb-be99-3c76d5c5c924",
       "Hash": "Tr5CMDppHPM=",
       "Size": 3414,
       "To": "mods\\The Great City of Falkreath - CFTO Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0d2c3623-30b3-4b8a-9a48-62a3c11a544d",
+      "SourceDataID": "c6d795e1-2b8e-4181-945c-a9e49a35203d",
       "Hash": "XuSBklfpAU4=",
       "Size": 3427,
       "To": "mods\\The Great City Of Falkreath SSE Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f8aabeea-0ef8-4574-a8f0-6e5f62bc46c9",
+      "SourceDataID": "4a08d0e2-446d-4410-bed1-bcb1a725f6bb",
       "Hash": "UapL1sVnszs=",
       "Size": 3346,
       "To": "mods\\The Great City of Morthal - CFTO Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ab55a056-02bc-4ca8-a38b-0fc5720fd1db",
+      "SourceDataID": "a8ac7ca3-4e1a-4d9a-aaf5-ca657d101616",
       "Hash": "ZXtpSmKbjhI=",
       "Size": 3343,
       "To": "mods\\The Great City Of Morthal SSE Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "95dc8456-db7b-4abd-91b3-837db31108ef",
+      "SourceDataID": "ef43802d-6fb1-48da-9546-e7e7695b3229",
       "Hash": "SwrxYtQReSI=",
       "Size": 2955,
       "To": "mods\\The Great City of Solitude - USSEP\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "030bdda2-6911-4378-af62-ea224bfa8401",
+      "SourceDataID": "d2699fbd-148e-4277-ac8b-d61e2f3baf2b",
       "Hash": "177zZcmslsc=",
       "Size": 3040,
       "To": "mods\\The Great City of Solitude SSE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "810c6f41-01af-4014-9415-6619b45caec9",
+      "SourceDataID": "225cba02-5e93-4821-87d0-17b685c6b66b",
       "Hash": "oTdetdemesE=",
       "Size": 2852,
       "To": "mods\\The Great Town of Ivarstead SSE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f3c47850-d486-45a7-a783-4b8a66dab410",
+      "SourceDataID": "9cef4629-64c1-4f8f-b3dd-9ec95dc11cd9",
       "Hash": "l4m5Ng2sEWQ=",
       "Size": 543,
       "To": "mods\\The Great Town of Karthwasten SSE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b819e05a-07ab-4563-a044-cf95421f3c2b",
+      "SourceDataID": "f4842177-d362-4d15-bd45-4a128af1ba37",
       "Hash": "viIzZ7yInbM=",
       "Size": 546,
       "To": "mods\\The Great Town of Shor's Stone SSE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3cd845d1-f8e1-40e7-87af-46056305a02d",
+      "SourceDataID": "fffd3aef-a2d5-40f9-a085-0374ce049f6c",
       "Hash": "qXXnrcy0i98=",
       "Size": 3583,
       "To": "mods\\The Great Village of Kynesgrove\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "2e3179b3-a5e5-4bd5-84a4-385a8c529f02",
+      "SourceDataID": "ece69d5c-98f3-484a-aeb4-d216085f8497",
       "Hash": "LkV5ZRG6VdI=",
       "Size": 2532,
       "To": "mods\\The Great Village of Mixwater Mill SSE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "543d4684-2b99-4a64-a85c-b5ed9e624bec",
+      "SourceDataID": "4324a44a-c9b2-416e-b37b-2fb2fb1ddbbd",
       "Hash": "z6YTGuosNw8=",
       "Size": 548,
       "To": "mods\\The Great Village of Old Hroldan SSE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4fe66753-eb52-4db4-89f6-f4f7e221a6c7",
+      "SourceDataID": "505af3b6-5531-46d1-aaca-db0424cb1367",
       "Hash": "FQIsRxgG0Rk=",
       "Size": 539,
       "To": "mods\\The Lost Wonders of Mzark\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "12f2d0ef-9128-412e-9661-f6592ac90d9c",
+      "SourceDataID": "9391105d-f731-498b-81c3-c3d0dd328699",
       "Hash": "czXVWfhrkXE=",
       "Size": 516,
       "To": "mods\\The Notice Board SE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6cfcc578-a0fc-4cda-9c13-1d21bf78e0c8",
+      "SourceDataID": "aa2acef5-0ee9-4af4-9ca5-c7069be9bd37",
       "Hash": "cBO+EBu1VXM=",
       "Size": 1169,
       "To": "mods\\The Notice Board SE MCM\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b06a2814-9def-49a0-af91-6475f7adfa20",
+      "SourceDataID": "d5206c68-ca10-4c70-82c1-f90fe261316d",
       "Hash": "JxuyytCwYIM=",
       "Size": 516,
       "To": "mods\\The Tools of Kagrenac\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b9c2f70d-38c9-40e0-adf8-2308d0bd4ca8",
+      "SourceDataID": "9ed69318-9072-48c6-9b53-01317b440598",
       "Hash": "lTf8HwHG2UA=",
       "Size": 584,
       "To": "mods\\The Tools of Kagrenac - ICOW Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4fb1be73-e4e4-43cb-9ca1-700e68b0eef8",
+      "SourceDataID": "0f185f69-5065-4d13-91b6-60c790289648",
       "Hash": "DH/LqOV0wO4=",
       "Size": 10497,
       "To": "mods\\The Wheels of Lull\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d9e25500-6484-4bf1-b04c-cc9cf9eff38c",
+      "SourceDataID": "f35eb8a3-6fdd-4cea-806d-ce9c6ec5a999",
       "Hash": "DTZhOQk3edo=",
       "Size": 10520,
       "To": "mods\\The Wheels of Lull - Hotfix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a6711665-0d79-4ea2-b705-9d24df008122",
+      "SourceDataID": "a2195d05-dfb1-4bc3-bdcf-865b1430de78",
       "Hash": "KOMK5BvJGYQ=",
       "Size": 529,
       "To": "mods\\Thunderchild - Epic Shouts and Immersion\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e20e7b8b-6f81-4719-ac12-9750469bc43d",
+      "SourceDataID": "4f20df00-7bdc-4777-b03b-420f8a2e782c",
       "Hash": "ni6NFZIv8u8=",
       "Size": 23741,
       "To": "mods\\Trade and Barter\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "83e2502d-90da-4b81-9539-e393bee7dc3b",
+      "SourceDataID": "542fe539-caca-45c8-ab8b-a6548dbe1d05",
       "Hash": "tllEVyNRp/M=",
       "Size": 602,
       "To": "mods\\Trade and Barter - Patches\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5fe6dc71-e954-43e7-a46e-29b9a665350b",
+      "SourceDataID": "c592c779-3394-4df1-bdd7-f4542509f1e4",
       "Hash": "yv1+oKyqzus=",
       "Size": 932,
       "To": "mods\\Transparent Dialogue VR\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "fda6a9c0-50d5-4125-8c6d-5e38fd4dd15f",
+      "SourceDataID": "c1444c13-5cef-4001-95bd-75fe77a9ad60",
       "Hash": "DUf4eji9NfE=",
       "Size": 534,
       "To": "mods\\Triumvirate - Mage Archetypes\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ed5c31b8-c2f2-4103-b640-710eb41dd789",
+      "SourceDataID": "cce41742-c5da-4755-91fc-6278c3476293",
       "Hash": "HbDlm1Qx16Y=",
       "Size": 622,
       "To": "mods\\True Storms - Wet and Cold Compatibility\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e66c958c-2714-4270-9c5d-7d1c176d0c76",
+      "SourceDataID": "dd83b03d-f919-453a-b354-8f78a829f8f1",
       "Hash": "4q33KCkZJS4=",
       "Size": 543,
       "To": "mods\\True Storms Special Edition - Thunder Rain and Weather Redone\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "963b49b9-8d67-4b60-9566-9b07ea485f8c",
+      "SourceDataID": "daafe70b-da73-4efd-b2a7-857b4e7fa5ca",
       "Hash": "KKrBBvkCpv0=",
       "Size": 2541,
       "To": "mods\\Trully Hot Flame Atronach for Campfire and Frostfall\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b256b0d4-eb4b-4c35-aaca-c52be659832c",
+      "SourceDataID": "c019948a-821f-4374-b7dc-35aad227902c",
       "Hash": "NFf/v/bM5PA=",
       "Size": 11531,
       "To": "mods\\Tyrannical Trolls\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "16669f92-f553-4eb3-94fb-d26cf86137b5",
+      "SourceDataID": "8ff7e42a-0819-45e3-9b24-662b5f575dfb",
       "Hash": "itUDQusBoaY=",
       "Size": 428,
       "To": "mods\\UI_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b353891a-e8db-4ef3-8eca-979292597014",
+      "SourceDataID": "99654875-8a55-4b2b-81cc-8f1cdf2fc84b",
       "Hash": "zE4VWG+xHMA=",
       "Size": 55520,
       "To": "mods\\Ultimate HD Fire Effects SSE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "78ae23fe-74c7-4525-9f64-bf99f08544d7",
+      "SourceDataID": "052ff24c-70b5-400e-9c72-3207f39170cb",
       "Hash": "5KYda4z4dFk=",
       "Size": 3819,
       "To": "mods\\Underground - a dungeon texture overhaul\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b00310b6-75b3-48c0-b280-2d4ab8219653",
+      "SourceDataID": "07e22b44-6b86-4e7d-ae51-65a63fddf0a1",
       "Hash": "uY7j7uvonZc=",
       "Size": 16353,
       "To": "mods\\Underground - Quieter Zombies\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ab67ef16-85df-4652-9639-611e07e13cd5",
+      "SourceDataID": "eb1a4257-bbab-4c8e-a007-119fa7508c93",
       "Hash": "VcZpBuQ5kbE=",
       "Size": 3756,
       "To": "mods\\Underground - Whiterun Tower fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ec877c01-bbc2-425d-8342-d028f9493607",
+      "SourceDataID": "c81e183a-37fd-4530-9c47-6a752533916a",
       "Hash": "A+VcR4qauFI=",
       "Size": 4517,
       "To": "mods\\Unique Border Gates All - Better DG Entrance - Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4fd35c50-0865-43b9-afe5-cd1323e524bc",
+      "SourceDataID": "e9921fdd-09b0-48a1-89e4-9931b27b3fbf",
       "Hash": "vXFyHxJ74QU=",
       "Size": 4488,
       "To": "mods\\Unique Border Gates SE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c34607fe-cbc6-4c5c-bcad-042a18ea72a1",
+      "SourceDataID": "16b87b88-2a63-45c9-8275-0ee0dadbcd5a",
       "Hash": "7fRlfBK1POY=",
       "Size": 4502,
       "To": "mods\\UniqueBorderGates - No Pale Pass Gate\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6f987795-9e99-4300-b853-a6c26acadf63",
+      "SourceDataID": "fd386820-770c-46d3-a06c-e3742f9032d1",
       "Hash": "hDkPWlFLrn0=",
       "Size": 1522,
       "To": "mods\\Unofficial Carved Brink Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "00b02ae5-c2e6-400c-adc9-fecea2f5f9ec",
+      "SourceDataID": "3d750cb6-a4de-42e0-b3a7-294baa63959d",
       "Hash": "V9cctlmJdSg=",
       "Size": 544,
       "To": "mods\\Unofficial Moonpath to Elsweyr Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "89e640f6-86e7-4531-85c2-bc51b9d24868",
+      "SourceDataID": "4fd42476-0177-419f-8532-ee28e7fccef2",
       "Hash": "VP7vFfQpRyM=",
       "Size": 10146,
       "To": "mods\\Unofficial Project AHO - Bugfix and Improvement Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0abf5f9f-81c6-4480-bd2d-1db0c7dcfccf",
+      "SourceDataID": "1015357f-5356-4ed7-895e-33cde8ef9a67",
       "Hash": "TlE2uGwM6co=",
       "Size": 10121,
       "To": "mods\\Unofficial Project AHO - HD Dwemer Metals\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f53ae304-4b18-4047-a82a-d1d1d42ad57d",
+      "SourceDataID": "ff0b7af5-ef85-42ae-ae81-92d29a46587e",
       "Hash": "pP9FgdvvQ3Y=",
       "Size": 552,
       "To": "mods\\Unofficial Skyrim Special Edition Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a990ed97-bd48-43f6-bc08-84178d259931",
+      "SourceDataID": "37582e78-079a-4ef7-a1ea-1514891c0688",
       "Hash": "5GddgVgmbTk=",
       "Size": 608,
       "To": "mods\\UNP Body Fit Armors and Clothing\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "47fcfef8-597a-471a-9aa6-04a6a6b48575",
+      "SourceDataID": "d9d2c9ea-4ea4-4301-ac1c-216221f8c7d1",
       "Hash": "yfcET989Ll8=",
       "Size": 3182,
       "To": "mods\\Useful Dogs\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6bd30faa-bc1b-4bfe-882e-cd21433d1a23",
+      "SourceDataID": "a03ae871-05a6-435c-8a11-424e61e2040e",
       "Hash": "6kvV+YN94p0=",
       "Size": 626,
       "To": "mods\\UVCPC - Umgak's Vokrii Compatibility Patch Compendium\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5dc60e71-0012-4a19-b11e-de92c2a05889",
+      "SourceDataID": "49a087aa-bd2a-4f8d-9115-dda7e2a5a32c",
       "Hash": "oUyq3PCkVxY=",
       "Size": 543,
       "To": "mods\\Vigilant - Character Overhaul\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0ea5b621-f8cb-4272-abb6-bae09f1f21b6",
+      "SourceDataID": "fac1cc46-412b-4a8e-8e68-66ceadd4cbec",
       "Hash": "rncUcjPhnCQ=",
       "Size": 15730,
       "To": "mods\\Vigilant Hi-Res Textures\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c56d5938-e692-4e05-a3b3-07af0cc2faa0",
+      "SourceDataID": "f5d16135-81dc-442a-a56f-4aba964de9ac",
       "Hash": "46R2ksvfX40=",
       "Size": 1412,
       "To": "mods\\VIGILANT Retexture - GREYmarch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9ed6a28a-01a2-4e13-b9d6-252acadef331",
+      "SourceDataID": "f9765baa-f99d-427c-b243-32047e17b47f",
       "Hash": "kzRaXQYwxdo=",
       "Size": 16591,
       "To": "mods\\VIGILANT SE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "769b7b4d-673f-4863-8b98-fc298a24e474",
+      "SourceDataID": "34368491-bd1d-430a-b81b-01841209bcf8",
       "Hash": "GiXPMwQV054=",
       "Size": 575,
       "To": "mods\\VIGILANT Voiced - English Addon\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d2ade5c6-4e83-458a-9240-97853124d946",
+      "SourceDataID": "2542f012-c986-4918-af33-137041ff0a2d",
       "Hash": "DSjdZOXMAmk=",
       "Size": 529,
       "To": "mods\\Vokrii - Minimalistic Perks of Skyrim\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a5da2689-1b46-4eb8-932a-2186290cfcca",
+      "SourceDataID": "500bbc98-fa97-4a63-b74f-47983c2faa18",
       "Hash": "JPCLwV1aDbg=",
       "Size": 2987,
       "To": "mods\\Volcanic Tundra - Heat Wave Effects\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f81b2bed-2918-49c6-885f-41a2ea730975",
+      "SourceDataID": "7740dcf1-e085-4c98-981f-b63a063d7764",
       "Hash": "0IDnVfu2ncE=",
       "Size": 512,
       "To": "mods\\Voltage\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "73d9cca9-413d-4210-8d2f-9a62c90d7b50",
+      "SourceDataID": "ea07f2fe-29b8-46aa-a983-56764a5ed75f",
       "Hash": "eak9e3y6juU=",
       "Size": 591,
       "To": "mods\\VR FPS Stabilizer\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "effe6fe1-968f-42f5-9fa1-ce1b1a689b4f",
+      "SourceDataID": "8eff97ea-22de-4a3e-a7ae-edb1c4e42336",
       "Hash": "76cSj1Q14hc=",
       "Size": 5186,
       "To": "mods\\VR Menu Mouse Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5233bcce-e498-4dac-88fc-75a9ae92571c",
+      "SourceDataID": "a03f04f0-733a-496f-9da8-1fdfee0499af",
       "Hash": "yl4Fy8IzWEk=",
       "Size": 592,
       "To": "mods\\VR Perk Extender\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "cf48a95d-5026-4778-989c-c7ffc9fa30d5",
+      "SourceDataID": "94e7fdfb-8210-4bc3-929f-a30ce5cc94cb",
       "Hash": "2lJeIcWy5ds=",
       "Size": 3775,
       "To": "mods\\VR power attack fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0cd99080-4cc3-4188-9f45-eb76f0361db2",
+      "SourceDataID": "960431f7-2d7a-4231-8068-2ecdd958c347",
       "Hash": "itUDQusBoaY=",
       "Size": 428,
       "To": "mods\\VR_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b27dd6f0-7d2f-4ea9-bdd1-eb0a18af5ddd",
+      "SourceDataID": "c4e4c868-333a-4bce-b346-4b747e7557b6",
       "Hash": "Wmq6nPZ7aic=",
       "Size": 532,
       "To": "mods\\Weapon Throw VR\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "567c61e1-f7e0-4a2c-b303-b1ed2a3f7ada",
+      "SourceDataID": "79086050-5435-4eb0-b3f7-af91d4877fc2",
       "Hash": "CHAFuJnuIxI=",
       "Size": 3994,
       "To": "mods\\WEBS S.E\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b6aa8f6e-4a76-48b2-86dc-e8b147984c9a",
+      "SourceDataID": "71977a6e-10e5-425c-b948-58adf6d48cad",
       "Hash": "7DyhpW0nafw=",
       "Size": 1551,
       "To": "mods\\Wet and Cold - Fur Hoods Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e78e8021-be2f-47e9-8b46-e9a51372bb76",
+      "SourceDataID": "4c9b0a0f-577e-412f-8cbf-02f6891254a5",
       "Hash": "0jV0iDezCnc=",
       "Size": 589,
       "To": "mods\\Wet and Cold SE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "fa32396c-b112-4e5b-a5df-67abf5e658f8",
+      "SourceDataID": "f7019747-500e-47be-b97b-82b8c3ee3c80",
       "Hash": "JXm1J4Ovu8g=",
       "Size": 885,
       "To": "mods\\WICO - Windsong Immersive Chracter Overhaul\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6bf426ff-251c-4811-b2bd-92db76b157ec",
+      "SourceDataID": "f94d236b-f71f-427f-8840-aed51f57f59b",
       "Hash": "jQ9bJtm0aPI=",
       "Size": 518,
       "To": "mods\\Wildcat - Combat of Skyrim\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "fd5094e4-d044-4f81-8338-1a97ac187366",
+      "SourceDataID": "d3c8070e-15a8-412c-b3ce-7d481079beab",
       "Hash": "6tuAsddGOns=",
       "Size": 9204,
       "To": "mods\\Windstad Mine - Skyrim Special Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "af7ce7e0-929e-4474-84a8-da400dfa5644",
+      "SourceDataID": "3b578582-33ac-4e64-bf99-221a27c97c33",
       "Hash": "BdsTI0He+AQ=",
       "Size": 63335,
       "To": "mods\\Wintersun - Faiths of Skyrim\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "dc6013a0-cf89-4f6b-a735-82cd35799619",
+      "SourceDataID": "a3e684b3-631a-4aef-aa2a-e4f2a1cfa494",
       "Hash": "p1q3Ods2/x0=",
       "Size": 63333,
       "To": "mods\\Wintersun - VR Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a52a1880-8cb5-456b-9eb7-a7f8c40ba90e",
+      "SourceDataID": "bcfb89b5-5c64-4190-bdbe-383286576c00",
       "Hash": "AYXxIN3LsEA=",
       "Size": 1671,
       "To": "mods\\Wintersun - Zim's Immersive Artifacts Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a8743fa9-de68-4db8-b395-f069893adfcc",
+      "SourceDataID": "a87c684d-1ae6-47ec-9181-0d4542e120bd",
       "Hash": "mFVEqII44a8=",
       "Size": 513,
       "To": "mods\\xSHADOWMANx's Dll Loader\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c5814e41-675b-4edb-98b4-21c77df0bfbe",
+      "SourceDataID": "77011f06-dc75-4e92-be6b-6b3fc636791a",
       "Hash": "v6qaOrBzYWk=",
       "Size": 595,
       "To": "mods\\Zim's Dragon Improvements\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "234936e3-a622-4d14-86d7-1d37b10ef3b3",
+      "SourceDataID": "d8ffd1a6-8318-426f-bceb-f93356bfaa52",
       "Hash": "T1BMRmPXhPc=",
       "Size": 542,
       "To": "mods\\Zim's Dremora Improvements\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e55a6c14-1917-4083-bd79-2d48e8587cc9",
+      "SourceDataID": "2eb7d177-eb36-4d5e-b521-2a0dd8f6242f",
       "Hash": "h/ifBTbNJyA=",
       "Size": 7666,
       "To": "mods\\ZIm's Dremora Improvements-CACO Consistency Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0db62f6d-cd6a-4079-ae7b-b162bb4c4caa",
+      "SourceDataID": "2d9cddf1-2acb-4904-9b3b-2b405a6fab99",
       "Hash": "89sBl7p9SgE=",
       "Size": 101216,
       "To": "mods\\Zim's Immersive Artifacts V1.5\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "edf5d28d-0735-4537-b890-05edea31b455",
+      "SourceDataID": "ca2a85ea-6b11-43f9-b45b-9e91ae57892d",
       "Hash": "OP+L12QEZuI=",
       "Size": 613,
       "To": "mods\\[Adjusted INI] Skyrim Skill Uncapper for VR Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "45a2a00b-7138-44dd-99b7-d219a5c4c2d4",
+      "SourceDataID": "bf9a31f0-2e31-4549-9734-ec48515f68be",
       "Hash": "M/up5/MFgvI=",
       "Size": 10703,
       "To": "mods\\[no bashed patch] Weapons Armor Clothing and Clutter Fixes\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5f0cff4e-2750-4566-a741-4535dc144a02",
+      "SourceDataID": "82a2dec1-de7d-44da-bec1-b3c037485a10",
       "Hash": "G8i+hFVUtlQ=",
       "Size": 15548,
       "To": "mods\\[no ESP, no flame atronach] Savage Skyrim\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0923a5e9-fe62-4ab4-b9e2-8364c747e87f",
+      "SourceDataID": "1ef41f8e-dd6a-4c3d-bb49-f6a1c152baaa",
       "Hash": "xgWpMusag+A=",
       "Size": 16294,
       "To": "mods\\[No masks] Sneak Tools SE Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "7241445a-c909-426e-975c-bda53303614f",
+      "SourceDataID": "72186928-ffa5-4eec-af84-e771bf1b9546",
       "Hash": "PhrM7Lp55m0=",
       "Size": 6671,
       "To": "mods\\[removed some esps] (SJG) Complete Alchemy and Cooking Overhaul Patches - CACO\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6b56483f-3ff3-4f87-8889-cfeb2ad68a73",
+      "SourceDataID": "e7e9aad1-9370-4cd9-b290-f77eac27c471",
       "Hash": "f54UyPwN7vw=",
       "Size": 4615,
       "To": "profiles\\Librum\\archives.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "88e8ce11-aabe-42f6-a330-79cccda924f0",
+      "SourceDataID": "e0ffdce5-7b0c-4547-b220-47aa03af3fb4",
       "Hash": "zH3GSffbvsA=",
       "Size": 36,
       "To": "profiles\\Librum\\initweaks.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "56049368-b125-40be-b666-bc1c6f0e8331",
+      "SourceDataID": "8fea7976-7251-486c-8e96-dd30efd644af",
       "Hash": "OrjZVXR9sA8=",
       "Size": 6385,
       "To": "profiles\\Librum\\loadorder.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4f25ffd3-b61b-4112-9a9f-d2e6d01dfcc1",
+      "SourceDataID": "02636851-cd16-47c7-973a-4d7e8aa4e102",
       "Hash": "CcflEOKPT3E=",
       "Size": 59,
       "To": "profiles\\Librum\\lockedorder.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "acc825aa-63ad-4767-807f-4d4b5e83ab3e",
-      "Hash": "9Npe9n/35Yo=",
+      "SourceDataID": "b91b7d6a-3ec6-4e1c-99b7-5ed552c7342f",
+      "Hash": "/hTKCX3lGeY=",
       "Size": 17837,
       "To": "profiles\\Librum\\modlist.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f0234119-7b9d-49a9-ae0a-482c8c5739e0",
+      "SourceDataID": "9f7bdad9-aae2-4e72-a6f4-ef745ba785ba",
       "Hash": "Ikau4LbyJ2s=",
       "Size": 13038,
       "To": "profiles\\Librum\\modlist.txt.2020_11_16_11_16_24"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "55e032b6-ba02-4c0c-a6c9-9f5f915769e3",
+      "SourceDataID": "62ef408a-6742-4342-a297-e17467dfc042",
       "Hash": "d0YjyTHD9pc=",
       "Size": 13701,
       "To": "profiles\\Librum\\modlist.txt.2020_11_23_02_21_37"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "025b7dc9-c234-49ec-a472-a96042329d81",
+      "SourceDataID": "7b2ab408-b00f-4edd-811f-22479248d490",
       "Hash": "yBgFv7SyUAU=",
       "Size": 6509,
       "To": "profiles\\Librum\\plugins.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "99fa1285-e7f6-4c76-a910-41a282ad51ec",
+      "SourceDataID": "25d78713-d1a7-43d5-8c2b-6fe4e8428acd",
       "Hash": "PJSlt3GWPzA=",
       "Size": 85,
       "To": "profiles\\Librum\\settings.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a0c05d9a-2781-4ae6-bc60-5741b08759c2",
+      "SourceDataID": "2c01294d-5e7b-4d7d-94b9-89d88dd6f4c9",
       "Hash": "IJu21rmHu/4=",
       "Size": 4160,
       "To": "profiles\\Librum\\skyrimprefs.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a265d1c8-9159-4331-875a-cc5f5fc70a74",
+      "SourceDataID": "6a4d8ef2-5b55-4560-90ca-389fa47669b2",
       "Hash": "/iKzFLd3VYc=",
       "Size": 1895,
       "To": "profiles\\Librum\\skyrimvr.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "2fa7b32b-d8c6-4e27-978f-f9a6e3958cc7",
+      "SourceDataID": "cc9a404f-08ce-45db-aedd-b7a59fe0af82",
       "Hash": "8lff8pRnn3Y=",
       "Size": 976,
       "To": "mods\\3DNPC_Patches_Merged\\merge - 3DNPC_Patches_Merged\\fidCache.json"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "82f48ded-d092-4459-905a-016c59cb68c9",
+      "SourceDataID": "3ebe697f-b6bc-4d06-88c2-60210ba6dcd7",
       "Hash": "UG6HlpVDO2c=",
       "Size": 179,
       "To": "mods\\3DNPC_Patches_Merged\\merge - 3DNPC_Patches_Merged\\map.json"
     },
     {
       "$type": "RemappedInlineFile, Wabbajack.Lib",
-      "SourceDataID": "9636b2e3-f022-440e-aed1-19118b366ca7",
+      "SourceDataID": "c2fd14b0-cfe6-4d16-9f86-5655235adf7a",
       "Hash": "4lJwLrQSWEY=",
       "Size": 1667,
       "To": "mods\\3DNPC_Patches_Merged\\merge - 3DNPC_Patches_Merged\\merge.json"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "de272d13-8e64-4182-bce3-6488870123fc",
+      "SourceDataID": "e7b3994f-10ef-4b6e-8d93-3974b2b888ad",
       "Hash": "TcO2AANrNrM=",
       "Size": 193,
       "To": "mods\\AAE_Patches_Merged\\merge - AAE_Patches_Merged\\fidCache.json"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0b929c35-b468-4554-9064-5ee6dbd0aa5b",
+      "SourceDataID": "c3558dea-750f-4bda-9b1a-4a752821618f",
       "Hash": "1SbZF8ZAr50=",
       "Size": 222,
       "To": "mods\\AAE_Patches_Merged\\merge - AAE_Patches_Merged\\map.json"
     },
     {
       "$type": "RemappedInlineFile, Wabbajack.Lib",
-      "SourceDataID": "b80ee059-0ac6-42ad-b832-5b072934e24c",
+      "SourceDataID": "b971e579-3661-4b51-b7f0-6b6daca59f80",
       "Hash": "EAgk7N2UNsE=",
       "Size": 2097,
       "To": "mods\\AAE_Patches_Merged\\merge - AAE_Patches_Merged\\merge.json"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0de1f79e-9120-466b-b0dd-56324d477264",
+      "SourceDataID": "8e924fc3-9d25-4dbc-9920-33dcb8edfc4b",
       "Hash": "5Cu7BHRoUoQ=",
       "Size": 8687,
       "To": "mods\\AHO_Patches_Merged\\merge - AHO_Patches_Merged\\fidCache.json"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "58f44484-2ab1-4345-8809-50bf14480867",
+      "SourceDataID": "a2eb7280-6cc1-4bbf-9e5a-5a4a64516015",
       "Hash": "pv2nIhmvZIg=",
       "Size": 3734,
       "To": "mods\\AHO_Patches_Merged\\merge - AHO_Patches_Merged\\map.json"
     },
     {
       "$type": "RemappedInlineFile, Wabbajack.Lib",
-      "SourceDataID": "ec6552b4-a33f-489f-95ec-4e222be7a2c9",
+      "SourceDataID": "c7cc5455-17e6-4fd6-9a4c-e0384d99e17d",
       "Hash": "eia4MTXeqws=",
       "Size": 1635,
       "To": "mods\\AHO_Patches_Merged\\merge - AHO_Patches_Merged\\merge.json"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3f258323-42e5-46e8-b387-840d8c709662",
+      "SourceDataID": "33256ab4-d9e7-4b1c-8f07-b7391b8d14fd",
       "Hash": "1Xg0ocKkMjI=",
       "Size": 212,
       "To": "mods\\Better Quest Objectives - Merged\\merge - Better Quest Objectives - Merged\\fidCache.json"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "465e06f7-b60e-4965-a9e8-79a8b6e66356",
+      "SourceDataID": "e9762fc9-b8e4-442f-b43e-5b226b88f1cf",
       "Hash": "xNR4x/YRgUE=",
       "Size": 233,
       "To": "mods\\Better Quest Objectives - Merged\\merge - Better Quest Objectives - Merged\\map.json"
     },
     {
       "$type": "RemappedInlineFile, Wabbajack.Lib",
-      "SourceDataID": "c9613136-eccb-4bea-a840-2ccc1f8df1b2",
+      "SourceDataID": "d1b347eb-58f3-43b5-9d47-4f2246781695",
       "Hash": "Kaxa3ncdYCc=",
       "Size": 1794,
       "To": "mods\\Better Quest Objectives - Merged\\merge - Better Quest Objectives - Merged\\merge.json"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ba61f396-aeeb-4c5f-8e97-cb9bd3d92ea7",
+      "SourceDataID": "4eb81e6e-e89d-4cbb-bad9-1fe10cfdd1bf",
       "Hash": "RxXygwGjujE=",
       "Size": 3320,
       "To": "mods\\Bruma_Patches_Merged\\merge - Bruma_Patches_Merged\\fidCache.json"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "679d5de9-cd4a-4029-91fb-4691740804db",
+      "SourceDataID": "aaffeea9-5524-426e-ab60-a5de5c0ae6fa",
       "Hash": "gxt/DSxzQq4=",
       "Size": 966,
       "To": "mods\\Bruma_Patches_Merged\\merge - Bruma_Patches_Merged\\map.json"
     },
     {
       "$type": "RemappedInlineFile, Wabbajack.Lib",
-      "SourceDataID": "1f357fd9-ed43-4928-bdb2-c76e877aa4e1",
+      "SourceDataID": "5cd1550e-1c63-46d2-938e-2e7286104f2a",
       "Hash": "P2LRWwv6N1w=",
       "Size": 4023,
       "To": "mods\\Bruma_Patches_Merged\\merge - Bruma_Patches_Merged\\merge.json"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "2a81869f-6926-46e4-b278-360983fe0d7d",
+      "SourceDataID": "9cc1921c-e5ab-4899-b478-9e51cd57bfe9",
       "Hash": "Dqz4EXhRR9M=",
       "Size": 4,
       "To": "mods\\Bruma_Patches_Merged\\seq\\Bruma_Patches_Merged.seq"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "cc0d06e0-b2f7-4ee3-93a0-90f99920c8d6",
+      "SourceDataID": "9432a02c-5051-4477-aeb3-c9d3c5b1fd0d",
       "Hash": "0nZIUusX6S8=",
       "Size": 1138,
       "To": "mods\\CACO_Patches_Merged\\merge - CACO_Patches_Merged\\fidCache.json"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "079fdd47-0ae2-4586-97f1-e7579bbe1d75",
+      "SourceDataID": "e353798d-597f-46d3-b12e-0fa6750e4657",
       "Hash": "ORSG1rpSHoA=",
       "Size": 673,
       "To": "mods\\CACO_Patches_Merged\\merge - CACO_Patches_Merged\\map.json"
     },
     {
       "$type": "RemappedInlineFile, Wabbajack.Lib",
-      "SourceDataID": "7b0a9119-8d04-4497-a2cb-0e533578d928",
+      "SourceDataID": "46c68dca-ae26-45b9-9f44-c3fc053b1937",
       "Hash": "hkdpjqoK8rg=",
       "Size": 4272,
       "To": "mods\\CACO_Patches_Merged\\merge - CACO_Patches_Merged\\merge.json"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "cb76137c-386e-46f6-9232-d549a1978a4c",
+      "SourceDataID": "a0cf5c78-a0b0-4a27-bc99-9d2ca4292ac1",
       "Hash": "BaO1ZFu0iF4=",
       "Size": 295931,
       "To": "mods\\Cities_Merge\\merge - Cities_Merge\\fidCache.json"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a469e197-9bcc-439f-b185-239bccf8e22d",
+      "SourceDataID": "c6190f5a-c13c-40d7-8734-ccba89d68918",
       "Hash": "x9btz7lxjaI=",
       "Size": 23444,
       "To": "mods\\Cities_Merge\\merge - Cities_Merge\\map.json"
     },
     {
       "$type": "RemappedInlineFile, Wabbajack.Lib",
-      "SourceDataID": "ca92a736-90b9-48be-8195-c0aa31cebf31",
+      "SourceDataID": "073b9e29-08ff-414f-a736-a215d4c4ef49",
       "Hash": "mNpSL7q5uSY=",
       "Size": 12886,
       "To": "mods\\Cities_Merge\\merge - Cities_Merge\\merge.json"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "938db11e-412d-4c08-b5fb-3a4a86af4c01",
+      "SourceDataID": "a38b45df-d9a2-4e95-8f78-c69a26c6b35d",
       "Hash": "IT+G4TFlB/U=",
       "Size": 44,
       "To": "mods\\Cities_Merge\\seq\\Cities_Merge.seq"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d7ddd1c2-8876-4ed4-a5a8-eb6b92b56f50",
+      "SourceDataID": "5724d5e8-caee-4f99-99b4-60bb34d050f0",
       "Hash": "Mm7Zg1Eyf0g=",
       "Size": 444,
       "To": "mods\\CRF_Patches_Merged\\merge - CRF_Patches_Merged\\fidCache.json"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "aae9e693-5356-4c26-ab07-d6f3e0d4be76",
+      "SourceDataID": "a5b1dea5-4e38-415f-8381-db716a284565",
       "Hash": "5tJrM2U6hkI=",
       "Size": 342,
       "To": "mods\\CRF_Patches_Merged\\merge - CRF_Patches_Merged\\map.json"
     },
     {
       "$type": "RemappedInlineFile, Wabbajack.Lib",
-      "SourceDataID": "773ceb87-204d-4271-b9c4-1c0f70c73468",
+      "SourceDataID": "b3c0c2c3-3129-4fe2-b916-584209c7f5dc",
       "Hash": "FzBiCBUG1WA=",
       "Size": 3016,
       "To": "mods\\CRF_Patches_Merged\\merge - CRF_Patches_Merged\\merge.json"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1c8d0ff5-412c-400c-8622-4b9925c0efb6",
+      "SourceDataID": "b209887a-ed64-440b-8dbb-4a0ea40ce81e",
       "Hash": "Xf45AFyglPQ=",
       "Size": 47009,
       "To": "mods\\DBM_Patches_Merged\\merge - DBM_Patches_Merged\\fidCache.json"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5dbfe0b3-1a4c-43db-9266-112e28d391e8",
+      "SourceDataID": "aa2e3873-0fe6-4390-bf71-950b46f3d5dc",
       "Hash": "4OmQbvUqFDU=",
       "Size": 92335,
       "To": "mods\\DBM_Patches_Merged\\merge - DBM_Patches_Merged\\map.json"
     },
     {
       "$type": "RemappedInlineFile, Wabbajack.Lib",
-      "SourceDataID": "c72c6807-9b89-488e-a1b5-1132891c2da1",
+      "SourceDataID": "c8ebc6dc-d547-4623-9fd5-ee3297e6fcaa",
       "Hash": "Wss4pKE4KPE=",
       "Size": 9458,
       "To": "mods\\DBM_Patches_Merged\\merge - DBM_Patches_Merged\\merge.json"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1bea8eb5-bbd7-4efe-bb62-595910b84a82",
+      "SourceDataID": "cb36b523-25de-4251-b1fa-d9477bc94b46",
       "Hash": "8OAxUdtjHhI=",
       "Size": 56,
       "To": "mods\\DBM_Patches_Merged\\seq\\DBM_Patches_Merged.seq"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "962594b1-28d3-456d-9391-cb89b1d1f72f",
+      "SourceDataID": "1d4798f2-61d8-4bf8-81f9-7094592802a3",
       "Hash": "iQhDOknfmFU=",
       "Size": 55578,
       "To": "mods\\Graphics_Merge\\merge - Graphics_Merge\\fidCache.json"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "66b23766-b478-4d5e-a9e8-1b3f480621e3",
+      "SourceDataID": "1f64548c-170c-4973-bae8-fd0076f43075",
       "Hash": "SEj+FvWdjeo=",
       "Size": 4618,
       "To": "mods\\Graphics_Merge\\merge - Graphics_Merge\\map.json"
     },
     {
       "$type": "RemappedInlineFile, Wabbajack.Lib",
-      "SourceDataID": "b09011de-a817-47d7-a155-f59d7a6cab9c",
+      "SourceDataID": "01e988ec-05b5-4418-9d46-8f93f8f9cd6c",
       "Hash": "dw5roc/gy78=",
       "Size": 7939,
       "To": "mods\\Graphics_Merge\\merge - Graphics_Merge\\merge.json"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e2916b67-a77e-40da-b6e6-e48613627300",
+      "SourceDataID": "be5e78af-c76f-4b18-bf5a-bbf3f519251a",
       "Hash": "EUJzNu68rSI=",
       "Size": 68,
       "To": "mods\\Graphics_Merge\\seq\\Graphics_Merge.seq"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "dd2122a5-9264-4c91-884e-d312b49f542e",
+      "SourceDataID": "46ac3d64-d854-4631-a4c6-aa0b38b9fe0b",
       "Hash": "E9Ld4ustPok=",
       "Size": 1020,
       "To": "mods\\MLU_Patches_Merged\\merge - MLU_Patches_Merged\\fidCache.json"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "dc4e3ce1-bed5-424a-879f-341364c44d63",
+      "SourceDataID": "cf87da7f-380f-41cb-9330-1e7c4b8a73e4",
       "Hash": "FoI6GlEIdXY=",
       "Size": 275,
       "To": "mods\\MLU_Patches_Merged\\merge - MLU_Patches_Merged\\map.json"
     },
     {
       "$type": "RemappedInlineFile, Wabbajack.Lib",
-      "SourceDataID": "1a58a305-be95-4db5-ba58-2e89e1946ea7",
+      "SourceDataID": "7cbadb97-fda8-4220-adb2-069d38afda95",
       "Hash": "XTaKnqwv4EU=",
       "Size": 2380,
       "To": "mods\\MLU_Patches_Merged\\merge - MLU_Patches_Merged\\merge.json"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "cdd77a90-e8f6-439e-b684-5ca758fc1f12",
+      "SourceDataID": "f85f000c-9486-45b4-998b-71e173a99dd4",
       "Hash": "Bw0kE/rGMHM=",
       "Size": 1058,
       "To": "mods\\PCE_Patches_Merged\\merge - PCE_Patches_Merged\\fidCache.json"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3282596a-8a7a-44de-a155-c0d9143c2416",
+      "SourceDataID": "4538282a-9251-4a70-ad37-f3379be733f3",
       "Hash": "MPWYYjL3vtk=",
       "Size": 653,
       "To": "mods\\PCE_Patches_Merged\\merge - PCE_Patches_Merged\\map.json"
     },
     {
       "$type": "RemappedInlineFile, Wabbajack.Lib",
-      "SourceDataID": "067a0873-59c8-4c27-a24f-52c6dfb2cee8",
+      "SourceDataID": "73b14f77-45ed-4cfa-9e04-4c4b6748895b",
       "Hash": "S3PHnzVXhZ4=",
       "Size": 4251,
       "To": "mods\\PCE_Patches_Merged\\merge - PCE_Patches_Merged\\merge.json"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5016dadd-db0e-488c-be6b-8e45449bb674",
+      "SourceDataID": "6c205731-304b-4eb0-a773-0aa18f210182",
       "Hash": "/BTuNnMrKSM=",
       "Size": 648,
       "To": "mods\\Scarcity_Merged\\merge - Scarcity_Merged\\fidCache.json"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "7aff236d-0c8f-4cdc-abe9-a45e2c586feb",
+      "SourceDataID": "02701ae7-c4d0-4a64-9f17-0d10f4f59880",
       "Hash": "pakd4ZfA0aU=",
       "Size": 198,
       "To": "mods\\Scarcity_Merged\\merge - Scarcity_Merged\\map.json"
     },
     {
       "$type": "RemappedInlineFile, Wabbajack.Lib",
-      "SourceDataID": "0a9a539c-486c-427a-b366-f2b72d075775",
+      "SourceDataID": "2222dffb-324d-4864-8a8b-75b15e30cd2c",
       "Hash": "D2ANSVFzfkI=",
       "Size": 1371,
       "To": "mods\\Scarcity_Merged\\merge - Scarcity_Merged\\merge.json"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f51ba661-1359-4e8b-bae8-6ec2c2738d0e",
+      "SourceDataID": "63a505e0-661a-4694-b39e-d644bc1f1029",
       "Hash": "lzjaCMfyZMY=",
       "Size": 1077,
       "To": "mods\\Vokrii_Patches_Merged\\merge - Vokrii_Patches_Merged\\fidCache.json"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "dd833883-536d-433d-bc60-c56274ede096",
+      "SourceDataID": "01216031-9909-4be2-a20f-ada25280e672",
       "Hash": "OCksJuY84bs=",
       "Size": 406,
       "To": "mods\\Vokrii_Patches_Merged\\merge - Vokrii_Patches_Merged\\map.json"
     },
     {
       "$type": "RemappedInlineFile, Wabbajack.Lib",
-      "SourceDataID": "b2f028d2-2ca5-4222-88a5-d12fce39a3f1",
+      "SourceDataID": "f7290e0d-7fce-4736-a953-573bfb27e288",
       "Hash": "zIyFshEZyoM=",
       "Size": 2927,
       "To": "mods\\Vokrii_Patches_Merged\\merge - Vokrii_Patches_Merged\\merge.json"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "2fcf776c-866c-4b2f-be4a-c6bb0985a132",
+      "SourceDataID": "ac874752-ca29-4e96-b5ae-09b05725048e",
       "Hash": "uWUXDG5WY3g=",
       "Size": 7013,
       "To": "mods\\WACCF-ACE_Patches_Merged\\merge - WACCF-ACE_Patches_Merged\\fidCache.json"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "766b81f0-a8fb-4114-a21f-489fc26f4a04",
+      "SourceDataID": "6d06b5f7-9033-46d4-817c-6e522fd1639f",
       "Hash": "BbzQfQMMVJI=",
       "Size": 1232,
       "To": "mods\\WACCF-ACE_Patches_Merged\\merge - WACCF-ACE_Patches_Merged\\map.json"
     },
     {
       "$type": "RemappedInlineFile, Wabbajack.Lib",
-      "SourceDataID": "4bc4eec7-1bdf-4f21-8b06-fe938b95a003",
+      "SourceDataID": "33d4e62a-d9b7-42da-94ce-160aa15ae451",
       "Hash": "bPI8fkWo0pk=",
       "Size": 3080,
       "To": "mods\\WACCF-ACE_Patches_Merged\\merge - WACCF-ACE_Patches_Merged\\merge.json"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "aa56c419-8e3d-4a22-b233-3fac8f110c29",
+      "SourceDataID": "8526a41a-9232-4530-b339-d9281f145d01",
       "Hash": "9K1VHDUxHfo=",
       "Size": 110,
       "To": "mods\\WICO_Patches_Merged\\merge - WICO_Patches_Merged\\fidCache.json"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ee8bbebf-3d7b-4b4d-9932-93062eb20c84",
+      "SourceDataID": "64636c1f-1e6e-4c94-a34a-f3c3b156d096",
       "Hash": "te/Ss+btGmo=",
       "Size": 127,
       "To": "mods\\WICO_Patches_Merged\\merge - WICO_Patches_Merged\\map.json"
     },
     {
       "$type": "RemappedInlineFile, Wabbajack.Lib",
-      "SourceDataID": "140d60f1-9335-4567-838e-86302b6a9201",
+      "SourceDataID": "7b2c79ed-dbd2-4700-8f57-dbf4bd18724f",
       "Hash": "qPnRk5ZADHo=",
       "Size": 1386,
       "To": "mods\\WICO_Patches_Merged\\merge - WICO_Patches_Merged\\merge.json"
     },
     {
       "$type": "RemappedInlineFile, Wabbajack.Lib",
-      "SourceDataID": "a690d55a-350a-4df9-b6d1-1e8531c00207",
+      "SourceDataID": "1d85ad5a-4d6f-49fd-8edb-dab0973ffd07",
       "Hash": "h/D3iP5A5Mg=",
       "Size": 67892,
       "To": "tools\\ZEdit\\profiles\\Skyrim VR\\merges.json"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "26feead0-66f8-4fee-b591-a012067bd0b8",
+      "SourceDataID": "872c9c2f-3895-426a-9a12-7ee435aeba29",
       "Hash": "MEuCGpP5uE0=",
       "Size": 22,
       "To": "tools\\ZEdit\\profiles\\Skyrim VR\\patcherCache.json"
     },
     {
       "$type": "RemappedInlineFile, Wabbajack.Lib",
-      "SourceDataID": "cc3af0a6-945e-4875-8b19-5631d4ff1180",
+      "SourceDataID": "3e315dda-5d5e-418d-8a1c-ad83051901d9",
       "Hash": "zrYm2UYhO0Q=",
       "Size": 1009,
       "To": "tools\\ZEdit\\profiles\\Skyrim VR\\settings.json"
