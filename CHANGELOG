@@ -1,0 +1,18 @@
+***Note:*** Librum versions are of the form _x.y-z_. In this notation, changes
+to the _x_ or _y_ denote significant updates, and you will need to read the
+update notes to see how to patch your savefile. Changes to the _z_ denote
+small bugfixes, and will never require a patched save.
+
+***v0.6.***
+Added Mods:
+ - _Open Cities_ and patches.
+ - _Locational Damage_.
+ - (Optional) _Toggleable Slow Time Power_. Acts more like bullet time than
+ vanilla slow time effects, and drains stamina.
+ - _Magistrate Levitate_
+ - _iHarvest_
+
+Updated Mods:
+- Civil War Overhaul and patches.
+
+***v0.5.*** First version. 
