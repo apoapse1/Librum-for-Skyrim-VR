@@ -167,6 +167,8 @@ If you want this plugin, enable it in MO2.
 
 If you do not want this plugin, disable it in MO2.
 
+***Toggleable Slow Time Power*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/16690)]. This mod adds a toggleable "bullet time" power, which acts a little differently from standard _Slow Time_ effects, and drains stamina as it goes. I recommend using this, to add a level of tactical movement to combat that is not easily achievable with real-time VR. If you use this, I recommend choosing a higher difficulty setting to compensate.
+
 There are also two "preview" mods included in the Librum download, located directly above the optional plugins. See below for more information on what they do; they should be entirely compatible with the rest of the modlist, but they are not thoroughly tested in the modlist at present.
 
 #### Start up Skyrim... again
@@ -208,19 +210,20 @@ The suggested MCM options are as follows:
   - _Settings_ tab: Enable extra spawns.
   - _Special_ tab: Enable minotaurs and spiders.
 14. **OBIS - Patrols.** Enable under _Settings_.
-15. **SkyUI.** Under _General_, disable the Active Effects HUD.
-16. **SkyVoice.** Remove the Skyvoice Options Spell.
-17. **Sleep to Level Up.** Disable "Require Sleep to spend Perk Points".
-18. **Smart Training.** Disable "Training Perk Points" and activate the mod.
-19. **Sneak Tools.** Under the _Patch_ tab, disable Horstar's extra dialogue. It is not voiced, unfortunately.
-20. **Sounds of Skyrim.** Adjust to taste, but I don't disable anything.
-21. **Sands of Time Sleeping Encounters.** In the left column, disable home invasions, set "Jorrvaskr Hall HQ" and "College Ambush Odds" to 0, set "Dungeon Ambush Odds" and "Draugr Keep Ambush Odds" to 50, and set "All Other Places" to 25.
-22. **Souls Do Things 2.** Under _Settings_, enable "Conversion Spell Learned" if and only if you disabled perk points on level-up earlier.
-23. **Spell Research.** Import all spells.
-24. **Tentapalooza.** The tents _should_ provide Frostfall support without changing these settings, but let me know if this fails.
-25. **Trade & Barter.** Under _Barter Rates_, enable "Modify Barter Settings" and set "Barter Presets" -> "Hardcore".
-26. **WeaponThrowVR.** Under _Presets_, enable either "Cangar's Selection" or "Classic Medium", depending on whether you think the awesome auto-return animation is worth a slight lack of realism.
-27. **Wildcat Combat.** Enable "Allow Wildcat to manage difficulty" and "Burst injuries".
+15. **Open Cities.** Disable all three options.
+16. **SkyUI.** Under _General_, disable the Active Effects HUD.
+17. **SkyVoice.** Remove the Skyvoice Options Spell.
+18. **Sleep to Level Up.** Disable "Require Sleep to spend Perk Points".
+19. **Smart Training.** Disable "Training Perk Points" and activate the mod.
+20. **Sneak Tools.** Under the _Patch_ tab, disable Horstar's extra dialogue. It is not voiced, unfortunately.
+21. **Sounds of Skyrim.** Adjust to taste, but I don't disable anything.
+22. **Sands of Time Sleeping Encounters.** In the left column, disable home invasions, set "Jorrvaskr Hall HQ" and "College Ambush Odds" to 0, set "Dungeon Ambush Odds" and "Draugr Keep Ambush Odds" to 50, and set "All Other Places" to 25.
+23. **Souls Do Things 2.** Under _Settings_, enable "Conversion Spell Learned" if and only if you disabled perk points on level-up earlier.
+24. **Spell Research.** Import all spells.
+25. **Tentapalooza.** The tents _should_ provide Frostfall support without changing these settings, but let me know if this fails.
+26. **Trade & Barter.** Under _Barter Rates_, enable "Modify Barter Settings" and set "Barter Presets" -> "Hardcore".
+27. **WeaponThrowVR.** Under _Presets_, enable either "Cangar's Selection" or "Classic Medium", depending on whether you think the awesome auto-return animation is worth a slight lack of realism.
+28. **Wildcat Combat.** Enable "Allow Wildcat to manage difficulty" and "Burst injuries".
 
 Further, there are a few settings to change using mod configuration spells:
 1. **Destructible Skyrim.** This configuration spell is available in the _Illusion_ tab. Simply cast and click "remove spell".
@@ -356,7 +359,7 @@ On the other hand, Librum adds many new spells and classes of magic, organized l
 
 Mysticism makes these effects -- and many more -- available in a number of different formats. This pairs particularly nicely with Spell Research, because each spell type is available in a variety of archetypes, and so the spells you discover are truly unique to your character. For instance, each elemental effect is now available in cloak, bolt, "stream", on-touch, wall, and rune formats, each at several different magic levels. This means that, where vanilla only had the novice "Flames" spell in the stream format, Mysticism gives the novice "Flames", the adept "Greater Flames", and the (very well-animated) master "Flames of Oblivion" spells.
 
-In addition, unique spells from previous games make a comeback. These range from Destruction spells like "Finger of the Mountain" and the fan-favorite "Enemies Explode" to unique Conjuration spells, allowing you to summon any type of weapon as well as various types of Dremora, Skeletons, and other creatures.
+In addition, unique spells from previous games make a comeback. These range from Destruction spells like "Finger of the Mountain" and the fan-favorite "Enemies Explode" to unique Conjuration spells, allowing you to summon any type of weapon as well as various types of Dremora, Skeletons, and other creatures. Notably, through [Magistrate Levitate](https://www.nexusmods.com/skyrimspecialedition/mods/24695), Morrowind-style levitation has also been reintroduced to the game.
 
 ![Alt Text](Resources/Shield.jpeg?raw=true "Shield of Awe, from Triumvirate's Cleric school")
 
@@ -458,6 +461,8 @@ On the town-and-city level, Librum combines the [Great City series](https://www.
 Not only do these city improvements make the cities denser, livelier, and more realistic -- they also give each city, town, and hamlet its own unique character. Instead of the "see one, see them all" nature of the towns in vanilla Skyrim, each of Skyrim's villages has its own architectural style, its own industry, and its own landscape.
 
 ![Alt Text](Resources/karthwasten.jpg?raw=true "The Great Town of Karthwasten")
+
+Importantly, Librum also includes the changes from [Open Cities](https://www.nexusmods.com/skyrimspecialedition/mods/281), allowing you to seamlessly transition from a city interior to the world of Skyrim. This pairs nicely with mods like [Sneak Tools](https://www.nexusmods.com/skyrimspecialedition/mods/1863) and [Magistrate Levitate](https://www.nexusmods.com/skyrimspecialedition/mods/24695), which allow you to climb over or float above city walls, respectively.
 
 These architectural changes are matched with AI improvements for the citizens of Skyrim. Using the notoriously large and compatibility-destroying behemoth of [Immersive Citizens](https://www.nexusmods.com/skyrimspecialedition/mods/173), Librum makes townspeople act like real townspeople. People will spend the day hunting, farming, traveling, shopping, or cooking (or whatever else they want to do), depending on their profession and the circumstances. Friends will gather at the local tavern, family will gather for shared meals, and secret lovers will meet in secret, outside the city walls. People will also more realistically mourn the loss of a friend or loved one, pray at temples associated to their faith, and act realistically during combat (and sometimes run away). In addition, [Wet and Cold](https://www.nexusmods.com/skyrimspecialedition/mods/644) forces NPCs to respond correctly to weather events. They'll put on hoods or masks in snow- and ash-storms, respectively, and they'll try to get home as quickly as possible. Wet and Cold makes a number of more graphical improvements, as well, such as visible breath when cold or snow/ash accumulation on people's clothes. Of course, the AI effects of the above mods are magnified by [Realistic Conversations](https://www.nexusmods.com/skyrimspecialedition/mods/1717) and [Guard Dialogue Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/20791), which make normal citizens and guards not sound like robots or maniacs.
 
