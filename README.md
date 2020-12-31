@@ -206,24 +206,20 @@ The suggested MCM options are as follows:
   - _Difficulty_ tab: "Food spoilage" -> "numbers".
   - _Notifications_ tab: "Widget style" -> "disabled".
 12. **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Realistic".
-13. **OBIS - Bandits.** Apply the following settings:
-  - _Settings_ tab: Enable extra spawns.
-  - _Special_ tab: Enable minotaurs and spiders.
-14. **OBIS - Patrols.** Enable under _Settings_.
-15. **Open Cities.** Disable all three options.
-16. **SkyUI.** Under _General_, disable the Active Effects HUD.
-17. **SkyVoice.** Remove the Skyvoice Options Spell.
-18. **Sleep to Level Up.** Disable "Require Sleep to spend Perk Points".
-19. **Smart Training.** Disable "Training Perk Points" and activate the mod.
-20. **Sneak Tools.** Under the _Patch_ tab, disable Horstar's extra dialogue. It is not voiced, unfortunately.
-21. **Sounds of Skyrim.** Adjust to taste, but I don't disable anything.
-22. **Sands of Time Sleeping Encounters.** In the left column, disable home invasions, set "Jorrvaskr Hall HQ" and "College Ambush Odds" to 0, set "Dungeon Ambush Odds" and "Draugr Keep Ambush Odds" to 50, and set "All Other Places" to 25.
-23. **Souls Do Things 2.** Under _Settings_, enable "Conversion Spell Learned" if and only if you disabled perk points on level-up earlier.
-24. **Spell Research.** Import all spells.
-25. **Tentapalooza.** The tents _should_ provide Frostfall support without changing these settings, but let me know if this fails.
-26. **Trade & Barter.** Under _Barter Rates_, enable "Modify Barter Settings" and set "Barter Presets" -> "Hardcore".
-27. **WeaponThrowVR.** Under _Presets_, enable either "Cangar's Selection" or "Classic Medium", depending on whether you think the awesome auto-return animation is worth a slight lack of realism.
-28. **Wildcat Combat.** Enable "Allow Wildcat to manage difficulty" and "Burst injuries".
+13. **Open Cities.** Disable all three options.
+14. **SkyUI.** Under _General_, disable the Active Effects HUD.
+15. **SkyVoice.** Remove the Skyvoice Options Spell.
+16. **Sleep to Level Up.** Disable "Require Sleep to spend Perk Points".
+17. **Smart Training.** Disable "Training Perk Points" and activate the mod.
+18. **Sneak Tools.** Under the _Patch_ tab, disable Horstar's extra dialogue. It is not voiced, unfortunately.
+19. **Sounds of Skyrim.** Adjust to taste, but I don't disable anything.
+20. **Sands of Time Sleeping Encounters.** In the left column, disable home invasions, set "Jorrvaskr Hall HQ" and "College Ambush Odds" to 0, set "Dungeon Ambush Odds" and "Draugr Keep Ambush Odds" to 50, and set "All Other Places" to 25.
+21. **Souls Do Things 2.** Under _Settings_, enable "Conversion Spell Learned" if and only if you disabled perk points on level-up earlier.
+22. **Spell Research.** Import all spells.
+23. **Tentapalooza.** The tents _should_ provide Frostfall support without changing these settings, but let me know if this fails.
+24. **Trade & Barter.** Under _Barter Rates_, enable "Modify Barter Settings" and set "Barter Presets" -> "Hardcore".
+25. **WeaponThrowVR.** Under _Presets_, enable either "Cangar's Selection" or "Classic Medium", depending on whether you think the awesome auto-return animation is worth a slight lack of realism.
+26. **Wildcat Combat.** Enable "Allow Wildcat to manage difficulty" and "Burst injuries".
 
 Further, there are a few settings to change using mod configuration spells:
 1. **Destructible Skyrim.** This configuration spell is available in the _Illusion_ tab. Simply cast and click "remove spell".
@@ -481,7 +477,13 @@ Librum also includes [Man Those Borders](https://www.nexusmods.com/skyrimspecial
 ## Frequently Asked Questions
 Although Librum is still early in development, I have gathered a few questions that you might want to ask:
 
+***I have enough XP to level up, but opening the skills menu isn't working!*** Sleep 8 hours to level up.
+
+***I can't switch between buying and selling.*** You can switch between buying and selling by using the cursor. Sometimes it takes exiting the menu once and re-entering, but the idea is to click outside the bounds of the menu to activate the cursor.
+
 ***Why is campfire/tent placement not working?*** Likely, because you didn't read the directions. In Campfire's MCM, turn off _advanced placement_.
+
+***My game says I have no consumables left in my inventory, but I do!*** This happens when _iNeed_ does not recognize a food item you have. To sort this out, just eat one of the items manually -- the game will prompt you to enter some basic info about it, and that item will work in the future.
 
 ***What the hell are these new enemies below [insert city name]?*** You've encountered _Skyrim Underground_, and, honestly, I'm with you. Although I've applied a patch to make Underground more lore-friendly, there is a little more work to be done. I will sort this out in future versions.
 
@@ -517,5 +519,5 @@ There are a few changes planned already for future versions of Librum:
 There are a few known issues in Librum. I will correct these in future updates, but they are relatively minor and do not impact gameplay:
 1. Two spells are known not to work. The first is Mysticism's _Cure Disease_ spell, which -- thanks to iNeed's _Dangerous Diseases_ module -- will not truly cure diseases. The second is Elemental Destruction Magic's _Spy_ spell, which is not compatible with VR.
 2. Sometimes, the indicators around a messagebox's responses (like "yes/no" in the loading menu) will not properly display. To get around this, note that the cursor always starts on the leftmost response, and move left/right as normal.
-
+3. The game may type the letter "v", for instance, into your active window. I do not know the culprit, but a sure way to avoid issues is to keep your Skyrim window at the front.
 
