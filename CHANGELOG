@@ -3,6 +3,27 @@ to the _x_ or _y_ denote significant updates, and you will need to read the
 update notes to see how to patch your savefile. Changes to the _z_ denote
 small bugfixes, and will never require a patched save.
 
+***v0.7.***
+Added Mods:
+ - _VRIK_, _Be Seated_, and _Simple Realistic Archery_.
+ - _MystiriousDawn's HD Skyrim Overhaul_, landscape textures only.
+ - _AI Overhaul_.
+ - _SkyVRaan_ water effects.
+ - _Know Your Enemy_, along with _Know Your Elements_ and _Light and Shadow_
+ addons.
+ - _Immersive Patrols Simplified_.
+ - _Essential Lockpicking and Immersive Thievery_.
+
+Removed Mods:
+ - _3D Groundcover_'s landscape textures.
+ - _Immersive Citizens - AI Overhaul_.
+ - _OBIS Patrols Addon_.
+ - _MageVR_ holsters only.
+
+Fixes:
+ - Fixed _Locational Damage_.
+ - Balanced _Enhanced Reflexes_ bullet-time mode.
+
 ***v0.6.***
 Added Mods:
  - _Open Cities_ and patches.
