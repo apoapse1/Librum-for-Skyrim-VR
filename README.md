@@ -17,11 +17,12 @@ Wabbajack modlist installer for Librum
       - [Preparations](#preparations)
       - [Downloading and Installing](#downloading-and-installing)
         - [Problems with Wabbajack](#problems-with-wabbajack)
-    - [Post-Installation](#pnost-installation)
+    - [Post-Installation](#post-installation)
       - [Copy "Game Folder Files"](#copy-game-folder-files)
       - [Starting Librum and Choosing Optional Plugins](#starting-librum-and-choosing-optional-plugins)
       - [Start up Skyrim... again](#start-up-skyrim-again)
       - [MCM Settings](#configure-the-mcm)
+    - [Suggested Add-ons](#suggested-add-ons)
   - [Updating](#updating)
   - [Features of Librum](#features-of-librum)
     - [General Philosophy](#general-philosophy)
@@ -33,6 +34,7 @@ Wabbajack modlist installer for Librum
     - [Magic](#magic)
     - [Quests and Adventures](#quests-and-adventures)
     - [Graphics and Ambience](#graphics-and-ambience)
+  - [Getting Started in Librum](#getting-started-in-librum)
   - [Frequently Asked Questions](#frequently-asked-questions)
   - [Credits and Thanks](#credits-and-thanks)
   - [Contact](#contact)
@@ -167,7 +169,13 @@ If you want this plugin, enable it in MO2.
 
 If you do not want this plugin, disable it in MO2.
 
-***Toggleable Slow Time Power*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/16690)]. This mod adds a toggleable "bullet time" power, which acts a little differently from standard _Slow Time_ effects, and drains stamina as it goes. I recommend using this, to add a level of tactical movement to combat that is not easily achievable with real-time VR. If you use this, I recommend choosing a higher difficulty setting to compensate.
+***Bullet Time*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/16690)]. This mod adds a toggleable "bullet time" power, which acts a little differently from standard _Slow Time_ effects, and drains stamina as it goes. I recommend using this, to add a level of tactical movement to combat that is not easily achievable with real-time VR. If you use this, I recommend choosing a higher difficulty setting to compensate.
+
+If you do not want this plugin, disable it in MO2.
+
+***VRIK Controller Bindings*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/23416)]. These are recommended controller bindings to go along with VRIK. If you are using an Index, you will need the latest community bindings. Unfortunately, some in-game button prompts will not align with these bindings.
+
+If you do not want this plugin, disable it in MO2.
 
 There are also two "preview" mods included in the Librum download, located directly above the optional plugins. See below for more information on what they do; they should be entirely compatible with the rest of the modlist, but they are not thoroughly tested in the modlist at present.
 
@@ -205,11 +213,11 @@ The suggested MCM options are as follows:
   - _Basics_ tab: Automate eating and drinking, and set the timescale to 8.
   - _Difficulty_ tab: "Food spoilage" -> "numbers".
   - _Notifications_ tab: "Widget style" -> "disabled".
-12. **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Realistic".
+12. **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
 13. **Open Cities.** Disable all three options.
 14. **SkyUI.** Under _General_, disable the Active Effects HUD.
 15. **SkyVoice.** Remove the Skyvoice Options Spell.
-16. **Sleep to Level Up.** Disable "Require Sleep to spend Perk Points".
+16. **Sleep to Level Up.** Disable "Require Sleep to spend Perk Points", and set "Level Up Cooldown Length" to 12 hours.
 17. **Smart Training.** Disable "Training Perk Points" and activate the mod.
 18. **Sneak Tools.** Under the _Patch_ tab, disable Horstar's extra dialogue. It is not voiced, unfortunately.
 19. **Sounds of Skyrim.** Adjust to taste, but I don't disable anything.
@@ -218,14 +226,19 @@ The suggested MCM options are as follows:
 22. **Spell Research.** Import all spells.
 23. **Tentapalooza.** The tents _should_ provide Frostfall support without changing these settings, but let me know if this fails.
 24. **Trade & Barter.** Under _Barter Rates_, enable "Modify Barter Settings" and set "Barter Presets" -> "Hardcore".
-25. **WeaponThrowVR.** Under _Presets_, enable either "Cangar's Selection" or "Classic Medium", depending on whether you think the awesome auto-return animation is worth a slight lack of realism.
+25. **WeaponThrowVR.** If you want ultra-realism, select _Classic Medium_. Otherwise, apply the following settings:
+ - _Presets_ tab: Enable "Cangar's Selection".
+ - _Special_ tab: Enable auto-return for daggers and two-handed weapons.
 26. **Wildcat Combat.** Enable "Allow Wildcat to manage difficulty" and "Burst injuries".
 
 Further, there are a few settings to change using mod configuration spells:
 1. **Destructible Skyrim.** This configuration spell is available in the _Illusion_ tab. Simply cast and click "remove spell".
 2. **Obsidian Weathers.** This configuration spell is available in the _Powers_ tab. Enable seasonal effects, and choose the "Bleak" preset.
+3. **VRIK.** This configuration spell is available in the _Powers_ tab. Calibrate to headset height, and then to VR scale.
 
 Congratulations! You've completed the Librum setup, and you are ready to play. The next several sections will explain what Librum is and does, as well as provide support.
+
+### Suggested Add-Ons
 
 ## Updating
 If Librum receives an update, please check the Changelog before doing anything. Always back up your saves or start a new game after updating.
@@ -271,15 +284,18 @@ Librum makes a few changes to the default user interface, to (a) create a unique
 
 Librum makes larger changes in terms of controls. For one, it includes [Dual Wield Block VR](https://www.nexusmods.com/skyrimspecialedition/mods/28456), [Weapon Throw VR](https://www.nexusmods.com/skyrimspecialedition/mods/31374), [Sprint Jump VR](https://www.nexusmods.com/skyrimspecialedition/mods/28354), [VR Power Attack Fix](https://www.nexusmods.com/skyrimspecialedition/mods/28004), [Haptic Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/20364), and [Realistic Mining VR](https://www.nexusmods.com/skyrimspecialedition/mods/16692) in order to better match player motions to character actions. With this suite of mods, VR combat is a much more natural experience, and you have all the options -- such as blocking with an off-hand weapon or throwing your weapon -- that you would expect. In particular, as we will further discuss in the next section, you can swing your pickaxe at _any_ in-game rock (including, but not limited to standard ore veins) and swing your woodcutter's axe at (most) any in-game tree or wooden object to get the resources you expect.
 
-In a similar vein, Librum includes [Dragonborn Speaks Naturally](https://www.nexusmods.com/skyrimspecialedition/mods/16514) and [SkyVoice](https://www.nexusmods.com/skyrimspecialedition/mods/17840) to have the world respond naturally to your voice. When you say "hello" or "excuse me" to an NPC, they will begin conversation; when you begin reciting a dialogue option, the game will select it for you; and when you say the words of a learned dragon shout, you will use that shout in game. Not to worry, of course -- thanks to [Shout Pronunciations](https://www.nexusmods.com/skyrimspecialedition/mods/18572), the dragon language words of each shout will be shown in your shout menu.
+In a similar vein, Librum includes [Dragonborn Speaks Naturally](https://www.nexusmods.com/skyrimspecialedition/mods/16514) and [SkyVoice](https://www.nexusmods.com/skyrimspecialedition/mods/17840) to have the world respond naturally to your voice. Namely, when you begin reciting a dialogue option, the game will select it for you, and when you say the words of a learned dragon shout, you will use that shout in game. Not to worry, of course -- thanks to [Shout Pronunciations](https://www.nexusmods.com/skyrimspecialedition/mods/18572), the dragon language words of each shout will be shown in your shout menu.
 
-Last but not least, Librum includes [MageVR](https://www.nexusmods.com/skyrimspecialedition/mods/21297), which generally overhauls the way you interact with spells and equipment. I recommend thoroughly reading its mod page for more information, but in short, it adds the following features:
+Librum also includes [MageVR](https://www.nexusmods.com/skyrimspecialedition/mods/21297), which generally overhauls the way you interact with spells and equipment. I recommend thoroughly reading its mod page for more information, but in short, it adds the following features:
 1. Spells can be slotted to drawn "glyphs". You can re-draw the glyph later to either equip or auto-cast the slotted spell, all without entering your menu.
-2. You can store weapons and potions/poisons on your back, all accessible by reaching behind you and "pulling" out the weapon, potion, or poison, again without opening a menu.
 3. Archery is realistic. You will need to manually retrieve an arrow from your quiver in order to fire another shot.
-4. You can quickslot shouts and powers in a similar way to weapons.
+4. You can quickslot shouts and powers, usable through a gesture and hotkey press.
 5. You are able to "immersively" loot a container, in which you manually drag loot from the container to your backpack.
 6. You are able to "immersively" lockpick, in a way resembling the real procedure for a tumbler lock.
+
+Last but not least, Librum includes the fan-favorite [VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416), which allows you to see your character in-game. Not only that, but VRIK provides several visible weapon holsters around your body -- your calves, thighs, hips, forearms, upper arms, chest, stomach, and shoulders. To use these, hold your weapon over the appropriate holster (you should feel a haptic signal) and press "grip". Hold "grip" and pull away to unsheathe. VRIK also allows you to go into "selfie mode", by lifting your right hand above your head and rotating; you can finally see your VR character in his/her full ~frontal nudity~ glory!
+
+![Alt Text](Resources/hands.jpg?raw=true "VRIK-enabled body.")
 
 ### Dynamic World
 Continuing on with the theme of the last section, Librum includes a suite of mods designed to make static objects react to your actions. Along with the mods mentioned before, the key players here are [Dynamic Things](https://www.nexusmods.com/skyrimspecialedition/mods/19520), [Dynamic Things Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/19521?tab=posts), [Destructible Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/28291), and [Sneak Tools](https://www.nexusmods.com/skyrimspecialedition/mods/1863) (which will come up again later).
@@ -305,13 +321,12 @@ You will also need to keep track of your hunger, thirst, and fatigue, thanks to 
 Getting food is a more involved process, thanks to [Hunterborn](https://www.nexusmods.com/skyrimspecialedition/mods/7900). When you hunt an animal, you now need to properly dress and skin the carcass, using a hunting knife. On the other hand, you will have access to many more resources when you harvest from an animal carcass: more kinds of meats and animal products, pelts from each animal, and animal bones. Your hunting, foraging, bone-carving, and cooking skills will improve with each use, improving your harvests and giving access to new recipes over time.
 
 _Sleep_ is also more complicated than it may seem. Although it is necessary both for general survival and to [level up](https://www.nexusmods.com/skyrimspecialedition/mods/32357), it is fairly dangerous to fall asleep in Skyrim's wilderness or in its dungeons. Thanks to [Sands of Time Sleeping Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/8257), any time you fall asleep, you will have a location-dependent chance of being attacked during the night. This is particularly true in dungeons, making it imperative to either (a) quickly get to safety or (b) bring along a follower or lay traps.
-
 Finally, through the _Dangerous Diseases_ addon to iNeed, diseases have become much more dangerous. Instead of applying a minor debuff to your stats, each disease will now progress through various stages, with many becoming deadly if left untreated. To avoid this all-new danger, you will need to take care to apply _Resist Disease_ effects, properly prepare your foods and water, and try not to get bitten or scratched in fights with wild animals. If you _do_ contract a disease, and it doesn't go away on its own, you will have to rest up, find an alchemical cure (unique to each disease), or pay through the nose for a priest to dispel your illness.
 
 ### Combat and Enemies
 Librum uses a slew of mods to improve the combat experience overall, with a strong focus on making each fight (within reason) a dangerous and harrowing experience.
 
-For general combat, Librum combines its many [new VR options](#user-interface-and-controls) with [Wildcat](https://www.nexusmods.com/skyrimspecialedition/mods/1368), [Mortal Enemies](#https://www.nexusmods.com/skyrimspecialedition/mods/4881), [Advanced Adversary Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/6843?tab=description), and [Morrowloot Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/3058). The former two mods add an element of dynamism to combat -- instead of standing and swinging your Touch controllers wildly, you will need to duck, weave, and carefully time both your attacks and your blocks. If you interrupt an opponent's power attack pullback or bow draw, or if you hit them from behind or while staggered, you will gain massive "attack of opportunity" damage bonuses. Similarly, if you properly time your block, you can negate most damage and stagger your opponent (thus allowing for an attack of opportunity). Of course, the same effects apply to your opponents, so you will need to keep your guard up as you fight.
+For general combat, Librum combines its many [new VR options](#user-interface-and-controls) with [Wildcat](https://www.nexusmods.com/skyrimspecialedition/mods/1368), [Mortal Enemies](#https://www.nexusmods.com/skyrimspecialedition/mods/4881), [Advanced Adversary Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/6843?tab=description), [Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807), and [Morrowloot Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/3058). The former two mods add an element of dynamism to combat -- instead of standing and swinging your Touch controllers wildly, you will need to duck, weave, and carefully time both your attacks and your blocks. If you interrupt an opponent's power attack pullback or bow draw, or if you hit them from behind or while staggered, you will gain massive "attack of opportunity" damage bonuses. Similarly, if you properly time your block, you can negate most damage and stagger your opponent (thus allowing for an attack of opportunity). Of course, the same effects apply to your opponents, so you will need to keep your guard up as you fight.
 
 On the flip side, you (and your opponents) will have to be much more careful in order to avoid Wildcat's all-new injuries, which can quickly turn the tide of combat. Any time someone sustains a major attack (30% or more of their total health), they have a chance of injuring your head, chest, arms, legs, or back, and thus facing major body-part-specific penalties to their combat abilities.
 
@@ -460,9 +475,7 @@ Not only do these city improvements make the cities denser, livelier, and more r
 
 Importantly, Librum also includes the changes from [Open Cities](https://www.nexusmods.com/skyrimspecialedition/mods/281), allowing you to seamlessly transition from a city interior to the world of Skyrim. This pairs nicely with mods like [Sneak Tools](https://www.nexusmods.com/skyrimspecialedition/mods/1863) and [Magistrate Levitate](https://www.nexusmods.com/skyrimspecialedition/mods/24695), which allow you to climb over or float above city walls, respectively.
 
-These architectural changes are matched with AI improvements for the citizens of Skyrim. Using the notoriously large and compatibility-destroying behemoth of [Immersive Citizens](https://www.nexusmods.com/skyrimspecialedition/mods/173), Librum makes townspeople act like real townspeople. People will spend the day hunting, farming, traveling, shopping, or cooking (or whatever else they want to do), depending on their profession and the circumstances. Friends will gather at the local tavern, family will gather for shared meals, and secret lovers will meet in secret, outside the city walls. People will also more realistically mourn the loss of a friend or loved one, pray at temples associated to their faith, and act realistically during combat (and sometimes run away). In addition, [Wet and Cold](https://www.nexusmods.com/skyrimspecialedition/mods/644) forces NPCs to respond correctly to weather events. They'll put on hoods or masks in snow- and ash-storms, respectively, and they'll try to get home as quickly as possible. Wet and Cold makes a number of more graphical improvements, as well, such as visible breath when cold or snow/ash accumulation on people's clothes. Of course, the AI effects of the above mods are magnified by [Realistic Conversations](https://www.nexusmods.com/skyrimspecialedition/mods/1717) and [Guard Dialogue Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/20791), which make normal citizens and guards not sound like robots or maniacs.
-
-NPCs will also travel between holds, now, and the roads are full of citizens (from Immersive Citizens and [Death Consumes All](https://www.nexusmods.com/skyrimspecialedition/mods/41910)), patrols (from [Immersive Patrols](https://www.nexusmods.com/skyrimspecialedition/mods/718)), and bandits (from [OBIS](https://www.nexusmods.com/skyrimspecialedition/mods/4145)). You may come across people you recognize from towns or cities, bands of Imperial, Stormcloak, Thalmor, or Dawnguard soldiers, bandits from nearby forts, trading caravans, or even Civil War battles being waged. Furthermore, between OBIS and [Diversity](https://www.nexusmods.com/skyrimspecialedition/mods/7707), you will be able to meet a much wider variety of folks on the road than you ever could before.
+These architectural changes are matched with AI improvements for the citizens of Skyrim. Using [AI Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/21654), Librum makes townspeople act like real townspeople. People will spend the day hunting, farming, traveling, shopping, or cooking (or whatever else they want to do), depending on their profession and the circumstances. Friends and family may gather at the local tavern or for shared meals, for instance. People will more realistically mourn the loss of a friend or loved one. They'll pray at temples associated to their faith. They may even act realistically during combat (and sometimes run away). In addition, [Wet and Cold](https://www.nexusmods.com/skyrimspecialedition/mods/644) forces NPCs to respond correctly to weather events. They'll put on hoods or masks in snow- and ash-storms, respectively, and they'll try to get home as quickly as possible. Wet and Cold makes a number of more graphical improvements, as well, such as visible breath when cold or snow/ash accumulation on people's clothes. Of course, the AI effects of the above mods are magnified by [Realistic Conversations](https://www.nexusmods.com/skyrimspecialedition/mods/1717) and [Guard Dialogue Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/20791), which make normal citizens and guards not sound like robots or maniacs.
 
 Librum overhauls specific buildings, as well, with [Palaces and Castles Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/1819), [Distinct Interiors](https://www.nexusmods.com/skyrimspecialedition/mods/6130), [Immersive College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/17004), and [Immersive Fort Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/40436). Overall, these mods give a more hand-crafted feel to the world of Skyrim; many of Skyrim's interiors have been totally redesigned, with hand-placed objects, furniture, and lighting, and with elements unique to their location or purpose. Stores will now have goods on display, for instance, and inns and other regional establishments will be decorated according to their respective regions.
 
@@ -474,10 +487,12 @@ Librum also includes [Man Those Borders](https://www.nexusmods.com/skyrimspecial
 
 ![Alt Text](Resources/whiterun.jpg?raw=true "Whiterun Crossroads Keep")
 
+## Getting Started in Librum
+
 ## Frequently Asked Questions
 Although Librum is still early in development, I have gathered a few questions that you might want to ask:
 
-***I have enough XP to level up, but opening the skills menu isn't working!*** Sleep 8 hours to level up.
+***I have enough XP to level up, but opening the skills menu isn't working!*** Sleep 8 hours to level up. You need to wait a full day before leveling again.
 
 ***I can't switch between buying and selling.*** You can switch between buying and selling by using the cursor. Sometimes it takes exiting the menu once and re-entering, but the idea is to click outside the bounds of the menu to activate the cursor.
 
@@ -511,13 +526,14 @@ The second best way to contribute is to send me suggestions for Librum's develop
 ## Planned Changes
 There are a few changes planned already for future versions of Librum:
 
- - I will clean up _Skyrim Underground_'s creatures. At present, it includes only non-vanilla creatures, and it includes a _ton_ of them. I will remove some of the worst offenders, and mix in vanilla creatures to make the Underground flow better into the Aboveground.
- - I will de-level some of the added content -- importantly, _Skyrim Underground_ and _Forgotten Dungeons_. They're currently pretty good in this regard, but there are improvements to be made.
- - I will test _Death Consumes All_ and _Shezarrine_ more thoroughly, and either remove them or move them to the core mod list.
+ - Cleaning up _Skyrim Underground_'s creatures. At present, it includes only non-vanilla creatures, and it includes a _ton_ of them. I will remove some of the worst offenders, and mix in vanilla creatures to make the Underground flow better into the Aboveground.
+ - De-leveling some of the added content -- importantly, _Skyrim Underground_ and _Forgotten Dungeons_. They're currently pretty good in this regard, but there are improvements to be made.
+ - Testing _Death Consumes All_ and _Shezarrine_ more thoroughly, and either remove them or move them to the core mod list.
+ - Further balancing of _Bullet Time_, to prevent it from being overpowered.
+ - Adjustments to graphics mods, and additional graphics mods for character models.
+ - Including options for more enemy spawns. I am looking into _Genesis_, for instance.
+ - I will finish the _Suggested Add-ons_ and _Getting Started in Librum_ readme sections.
 
 ## Known Issues
 There are a few known issues in Librum. I will correct these in future updates, but they are relatively minor and do not impact gameplay:
 1. Two spells are known not to work. The first is Mysticism's _Cure Disease_ spell, which -- thanks to iNeed's _Dangerous Diseases_ module -- will not truly cure diseases. The second is Elemental Destruction Magic's _Spy_ spell, which is not compatible with VR.
-2. Sometimes, the indicators around a messagebox's responses (like "yes/no" in the loading menu) will not properly display. To get around this, note that the cursor always starts on the leftmost response, and move left/right as normal.
-3. The game may type the letter "v", for instance, into your active window. I do not know the culprit, but a sure way to avoid issues is to keep your Skyrim window at the front.
-
