@@ -161,10 +161,6 @@ If you do not want this plugin, disable it in MO2.
 
 If you do not want this plugin, disable it in MO2.
 
-***WICO Non-Nude Meshes*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/2136)]. Librum uses WICO as a base, in order to overhaul character appearances in a natural-looking way. If you do not want nudity in your game, enable this plugin.
-
-If you want this plugin, enable it in MO2.
-
 ***The Adventurer Theme Mod*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/35568)]. The Adventurer Theme adds Oblivion-like elements to Skyrim's UI, changing (among other things) the inventory, magic menu, and crafting menus to look like parchment. See the [UI section below](#user-interface-and-controls) for more details.
 
 If you do not want this plugin, disable it in MO2.
@@ -491,6 +487,8 @@ Librum also includes [Man Those Borders](https://www.nexusmods.com/skyrimspecial
 
 ## Frequently Asked Questions
 Although Librum is still early in development, I have gathered a few questions that you might want to ask:
+
+***When I enter a dungeon, the game goes dark for several seconds.*** This is intentional. During this period of time, Librum is looking through and turning off light sources.
 
 ***I have enough XP to level up, but opening the skills menu isn't working!*** Sleep 8 hours to level up. You need to wait a full day before leveling again.
 
