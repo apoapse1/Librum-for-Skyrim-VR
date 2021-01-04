@@ -209,6 +209,10 @@ The suggested MCM options are as follows:
   - _Basics_ tab: Automate eating and drinking, and set the timescale to 8.
   - _Difficulty_ tab: "Food spoilage" -> "numbers".
   - _Notifications_ tab: "Widget style" -> "disabled".
+12. **Lock Overhaul.** Activate the mod, exit the menu, and re-enter. Then apply the following settings:
+  - _General_ tab: Enable the sound effect and crime.
+  - _Lock Requirement_ tab: Activate lock requirements and auto-lockpicking.
+  - _Lock Smash_ tab: Activate lock smash, and set "allowed weapons" to "one and two handed".
 12. **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
 13. **Open Cities.** Disable all three options.
 14. **SkyUI.** Under _General_, disable the Active Effects HUD.
