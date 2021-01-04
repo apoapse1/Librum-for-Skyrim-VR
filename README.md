@@ -212,23 +212,23 @@ The suggested MCM options are as follows:
   - _General_ tab: Enable the sound effect and crime.
   - _Lock Requirement_ tab: Activate lock requirements and auto-lockpicking.
   - _Lock Smash_ tab: Activate lock smash, and set "allowed weapons" to "one and two handed".
-12. **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
-13. **Open Cities.** Disable all three options.
-14. **SkyUI.** Under _General_, disable the Active Effects HUD.
-15. **SkyVoice.** Remove the Skyvoice Options Spell.
-16. **Sleep to Level Up.** Disable "Require Sleep to spend Perk Points", and set "Level Up Cooldown Length" to 12 hours.
-17. **Smart Training.** Disable "Training Perk Points" and activate the mod.
-18. **Sneak Tools.** Under the _Patch_ tab, disable Horstar's extra dialogue. It is not voiced, unfortunately.
-19. **Sounds of Skyrim.** Adjust to taste, but I don't disable anything.
-20. **Sands of Time Sleeping Encounters.** In the left column, disable home invasions, set "Jorrvaskr Hall HQ" and "College Ambush Odds" to 0, set "Dungeon Ambush Odds" and "Draugr Keep Ambush Odds" to 50, and set "All Other Places" to 25.
-21. **Souls Do Things 2.** Under _Settings_, enable "Conversion Spell Learned" if and only if you disabled perk points on level-up earlier.
-22. **Spell Research.** Import all spells.
-23. **Tentapalooza.** The tents _should_ provide Frostfall support without changing these settings, but let me know if this fails.
-24. **Trade & Barter.** Under _Barter Rates_, enable "Modify Barter Settings" and set "Barter Presets" -> "Hardcore".
-25. **WeaponThrowVR.** If you want ultra-realism, select _Classic Medium_. Otherwise, apply the following settings:
+13. **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
+14. **Open Cities.** Disable all three options.
+15. **SkyUI.** Under _General_, disable the Active Effects HUD.
+16. **SkyVoice.** Remove the Skyvoice Options Spell.
+17. **Sleep to Level Up.** Disable "Require Sleep to spend Perk Points", and set "Level Up Cooldown Length" to 12 hours.
+18. **Smart Training.** Disable "Training Perk Points" and activate the mod.
+19. **Sneak Tools.** Under the _Patch_ tab, disable Horstar's extra dialogue. It is not voiced, unfortunately.
+20. **Sounds of Skyrim.** Adjust to taste, but I don't disable anything.
+21. **Sands of Time Sleeping Encounters.** In the left column, disable home invasions, set "Jorrvaskr Hall HQ" and "College Ambush Odds" to 0, set "Dungeon Ambush Odds" and "Draugr Keep Ambush Odds" to 50, and set "All Other Places" to 25.
+22. **Souls Do Things 2.** Under _Settings_, enable "Conversion Spell Learned" if and only if you disabled perk points on level-up earlier.
+23. **Spell Research.** Import all spells.
+24. **Tentapalooza.** The tents _should_ provide Frostfall support without changing these settings, but let me know if this fails.
+25. **Trade & Barter.** Under _Barter Rates_, enable "Modify Barter Settings" and set "Barter Presets" -> "Hardcore".
+26. **WeaponThrowVR.** If you want ultra-realism, select _Classic Medium_. Otherwise, apply the following settings:
  - _Presets_ tab: Enable "Cangar's Selection".
  - _Special_ tab: Enable auto-return for daggers and two-handed weapons.
-26. **Wildcat Combat.** Enable "Allow Wildcat to manage difficulty" and "Burst injuries".
+27. **Wildcat Combat.** Enable "Allow Wildcat to manage difficulty" and "Burst injuries".
 
 Further, there are a few settings to change using mod configuration spells:
 1. **Destructible Skyrim.** This configuration spell is available in the _Illusion_ tab. Simply cast and click "remove spell".
