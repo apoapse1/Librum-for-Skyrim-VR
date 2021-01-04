@@ -40,7 +40,6 @@ Wabbajack modlist installer for Librum
   - [Contact](#contact)
   - [Contributing](#contributing)
   - [Planned Changes](#planned-changes)
-  - [Changelog](#changelog)
   - [Known Issues](#known-issues)
  
 ## Preamble
