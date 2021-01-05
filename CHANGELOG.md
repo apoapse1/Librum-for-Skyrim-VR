@@ -13,6 +13,8 @@ Added Mods:
  Hrothgar Steps_, etc.
  - _Point the Way_.
  - _Lock Overhaul_.
+ - _COTN Morthal - Notice Board Patch_.
+ - _Simple Horse_.
 
 Removed Mods:
  - Other graphics mods: _SkySight Skins_, etc.
@@ -21,6 +23,7 @@ Removed Mods:
 Other:
  - _Dynamic Immersive Seriously Dark Dungeons_ added in v0.8 and removed in
  v0.8-1, for compatibility.
+ - _Realistic AI Detection_ settings changed.
 
 ***v0.7.***
 Added Mods:
