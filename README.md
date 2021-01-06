@@ -294,7 +294,7 @@ Librum also includes [MageVR](https://www.nexusmods.com/skyrimspecialedition/mod
 
 Last but not least, Librum includes the fan-favorite [VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416), which allows you to see your character in-game. Not only that, but VRIK provides several visible weapon holsters around your body -- your calves, thighs, hips, forearms, upper arms, chest, stomach, and shoulders. To use these, hold your weapon over the appropriate holster (you should feel a haptic signal) and press "grip". Hold "grip" and pull away to unsheathe. VRIK also allows you to go into "selfie mode", by lifting your right hand above your head and rotating; you can finally see your VR character in his/her full ~frontal nudity~ glory!
 
-![Alt Text](Resources/hands.jpg?raw=true "VRIK-enabled body.")
+![Alt Text](Resources/hands.png?raw=true "VRIK-enabled body, with visible holsters.")
 
 ### Dynamic World
 Continuing on with the theme of the last section, Librum includes a suite of mods designed to make static objects react to your actions. Along with the mods mentioned before, the key players here are [Dynamic Things](https://www.nexusmods.com/skyrimspecialedition/mods/19520), [Dynamic Things Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/19521?tab=posts), [Destructible Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/28291), and [Sneak Tools](https://www.nexusmods.com/skyrimspecialedition/mods/1863) (which will come up again later).
