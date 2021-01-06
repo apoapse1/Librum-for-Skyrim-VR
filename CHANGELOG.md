@@ -3,7 +3,32 @@ to the _x_ or _y_ denote significant updates, and you will need to read the
 update notes to see how to patch your savefile. Changes to the _z_ denote
 small bugfixes, and will never require a patched save.
 
-***v0.8.***
+***v0.9-beta.***
+Added Mods:
+ - New animations for player and NPCs:
+   - _Neutral VR Animations for VRIK and PCEA2_.
+   - _Pretty Combat Animations_ and _PCA 1hm Animations Overhaul_.
+   - _Magic Casting Animations Overhaul SSE_.
+   - _360 Walk and Run Plus_.
+   - _Expressive Facial Animation_.
+ - New graphics:
+   - _Forgotten Argonian Roots_.
+   - _CoverKhajiits_ and _Better Males_-compatible meshes.
+   - _ENB Brow Fix_.
+   - _Eye Normal Map Fix_.
+   - _Real Bows_.
+   - _Better-Shaped Bows of the Heavens_.
+   - (optional) _Magic Cards Font_.
+ - New patches for _Great Cities_ series of mods.
+
+Other:
+ - Fixed problem with _No Perks on Level Up_ module.
+ - Added _New Voice Commands_ module.
+ - Added location levels on location names and map icons (e.g., "Bleak Falls Barrow" -> "Bleak Falls Barrow (8-14)")
+ - Fixed _Forgotten Dungeons_ map names.
+ - Reorganized and rebuilt several merges.
+
+***v0.8-beta.***
 Added Mods:
  - _Realistic Ragdolls and Force_, and its _Higher Player Fall Damage_ addon.
  - _Genesis_ enemy spawner.
@@ -25,7 +50,7 @@ Other:
  v0.8-1, for compatibility.
  - _Realistic AI Detection_ settings changed.
 
-***v0.7.***
+***v0.7-beta.***
 Added Mods:
  - _VRIK_, _Be Seated_, and _Simple Realistic Archery_.
  - _MystiriousDawn's HD Skyrim Overhaul_, landscape textures only.
@@ -46,7 +71,7 @@ Fixes:
  - Fixed _Locational Damage_.
  - Balanced _Enhanced Reflexes_ bullet-time mode.
 
-***v0.6.***
+***v0.6-beta.***
 Added Mods:
  - _Open Cities_ and patches.
  - _Locational Damage_.
@@ -58,4 +83,4 @@ Added Mods:
 Updated Mods:
 - Civil War Overhaul and patches.
 
-***v0.5.*** First version. 
+***v0.5-beta.*** First version. 

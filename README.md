@@ -9,7 +9,7 @@ Wabbajack modlist installer for Librum
       - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
       - [Steam Config](#steam-config)
         - [Disable the Steam Overlay](#disable-the-steam-overlay)
-        - [Disable Motion Smoothing(#disable-motion-smoothing)
+        - [Disable Motion Smoothing](#disable-motion-smoothing)
         - [Set the Game language to English](#set-the-game-language-to-english)
         - [Clean Skyrim](#clean-skyrim)
       - [Start Skyrim](#start-up-skyrim)
@@ -43,7 +43,7 @@ Wabbajack modlist installer for Librum
   - [Known Issues](#known-issues)
  
 ## Preamble
-![Alt text](Resources/Banner3.png?raw=true "I made this image myself, and I am proud of it.")
+![Alt text](Resources/Banner4444g?raw=true "I made this image myself, and I am proud of it.")
 
 _You're lost in the woods, having narrowly escaped after scaring off a pack of wolves with a summoned flame atronach. Your torch finally fades out, and it's getting cold. You can conjure basic foods, and your summoned atronach provides enough heat for the time being, but you'll need to gather wood in order to sustain a fire and survive the night. With little time to spare, you can't search far for materials -- luckily, you've fashioned a basic hatchet the night before, and you can chop down a nearby tree for lumber. You fall asleep next to your fire, having placed several runes nearby to dispatch would-be predators. Despite a few interruptions in the night, the morning comes at last, and the sun finally breaks over the horizon._
 
