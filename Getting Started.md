@@ -11,9 +11,9 @@ If you boot up Librum and create a new game, you'll find yourself in the new cha
 
 Race abilities are given by EnaiSiaion's popular [Imperious](https://www.nexusmods.com/skyrimspecialedition/mods/1315) mod, with two modifications. Argonians are 50% resistant to _water damage_, and Orcs are 50% resistant to _earth damage_. These are new damage types introduced by [Elemental Destruction Magic](https://www.nexusmods.com/skyrimspecialedition/mods/440), and you will encounter enemy mages who make use of them. For detailed information on racial abilities, see the [Imperious mod page](https://www.nexusmods.com/skyrimspecialedition/mods/1315).
 
- Race | Health | Magicka | Stamina | H/M/S Regen | Carry Weight | Resistances | Abilities
+ Race | Health,<br />Regen | Magicka,<br />Regen | Stamina,<br />Regen | Carry Wgt. | Resistances | Abilities
  ---- | ------ | ------- | ------- | ----------- | ------------ | ----------- | ---------
- Altmer | 90   | 115     | 95      | 0.5%, 3.75%, 4.5% | 250    | 
+ Altmer | 90, 0.5% | 115, 3.75%   | 95, 4.5%     | 250    | 
 
 Next, you'll notice that the character appearance menu is a little janky. Unfortunately, that's the state of the art in Skyrim VR; to fine-tune settings, you need to make use of the new cursor. In particular, Librum comes with a few hundred graphical _overlays_ for your character: tattoos, scars, freckles, and more. These can be found in the _Makeup_ and _Paint_ tabs, at the far right of the menu. To apply a new overlay, click "Choose Texture" at the bottom of the menu, navigate to the one you want (using the cursor to scroll), and select it. Then, click "Choose Color" and repeat.
 
