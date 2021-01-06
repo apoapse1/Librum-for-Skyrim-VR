@@ -27,6 +27,12 @@ Other:
  - Added location levels on location names and map icons (e.g., "Bleak Falls Barrow" -> "Bleak Falls Barrow (8-14)")
  - Fixed _Forgotten Dungeons_ map names.
  - Reorganized and rebuilt several merges.
+ - Fixed crashes related to Bound Weapons.
+ - Activated _Shezarrine_ and _Death Consumes All_ as optional plugins.
+
+Updating:
+ - Apply new MCM settings, according to the [Readme](README.md#configure-the-mcm):
+   - Lock Overhaul, Spell Research, OBIS (disable all changes), Open Cities, VRIK.
 
 ***v0.8-beta.***
 Added Mods:

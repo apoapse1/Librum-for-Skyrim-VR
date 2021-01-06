@@ -3,6 +3,7 @@ This guide will help you get off the ground in Librum -- Librum changes a great 
 
  - [Character Creation](#character-creation)
    - [Appearance and Race](#appearance-and-race)
+   - [The Realm of Lorkhan](#the-realm-of-lorkhan)
 
 # Character Creation
 ## Appearance and Race
@@ -12,4 +13,10 @@ Race abilities are given by EnaiSiaion's popular [Imperious](https://www.nexusmo
 
 Next, you'll notice that the character appearance menu is a little janky. Unfortunately, that's the state of the art in Skyrim VR; to fine-tune settings, you need to make use of the new cursor. In particular, Librum comes with a few hundred graphical _overlays_ for your character: tattoos, scars, freckles, and more. These can be found in the _Makeup_ and _Paint_ tabs, at the far right of the menu. To apply a new overlay, click "Choose Texture" at the bottom of the menu, navigate to the one you want (using the cursor to scroll), and select it. Then, click "Choose Color" and repeat.
 
-## 
+## The Realm of Lorkhan 
+Once you finish selecting your race, gender, and appearance, you will be put into the [Realm of Lorkhan](https://www.nexusmods.com/skyrimspecialedition/mods/18223) before venturing out into Skyrim. At this point, remember to set your MCM settings according to the [Readme](README.md#configure-the-mcm) 
+
+![Alt Text](Resources/Realm.png?raw=true "The Realm of Lorkhan")
+
+
+

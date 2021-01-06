@@ -222,7 +222,7 @@ The suggested MCM options are as follows:
 20. **Sounds of Skyrim.** Adjust to taste, but I don't disable anything.
 21. **Sands of Time Sleeping Encounters.** In the left column, disable home invasions, set "Jorrvaskr Hall HQ" and "College Ambush Odds" to 0, set "Dungeon Ambush Odds" and "Draugr Keep Ambush Odds" to 50, and set "All Other Places" to 25.
 22. **Souls Do Things 2.** Under _Settings_, enable "Conversion Spell Learned" if and only if you disabled perk points on level-up earlier.
-23. **Spell Research.** Import all spells.
+23. **Spell Research.** Import all spells, enable the hotkey, and set the hotkey to "k".
 24. **Tentapalooza.** The tents _should_ provide Frostfall support without changing these settings, but let me know if this fails.
 25. **Trade & Barter.** Under _Barter Rates_, enable "Modify Barter Settings" and set "Barter Presets" -> "Hardcore".
 26. **WeaponThrowVR.** If you want ultra-realism, select _Classic Medium_. Otherwise, apply the following settings:
