@@ -9,9 +9,9 @@ This guide will help you get off the ground in Librum -- Librum changes a great 
 ## Appearance and Race
 If you boot up Librum and create a new game, you'll find yourself in the new character creation area -- the [Realm of Lorkhan](https://www.nexusmods.com/skyrimspecialedition/mods/18223) -- looking at the glitchy [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) menu. Before finalizing your race and appearance, here are the details you need to know:
 
-*Race Abilites.* Race abilities are given by EnaiSiaion's popular [Imperious](https://www.nexusmods.com/skyrimspecialedition/mods/1315) mod, with two modifications. Argonians are 50% resistant to _water damage_, and Orcs are 50% resistant to _earth damage_. These are new damage types introduced by [Elemental Destruction Magic](https://www.nexusmods.com/skyrimspecialedition/mods/440), and you will encounter enemy mages who make use of them. For detailed information on racial abilities, see the [Imperious mod page](https://www.nexusmods.com/skyrimspecialedition/mods/1315); notably, once-a-day powers have been replaced with interesting passive abilities, and you can unlock an additional ability by completing a race-specific objective.
+***Race Abilites.*** Race abilities are given by EnaiSiaion's popular [Imperious](https://www.nexusmods.com/skyrimspecialedition/mods/1315) mod, with two modifications. Argonians are 50% resistant to _water damage_, and Orcs are 50% resistant to _earth damage_. These are new damage types introduced by [Elemental Destruction Magic](https://www.nexusmods.com/skyrimspecialedition/mods/440), and you will encounter enemy mages who make use of them. For detailed information on racial abilities, see the [Imperious mod page](https://www.nexusmods.com/skyrimspecialedition/mods/1315); notably, once-a-day powers have been replaced with interesting passive abilities, and you can unlock an additional ability by completing a race-specific objective.
 
-*Appearance.* Next, you'll notice that the character appearance menu is a little janky. Unfortunately, that's the state of the art in Skyrim VR; to fine-tune settings, you need to make use of the new cursor. In particular, Librum comes with a few hundred graphical _overlays_ for your character: tattoos, scars, freckles, and more. These can be found in the _Makeup_ and _Paint_ tabs, at the far right of the menu. To apply a new overlay, click "Choose Texture" at the bottom of the menu, navigate to the one you want (using the cursor to scroll), and select it. Then, click "Choose Color" and repeat.
+***Appearance.*** Next, you'll notice that the character appearance menu is a little janky. Unfortunately, that's the state of the art in Skyrim VR; to fine-tune settings, you need to make use of the new cursor. In particular, Librum comes with a few hundred graphical _overlays_ for your character: tattoos, scars, freckles, and more. These can be found in the _Makeup_ and _Paint_ tabs, at the far right of the menu. To apply a new overlay, click "Choose Texture" at the bottom of the menu, navigate to the one you want (using the cursor to scroll), and select it. Then, click "Choose Color" and repeat.
 
 ## The Realm of Lorkhan 
 Once you finish selecting your race, gender, and appearance, you will be put into the [Realm of Lorkhan](https://www.nexusmods.com/skyrimspecialedition/mods/18223) before venturing out into Skyrim. At this point, remember to set your MCM settings according to the [Readme](README.md#configure-the-mcm). 
@@ -22,9 +22,9 @@ In the Realm, you can choose from plenty of equipment, spells, perks, factions, 
  - Once you leave the Realm, you cannot re-enter. For this reason, I recommend you make a save before exiting to Skyrim.
  - You can only choose a Standing Stone blessing from within the Realm of Lorkhan. Standing Stones still exist around Skyrim, but they are only aesthetic.
 
-*Standing Stones.* Every Standing Stone can be found within the Realm of Lorkhan, and -- as mentioned -- you can only choose a Standing Stone blessing while you are within the Realm. These blessings are governed by EnaiSiaion's [Andromeda](https://www.nexusmods.com/skyrimspecialedition/mods/14910) mod, and I recommend you look at that mod page for more information. Notably, once you find all thirteen Standing Stones around Skyrim, you unlock an additional, powerful ability, unique to the Stone you chose.
+***Standing Stones.*** Every Standing Stone can be found within the Realm of Lorkhan, and -- as mentioned -- you can only choose a Standing Stone blessing while you are within the Realm. These blessings are governed by EnaiSiaion's [Andromeda](https://www.nexusmods.com/skyrimspecialedition/mods/14910) mod, and I recommend you look at that mod page for more information. Notably, once you find all thirteen Standing Stones around Skyrim, you unlock an additional, powerful ability, unique to the Stone you chose.
 
-*Boons and Curses.* There are unique Boons and Curses available within the Realm of Lorkhan, found around a reflecting pool to the left of the starting location. They are as follows:
+***Boons and Curses.*** There are unique Boons and Curses available within the Realm of Lorkhan, found around a reflecting pool to the left of the starting location. They are as follows:
 
 _Boons_:
  - Boon of the Cat -- 1/2 fall damage.
@@ -41,5 +41,5 @@ _Curses_:
  - Curse of Soul Famine -- soul gems recharge 40% less energy.
  - Curse of the Unlucky -- enemies get a 10% chance to land critical hits on you.
 
-*Classes.* Alongside the 
+***Classes.*** In the same location as the Boons and Curses, you can find several "Classes" available to you. 
 

@@ -33,6 +33,9 @@ Other:
 Updating:
  - Apply new MCM settings, according to the [Readme](README.md#configure-the-mcm):
    - Lock Overhaul, Spell Research, OBIS (disable all changes), Open Cities, VRIK.
+ - Clear scripts using Fallrim Tools:
+   - AceBloodScriptAddItemstoVendor
+ - Wait two in-game days before continuing.
 
 ***v0.8-beta.***
 Added Mods:
