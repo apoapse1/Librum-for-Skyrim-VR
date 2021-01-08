@@ -29,6 +29,7 @@ Other:
  - Reorganized and rebuilt several merges.
  - Fixed crashes related to Bound Weapons.
  - Activated _Shezarrine_ and _Death Consumes All_ as optional plugins.
+ - Fixed ENB version -- should fix "white hair" bug.
 
 Updating:
  - Apply new MCM settings, according to the [Readme](README.md#configure-the-mcm):
