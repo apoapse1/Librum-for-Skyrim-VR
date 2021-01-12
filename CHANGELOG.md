@@ -3,6 +3,24 @@ to the _x_ or _y_ denote significant updates, and you will need to read the
 update notes to see how to patch your savefile. Changes to the _z_ denote
 small bugfixes, and will never require a patched save.
 
+***v1.0.***
+Added Mods:
+ - New graphics:
+   - _Believable Weapons_ (not all meshes used).
+   - _Myrkvior_ trees.
+   - _Cathedral_ landscapes and plants.
+   - _Fluffy Snow_ kept on top of Cathedral.
+   - _Night Sky by SGS_, as a darker night sky option.
+ - HIGGS VR (every modlist has just added this, I know).
+ -_Azura Shrine Temple_ and _Elizabeth's Tower - Azura Shrine_. The latter was modified.
+
+Removed Mods:
+ - Landscape textures, _3D Trees and Plants_, etc.
+
+Other:
+ - Tons of updates.
+ - Fixed floating objects in Whiterun's tundra.
+
 ***v0.9-beta.***
 Added Mods:
  - New animations for player and NPCs:

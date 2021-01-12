@@ -213,22 +213,23 @@ The suggested MCM options are as follows:
   - _Lock Requirement_ tab: Activate lock requirements and auto-lockpicking.
   - _Lock Smash_ tab: Activate lock smash, and set "allowed weapons" to "one and two handed".
 13. **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
-14. **Open Cities.** Disable all three options.
-15. **SkyUI.** Under _General_, disable the Active Effects HUD.
-16. **SkyVoice.** Remove the Skyvoice Options Spell.
-17. **Sleep to Level Up.** Disable "Require Sleep to spend Perk Points", and set "Level Up Cooldown Length" to 12 hours.
-18. **Smart Training.** Disable "Training Perk Points" and activate the mod.
-19. **Sneak Tools.** Under the _Patch_ tab, disable Horstar's extra dialogue. It is not voiced, unfortunately.
-20. **Sounds of Skyrim.** Adjust to taste, but I don't disable anything.
-21. **Sands of Time Sleeping Encounters.** In the left column, disable home invasions, set "Jorrvaskr Hall HQ" and "College Ambush Odds" to 0, set "Dungeon Ambush Odds" and "Draugr Keep Ambush Odds" to 50, and set "All Other Places" to 25.
-22. **Souls Do Things 2.** Under _Settings_, enable "Conversion Spell Learned" if and only if you disabled perk points on level-up earlier.
-23. **Spell Research.** Import all spells, enable the hotkey, and set the hotkey to "k".
-24. **Tentapalooza.** The tents _should_ provide Frostfall support without changing these settings, but let me know if this fails.
-25. **Trade & Barter.** Under _Barter Rates_, enable "Modify Barter Settings" and set "Barter Presets" -> "Hardcore".
-26. **WeaponThrowVR.** If you want ultra-realism, select _Classic Medium_. Otherwise, apply the following settings:
+14. **Nemesis.** Click the second option, which mentions VRIK.
+15. **Open Cities.** Disable all three options.
+16. **SkyUI.** Under _General_, disable the Active Effects HUD.
+17. **SkyVoice.** Remove the Skyvoice Options Spell.
+18. **Sleep to Level Up.** Disable "Require Sleep to spend Perk Points", and set "Level Up Cooldown Length" to 12 hours.
+19. **Smart Training.** Disable "Training Perk Points" and activate the mod.
+20. **Sneak Tools.** Under the _Patch_ tab, disable Horstar's extra dialogue. It is not voiced, unfortunately.
+21. **Sounds of Skyrim.** Adjust to taste, but I don't disable anything.
+22. **Sands of Time Sleeping Encounters.** In the left column, disable home invasions, set "Jorrvaskr Hall HQ" and "College Ambush Odds" to 0, set "Dungeon Ambush Odds" and "Draugr Keep Ambush Odds" to 50, and set "All Other Places" to 25.
+23. **Souls Do Things 2.** Under _Settings_, enable "Conversion Spell Learned" if and only if you disabled perk points on level-up earlier.
+24. **Spell Research.** Import all spells, enable the hotkey, and set the hotkey to "k".
+25. **Tentapalooza.** The tents _should_ provide Frostfall support without changing these settings, but let me know if this fails.
+26. **Trade & Barter.** Under _Barter Rates_, enable "Modify Barter Settings" and set "Barter Presets" -> "Hardcore".
+27. **WeaponThrowVR.** If you want ultra-realism, select _Classic Medium_. Otherwise, apply the following settings:
  - _Presets_ tab: Enable "Cangar's Selection".
  - _Special_ tab: Enable auto-return for daggers and two-handed weapons.
-27. **Wildcat Combat.** Enable "Allow Wildcat to manage difficulty" and "Burst injuries".
+28. **Wildcat Combat.** Enable "Allow Wildcat to manage difficulty" and "Burst injuries".
 
 Further, there are a few settings to change using mod configuration spells:
 1. **Destructible Skyrim.** This configuration spell is available in the _Illusion_ tab. Simply cast and click "remove spell".
@@ -266,7 +267,7 @@ Librum makes several major changes to character progression, described by the fo
  | Vanilla Skyrim | Librum
  | -------------- | ------
  | Character progression happens primarily as you level, and primarily through the allocation of perk points.	  | Character progression occurs through three unrelated aspects of your character: spell/equipment progression, character level, and collected dragon souls.
- | Available equipment and enemies depend exclusively on your level.	| Librum's loot distribution is based on [Morrowloot Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/3058), so equipment and enemies (with the exception of dragons -- see below) are entirely unleveled.
+ | Available equipment and enemies depend exclusively on your level.	| Librum's loot distribution is based on [Morrowloot Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/3058), so equipment and enemies (with the exception of dragons) are entirely unleveled.
  | Higher level equipment can be made and improved at any time, mitigating any effect of leveled weapons and armor	| Smithing now requires more knowledge than just a perk point; for instance, you need to acquire the _[Ancient Knowledge](http://en.uesp.net/wiki/Skyrim:Powers#Ancient_Knowledge)_ effect to make any Dwarven equipment, and Daedric smithing requires uncovering the secret of its construction. Improving equipment is no longer as effective.
  | Available spell tomes depend exclusively on your skill level, but are readily available at spell merchants.	| Spell tomes do not exist, by and large, with the exception of select hand-placed tomes. Rather, all spell progression is done through [Spell Research](https://www.nexusmods.com/skyrimspecialedition/mods/20983).
  | Perk points are gained when you level up.	| You do not gain perk points through leveling. Using [Souls Do Things 2](https://www.nexusmods.com/skyrimspecialedition/mods/33518), you will have a power to convert one dragon soul to one perk point. Leveling will continue to grant you 10 Health, Magicka, or Stamina.
@@ -283,6 +284,10 @@ Librum makes a few changes to the default user interface, to (a) create a unique
 
 Librum makes larger changes in terms of controls. For one, it includes [Dual Wield Block VR](https://www.nexusmods.com/skyrimspecialedition/mods/28456), [Weapon Throw VR](https://www.nexusmods.com/skyrimspecialedition/mods/31374), [Sprint Jump VR](https://www.nexusmods.com/skyrimspecialedition/mods/28354), [VR Power Attack Fix](https://www.nexusmods.com/skyrimspecialedition/mods/28004), [Haptic Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/20364), and [Realistic Mining VR](https://www.nexusmods.com/skyrimspecialedition/mods/16692) in order to better match player motions to character actions. With this suite of mods, VR combat is a much more natural experience, and you have all the options -- such as blocking with an off-hand weapon or throwing your weapon -- that you would expect. In particular, as we will further discuss in the next section, you can swing your pickaxe at _any_ in-game rock (including, but not limited to standard ore veins) and swing your woodcutter's axe at (most) any in-game tree or wooden object to get the resources you expect.
 
+A big change in this direction is [HIGGS VR](https://www.nexusmods.com/skyrimspecialedition/mods/43930), which allows you to use your hands to truly interact with the world. You can pick up items naturally and turn them in your hand, throw them at NPCs, or put them over your shoulder to put them in your inventory. You can drag bodies around (finally) to hide your crimes from the law, or grab armor pieces directly off of corpses without entering a menu. Finally, you have gravity-glove-like abilities, as in _Half-Life: Alyx_.
+
+![Alt Text](Resources/hands.jpg?raw=true "Holding a coin with HIGGS") 
+
 In a similar vein, Librum includes [Dragonborn Speaks Naturally](https://www.nexusmods.com/skyrimspecialedition/mods/16514) and [SkyVoice](https://www.nexusmods.com/skyrimspecialedition/mods/17840) to have the world respond naturally to your voice. Namely, when you begin reciting a dialogue option, the game will select it for you, and when you say the words of a learned dragon shout, you will use that shout in game. Not to worry, of course -- thanks to [Shout Pronunciations](https://www.nexusmods.com/skyrimspecialedition/mods/18572), the dragon language words of each shout will be shown in your shout menu.
 
 Librum also includes [MageVR](https://www.nexusmods.com/skyrimspecialedition/mods/21297), which generally overhauls the way you interact with spells and equipment. I recommend thoroughly reading its mod page for more information, but in short, it adds the following features:
@@ -292,7 +297,7 @@ Librum also includes [MageVR](https://www.nexusmods.com/skyrimspecialedition/mod
 5. You are able to "immersively" loot a container, in which you manually drag loot from the container to your backpack.
 6. You are able to "immersively" lockpick, in a way resembling the real procedure for a tumbler lock.
 
-Last but not least, Librum includes the fan-favorite [VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416), which allows you to see your character in-game. Not only that, but VRIK provides several visible weapon holsters around your body -- your calves, thighs, hips, forearms, upper arms, chest, stomach, and shoulders. To use these, hold your weapon over the appropriate holster (you should feel a haptic signal) and press "grip". Hold "grip" and pull away to unsheathe. VRIK also allows you to go into "selfie mode", by lifting your right hand above your head and rotating; you can finally see your VR character in his/her full ~frontal nudity~ glory!
+Last but not least, Librum includes the fan-favorite [VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416), which allows you to see your character in-game. Not only that, but VRIK provides several visible weapon holsters around your body -- your calves, thighs, hips, forearms, upper arms, chest, stomach, and shoulders. To use these, hold your weapon over the appropriate holster (you should feel a haptic signal) and press "grip". Hold "grip" and pull away to unsheathe. VRIK also allows you to go into "selfie mode", by lifting your right hand above your head and rotating; you can finally see your VR character in his/her full glory!
 
 ![Alt Text](Resources/hands.png?raw=true "VRIK-enabled body, with visible holsters.")
 
