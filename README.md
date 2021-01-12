@@ -22,7 +22,7 @@ Wabbajack modlist installer for Librum
       - [Starting Librum and Choosing Optional Plugins](#starting-librum-and-choosing-optional-plugins)
       - [Start up Skyrim... again](#start-up-skyrim-again)
       - [MCM Settings](#configure-the-mcm)
-    - [Suggested Add-ons](#suggested-add-ons)
+    - [Natural Locomotion](#natural-locomotion)
   - [Updating](#updating)
   - [Features of Librum](#features-of-librum)
     - [General Philosophy](#general-philosophy)
@@ -238,7 +238,8 @@ Further, there are a few settings to change using mod configuration spells:
 
 Congratulations! You've completed the Librum setup, and you are ready to play. The next several sections will explain what Librum is and does, as well as provide support.
 
-### Suggested Add-Ons
+### Natural Locomotion
+This step is ***not mandatory***, but it will significantly improve your VR experience.
 
 ## Updating
 If Librum receives an update, please check the Changelog before doing anything. Always back up your saves or start a new game after updating.
@@ -485,7 +486,7 @@ Librum overhauls specific buildings, as well, with [Palaces and Castles Enhanced
 
 ![Alt Text](Resources/stendarr.jpg?raw=true "Fort Dawnguard's Temple of Stendarr")
 
-Last but not least, Skyrim's wilderness has also seen some improvements. Along with the hundreds of new dungeons and locations mentioned in the preceding section, several existing locations have been redone. For one, [Nordic Ruins of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/20382) improves the exteriors of several key ruins around Skyrim: Forelhost, High Gate Ruins, Korvanjund, Labyrinthian, Ragnvald, Rannveig's Fast, Saarthal, Valthume, and Volskygge. These legendary ruins now _look_ legendary, and they can all be seen as such from a great distance.
+Last but not least, Skyrim's wilderness has also seen some improvements. Along with the hundreds of new dungeons and locations mentioned in the preceding section, several existing locations have been redone. For one, [Nordic Ruins of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/20382) improves the exteriors of several key ruins around Skyrim: Forelhost, High Gate Ruins, Korvanjund, Labyrinthian, Ragnvald, Rannveig's Fast, Saarthal, Valthume, and Volskygge. These legendary ruins now _look_ legendary, and they can all be seen as such from a great distance. The same has been done for Dwemer ruins, using [Better Dwemer Exteriors](https://www.nexusmods.com/skyrimspecialedition/mods/27618) -- as with the new Nordic ruins, these now have greatly expanded (and much more imposing) exteriors.
 
 Librum also includes [Man Those Borders](https://www.nexusmods.com/skyrimspecialedition/mods/681), [Unique Border Gates](https://www.nexusmods.com/skyrimspecialedition/mods/4819), [Hold Border Banners](https://www.nexusmods.com/skyrimspecialedition/mods/1737), and [Immersive Dawnguard Dayspring Pass](https://www.nexusmods.com/skyrimspecialedition/mods/4126), to make the transitions between different holds and the journeys through wilderness zones a little more unique. Guards will now be stationed where they ought to be, and each hold can be identified by its flags and architectural styles upon arrival. Also, the entrance to the Dawnguards' territory is no longer a stupid piece-of-shit hole in a cliff wall.
 
