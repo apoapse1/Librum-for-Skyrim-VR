@@ -174,8 +174,6 @@ If you do not want this plugin, disable it in MO2.
 
 If you do not want this plugin, disable it in MO2.
 
-There are also two "preview" mods included in the Librum download, located directly above the optional plugins. See below for more information on what they do; they should be entirely compatible with the rest of the modlist, but they are not thoroughly tested in the modlist at present.
-
 #### Start up Skyrim... again
 To start the game for real, start SKSE through Mod Organizer 2. This will be necessary every time you start the game; if you try to launch Skyrim through its default folder or through Steam, the game will be entirely vanilla.
 
@@ -437,7 +435,7 @@ With that in mind, here are the major new quest mods included in Librum:
 10. ***[Moonpath to Elsweyr](https://www.nexusmods.com/skyrimspecialedition/mods/4341).*** One of the great classics of Skyrim modding, but remastered for a modern experience, Moonpath to Elsweyr brings you south to the heart of the Khajiiti homeland in order to recover the legendary _Staff of Indarys_. Along the way, explore the alien jungles of Elsweyr, join forces with the Khajiiti rebellion, and gain access to the airship _Dev Aveza_.
 11. ***[The Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748).*** Return to Sotha Sil's mysterious clockwork city, and take a trip through the stranger side of Elder Scrolls lore. Along the way, solve new puzzles and tread through Zelda-esque dungeons, unlock the fantastical weapons and equipment of Sotha Sil's Chronographers, and explore alien landscapes, all in the labyrinthian expanse of Sotha Sil.
 12. ***[Teldryn Serious](https://www.nexusmods.com/skyrimspecialedition/mods/5541).*** Teldryn Serious heavily expands the backstory of the mercenary Teldryn Sero, taking you around Solstheim once more in order to uncover a dangerous plot and defend Raven Rock.
-13. *(optional)* ***[Death Consumes All](https://www.nexusmods.com/skyrimspecialedition/mods/41910).*** Death Consumes All changes the game drastically, adding a spreading plague to the game world. Find and recruit the excellent companion Livia Salvian, fight the forces of the undead, and try to stop the plague and its mysterious source before it lays all of Skyrim to rest. ***This mod is excellent, and feature-complete -- it is only optional because of its drastic changes to the gameworld.***
+13. ***[Death Consumes All](https://www.nexusmods.com/skyrimspecialedition/mods/41910).*** Death Consumes All changes the game drastically, adding a spreading plague to the game world. Find and recruit the excellent companion Livia Salvian, fight the forces of the undead, and try to stop the plague and its mysterious source before it lays all of Skyrim to rest. ***The plague will have no in-game consequences until you first talk to Livia.***
 
 ![Alt Text](Resources/sotha.jpg?raw=true "Trainwiz's work, at its finest.")
 
@@ -461,8 +459,8 @@ Finally, Librum adds several _follower_ mods, to make the game world a little le
 23. ***[Hoth](https://www.nexusmods.com/skyrimspecialedition/mods/16137).*** One of the most visually unique follower mods available, Hoth is a grizzled bounty hunter and a new sort of companion to your character. Uniquely, he can provide bounty quests radiantly, dependent on your current area. He can talk dynamically with Auri.
 24. ***[Serana Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/16222) and [Serana Dialogue Addon](https://www.nexusmods.com/skyrimspecialedition/mods/32161).*** Together, these mods turn Dawnguard's beloved vampire follower into the sort of "super follower" introduced by the above mods. She is now aware of most quests and situations you find yourself in, and she speaks naturally with you and with others.
 25. ***[Useful Dogs](https://www.nexusmods.com/skyrimspecialedition/mods/1666).*** Although a minor addition relative to the follower mods above, Useful Dogs allows you to give commands to your canine companion. You can send them looking for food, weapons, ammunition, keys, and more, in the style of Fallout 3 and 4.
-26. *(optional)* ***[Shezarrine -- The Fate of Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/15866).*** In its current iteration, _Shezarrine_ overhauls the College of Winterhold's Onmund as a "super follower" of the above sort. In addition to greatly improved behavior and world interactions for Onmund, it adds a signifant amount to the end of the College's questline, completing the story of Onmund's family. ***This mod is optional because, at present, it is only the prologue of a larger story.***
- 
+26. ***[Shezarrine -- The Fate of Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/15866).*** In its current iteration, _Shezarrine_ overhauls the College of Winterhold's Onmund as a "super follower" of the above sort. In addition to greatly improved behavior and world interactions for Onmund, it adds a signifant amount to the end of the College's questline, completing the story of Onmund's family. 
+
 ### Graphics and Ambience
 Last but not least, Librum includes a full graphical makeover of Skyrim. The goal is to match the photorealism we are used to these days, but with a bend towards realizing Librum's dark, gritty, and foreboding nature in Skyrim's atmosphere.Perhaps most important for this end, Librum includes a suite of literal atmosphere mods, centered around a Frankenstein-ing of [Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/12125) and [True Storms](https://www.nexusmods.com/skyrimspecialedition/mods/2472):
 
