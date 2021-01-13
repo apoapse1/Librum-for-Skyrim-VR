@@ -1,5 +1,7 @@
 # Librum (for Skyrim VR)
-Wabbajack modlist installer for Librum
+Wabbajack modlist installer for _Librum_.
+
+***A small request: If you take any cool screenshots while playing, please send them to me or post them on the Wabbajack Discord. I'd like to see your adventures, or anything cool you find!***
 
 - [Librum](#librum-for-skyrim-vr)
   - [Preamble](#preamble)
@@ -214,14 +216,14 @@ The suggested MCM options are as follows:
   - _Lock Smash_ tab: Activate lock smash, and set "allowed weapons" to "one and two handed".
 13. **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
 14. **Nemesis.** Click the second option, which mentions VRIK.
-15. **Open Cities.** Disable all three options.
+15. **Open Cities.** Disable "Gate Attendants" and "Outdoor Lighting System".
 16. **SkyUI.** Under _General_, disable the Active Effects HUD.
 17. **SkyVoice.** Remove the Skyvoice Options Spell.
 18. **Sleep to Level Up.** Disable "Require Sleep to spend Perk Points", and set "Level Up Cooldown Length" to 12 hours.
 19. **Smart Training.** Disable "Training Perk Points" and activate the mod.
 20. **Sneak Tools.** Under the _Patch_ tab, disable Horstar's extra dialogue. It is not voiced, unfortunately.
 21. **Sounds of Skyrim.** Adjust to taste, but I don't disable anything.
-22. **Sands of Time Sleeping Encounters.** In the left column, disable home invasions, set "Jorrvaskr Hall HQ" and "College Ambush Odds" to 0, set "Dungeon Ambush Odds" and "Draugr Keep Ambush Odds" to 50, and set "All Other Places" to 25.
+22. **Sands of Time Sleeping Encounters.** In the left column, disable home invasions, set "Jorrvaskr Hall HQ" and "College Ambush Odds" to 0, set "Dungeon Ambush Odds" and "Draugr Keep Ambush Odds" to 50, and set "All Other Places" to 25. In the right column, disable "Allow Drowsy Effect".
 23. **Souls Do Things 2.** Under _Settings_, enable "Conversion Spell Learned" if and only if you disabled perk points on level-up earlier.
 24. **Spell Research.** Import all spells, enable the hotkey, and set the hotkey to "k".
 25. **Tentapalooza.** The tents _should_ provide Frostfall support without changing these settings, but let me know if this fails.
@@ -239,7 +241,23 @@ Further, there are a few settings to change using mod configuration spells:
 Congratulations! You've completed the Librum setup, and you are ready to play. The next several sections will explain what Librum is and does, as well as provide support.
 
 ### Natural Locomotion
-This step is ***not mandatory***, but it will significantly improve your VR experience.
+This step is ***not mandatory***, but it will significantly improve your VR experience. Download [Natural Locomotion](https://store.steampowered.com/app/798810/Natural_Locomotion/) through Steam. It is an independent app, which allows you to walk around in VR games by swinging your arms (and possibly holding a hotkey). Although this sounds intrusive and unnatural, it quickly becomes a _very_ natural way to move around Skyrim. As a bonus, it works for everything from Skyrim and Fallout 4 VR to _No Man's Sky_.
+
+In terms of configuring NaLo, I recommend the following settings (although it is up to taste):
+***Common Settings:***
+ - _Allow jumping while crouched_ - off.
+ - _Enable strafing by tilting head_ - on.
+ - _Sticky buttons_ - off.
+***Edit Profile/Configure Buttons:***
+ - Enable walking with one of the following two options:
+   - _Hands down the hip (buttonless)_. This is newer, and may interrupt other actions, but feels more natural.
+   - _Joystick touch_ on right or left hand only, and _enable both hands with this button_. You will only move around when your thumb is on the joystick, but you do not need to hold any buttons down.
+ - _Enable jumping in place_ - on, with button set to _right joystick up_. The "natural jumping" doesn't always trigger when you want it to.
+***Edit Profile/Configure Speed and Trackpad Emulation:***
+ - _Original trackpad/joystick_ - set to _combine with movement_.
+ - _Desired trackpad/joystick orientation_ - set to _head relative_.
+
+When you want to play, first load up NaLo and click "Start selected profile" on Skyrim VR, and then launch Skyrim normally (SKSE through MO2).
 
 ## Updating
 If Librum receives an update, please check the Changelog before doing anything. Always back up your saves or start a new game after updating.
@@ -529,6 +547,8 @@ If you want to report an issue, the best way to do this is through the [Librum G
 The best way you can contribute to this project is to play the game! Play through different quests, explore different areas, and try to push the game to its limits -- then report the issues you find.
 
 The second best way to contribute is to send me suggestions for Librum's development. As mentioned above, I may have missed some great mods, or I may not have correctly balanced certain gameplay features or locations.
+
+The _third_ best way to contribute is to send me screenshots, or to post them in the Wabbajack Discord. I'd like to see your adventures, or anything cool that you find!
 
 ## Planned Changes
 There are a few changes planned already for future versions of Librum:

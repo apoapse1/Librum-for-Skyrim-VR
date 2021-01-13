@@ -20,6 +20,12 @@ Removed Mods:
 Other:
  - Tons of updates.
  - Fixed floating objects in Whiterun's tundra.
+ - Fixed Open Cities incompatibilities with Skyrim Sewers and Realm of Lorkhan.
+
+Updating:
+ - You can't update an old savegame.
+ - Start a new character.
+ - No, really.
 
 ***v0.9-beta.***
 Added Mods:
