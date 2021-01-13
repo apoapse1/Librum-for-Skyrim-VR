@@ -527,6 +527,8 @@ Although Librum is still early in development, I have gathered a few questions t
 
 ***The game is crashing!*** While I've done my best to mitigate crashing and poor performance, we all know that Skyrim's engine is not a perfect one. Let me know where and when the game crashes, and I'll try to figure it out.
 
+***The game is crashing when I save!*** Disable _iNeed_ through the MCM, wait a few minutes, and re-enable. Please let me know if this happens.
+
 ***I don't like [insert feature]!*** Please let me know! I'm open to suggestions, especially as Librum is getting off the ground. Whether you think something is unbalanced, not fun, or only gives off the wrong _vibe_, please shoot me a DM over Discord.
 
 ***I've found a bug!*** Let me know about bugs, as well! I'll try to help you figure it out -- of course, if you modified Librum in any fashion, you may be on your own.
@@ -555,8 +557,7 @@ There are a few changes planned already for future versions of Librum:
  - De-leveling some of the added content -- importantly, _Skyrim Underground_ and _Forgotten Dungeons_. They're currently pretty good in this regard, but there are improvements to be made.
  - Testing _Death Consumes All_ and _Shezarrine_ more thoroughly, and either remove them or move them to the core mod list.
  - Further balancing of _Bullet Time_, to prevent it from being overpowered.
- - Adjustments to graphics mods, and additional graphics mods for character models.
- - Including options for more enemy spawns. I am looking into _Genesis_, for instance.
+instance.
  - I will finish the _Suggested Add-ons_ and _Getting Started in Librum_ readme sections.
 
 ## Known Issues
