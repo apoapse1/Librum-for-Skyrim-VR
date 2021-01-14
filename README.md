@@ -212,7 +212,7 @@ The suggested MCM options are as follows:
   - _Lock Smash_ tab: Activate lock smash, and set "allowed weapons" to "one and two handed".
 12. **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
 13. **Nemesis.** Click the second option, which mentions VRIK.
-14. **Open Cities.** Disable "Gate Attendants" and "Outdoor Lighting System".
+14. **Open Cities.** Disable "Gate Attendants" and "Outdoor Lighting System". We'll throw Arthmoor a bone and leave in the Oblivion gates.
 15. **SkyUI.** Under _General_, disable the Active Effects HUD.
 16. **SkyVoice.** Remove the Skyvoice Options Spell.
 17. **Sleep to Level Up.** Disable "Require Sleep to spend Perk Points", and set "Level Up Cooldown Length" to 12 hours.

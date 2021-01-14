@@ -3,6 +3,20 @@ to the _x_ or _y_ denote significant updates, and you will need to read the
 update notes to see how to patch your savefile. Changes to the _z_ denote
 small bugfixes, and will never require a patched save.
 
+***v1.02.***
+Added Mods:
+ - _SunHelm_ needs instead of _iNeed_, to fix a known issue with crashing-while-saving.
+ - _Undiscovered Means Unknown_.
+
+Removed Mods:
+ - _iNeed_ and extensions.
+ - Health/Magicka/Stamina bar patch.
+
+Other:
+ - Fixed issue with Alduin's first appearance at Helgen -- he originally triggered an abrupt weather change.
+ - Fixed issue with wolves throwing you across the map. It was pretty funny.
+ - Added several new voice commands -- see the optional voice command INI for details.
+
 ***v1.0.***
 Added Mods:
  - New graphics:
