@@ -203,27 +203,28 @@ The suggested MCM options are as follows:
   - _Overview_ tab: Activate the mod. 
   - _Gameplay_ tab: "At max exposure" -> "death", and disable fast travel and waiting while outdoors.
   - _Meters_ tab: "Layout preset" -> "bottom left" recommended.
-10. **Hunterborn**. Start the mod, and then under the _Enable_ tab, disable the Hunterborn config power.
-11. **iNeed.** Apply the following settings:
-  - _Basics_ tab: Automate eating and drinking, and set the timescale to 8.
-  - _Difficulty_ tab: "Food spoilage" -> "numbers".
-  - _Notifications_ tab: "Widget style" -> "disabled".
-12. **Lock Overhaul.** Activate the mod, exit the menu, and re-enter. Then apply the following settings:
+10. **Hunterborn**. Start the mod, and then apply the following settings:
+  - _Enable_ tab: Disable the Hunterborn config power.
+  - _Hotkeys_ tab: Set "Sense Direction" hotkey to "b".
+11. **Lock Overhaul.** Activate the mod, exit the menu, and re-enter. Then apply the following settings:
   - _General_ tab: Enable the sound effect and crime.
   - _Lock Requirement_ tab: Activate lock requirements and auto-lockpicking.
   - _Lock Smash_ tab: Activate lock smash, and set "allowed weapons" to "one and two handed".
-13. **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
-14. **Nemesis.** Click the second option, which mentions VRIK.
-15. **Open Cities.** Disable "Gate Attendants" and "Outdoor Lighting System".
-16. **SkyUI.** Under _General_, disable the Active Effects HUD.
-17. **SkyVoice.** Remove the Skyvoice Options Spell.
-18. **Sleep to Level Up.** Disable "Require Sleep to spend Perk Points", and set "Level Up Cooldown Length" to 12 hours.
-19. **Smart Training.** Disable "Training Perk Points" and activate the mod.
-20. **Sneak Tools.** Under the _Patch_ tab, disable Horstar's extra dialogue. It is not voiced, unfortunately.
-21. **Sounds of Skyrim.** Adjust to taste, but I don't disable anything.
-22. **Sands of Time Sleeping Encounters.** In the left column, disable home invasions, set "Jorrvaskr Hall HQ" and "College Ambush Odds" to 0, set "Dungeon Ambush Odds" and "Draugr Keep Ambush Odds" to 50, and set "All Other Places" to 25. In the right column, disable "Allow Drowsy Effect".
-23. **Souls Do Things 2.** Under _Settings_, enable "Conversion Spell Learned" if and only if you disabled perk points on level-up earlier.
-24. **Spell Research.** Import all spells, enable the hotkey, and set the hotkey to "k".
+12. **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
+13. **Nemesis.** Click the second option, which mentions VRIK.
+14. **Open Cities.** Disable "Gate Attendants" and "Outdoor Lighting System".
+15. **SkyUI.** Under _General_, disable the Active Effects HUD.
+16. **SkyVoice.** Remove the Skyvoice Options Spell.
+17. **Sleep to Level Up.** Disable "Require Sleep to spend Perk Points", and set "Level Up Cooldown Length" to 12 hours.
+18. **Smart Training.** Disable "Training Perk Points" and activate the mod.
+19. **Sneak Tools.** Under the _Patch_ tab, disable Horstar's extra dialogue. It is not voiced, unfortunately.
+20. **Sounds of Skyrim.** Adjust to taste, but I don't disable anything.
+21. **Sands of Time Sleeping Encounters.** In the left column, disable home invasions, set "Jorrvaskr Hall HQ" and "College Ambush Odds" to 0, set "Dungeon Ambush Odds" and "Draugr Keep Ambush Odds" to 50, and set "All Other Places" to 25. In the right column, disable "Allow Drowsy Effect".
+22. **Souls Do Things 2.** Under _Settings_, enable "Conversion Spell Learned" if and only if you disabled perk points on level-up earlier.
+23. **Spell Research.** Import all spells, enable the hotkey, and set the hotkey to "k".
+24. **SunHelm.** Activate the mod, exit and re-enter the menu, and apply the following settings:
+ - _General Settings_ tab: Disable "Arrow Weight/Sleep level up", disable "Toggle Carry Weight Penalty", and set "Drink and Fill Hotkey" to "l".
+ - _Display and Notifications_ tab: Set "Widget Display Type" to "Alpha/Color Based", and set "Continuance Hotkey" to "p"
 25. **Tentapalooza.** The tents _should_ provide Frostfall support without changing these settings, but let me know if this fails.
 26. **Trade & Barter.** Under _Barter Rates_, enable "Modify Barter Settings" and set "Barter Presets" -> "Hardcore".
 27. **WeaponThrowVR.** If you want ultra-realism, select _Classic Medium_. Otherwise, apply the following settings:
@@ -342,7 +343,7 @@ You will also need to keep track of your hunger, thirst, and fatigue, thanks to 
 Getting food is a more involved process, thanks to [Hunterborn](https://www.nexusmods.com/skyrimspecialedition/mods/7900). When you hunt an animal, you now need to properly dress and skin the carcass, using a hunting knife. On the other hand, you will have access to many more resources when you harvest from an animal carcass: more kinds of meats and animal products, pelts from each animal, and animal bones. Your hunting, foraging, bone-carving, and cooking skills will improve with each use, improving your harvests and giving access to new recipes over time.
 
 _Sleep_ is also more complicated than it may seem. Although it is necessary both for general survival and to [level up](https://www.nexusmods.com/skyrimspecialedition/mods/32357), it is fairly dangerous to fall asleep in Skyrim's wilderness or in its dungeons. Thanks to [Sands of Time Sleeping Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/8257), any time you fall asleep, you will have a location-dependent chance of being attacked during the night. This is particularly true in dungeons, making it imperative to either (a) quickly get to safety or (b) bring along a follower or lay traps.
-Finally, through the _Dangerous Diseases_ addon to iNeed, diseases have become much more dangerous. Instead of applying a minor debuff to your stats, each disease will now progress through various stages, with many becoming deadly if left untreated. To avoid this all-new danger, you will need to take care to apply _Resist Disease_ effects, properly prepare your foods and water, and try not to get bitten or scratched in fights with wild animals. If you _do_ contract a disease, and it doesn't go away on its own, you will have to rest up, find an alchemical cure (unique to each disease), or pay through the nose for a priest to dispel your illness.
+Finally, through _Sunhelm_, diseases have become much more dangerous. Instead of applying a minor debuff to your stats, each disease will now progress through various stages, with many becoming deadly if left untreated. To avoid this all-new danger, you will need to take care to apply _Resist Disease_ effects, properly prepare your foods and water, and try not to get bitten or scratched in fights with wild animals. If you _do_ contract a disease, and it doesn't go away on its own, you will have to rest up, find an alchemical cure (unique to each disease), or pay through the nose for a priest to dispel your illness.
 
 ### Combat and Enemies
 Librum uses a slew of mods to improve the combat experience overall, with a strong focus on making each fight (within reason) a dangerous and harrowing experience.
@@ -526,8 +527,6 @@ Although Librum is still early in development, I have gathered a few questions t
 ***What the hell are these new enemies below [insert city name]?*** You've encountered _Skyrim Underground_, and, honestly, I'm with you. Although I've applied a patch to make Underground more lore-friendly, there is a little more work to be done. I will sort this out in future versions.
 
 ***The game is crashing!*** While I've done my best to mitigate crashing and poor performance, we all know that Skyrim's engine is not a perfect one. Let me know where and when the game crashes, and I'll try to figure it out.
-
-***The game is crashing when I save!*** Disable _iNeed_ through the MCM, wait a few minutes, and re-enable. Please let me know if this happens.
 
 ***I don't like [insert feature]!*** Please let me know! I'm open to suggestions, especially as Librum is getting off the ground. Whether you think something is unbalanced, not fun, or only gives off the wrong _vibe_, please shoot me a DM over Discord.
 
