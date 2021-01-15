@@ -1,7 +1,18 @@
-***Note:*** Librum versions are of the form _x.y-z_. In this notation, changes
-to the _x_ or _y_ denote significant updates, and you will need to read the
-update notes to see how to patch your savefile. Changes to the _z_ denote
-small bugfixes, and will never require a patched save.
+***Note:*** Librum versions are of the form _x.y-z_. In this notation, changes to the _x_ or _y_ denote significant updates, and you will need to read the update notes to see how to patch your savefile. Changes to the _z_ denote small hotfixes, and will never require a patched save.
+
+***v1.03.***
+Added Mods:
+ - _Helgen Reborn_, now that it's compatible with _Realm of Lorkhan_.
+ - _Better College Application_.
+
+Other:
+ - Fixed _SunHelm_ water issue.
+ - Fixed _Sleep to Level Up_ issue.
+ - Fixed issue where attack knockback was too high.
+ - Removed spell tomes from second Forgotten Spells Redone vendor.
+
+Updating:
+ - Apply new MCM changes for CACO and SunHelm. 
 
 ***v1.02.***
 Added Mods:
