@@ -166,13 +166,33 @@ If you do not want this plugin, disable it in MO2.
 
 If you do not want this plugin, disable it in MO2.
 
-***Bullet Time*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/16690)]. This mod adds a toggleable "bullet time" power, which acts a little differently from standard _Slow Time_ effects, and drains stamina as it goes. I recommend using this, to add a level of tactical movement to combat that is not easily achievable with real-time VR. If you use this, I recommend choosing a higher difficulty setting to compensate.
+***Adventure Theme Lite***. If you don't want the full effect of _The Adventure Theme_, but you want the nicer cursor and Oblivion-style inventory icons, this is the plugin for you.
+
+If you want this plugin, enable it in MO2. You don't need this if you have the full _Adventure Theme Mod_ option.
+
+***Bullet Time Power*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/16690)]. This mod adds a toggleable "bullet time" power, which acts a little differently from standard _Slow Time_ effects and drains stamina as it goes. I recommend using this, to add a level of tactical movement to combat that is not easily achievable with real-time VR. If you use this, I recommend choosing a higher difficulty setting to compensate.
 
 If you do not want this plugin, disable it in MO2.
 
 ***VRIK Controller Bindings*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/23416)]. These are recommended controller bindings to go along with VRIK. If you are using an Index, you will need the latest community bindings. Unfortunately, some in-game button prompts will not align with these bindings.
 
 If you do not want this plugin, disable it in MO2.
+
+***Magic Cards Font*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/14356)]. This is the font from Morrowind. It looks more "medieval" than the standard font, but is generally a nice (and nostalgic) change of pace.
+
+If you do not want this plugin, disable it in MO2.
+
+***Darker Night Sky***. This is SGS's night sky texture, to go alongside the [High Fidelity ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27308) we're using. It is a darker texture with reddish auroras, and it fits in very nicely with Librum's theme. If you do not use this, you will have the brighter and arguably prettier textures from [Ethereal Cosmos](https://www.nexusmods.com/skyrimspecialedition/mods/5728).
+
+If you want Ethereal Cosmos textures instead, disable this in MO2.
+
+***New Voice Commands***. This adds several new voice commands, to automate many of the features you'll be using frequently: _Open Map_ and _Close Map_, _Call Horse_, _Spell Research_, _Drink Water_ and _Fill Waterskin_, _Continuance_ or _Get Status_ (for general health and hunger/thirst/fatigue status), and _Sense Direction_.
+
+If you do not want this plugin, disable it in MO2.
+
+***Left-handed Settings***. Self-explanatory. Make sure to also enable "Left-Handed Mode" in the in-game settings.
+
+If you are left-handed, enable this in MO2.
 
 #### Start up Skyrim... again
 To start the game for real, start SKSE through Mod Organizer 2. This will be necessary every time you start the game; if you try to launch Skyrim through its default folder or through Steam, the game will be entirely vanilla.
@@ -187,50 +207,48 @@ Start a new game once you get to the main menu. The "yes/no" dialogue in the _Ne
 Once you have created your character, open up the in-game settings and navigate to the _Mod Configuration Menu_ (MCM). You will need to make several changes here to adhere to the suggested Librum setup. Unfortunately, very few of the mods used in Librum support FISS, so you will need to do this each time you create a new character.
 
 The suggested MCM options are as follows:
-1. **Bounty Gold.** In the left column, set "Bandits" to 300, "Forsworn" to 350, "Giants" to 400, and "Dragons" to 500. These match the default values of The Notice Board.
-2. **Campfire.** Under the _Advanced_ tab, disable "Advanced Object Placement". It conflicts with VR.
-3. **Clockwork.** Turn off "Recall Spell Fast-travel Check". This makes the Clockwork Recall spell a very good reward, which fits new difficulty of surviving during Clockwork's questline.
-4. **Cobb Encumbrance.** In the _Presets_ tab, apply the preset "Classic (SEM)".
-5. **Complete Alchemy and Crafting Overhaul.** Apply the following changes:
+1. **Campfire.** Under the _Advanced_ tab, disable "Advanced Object Placement". It conflicts with VR.
+2. **Cobb Encumbrance.** In the _Presets_ tab, apply the preset "Classic (SEM)".
+3. **Complete Alchemy and Crafting Overhaul.** Apply the following changes:
   - _Alchemy_ tab: change all potion/poison durations to 10s. 
   - _Harvest_ tab: change _Food containers_ frequency to "scarce", and quantity to "reduced". Disable "Craft Water" and "Get Water from Wells".
-6. **Dynamic Things.** Apply the following changes:
+4. **Dynamic Things.** Apply the following changes:
   - _Containers/Activators_ tab: deactivate "Dynamic Safe Containers".
   - _Advanced Options_ tab: activate "Containers are destructible", "Realistic amount of wood per tree", "Realistic chopping time", and "No food containers".
-7. **End Times.** Adjust to taste -- I leave this at 365 days.
-8. **Forgotten Magic Redone.** Under _Settings_, set the spell tome drop chance to zero.
-9. **Frostfall**. Apply the following changes:
+5. **End Times.** Adjust to taste -- I leave this at 365 days.
+6. **Forgotten Magic Redone.** Under _Settings_, set the spell tome drop chance to zero.
+7. **Frostfall**. Apply the following changes:
   - _Overview_ tab: Activate the mod. 
   - _Gameplay_ tab: "At max exposure" -> "death", and disable fast travel and waiting while outdoors.
   - _Meters_ tab: "Layout preset" -> "bottom left" recommended.
-10. **Hunterborn**. Start the mod, and then apply the following settings:
+8. **Hunterborn**. Start the mod, and then apply the following settings:
   - _Enable_ tab: Disable the Hunterborn config power.
-  - _Hotkeys_ tab: Set "Sense Direction" hotkey to "b".
-11. **Lock Overhaul.** Activate the mod, exit the menu, and re-enter. Then apply the following settings:
+  - _Hotkeys_ tab: Set "Sense Direction" hotkey to "x".
+9. **Lock Overhaul.** Activate the mod, exit the menu, and re-enter. Then apply the following settings:
   - _General_ tab: Enable the sound effect and crime.
   - _Lock Requirement_ tab: Activate lock requirements and auto-lockpicking.
   - _Lock Smash_ tab: Activate lock smash, and set "allowed weapons" to "one and two handed".
-12. **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
-13. **Nemesis.** Click the second option, which mentions VRIK.
-14. **Open Cities.** Disable "Gate Attendants" and "Outdoor Lighting System". We'll throw Arthmoor a bone and leave in the Oblivion gates.
-15. **SkyUI.** Under _General_, disable the Active Effects HUD.
-16. **SkyVoice.** Remove the Skyvoice Options Spell.
-17. **Sleep to Level Up.** Disable "Require Sleep to spend Perk Points", and set "Level Up Cooldown Length" to 12 hours.
-18. **Smart Training.** Disable "Training Perk Points" and activate the mod.
-19. **Sneak Tools.** Under the _Patch_ tab, disable Horstar's extra dialogue. It is not voiced, unfortunately.
-20. **Sounds of Skyrim.** Adjust to taste, but I don't disable anything.
-21. **Sands of Time Sleeping Encounters.** In the left column, disable home invasions, set "Jorrvaskr Hall HQ" and "College Ambush Odds" to 0, set "Dungeon Ambush Odds" and "Draugr Keep Ambush Odds" to 50, and set "All Other Places" to 25. In the right column, disable "Allow Drowsy Effect".
-22. **Souls Do Things 2.** Under _Settings_, enable "Conversion Spell Learned" if and only if you disabled perk points on level-up earlier.
-23. **Spell Research.** Import all spells and enable the hotkey. Leave the hotkey to be "alt".
-24. **SunHelm.** Activate the mod, exit and re-enter the menu, and apply the following settings:
+10. **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
+11. **Nemesis.** Click the second option, which mentions VRIK.
+12. **Open Cities.** Disable "Gate Attendants" and "Outdoor Lighting System". We'll throw Arthmoor a bone and leave in the Oblivion gates.
+13. **SkyUI.** Under _General_, disable the Active Effects HUD.
+14. **SkyVoice.** Remove the Skyvoice Options Spell.
+15. **Sleep to Level Up.** Disable "Require Sleep to spend Perk Points", and set "Level Up Cooldown Length" to 12 hours.
+16. **Smart Training.** Disable "Training Perk Points" and activate the mod.
+17. **Sneak Tools.** Under the _Patch_ tab, disable Horstar's extra dialogue. It is not voiced, unfortunately.
+18. **Sounds of Skyrim.** Adjust to taste, but I don't disable anything.
+19. **Sands of Time Sleeping Encounters.** In the left column, disable home invasions, set "Jorrvaskr Hall HQ" and "College Ambush Odds" to 0, set "Dungeon Ambush Odds" and "Draugr Keep Ambush Odds" to 50, and set "All Other Places" to 25. In the right column, disable "Allow Drowsy Effect".
+20. **Souls Do Things 2.** Under _Settings_, enable "Conversion Spell Learned" if and only if you disabled perk points on level-up earlier.
+21. **Spell Research.** Import all spells and enable the hotkey. Leave the hotkey to be "alt".
+22. **SunHelm.** Activate the mod, exit and re-enter the menu, and apply the following settings:
  - _General Settings_ tab: Disable "Arrow Weight/Sleep level up", disable "Toggle Carry Weight Penalty", and set "Drink and Fill Hotkey" to "l".
- - _Display and Notifications_ tab: Set "Widget Display Type" to "Alpha/Color Based", and set "Continuance Hotkey" to "k"
-25. **Tentapalooza.** The tents _should_ provide Frostfall support without changing these settings, but let me know if this fails.
-26. **Trade & Barter.** Under _Barter Rates_, enable "Modify Barter Settings" and set "Barter Presets" -> "Hardcore".
-27. **WeaponThrowVR.** If you want ultra-realism, select _Classic Medium_. Otherwise, apply the following settings:
+ - _Display and Notifications_ tab: Set "Widget Display Type" to "Alpha/Color Based", and set "Continuance Hotkey" to "y"
+23. **Tentapalooza.** The tents _should_ provide Frostfall support without changing these settings, but let me know if this fails.
+24. **Trade & Barter.** Under _Barter Rates_, enable "Modify Barter Settings" and set "Barter Presets" -> "Hardcore".
+25. **WeaponThrowVR.** If you want ultra-realism, select _Classic Medium_. Otherwise, apply the following settings:
  - _Presets_ tab: Enable "Cangar's Selection".
  - _Special_ tab: Enable auto-return for daggers and two-handed weapons.
-28. **Wildcat Combat.** Enable "Allow Wildcat to manage difficulty" and "Burst injuries".
+26. **Wildcat Combat.** Enable "Allow Wildcat to manage difficulty" and "Burst injuries".
 
 Further, there are a few settings to change using mod configuration spells:
 1. **Destructible Skyrim.** This configuration spell is available in the _Illusion_ tab. Simply cast and click "remove spell".

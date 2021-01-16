@@ -8,8 +8,9 @@ Added Mods:
 Other:
  - Fixed _SunHelm_ water issue.
  - Fixed _Sleep to Level Up_ issue.
- - Fixed issue where attack knockback was too high.
+ - Attempted to fix issue where attack knockback was too high.
  - Removed spell tomes from second Forgotten Spells Redone vendor.
+ - Pre-applied MCM settings for _Bounty Gold_ and _Clockwork_.
 
 Updating:
  - Apply new MCM changes for CACO and SunHelm. 
