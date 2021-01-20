@@ -1,5 +1,37 @@
 ***Note:*** Librum versions are of the form _x.y-z_. In this notation, changes to the _x_ or _y_ denote significant updates, and you will need to read the update notes to see how to patch your savefile. Changes to the _z_ denote small hotfixes, and will never require a patched save.
 
+***v1.1.***
+Added Mods:
+ - Custom-to-Librum ENB preset, courtesy of Kvitekvist.
+ - _Less is More_ texture fix, also courtesy of Kvitekvist.
+ - New beast race overhaul, including optional Morrowind-like feet:
+   - _Grimoa's Plantigrade Feet for Beast Races_.
+   - _Barefoot Beasts_. I modified this plugin extensively.
+   - _True Digitigrade Beast Races_.
+   - _Feminine Khajiit Textures_ (grey cat option).
+   - _Slightly Less Shiny Argonians_ (no shine option, modified to work with plantigrade feet).
+ - _Tempered Skins for Males_ and _Tempered Skins for Females_.
+ - New region-specific creatures and encounters:
+   - _Bogmort - Mud Monsters of Morthal Swamp_.
+   - _The Falkreath Hauntings_.
+   - _Wendigos and Howlers_.
+   - _The Blood Horker_.
+   - _Unicorn - The Steed of Hircine_.
+   - _Diverse Werewolf Collection_.
+   - _Grahl - The Ice Troll_.
+ - _Karstaag - The Frost King Reborn_.
+ - _Durnehviir - God of Death_.
+ - _HD Serpentine Dragon and Mesh Fix_.
+ - _TB's Improved Rivers_.
+ - _Salt and Wind - KS Hardo's Retexture_. Only used for Vigilant NPCs.
+ - _Wonders of Weather_.
+ - _Dragon Souls to Perk Points_. Replaces corresponding feature from _Souls Do Things_.
+
+Other:
+ - _Forgotten Argonian Textures'_ male textures removed.
+ - _WICO_ properly patched.
+ - Dragon leveled lists fixed.
+
 ***v1.03.***
 Added Mods:
  - _Helgen Reborn_, now that it's compatible with _Realm of Lorkhan_.

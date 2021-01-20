@@ -207,7 +207,7 @@ Start a new game once you get to the main menu. The "yes/no" dialogue in the _Ne
 Once you have created your character, open up the in-game settings and navigate to the _Mod Configuration Menu_ (MCM). You will need to make several changes here to adhere to the suggested Librum setup. Unfortunately, very few of the mods used in Librum support FISS, so you will need to do this each time you create a new character.
 
 The suggested MCM options are as follows:
-1. **Campfire.** Under the _Advanced_ tab, disable "Advanced Object Placement". It conflicts with VR.
+1. **Clockwork.** Turn off "Recall Spell Fast Travel Check".
 2. **Cobb Encumbrance.** In the _Presets_ tab, apply the preset "Classic (SEM)".
 3. **Complete Alchemy and Crafting Overhaul.** Apply the following changes:
   - _Alchemy_ tab: change all potion/poison durations to 10s. 
@@ -215,40 +215,35 @@ The suggested MCM options are as follows:
 4. **Dynamic Things.** Apply the following changes:
   - _Containers/Activators_ tab: deactivate "Dynamic Safe Containers".
   - _Advanced Options_ tab: activate "Containers are destructible", "Realistic amount of wood per tree", "Realistic chopping time", and "No food containers".
-5. **End Times.** Adjust to taste -- I leave this at 365 days.
-6. **Forgotten Magic Redone.** Under _Settings_, set the spell tome drop chance to zero.
-7. **Frostfall**. Apply the following changes:
+5. **Forgotten Magic Redone.** Under _Settings_, set the spell tome drop chance to zero.
+6. **Frostfall**. Apply the following changes:
   - _Overview_ tab: Activate the mod. 
   - _Gameplay_ tab: "At max exposure" -> "death", and disable fast travel and waiting while outdoors.
   - _Meters_ tab: "Layout preset" -> "bottom left" recommended.
-8. **Hunterborn**. Start the mod, and then apply the following settings:
+7. **Hunterborn**. Start the mod, and then apply the following settings:
   - _Enable_ tab: Disable the Hunterborn config power.
   - _Hotkeys_ tab: Set "Sense Direction" hotkey to "x".
-9. **Lock Overhaul.** Activate the mod, exit the menu, and re-enter. Then apply the following settings:
+8. **Lock Overhaul.** Activate the mod, exit the menu, and re-enter. Then apply the following settings:
   - _General_ tab: Enable the sound effect and crime.
   - _Lock Requirement_ tab: Activate lock requirements and auto-lockpicking.
   - _Lock Smash_ tab: Activate lock smash, and set "allowed weapons" to "one and two handed".
-10. **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
-11. **Nemesis.** Click the second option, which mentions VRIK.
-12. **Open Cities.** Disable "Gate Attendants" and "Outdoor Lighting System". We'll throw Arthmoor a bone and leave in the Oblivion gates.
-13. **SkyUI.** Under _General_, disable the Active Effects HUD.
-14. **SkyVoice.** Remove the Skyvoice Options Spell.
-15. **Sleep to Level Up.** Disable "Require Sleep to spend Perk Points", and set "Level Up Cooldown Length" to 12 hours.
-16. **Smart Training.** Disable "Training Perk Points" and activate the mod.
-17. **Sneak Tools.** Under the _Patch_ tab, disable Horstar's extra dialogue. It is not voiced, unfortunately.
-18. **Sounds of Skyrim.** Adjust to taste, but I don't disable anything.
-19. **Sands of Time Sleeping Encounters.** In the left column, disable home invasions, set "Jorrvaskr Hall HQ" and "College Ambush Odds" to 0, set "Dungeon Ambush Odds" and "Draugr Keep Ambush Odds" to 50, and set "All Other Places" to 25. In the right column, disable "Allow Drowsy Effect".
-20. **Souls Do Things 2.** Under _Settings_, enable "Conversion Spell Learned" if and only if you disabled perk points on level-up earlier.
-21. **Spell Research.** Import all spells and enable the hotkey. Leave the hotkey to be "alt".
-22. **SunHelm.** Activate the mod, exit and re-enter the menu, and apply the following settings:
+9. **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
+10. **Nemesis.** Activate both options.
+11. **Open Cities.** Disable "Gate Attendants" and "Outdoor Lighting System". We'll throw Arthmoor a bone and leave in the Oblivion gates.
+12. **SkyUI.** Under _General_, disable the Active Effects HUD.
+13. **SkyVoice.** Remove the Skyvoice Options Spell.
+14. **Sleep to Level Up.** Disable "Require Sleep to spend Perk Points", and set "Level Up Cooldown Length" to 12 hours.
+15. **Smart Training.** Disable "Training Perk Points" and activate the mod.
+16. **Sneak Tools.** Under the _Patch_ tab, disable Horstar's extra dialogue. It is not voiced, unfortunately.
+17. **Sands of Time Sleeping Encounters.** In the left column, disable home invasions, set "Jorrvaskr Hall HQ" and "College Ambush Odds" to 0, set "Dungeon Ambush Odds" and "Draugr Keep Ambush Odds" to 50, and set "All Other Places" to 25. In the right column, disable "Allow Drowsy Effect".
+
+18. **Spell Research.** Import all spells and enable the hotkey. Leave the hotkey to be "alt".
+19. **SunHelm.** Activate the mod, exit and re-enter the menu, and apply the following settings:
  - _General Settings_ tab: Disable "Arrow Weight/Sleep level up", disable "Toggle Carry Weight Penalty", and set "Drink and Fill Hotkey" to "l".
  - _Display and Notifications_ tab: Set "Widget Display Type" to "Alpha/Color Based", and set "Continuance Hotkey" to "y"
-23. **Tentapalooza.** The tents _should_ provide Frostfall support without changing these settings, but let me know if this fails.
-24. **Trade & Barter.** Under _Barter Rates_, enable "Modify Barter Settings" and set "Barter Presets" -> "Hardcore".
-25. **WeaponThrowVR.** If you want ultra-realism, select _Classic Medium_. Otherwise, apply the following settings:
- - _Presets_ tab: Enable "Cangar's Selection".
- - _Special_ tab: Enable auto-return for daggers and two-handed weapons.
-26. **Wildcat Combat.** Enable "Allow Wildcat to manage difficulty" and "Burst injuries".
+20. **Tentapalooza.** The tents _should_ provide Frostfall support without changing these settings, but let me know if this fails.
+21. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
+22. **Wildcat Combat.** Enable "Allow Wildcat to manage difficulty" and "Burst injuries".
 
 Further, there are a few settings to change using mod configuration spells:
 1. **Destructible Skyrim.** This configuration spell is available in the _Illusion_ tab. Simply cast and click "remove spell".
