@@ -1,5 +1,40 @@
 ***Note:*** Librum versions are of the form _x.y-z_. In this notation, changes to the _x_ or _y_ denote significant updates, and you will need to read the update notes to see how to patch your savefile. Changes to the _z_ denote small hotfixes, and will never require a patched save.
 
+***v1.2.***
+Added Mods:
+ - New _Auriel's Dream ENB Preset_. I'm working with Kvitekvist to customize it to Librum.
+ - New weapon and armor graphics:
+   - _Project NordwarUA_. I'm working with the author to expand that mod.
+   - _Unique Uniques_.
+   - _Eldruin Dawnbreaker_.
+   - _Remiros' Hrothmund's Axe_.
+   - _New Legion_, by NordwarUA.
+   - _Guard Armor Replacer_, by NordwarUA.
+   - _Unplayable Faction Armor_, by NordwarUA.
+ - _Bigger Argonian Tails_ and _Horns are Forever_.
+ - (optional) _Nords Speak Deutsch_, _Frenchsworn_, _Italian for Tullius_, and _Kitties Speak Spanish_. These are standalone, so take these only if (a) you speak the aforementioned language or (b) you're fine with subtitles.
+ - Mari's suite of flora mods.
+ - _3D Snowberries_.
+ - _Cathedral 3D Pine Grass_ and _Cathedral 3D Mountain Flowers_.
+ - _Food Resized_, by Kvitekvist.
+ - _JS Purses and Septims_.
+ - _High Poly Blackreach Mushrooms_.
+ - _Salmon Roe Replacer_.
+ - _Real Hay 4K_.
+ - _TK Children_.
+ - _Realistic Husky Sounds_.
+ - _ElSopa Texture Pack_.
+
+Other:
+ - Dragon leveled lists fixed.
+ - Overly strong knockback fixed.
+ - Little Vivec put back on solid ground.
+ - Better and more consistent LOD.
+ - "Constant metal clanging" bug fixed.
+ - Navmesh issues resolved.
+ - Several mods updated: _Vigilant_, _Rally's Five Cities Currency_, _Be Seated_, _Weapon Throw VR_.
+ - Several smaller bugfixes.
+
 ***v1.1.***
 Added Mods:
  - Custom-to-Librum ENB preset, courtesy of Kvitekvist.
