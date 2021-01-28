@@ -32,8 +32,12 @@ Other:
  - Better and more consistent LOD.
  - "Constant metal clanging" bug fixed.
  - Navmesh issues resolved.
+ - Open Cities issues resolved.
  - Several mods updated: _Vigilant_, _Rally's Five Cities Currency_, _Be Seated_, _Weapon Throw VR_.
  - Several smaller bugfixes.
+
+Updating:
+ - If you're updating from an old save, make sure you disable the old "Soul Search" power in the "Souls Do Things" MCM menu. There's a new one I made with the same name.
 
 ***v1.1.***
 Added Mods:
