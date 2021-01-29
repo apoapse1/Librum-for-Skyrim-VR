@@ -38,6 +38,7 @@ Other:
 
 Updating:
  - If you're updating from an old save, make sure you disable the old "Soul Search" power in the "Souls Do Things" MCM menu. There's a new one I made with the same name.
+ - Move your current savegames to /profiles/Librum/saves within the Librum MO2 folder.
 
 ***v1.1.***
 Added Mods:
