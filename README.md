@@ -45,7 +45,7 @@ Wabbajack modlist installer for _Librum_.
   - [Known Issues](#known-issues)
  
 ## Preamble
-![Alt text](Resources/Banner4444g?raw=true "I made this image myself, and I am proud of it.")
+![Alt text](Resources/Banner6.png?raw=tue "I made this image myself, and I am proud of it.")
 
 _You're lost in the woods, having narrowly escaped after scaring off a pack of wolves with a summoned flame atronach. Your torch finally fades out, and it's getting cold. You can conjure basic foods, and your summoned atronach provides enough heat for the time being, but you'll need to gather wood in order to sustain a fire and survive the night. With little time to spare, you can't search far for materials -- luckily, you've fashioned a basic hatchet the night before, and you can chop down a nearby tree for lumber. You fall asleep next to your fire, having placed several runes nearby to dispatch would-be predators. Despite a few interruptions in the night, the morning comes at last, and the sun finally breaks over the horizon._
 
@@ -203,6 +203,14 @@ Start a new game once you get to the main menu. The "yes/no" dialogue in the _Ne
 2. Standing stones are changed in accordance with [Andromeda](https://www.nexusmods.com/skyrimspecialedition/mods/14910). However, **the standing stone you choose in the Realm of Lorkhan is final**. That is, you will not be able to change it without first returning to the Realm of Lorkhan.
 3. Be particular with the items, spells, and powers you bring back from the Realm of Lorkhan. Much moreso than in vanilla Skyrim, having additional weapons, armors, spell tomes, gold, or even food items can start you out with a significant advantage. If you do not want this advantage, do not take anything with you.
 
+Note that Wabbajack will reset some of the in-game Skyrim settings, which you will want to fix before continuing.
+Open main menu -> settings -> VR performance, and apply the following settings:
+
+ - Untick dynamic resolution
+ - Untick the two "disable lod" options
+ - Other options can be configured according to your hardware. In particular, note the "actor distance" slider -- keep this low or you will lag in towns and cities, even with the best CPU.
+
+
 #### Configure the MCM
 Once you have created your character, open up the in-game settings and navigate to the _Mod Configuration Menu_ (MCM). You will need to make several changes here to adhere to the suggested Librum setup. Unfortunately, very few of the mods used in Librum support FISS, so you will need to do this each time you create a new character.
 
@@ -279,6 +287,7 @@ If Librum receives an update, please check the Changelog before doing anything. 
 This means that any additional mods you have installed on top of Librum will be deleted. However, your downloads folder will not be touched!
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _Overwrite existing modlist_ button.
+Note that some in-game settings will get reset when updating. Check them all again! Particularly, "dynamic resolution" and "disable lod" in the "VR Performance" settings menu. 
 
 ## Features of Librum
 Librum significantly affects nearly every aspect of gameplay; in this section, I explain all of the significant changes that have been made, and how they change the Skyrim experience. I will separate it here into various "modules" for ease of explanation -- however, this does not reflect any clean-cut separations of Librum mechanics. Changes from the various modules overlap, affect one another, and work together to create a consistent Librum experience. For instance, _Spell Research_ forces mages to interact with the survival elements of Librum, and these survival elements turn a quest like _Clockwork_ into a precarious and time-sensitive escape mission.
