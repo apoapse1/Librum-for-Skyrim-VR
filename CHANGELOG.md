@@ -1,6 +1,49 @@
 ***Note:*** Librum versions are of the form _x.y-z_. In this notation, changes to the _x_ or _y_ denote significant updates, and you will need to read the update notes to see how to patch your savefile. Changes to the _z_ denote small hotfixes, and will never require a patched save.
 
-***v1.2.***
+***v1.30.***
+Added Mods:
+ - New grass setup:
+   - _Northern Grass_
+   - _Northern Cathedral Grass_
+   - _Grass FPS Booster_ (mostly for its graphical style)
+ - _Magical Blackreach_
+ - New creatures:
+   - _Apoapse's Invisible Lake Dragons_ (Nexus release coming soon)
+   - Mihail's _Dwarven Colossus_
+   - Mihail's _Dwarven Driller_
+   - Mihail's _Dwarven Sentinels_
+   - Mihail's _Iron Golem_
+   - Mihail's _Storm Golem_
+   - Mihail's _Verminous Fabricants_
+   - Mihail's _Wraiths_
+   - _Forgotten Spawns_ for Forgotten Dungeons
+ - _Forgotten Dungeons - ELE Patch_
+ - _Simply Stronger Dragons_
+ - _Designs of the Nords_ (rip _Sigils of Skyrim_)
+ - _Insignificant Object Remover_
+ - _Wet and Cold Breath Texture for ENB_
+ - _Wonders of Weather - Less Opaque Rain Splashes_
+ - _Alduin Retexture Mashup_
+ - _Ducks and Swans_
+ - _Dear Diary UI_
+ - _Unofficial Performance Optimized Textures_
+ - _The Northerner Diaries_
+ - _Canopies of Skyrim_
+
+Removed Mods:
+ - _3D Cathedral Pine Grass_
+ - _VR FPS Stabilizer_
+ - _Birds of Skyrim_
+ - _Heljarchen Farm_
+ - _ElSopa HD Texture Pack_
+ - _The Eyes of Beauty_ (has glowing eye problem -- looking into it now)
+
+Other:
+ - Totally redid LOD. Should be more consistent, performance-friendly, and higher quality.
+ - Finally _actually_ fixed dragons.
+ - Lots of performance tweaks, but without noticeable visual drop.
+
+***v1.20.***
 Added Mods:
  - New _Auriel's Dream ENB Preset_. I'm working with Kvitekvist to customize it to Librum.
  - New weapon and armor graphics:
@@ -35,6 +78,7 @@ Other:
  - Open Cities issues resolved.
  - Several mods updated: _Vigilant_, _Rally's Five Cities Currency_, _Be Seated_, _Weapon Throw VR_.
  - Several smaller bugfixes.
+ - Slightly more time afforded to Papyrus scripts per frame.
 
 Updating:
  - If you're updating from an old save, make sure you disable the old "Soul Search" power in the "Souls Do Things" MCM menu. There's a new one I made with the same name.
