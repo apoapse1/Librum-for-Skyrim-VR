@@ -47,20 +47,17 @@ _Curses_:
 - You can sell firewood at lumbermills to get some easy cash, also in some inns (this is vanilla feature)
 
 ***Spell Research***
-<details>
- <summary>Warning this may spoiler some things, don't read if you want to figure things out yourself</summary>
-1. Prioritise getting a research journal, alembic and tongs.  
-1. Go to college of Winterhold to get your first spell, unless you are a race that starts with one. Researching the spell will give you basic experience with some archetypes.  
-1. If you find any strange items like "enchanted axe-head" analyze this to get LOTS of experience.   
-1. Use the alembic to dissolve individual reagents you find, then analyze the resulting solution - this will grant experience and unlock new archetypes.  
-1. Loot any rolls of paper, charcoal, inkwells or quills that you come across.   
-1. In particular, find the solution that is used to make paper and ink! Select "mix solutions" and look what inputs are needed.  
-1. Rest to get rid of mental exhaustion, note that longer rests have exponentially more effect - 8 hours+.   
-1. Hold on to weakness/aversion poisons as these are used to fuel the cauldron. You can dissolve bulk quantities of reagents and get huge amounts of solutions.  
-1. When analyzing solutions the xp gain is exponential - try to analyze them in batches of 100+.   
-1. Prioritize getting reagents to make cauldron fuel  
-1. Once you have unlock various archetypes you can compose theses.   
-1. You can combine theses to try unlocking a spell, for novice rank only 20 xp in each archetype is enough. 1000 for apprentice!   
-1. Duplicates can be used to boost the success chance - especially important when you are missing certain archetypes.  
-1. When you have LOTS of experience you can throw in a single thesis and still get success.  
-</details>
+ - Prioritise getting a research journal, alembic and tongs.  
+ - Go to college of Winterhold to get your first spell, unless you are a race that starts with one. Researching the spell will give you basic experience with some archetypes.  
+ - If you find any strange items like "enchanted axe-head" analyze this to get LOTS of experience.   
+ - Use the alembic to dissolve individual reagents you find, then analyze the resulting solution - this will grant experience and unlock new archetypes.  
+ - Loot any rolls of paper, charcoal, inkwells or quills that you come across.   
+ - In particular, find the solution that is used to make paper and ink! Select "mix solutions" and look what inputs are needed.  
+ - Rest to get rid of mental exhaustion, note that longer rests have exponentially more effect - 8 hours+.   
+ - Hold on to weakness/aversion poisons as these are used to fuel the cauldron. You can dissolve bulk quantities of reagents and get huge amounts of solutions.  
+ - When analyzing solutions the xp gain is exponential - try to analyze them in batches of 100+.   
+ - Prioritize getting reagents to make cauldron fuel  
+ - Once you have unlock various archetypes you can compose theses.   
+ - You can combine theses to try unlocking a spell, for novice rank only 20 xp in each archetype is enough. 1000 for apprentice!   
+ - Duplicates can be used to boost the success chance - especially important when you are missing certain archetypes.  
+ - When you have LOTS of experience you can throw in a single thesis and still get success.  
