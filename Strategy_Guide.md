@@ -9,7 +9,7 @@ This guide will help you get off the ground in Librum -- Librum changes a great 
 ## Appearance and Race
 If you boot up Librum and create a new game, you'll find yourself in the new character creation area -- the [Realm of Lorkhan](https://www.nexusmods.com/skyrimspecialedition/mods/18223) -- looking at the glitchy [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) menu. Before finalizing your race and appearance, here are the details you need to know:
 
-***Race Abilites.*** Race abilities are given by EnaiSiaion's popular [Imperious](https://www.nexusmods.com/skyrimspecialedition/mods/1315) mod, with two modifications. Argonians are 50% resistant to _water damage_, and Orcs are 50% resistant to _earth damage_. These are new damage types introduced by [Elemental Destruction Magic](https://www.nexusmods.com/skyrimspecialedition/mods/440), and you will encounter enemy mages who make use of them. For detailed information on racial abilities, see the [Imperious mod page](https://www.nexusmods.com/skyrimspecialedition/mods/1315); notably, once-a-day powers have been replaced with interesting passive abilities, and you can unlock an additional ability by completing a race-specific objective.
+***Race Abilites.*** Race abilities are given by EnaiSiaion's popular [Imperious](https://www.nexusmods.com/skyrimspecialedition/mods/1315) mod, with two modifications. Argonians are 50% resistant to _water damage_, and Orcs are 50% resistant to _earth damage_. These are new damage types introduced by [Elemental Destruction Magic](https://www.nexusmods.com/skyrimspecialedition/mods/440), and you will encounter enemy mages who make use of them. For detailed information on racial abilities, see the [Imperious mod page](https://www.nexusmods.com/skyrimspecialedition/mods/1315); notably, once-a-day powers have been replaced with interesting passive abilities, and you can unlock an additional ability by completing a race-specific objective. Khajit feet are not compatible with regular humanoid footwear, which can prove an impediment in Skyrim's harsh conditions.
 
 There are a few non-ability-related differences between the various races. Importantly, _beast races cannot wear shoes_. In addition to locking them out of certain enchantments (e.g., muffle), this gives both Khajiits and Argonians a higher susceptibility to frostbite. You'll need to find alternate solutions, like magical spells or avoiding Skyrim's northern reaches, in order to avoid the cold.
 
@@ -50,3 +50,21 @@ _Curses_:
 
 ***Classes.*** In the same location as the Boons and Curses, you can find several "Classes" available to you. 
 
+***Money.***
+- You can sell firewood at lumbermills to get some easy cash, also in some inns (this is vanilla feature)
+
+***Spell Research***
+ - Prioritise getting a research journal, alembic and tongs.  
+ - Go to college of Winterhold to get your first spell, unless you are a race that starts with one. Researching the spell will give you basic experience with some archetypes.  
+ - If you find any strange items like "enchanted axe-head" analyze this to get LOTS of experience.   
+ - Use the alembic to dissolve individual reagents you find, then analyze the resulting solution - this will grant experience and unlock new archetypes.  
+ - Loot any rolls of paper, charcoal, inkwells or quills that you come across.   
+ - In particular, find the solution that is used to make paper and ink! Select "mix solutions" and look what inputs are needed.  
+ - Rest to get rid of mental exhaustion, note that longer rests have exponentially more effect - 8 hours+.   
+ - Hold on to weakness/aversion poisons as these are used to fuel the cauldron. You can dissolve bulk quantities of reagents and get huge amounts of solutions.  
+ - When analyzing solutions the xp gain is exponential - try to analyze them in batches of 100+.   
+ - Prioritize getting reagents to make cauldron fuel  
+ - Once you have unlock various archetypes you can compose theses.   
+ - You can combine theses to try unlocking a spell, for novice rank only 20 xp in each archetype is enough. 1000 for apprentice!   
+ - Duplicates can be used to boost the success chance - especially important when you are missing certain archetypes.  
+ - When you have LOTS of experience you can throw in a single thesis and still get success.  
