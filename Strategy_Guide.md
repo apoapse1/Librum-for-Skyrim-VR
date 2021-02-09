@@ -11,6 +11,13 @@ If you boot up Librum and create a new game, you'll find yourself in the new cha
 
 ***Race Abilites.*** Race abilities are given by EnaiSiaion's popular [Imperious](https://www.nexusmods.com/skyrimspecialedition/mods/1315) mod, with two modifications. Argonians are 50% resistant to _water damage_, and Orcs are 50% resistant to _earth damage_. These are new damage types introduced by [Elemental Destruction Magic](https://www.nexusmods.com/skyrimspecialedition/mods/440), and you will encounter enemy mages who make use of them. For detailed information on racial abilities, see the [Imperious mod page](https://www.nexusmods.com/skyrimspecialedition/mods/1315); notably, once-a-day powers have been replaced with interesting passive abilities, and you can unlock an additional ability by completing a race-specific objective.
 
+There are a few non-ability-related differences between the various races. Importantly, _beast races cannot wear shoes_. In addition to locking them out of certain enchantments (e.g., muffle), this gives both Khajiits and Argonians a higher susceptibility to frostbite. You'll need to find alternate solutions, like magical spells or avoiding Skyrim's northern reaches, in order to avoid the cold.
+
+Furthermore, some races start with spells. Although this doesn't make a huge difference in vanilla Skyrim, you'll find that beginning your Spell Research journey is otherwise very difficult. Namely:
+ 1. Altmer (High Elves) begin with _Fury_.
+ 2. Bretons begin with _Conjure Familiar_.
+ 3. Dunmer (Dark Elves) begin with _Sparks_. 
+
 ***Appearance.*** Next, you'll notice that the character appearance menu is a little janky. Unfortunately, that's the state of the art in Skyrim VR; to fine-tune settings, you need to make use of the new cursor. In particular, Librum comes with a few hundred graphical _overlays_ for your character: tattoos, scars, freckles, and more. These can be found in the _Makeup_ and _Paint_ tabs, at the far right of the menu. To apply a new overlay, click "Choose Texture" at the bottom of the menu, navigate to the one you want (using the cursor to scroll), and select it. Then, click "Choose Color" and repeat.
 
 ## The Realm of Lorkhan 

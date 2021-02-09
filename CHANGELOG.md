@@ -1,5 +1,27 @@
 ***Note:*** Librum versions are of the form _x.y-z_. In this notation, changes to the _x_ or _y_ denote significant updates, and you will need to read the update notes to see how to patch your savefile. Changes to the _z_ denote small hotfixes, and will never require a patched save.
 
+***v1.40.***
+Added Mods:
+ - I got carried away with creature mods:
+ - _Hunt of Hircine_ (creatures only edit)
+ - _Less Dragons_
+ - _Dear Diary VR_ Wood and Paper Theme
+ - _IPM - Insane Armory_
+ - _Spinning Skyrim Emblem_
+ - _More to Say_
+ - _Misc Dialogue Edits_
+ - _SV Mods Menu_
+ - _Apoapse's Watered Down Skyrim Mod_
+ - _Underwhelming Multiple Followers_
+
+Removed Mods:
+ - _Savage Skyrim_ ESP file
+ - _iHarvest_
+
+Other:
+ - Totally cleaned and corrected all modlist conflicts.
+ - Most MCM settings automated.
+
 ***v1.30.***
 Added Mods:
  - New grass setup:
@@ -37,6 +59,7 @@ Removed Mods:
  - _Heljarchen Farm_
  - _ElSopa HD Texture Pack_
  - _The Eyes of Beauty_ (has glowing eye problem -- looking into it now)
+ - _Shadow Spell Package_
 
 Other:
  - Totally redid LOD. Should be more consistent, performance-friendly, and higher quality.

@@ -215,48 +215,22 @@ Open main menu -> settings -> VR performance, and apply the following settings:
 Once you have created your character, open up the in-game settings and navigate to the _Mod Configuration Menu_ (MCM). You will need to make several changes here to adhere to the suggested Librum setup. Unfortunately, very few of the mods used in Librum support FISS, so you will need to do this each time you create a new character.
 
 The suggested MCM options are as follows:
-1. **Clockwork.** Turn off "Recall Spell Fast Travel Check".
-2. **Cobb Encumbrance.** In the _Presets_ tab, apply the preset "Classic (SEM)".
-3. **Complete Alchemy and Crafting Overhaul.** Apply the following changes:
-  - _Alchemy_ tab: change all potion/poison durations to 10s. 
-  - _Harvest_ tab: change _Food containers_ frequency to "scarce", and quantity to "reduced". Disable "Craft Water" and "Get Water from Wells".
-4. **Dynamic Things.** Apply the following changes:
-  - _Containers/Activators_ tab: deactivate "Dynamic Safe Containers".
-  - _Advanced Options_ tab: activate "Containers are destructible", "Realistic amount of wood per tree", "Realistic chopping time", and "No food containers".
-5. **Forgotten Magic Redone.** Under _Settings_, set the spell tome drop chance to zero.
-6. **Frostfall**. Apply the following changes:
-  - _Overview_ tab: Activate the mod. 
-  - _Gameplay_ tab: "At max exposure" -> "death", and disable fast travel and waiting while outdoors.
-  - _Meters_ tab: "Layout preset" -> "bottom left" recommended.
-7. **Hunterborn**. Start the mod, and then apply the following settings:
-  - _Enable_ tab: Disable the Hunterborn config power.
-  - _Hotkeys_ tab: Set "Sense Direction" hotkey to "x".
-8. **Lock Overhaul.** Activate the mod, exit the menu, and re-enter. Then apply the following settings:
-  - _General_ tab: Enable the sound effect and crime.
-  - _Lock Requirement_ tab: Activate lock requirements and auto-lockpicking.
-  - _Lock Smash_ tab: Activate lock smash, and set "allowed weapons" to "one and two handed".
-9. **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
-10. **Nemesis.** Activate both options.
-11. **Open Cities.** Disable "Gate Attendants" and "Outdoor Lighting System". We'll throw Arthmoor a bone and leave in the Oblivion gates.
-12. **SkyUI.** Under _General_, disable the Active Effects HUD.
-13. **SkyVoice.** Remove the Skyvoice Options Spell.
-14. **Sleep to Level Up.** Disable "Require Sleep to spend Perk Points", and set "Level Up Cooldown Length" to 12 hours.
-15. **Smart Training.** Disable "Training Perk Points" and activate the mod.
-16. **Sneak Tools.** Under the _Patch_ tab, disable Horstar's extra dialogue. It is not voiced, unfortunately.
-17. **Sands of Time Sleeping Encounters.** In the left column, disable home invasions, set "Jorrvaskr Hall HQ" and "College Ambush Odds" to 0, set "Dungeon Ambush Odds" and "Draugr Keep Ambush Odds" to 50, and set "All Other Places" to 25. In the right column, disable "Allow Drowsy Effect".
-
-18. **Spell Research.** Import all spells and enable the hotkey. Leave the hotkey to be "alt".
-19. **SunHelm.** Activate the mod, exit and re-enter the menu, and apply the following settings:
- - _General Settings_ tab: Disable "Arrow Weight/Sleep level up", disable "Toggle Carry Weight Penalty", and set "Drink and Fill Hotkey" to "l".
- - _Display and Notifications_ tab: Set "Widget Display Type" to "Alpha/Color Based", and set "Continuance Hotkey" to "y"
-20. **Tentapalooza.** The tents _should_ provide Frostfall support without changing these settings, but let me know if this fails.
-21. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
-22. **Wildcat Combat.** Enable "Allow Wildcat to manage difficulty" and "Burst injuries".
+1. **Cobb Encumbrance.** In the _Presets_ tab, apply the preset "Classic (SEM)".
+2. **Frostfall**. Activate the mod. If desired, choose one of the presets in the _Meters_ tab (I use "bottom left").
+3. **Hunterborn**. Start the mod, and disable the Hunterborn config power in the _Enable_ tab.
+4. **Lock Overhaul.** Activate the mod.
+5. **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
+6. **Nemesis.** Activate both options.
+7. **Simple Horse.** Confirm that Follower horses are disabled.
+7. **SkyUI.** If desired, disable the Active Effects HUD under _General_.
+8. **Spell Research.** Import spells.
+9. **SunHelm.** Activate the mod. If desired, change "Widget Display Type" in _Display and Notifications_ tab (I use "Alpha/Color Based").
+10. **Tentapalooza.** I am working on a script to apply these settings automatically. For now, when you use a Tentapalooza tent, change its corresponding setting in this menu.
+11. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
 
 Further, there are a few settings to change using mod configuration spells:
 1. **Destructible Skyrim.** This configuration spell is available in the _Illusion_ tab. Simply cast and click "remove spell".
-2. **Obsidian Weathers.** This configuration spell is available in the _Powers_ tab. Enable seasonal effects, and choose the "Bleak" preset.
-3. **VRIK.** This configuration spell is available in the _Powers_ tab. Calibrate to headset height, and then to VR scale.
+2. **VRIK.** This configuration spell is available in the _Powers_ tab. Calibrate to headset height, and then to VR scale.
 
 Congratulations! You've completed the Librum setup, and you are ready to play. The next several sections will explain what Librum is and does, as well as provide support.
 
@@ -535,17 +509,15 @@ Librum also includes [Man Those Borders](https://www.nexusmods.com/skyrimspecial
 ## Getting Started in Librum
 
 ## Frequently Asked Questions
-Although Librum is still early in development, I have gathered a few questions that you might want to ask:
-
-***When I enter a dungeon, the game goes dark for several seconds.*** This is intentional. During this period of time, Librum is looking through and turning off light sources.
+Here are some questions that you might want to ask:
 
 ***I have enough XP to level up, but opening the skills menu isn't working!*** Sleep 8 hours to level up. You need to wait a full day before leveling again.
 
 ***I can't switch between buying and selling.*** You can switch between buying and selling by using the cursor. Sometimes it takes exiting the menu once and re-entering, but the idea is to click outside the bounds of the menu to activate the cursor.
 
-***Why is campfire/tent placement not working?*** Likely, because you didn't read the directions. In Campfire's MCM, turn off _advanced placement_.
+***Why is campfire/tent placement not working?*** In Campfire's MCM, turn off _advanced placement_.
 
-***My game says I have no consumables left in my inventory, but I do!*** This happens when _iNeed_ does not recognize a food item you have. To sort this out, just eat one of the items manually -- the game will prompt you to enter some basic info about it, and that item will work in the future.
+***When I level up, I still get a perk!*** Check your ~Librum/overwrite~ folder for a ~plugins/sumwunn/skyrimuncapper.ini~ file. If that exists, delete it. If not, let me know.
 
 ***What the hell are these new enemies below [insert city name]?*** You've encountered _Skyrim Underground_, and, honestly, I'm with you. Although I've applied a patch to make Underground more lore-friendly, there is a little more work to be done. I will sort this out in future versions.
 
@@ -582,6 +554,4 @@ There are a few changes planned already for future versions of Librum:
 instance.
  - I will finish the _Suggested Add-ons_ and _Getting Started in Librum_ readme sections.
 
-## Known Issues
-There are a few known issues in Librum. I will correct these in future updates, but they are relatively minor and do not impact gameplay:
-1. Two spells are known not to work. The first is Mysticism's _Cure Disease_ spell, which -- thanks to iNeed's _Dangerous Diseases_ module -- will not truly cure diseases. The second is Elemental Destruction Magic's _Spy_ spell, which is not compatible with VR.
+
