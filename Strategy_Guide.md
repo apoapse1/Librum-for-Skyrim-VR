@@ -2,17 +2,18 @@
 This guide will help you get off the ground in Librum -- Librum changes a great deal about Skyrim's world, inhabitants, and mechanics, and you'll need to familiarize yourself with the new rules of the road. If you have not done so yet, read the [Readme](README.md) to install Librum and learn a little about it.
 
  - [Character Creation](#character-creation)
-   - [Appearance and Race](#appearance-and-race)
-   - [The Realm of Lorkhan](#the-realm-of-lorkhan)
+  - [Appearance and Race](#appearance-and-race)
+  - [The Realm of Lorkhan](#the-realm-of-lorkhan)
  - [Surviving the Night](#surviving-the-night)
-   - [Making Money](#making-money)
-   - [Food, Water, and Sleep](#food-water-and-fatigue)
-   - [Weather and Camping](#weather-and-camping)
-   - [Leveling and Experience](#leveling-and-experience)
+  - [Making Money](#making-money)
+   - [Carry Weight Penalties](#carry-weight-penalties)
+  - [Food, Water, and Sleep](#food-water-and-fatigue)
+  - [Weather and Camping](#weather-and-camping)
+  - [Leveling and Experience](#leveling-and-experience)
  - [New Gameplay Mechanics](#new-gameplay-mechanics)
-   - [Spell Research](#spell-research)
+  - [Spell Research](#spell-research)
  - [Your Guide to Adventure](#your-guide-to-adventure)
-   - [Creatures and Encounter Zones](#creatures-and-encounter-zones)
+  - [Creatures and Encounter Zones](#creatures-and-encounter-zones)
 # Character Creation
 ## Appearance and Race
 If you boot up Librum and create a new game, you'll find yourself in the new character creation area -- the [Realm of Lorkhan](https://www.nexusmods.com/skyrimspecialedition/mods/18223) -- looking at the glitchy [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) menu. Before finalizing your race and appearance, here are the details you need to know:
@@ -81,14 +82,28 @@ Money is a rare commodity in Librum, and there are several new mechanics to fami
  - You have to pay your followers to maintain their services. They need 500 Septims per week.
  - Barter prices depend greatly on you, your reputation, and the person you're trading with. Buying directly from producers and craftsmen will save you money, while trading with fences or general goods merchants will cost you. Merchants in bigger cities will have more gold to trade with. Prices will depend on your race, your faction memberships, and your relationship with the merchant.
  - Loot is generally much rarer. It won't be uncommon for you to unlock a chest and find nothing inside.
+ - Many more things are considered crimes, and you'll be fined appropriately. This includes waiting in cities ("vagrancy"), using crafting apparatuses without permission, using loud crafting apparatuses at night ("disturbing the peace"), hunting without a license, looting friendly corpses, and sitting in the Jarl's throne. If you want to make money, be sure to follow the rules.
 
 ![Alt Text](Resources/coins.png?raw=true "Rally's Five Cities Currencies. Coin textures depend on your location.")
 
 With that out of the way, there are a few good strategies to get money early on. 
-You can sell firewood at lumbermills to get some easy cash, and also in some inns.
+ - You can sell firewood at lumbermills to get some easy cash, and also in some inns.
+
+### Carry Weight Penalties
 
 # New Gameplay Mechanics
 ## Spell Research
+Librum is inherently a low-magic setting, so there is a lot working against you as a mage. However, if you _can_ discover the secrets of controlling magic, there is much more power available to you than in vanilla Skyrim. Many of the new spell "schools" or "archetypes" are described in the [Readme](README.md), so we focus here on how to start out.
+
+First things first, you need to acquire your first spell. Most races do not start out with any spells (see the section on [character creation](#the-realm-of-lorkhan)), so if you're not an Altmer, Dunmer, or Breton, you will need to acquire a spell elsewhere. Here are some important points on this front:
+ - Spell tomes are exceedingly rare. Merchants do not sell them, they cannot be found in containers or on creatures, and only a few hand-placed ones exist in various dungeons.
+ - You cannot read spell tomes above your skill level. For instance, if your Destruction skill is lower than 25, you cannot use an Apprentice tome.
+ - The easiest way to acquire a spell is to enter the College of Winterhold. Faralda will still grant you one at the gate, and you now get to choose which school it's from. See [Better College Application](https://www.nexusmods.com/skyrimspecialedition/mods/5272) for more details.
+ - You _can_ research your own spell without having one to begin with. Continue reading for more info on research.
+
+![Alt Text](Resources/research.png?raw=true "Spell Research")
+
+***Below this is WIP.***
 
  - Prioritise getting a research journal, alembic and tongs.  
  - Go to college of Winterhold to get your first spell, unless you are a race that starts with one. Researching the spell will give you basic experience with some archetypes.  
@@ -103,4 +118,5 @@ You can sell firewood at lumbermills to get some easy cash, and also in some inn
  - Once you have unlock various archetypes you can compose theses.   
  - You can combine theses to try unlocking a spell, for novice rank only 20 xp in each archetype is enough. 1000 for apprentice!   
  - Duplicates can be used to boost the success chance - especially important when you are missing certain archetypes.  
- - When you have LOTS of experience you can throw in a single thesis and still get success.  
+ - When you have LOTS of experience you can throw in a single thesis and still get success. 
+ 
