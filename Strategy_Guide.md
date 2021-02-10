@@ -2,18 +2,19 @@
 This guide will help you get off the ground in Librum -- Librum changes a great deal about Skyrim's world, inhabitants, and mechanics, and you'll need to familiarize yourself with the new rules of the road. If you have not done so yet, read the [Readme](README.md) to install Librum and learn a little about it.
 
  - [Character Creation](#character-creation)
-  - [Appearance and Race](#appearance-and-race)
-  - [The Realm of Lorkhan](#the-realm-of-lorkhan)
+   - [Appearance and Race](#appearance-and-race)
+   - [The Realm of Lorkhan](#the-realm-of-lorkhan)
  - [Surviving the Night](#surviving-the-night)
-  - [Making Money](#making-money)
-   - [Carry Weight Penalties](#carry-weight-penalties)
-  - [Food, Water, and Sleep](#food-water-and-fatigue)
-  - [Weather and Camping](#weather-and-camping)
-  - [Leveling and Experience](#leveling-and-experience)
+   - [Making Money](#making-money)
+    - [Carry Weight Penalties](#carry-weight-penalties)
+   - [Food, Water, and Sleep](#food-water-and-fatigue)
+   - [Weather and Camping](#weather-and-camping)
+   - [Leveling and Experience](#leveling-and-experience)
  - [New Gameplay Mechanics](#new-gameplay-mechanics)
-  - [Spell Research](#spell-research)
+   - [Spell Research](#spell-research)
  - [Your Guide to Adventure](#your-guide-to-adventure)
-  - [Creatures and Encounter Zones](#creatures-and-encounter-zones)
+   - [Creatures and Encounter Zones](#creatures-and-encounter-zones)
+
 # Character Creation
 ## Appearance and Race
 If you boot up Librum and create a new game, you'll find yourself in the new character creation area -- the [Realm of Lorkhan](https://www.nexusmods.com/skyrimspecialedition/mods/18223) -- looking at the glitchy [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) menu. Before finalizing your race and appearance, here are the details you need to know:
