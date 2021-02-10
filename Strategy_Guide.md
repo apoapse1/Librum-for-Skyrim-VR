@@ -4,12 +4,20 @@ This guide will help you get off the ground in Librum -- Librum changes a great 
  - [Character Creation](#character-creation)
    - [Appearance and Race](#appearance-and-race)
    - [The Realm of Lorkhan](#the-realm-of-lorkhan)
-
+ - [Surviving the Night](#surviving-the-night)
+   - [Making Money](#making-money)
+   - [Food, Water, and Sleep](#food-water-and-fatigue)
+   - [Weather and Camping](#weather-and-camping)
+   - [Leveling and Experience](#leveling-and-experience)
+ - [New Gameplay Mechanics](#new-gameplay-mechanics)
+   - [Spell Research](#spell-research)
+ - [Your Guide to Adventure](#your-guide-to-adventure)
+   - [Creatures and Encounter Zones](#creatures-and-encounter-zones)
 # Character Creation
 ## Appearance and Race
 If you boot up Librum and create a new game, you'll find yourself in the new character creation area -- the [Realm of Lorkhan](https://www.nexusmods.com/skyrimspecialedition/mods/18223) -- looking at the glitchy [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) menu. Before finalizing your race and appearance, here are the details you need to know:
 
-***Race Abilites.*** Race abilities are given by EnaiSiaion's popular [Imperious](https://www.nexusmods.com/skyrimspecialedition/mods/1315) mod, with two modifications. Argonians are 50% resistant to _water damage_, and Orcs are 50% resistant to _earth damage_. These are new damage types introduced by [Elemental Destruction Magic](https://www.nexusmods.com/skyrimspecialedition/mods/440), and you will encounter enemy mages who make use of them. For detailed information on racial abilities, see the [Imperious mod page](https://www.nexusmods.com/skyrimspecialedition/mods/1315); notably, once-a-day powers have been replaced with interesting passive abilities, and you can unlock an additional ability by completing a race-specific objective. Khajit feet are not compatible with regular humanoid footwear, which can prove an impediment in Skyrim's harsh conditions.
+***Race Abilites.*** Race abilities are given by EnaiSiaion's popular [Imperious](https://www.nexusmods.com/skyrimspecialedition/mods/1315) mod, with two modifications. Argonians are 50% resistant to _water damage_, and Orcs are 50% resistant to _earth damage_. These are new damage types introduced by [Elemental Destruction Magic](https://www.nexusmods.com/skyrimspecialedition/mods/440), and you will encounter enemy mages who make use of them. For detailed information on racial abilities, see the [Imperious mod page](https://www.nexusmods.com/skyrimspecialedition/mods/1315); notably, once-a-day powers have been replaced with interesting passive abilities, and you can unlock an additional ability by completing a race-specific objective.
 
 There are a few non-ability-related differences between the various races. Importantly, _beast races cannot wear shoes_. In addition to locking them out of certain enchantments (e.g., muffle), this gives both Khajiits and Argonians a higher susceptibility to frostbite. You'll need to find alternate solutions, like magical spells or avoiding Skyrim's northern reaches, in order to avoid the cold.
 
@@ -48,12 +56,40 @@ _Curses_:
  - Curse of Soul Famine -- soul gems recharge 40% less energy.
  - Curse of the Unlucky -- enemies get a 10% chance to land critical hits on you.
 
-***Classes.*** In the same location as the Boons and Curses, you can find several "Classes" available to you. 
+***Classes.*** In the same location as the Boons and Curses, you can find several "Classes" available to you. These are not mutually exclusive, and they work the same way as Boons and Curses.
 
-***Money.***
-- You can sell firewood at lumbermills to get some easy cash, also in some inns (this is vanilla feature)
+_Classes_:
+ - Acrobat -- +5% movement speed, +20% melee damage reflection, +20% stamina regeneration.
+ - Agent -- barter prices are 10% better, and bribes are 20% cheaper.
+ - Arcane Smith -- tempering is 30% more effective, and enchantments are 20% stronger.
+ - Archer -- +10% attack speed, and +20% slow effect while aiming.
+ - Barbarian -- +30 armor, health regen in combat, and +20% health regen
+ - Bard -- +10% critical chance, +10 Speech
+ - Commoner -- start with 50 less health, magicka, and stamina
+ - Healer -- +20 Restoration, +20 Alchemy
+ - Knight -- +20% health regen, +20% magic resistance
+ - Mage -- +100 magicka, +20% magicka regen
 
-***Spell Research***
+***Starting Locations.*** Once you've chosen your starting buffs and equipment, you have to choose where to start out in Skyrim. As mentioned before, you _cannot re-enter the Realm_ once you leave, so choose carefully.
+
+Since the fast travel network is much denser in Librum's Skyrim -- with several new carriages and boats to bring you from place to place, thanks to [CFTO](https://www.nexusmods.com/skyrimspecialedition/mods/8379) -- it largely does not matter if you start in one city or another. However, you'll want to be careful if you start in the wilderness or (even more dangerously) in a dungeon. Dungeons are now at fixed levels (labeled when you point your hand at the corresponding teleportation crystal), so make sure you choose a low-level one or feel particularly confident. Similarly, different wilderness zones offer different challenges, as catalogued in the [Creatures and Encounter Zones](#creatures-and-encounter-zones) section later on.
+
+# Surviving the Night
+## Making Money
+Money is a rare commodity in Librum, and there are several new mechanics to familiarize yourself with before we start:
+ - Money weighs you down. Each coin weighs 0.01 unit, so you won't be able to save up too much of it. This couples poorly with the new carry weight penalties catalogued in the next section.
+ - You have to pay your followers to maintain their services. They need 500 Septims per week.
+ - Barter prices depend greatly on you, your reputation, and the person you're trading with. Buying directly from producers and craftsmen will save you money, while trading with fences or general goods merchants will cost you. Merchants in bigger cities will have more gold to trade with. Prices will depend on your race, your faction memberships, and your relationship with the merchant.
+ - Loot is generally much rarer. It won't be uncommon for you to unlock a chest and find nothing inside.
+
+![Alt Text](Resources/coins.png?raw=true "Rally's Five Cities Currencies. Coin textures depend on your location.")
+
+With that out of the way, there are a few good strategies to get money early on. 
+You can sell firewood at lumbermills to get some easy cash, and also in some inns.
+
+# New Gameplay Mechanics
+## Spell Research
+
  - Prioritise getting a research journal, alembic and tongs.  
  - Go to college of Winterhold to get your first spell, unless you are a race that starts with one. Researching the spell will give you basic experience with some archetypes.  
  - If you find any strange items like "enchanted axe-head" analyze this to get LOTS of experience.   
