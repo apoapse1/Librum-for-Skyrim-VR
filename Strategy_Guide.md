@@ -6,7 +6,7 @@ This guide will help you get off the ground in Librum -- Librum changes a great 
    - [The Realm of Lorkhan](#the-realm-of-lorkhan)
  - [Surviving the Night](#surviving-the-night)
    - [Making Money](#making-money)
-    - [Carry Weight Penalties](#carry-weight-penalties)
+     - [Carry Weight Penalties](#carry-weight-penalties)
    - [Food, Water, and Sleep](#food-water-and-fatigue)
    - [Weather and Camping](#weather-and-camping)
    - [Leveling and Experience](#leveling-and-experience)
