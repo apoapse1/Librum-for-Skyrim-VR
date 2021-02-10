@@ -220,13 +220,14 @@ The suggested MCM options are as follows:
 3. **Hunterborn**. Start the mod, and disable the Hunterborn config power in the _Enable_ tab.
 4. **Lock Overhaul.** Activate the mod.
 5. **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
-6. **Nemesis.** Activate both options.
-7. **Simple Horse.** Confirm that Follower horses are disabled.
-7. **SkyUI.** If desired, disable the Active Effects HUD under _General_.
-8. **Spell Research.** Import spells.
-9. **SunHelm.** Activate the mod. If desired, change "Widget Display Type" in _Display and Notifications_ tab (I use "Alpha/Color Based").
-10. **Tentapalooza.** I am working on a script to apply these settings automatically. For now, when you use a Tentapalooza tent, change its corresponding setting in this menu.
-11. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
+6. **MoreHUD.** In the second tab, deactivate "Show Enemy Level" and "Show Soul Level".
+7. **Nemesis.** Activate both options.
+8. **Simple Horse.** Confirm that Follower horses are disabled.
+9. **SkyUI.** If desired, disable the Active Effects HUD under _General_.
+10. **Spell Research.** Import spells.
+11. **SunHelm.** Activate the mod. If desired, change "Widget Display Type" in _Display and Notifications_ tab (I use "Alpha/Color Based").
+12. **Tentapalooza.** I am working on a script to apply these settings automatically. For now, when you use a Tentapalooza tent, change its corresponding setting in this menu.
+13. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
 
 Further, there are a few settings to change using mod configuration spells:
 1. **Destructible Skyrim.** This configuration spell is available in the _Illusion_ tab. Simply cast and click "remove spell".

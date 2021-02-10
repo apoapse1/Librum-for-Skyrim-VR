@@ -1,11 +1,29 @@
 ***Note:*** Librum versions are of the form _x.y-z_. In this notation, changes to the _x_ or _y_ denote significant updates, and you will need to read the update notes to see how to patch your savefile. Changes to the _z_ denote small hotfixes, and will never require a patched save.
 
+***What's coming up?***
+ - I am aware of some black face issues with children. I will fix this shortly.
+ - I will rebalance certain spells -- in particular, those added by Forgotten Magic Redone.
+ - I will redistribute creatures in _Skyrim Underground_.
+ - I am aware of some lighting issues in Bleak Falls Barrow's new rooms. I will look into them.
+
 ***v1.40.***
 Added Mods:
  - I got carried away with creature mods:
- - _Hunt of Hircine_ (creatures only edit)
+   - _Hunt of Hircine_ (creatures only edit)
+   - _Mihail's Coral Atronach_
+   - _Mihail's Old Gods of the Hunt_
+   - _Mihail's Bantam Guar_ and _Return of the Bantam_
+   - _Mihail's Corprus Victims_
+   - _Mihail's Soul Trees_
+   - _Mihail's Leshens and Nekkers_
+   - _Mihail's Mudcrab Merchant_
+   - _Mihail's Rotten Maidens_
+   - _Mihail's Flesh Golems_
+   - _Mihail's Cliff Racers_
+   - _Mihail's Golden Saints_ (take that, Creation Club)
  - _Less Dragons_
  - _Dear Diary VR_ Wood and Paper Theme
+ - _MoreHUD VR_
  - _IPM - Insane Armory_
  - _Spinning Skyrim Emblem_
  - _More to Say_
@@ -13,14 +31,22 @@ Added Mods:
  - _SV Mods Menu_
  - _Apoapse's Watered Down Skyrim Mod_
  - _Underwhelming Multiple Followers_
+ - _Increase Actor Limit VR_
+ - _Curse of the Undying_
+ - _The Honored Dead_
+ - _Mihail's Animal Bones_
+ - _Unofficial High Definition Audio Project_
+ - _Volumetric Mists_
 
 Removed Mods:
  - _Savage Skyrim_ ESP file
  - _iHarvest_
+ - _Cliff Racers on Solstheim_
 
 Other:
  - Totally cleaned and corrected all modlist conflicts.
  - Most MCM settings automated.
+ - Spell tome deleter fixed.
 
 ***v1.30.***
 Added Mods:
