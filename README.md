@@ -216,7 +216,7 @@ Once you have created your character, open up the in-game settings and navigate 
 
 The suggested MCM options are as follows:
 1. **Cobb Encumbrance.** In the _Presets_ tab, apply the preset "Classic (SEM)".
-2. **Frostfall**. Activate the mod. If desired, choose one of the presets in the _Meters_ tab (I use "bottom left").
+2. **Frostfall**. Activate the mod, and turn off fast travel and waiting outdoors in the _General_ tab. If desired, choose one of the presets in the _Meters_ tab (I use "bottom left").
 3. **Hunterborn**. Start the mod, and disable the Hunterborn config power in the _Enable_ tab.
 4. **Lock Overhaul.** Activate the mod.
 5. **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
@@ -232,6 +232,12 @@ The suggested MCM options are as follows:
 Further, there are a few settings to change using mod configuration spells:
 1. **Destructible Skyrim.** This configuration spell is available in the _Illusion_ tab. Simply cast and click "remove spell".
 2. **VRIK.** This configuration spell is available in the _Powers_ tab. Calibrate to headset height, and then to VR scale.
+
+***If you want to use the optional voice commands, apply the following settings:***
+1. **Hunterborn.** Set the "Sense Direction" hotkey to "x".
+2. **Spell Research.** Set the "Spell Research" hotkey to "alt".
+3. **SunHelm.** Set the "Continuance" hotkey to "y", and the "Drink Water/Fill Waterskin" hotkey to "l".
+
 
 Congratulations! You've completed the Librum setup, and you are ready to play. The next several sections will explain what Librum is and does, as well as provide support.
 
