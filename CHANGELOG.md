@@ -6,6 +6,20 @@
  - I will redistribute creatures in _Skyrim Underground_.
  - I am aware of some lighting issues in Bleak Falls Barrow's new rooms. I will look into them.
 
+***v1.41.***
+Added Mods:
+ - _Cathedral Mountain Fix_
+
+Removed Mods:
+ - _Destructible Skyrim_ (for now)
+
+Other:
+ - Fixed some floating objects in Whiterun Plains.
+ - Fixed texture flickering in Morthal.
+ - Fixed invisible Erikur's House bug in Solitude.
+ - (VR) Fixed bug with final Apocrypha battle.
+ - Removed "Soothe" spell tome from Riverwood trader.
+
 ***v1.40.***
 Added Mods:
  - I got carried away with creature mods:

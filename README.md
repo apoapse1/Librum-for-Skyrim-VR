@@ -11,7 +11,6 @@ Wabbajack modlist installer for _Librum_.
       - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
       - [Steam Config](#steam-config)
         - [Disable the Steam Overlay](#disable-the-steam-overlay)
-        - [Disable Motion Smoothing](#disable-motion-smoothing)
         - [Set the Game language to English](#set-the-game-language-to-english)
         - [Clean Skyrim](#clean-skyrim)
       - [Start Skyrim](#start-up-skyrim)
@@ -41,8 +40,6 @@ Wabbajack modlist installer for _Librum_.
   - [Credits and Thanks](#credits-and-thanks)
   - [Contact](#contact)
   - [Contributing](#contributing)
-  - [Planned Changes](#planned-changes)
-  - [Known Issues](#known-issues)
  
 ## Preamble
 ![Alt text](Resources/Banner6.png?raw=tue "I made this image myself, and I am proud of it.")
@@ -90,10 +87,6 @@ I doubt you need to do this since you likely already have this installed. The pa
 The Steam Overlay can cause issues with ENB and is recommended to be turned off.
 
 Open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
-
-##### Disable Motion Smoothing
-
-In SteamVR's video settings, turn off _Motion Smoothing_. It causes problems with a jittery UI and gameplay.
 
 ##### Set the Game language to English
 
@@ -219,21 +212,20 @@ The suggested MCM options are as follows:
 2. **Frostfall**. Activate the mod, and turn off fast travel and waiting outdoors in the _General_ tab. If desired, choose one of the presets in the _Meters_ tab (I use "bottom left").
 3. **Hunterborn**. Start the mod, and disable the Hunterborn config power in the _Enable_ tab.
 4. **Lock Overhaul.** Activate the mod.
-5. **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
-6. **MoreHUD.** In the second tab, deactivate "Show Enemy Level" and "Show Soul Level".
-7. **Nemesis.** Activate both options.
-8. **Simple Horse.** Confirm that Follower horses are disabled.
-9. **SkyUI.** If desired, disable the Active Effects HUD under _General_.
-10. **Spell Research.** Import spells.
-11. **SunHelm.** Activate the mod. If desired, change "Widget Display Type" in _Display and Notifications_ tab (I use "Alpha/Color Based").
-12. **Tentapalooza.** I am working on a script to apply these settings automatically. For now, when you use a Tentapalooza tent, change its corresponding setting in this menu.
-13. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
+5. (VR) **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
+6. **Nemesis.** Activate both options.
+7. **Simple Horse.** Confirm that Follower horses are disabled.
+8. **SkyUI.** If desired, disable the Active Effects HUD under _General_.
+9. **Spell Research.** Import spells.
+10. **SunHelm.** Activate the mod. If desired, change "Widget Display Type" in _Display and Notifications_ tab (I use "Alpha/Color Based").
+11. **Tentapalooza.** I am working on a script to apply these settings automatically. For now, when you use a Tentapalooza tent, change its corresponding setting in this menu.
+12. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
 
 Further, there are a few settings to change using mod configuration spells:
 1. **Destructible Skyrim.** This configuration spell is available in the _Illusion_ tab. Simply cast and click "remove spell".
-2. **VRIK.** This configuration spell is available in the _Powers_ tab. Calibrate to headset height, and then to VR scale.
+2. (VR) **VRIK.** This configuration spell is available in the _Powers_ tab. Calibrate to headset height, and then to VR scale.
 
-***If you want to use the optional voice commands, apply the following settings:***
+(VR) ***If you want to use the optional voice commands, apply the following settings:***
 1. **Hunterborn.** Set the "Sense Direction" hotkey to "x".
 2. **Spell Research.** Set the "Spell Research" hotkey to "alt".
 3. **SunHelm.** Set the "Continuance" hotkey to "y", and the "Drink Water/Fill Waterskin" hotkey to "l".
@@ -242,6 +234,8 @@ Further, there are a few settings to change using mod configuration spells:
 Congratulations! You've completed the Librum setup, and you are ready to play. The next several sections will explain what Librum is and does, as well as provide support.
 
 ### Natural Locomotion
+***Only applies to VR.***
+
 This step is ***not mandatory***, but it will significantly improve your VR experience. Download [Natural Locomotion](https://store.steampowered.com/app/798810/Natural_Locomotion/) through Steam. It is an independent app, which allows you to walk around in VR games by swinging your arms (and possibly holding a hotkey). Although this sounds intrusive and unnatural, it quickly becomes a _very_ natural way to move around Skyrim. As a bonus, it works for everything from Skyrim and Fallout 4 VR to _No Man's Sky_.
 
 In terms of configuring NaLo, I recommend the following settings (although it is up to taste):
