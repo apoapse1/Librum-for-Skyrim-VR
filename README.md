@@ -42,7 +42,7 @@ Wabbajack modlist installer for _Librum_.
   - [Contributing](#contributing)
  
 ## Preamble
-![Alt text](Resources/Banner6.png?raw=tue "I made this image myself, and I am proud of it.")
+![Alt text](Resources/DoubleBanner.png?raw=tue "I made this image myself, and I am proud of it.")
 
 _You're lost in the woods, having narrowly escaped after scaring off a pack of wolves with a summoned flame atronach. Your torch finally fades out, and it's getting cold. You can conjure basic foods, and your summoned atronach provides enough heat for the time being, but you'll need to gather wood in order to sustain a fire and survive the night. With little time to spare, you can't search far for materials -- luckily, you've fashioned a basic hatchet the night before, and you can chop down a nearby tree for lumber. You fall asleep next to your fire, having placed several runes nearby to dispatch would-be predators. Despite a few interruptions in the night, the morning comes at last, and the sun finally breaks over the horizon._
 
@@ -52,7 +52,11 @@ _Librum_ is a comprehensive gameplay, graphics, and content overhaul that attemp
 
 ***User Comments:***
 <div align="center">"This is definitely the most different playthrough I've ever done."</div>
+
 <div align="center">"I'm not used to the difficulty, but it was probably the most fun I had on Skyrim."</div>
+
+<div align="center">"It's refreshing. At this point I would have all novice spells that I wanted in a normal playthrough
+."</div>
 
 
 ## Technical Requirements
@@ -298,7 +302,7 @@ Librum makes several major changes to character progression, described by the fo
  | Your race typically gives you a once-a-day power, as well as some moderate resistances. 	| Through [Imperious](https://www.nexusmods.com/skyrimspecialedition/mods/1315), your race confers significant passive abilities. These typically change gameplay drastically.
 
 ### User Interface and Controls
-Librum makes a few changes to the default user interface, to (a) create a unique visual experience and (b) to improve the VR experience. For the first point, Librum uses [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604) along with the excellent [Adventurer Theme Mod](https://www.nexusmods.com/skyrimspecialedition/mods/35568) and [Natural Colored Map Markers](https://www.nexusmods.com/skyrimspecialedition/mods/27503) in order to blend a Skyrim-style modern UI with touches of a more Oblivion-style classic visual theme:
+Librum makes a few changes to the default user interface, to (a) create a unique visual experience and (b) to improve the VR experience. For the first point, Librum uses [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604) along with the excellent [Dear Diary UI](https://www.nexusmods.com/skyrimspecialedition/mods/23010) and pieces of the [Adventurer Theme Mod](https://www.nexusmods.com/skyrimspecialedition/mods/35568) in order to blend a Skyrim-style modern UI with touches of a more Oblivion-style classic visual theme:
 
 ![Alt text](Resources/UI.jpeg?raw=true "Adventurer Theme Mod, Rendered in Skyrim SE")
 
