@@ -1,10 +1,17 @@
 ***Note:*** Librum versions are of the form _x.y-z_. In this notation, changes to the _x_ or _y_ denote significant updates, and you will need to read the update notes to see how to patch your savefile. Changes to the _z_ denote small hotfixes, and will never require a patched save.
 
-***What's coming up?***
- - I am aware of some black face issues with children. I will fix this shortly.
- - I will rebalance certain spells -- in particular, those added by Forgotten Magic Redone.
- - I will redistribute creatures in _Skyrim Underground_.
- - I am aware of some lighting issues in Bleak Falls Barrow's new rooms. I will look into them.
+***v1.51.***
+Added Mods:
+ - _Smooth Sky Mesh_
+
+Removed Mods:
+ - _Improved Atmosphere Mesh_
+ - _Improved Cloud Mesh_
+
+Other:
+ - Fixed SunHelm default MCM settings.
+ - Updated DynDOLOD.
+ - Fixed CTD issue with Bruma.
 
 ***v1.50: the Swashbuckling Update.***
 Added Mods:
