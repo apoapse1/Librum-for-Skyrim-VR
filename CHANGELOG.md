@@ -6,6 +6,36 @@
  - I will redistribute creatures in _Skyrim Underground_.
  - I am aware of some lighting issues in Bleak Falls Barrow's new rooms. I will look into them.
 
+***v1.50: the Swashbuckling Update.***
+Added Mods:
+ - New combat overhaul:
+   - _Vigor - Enhanced Combat_
+   - _Flinching_
+   - _Combat Behavior Improved_
+   - _Jumping Behavior Overhaul_
+   - _Locational Damage skse64_
+ - _Vigilant Armors and Weapons Retexture_
+ - _Custom Music for Moonpath to Elsweyr_
+ - _Project NordWarUA - Basic Wolf Armor_
+ - Vanilla quests redone:
+   - _Finding Helgi and Laelette_
+   - _Finding Derkeethus_
+   - _Save the Icerunner_
+   - _Chill Out Aela_
+ - _Lawbringer_ suite:
+   - _Lawbringer_
+   - _Halted Stream Mine_
+   - _Serenity_
+   - _Tactical Valtheim_
+   - _Radiant Exclusions_
+ - _Wyrmstooth_
+
+Other:
+ - Fixed Frostfall MCM defaults.
+ - (ideally) fixed Onmund dialogue
+ - non-nude meshes included as optional install
+ - Silver Hand leveled lists fixed
+
 ***v1.41.***
 Added Mods:
  - _Cathedral Mountain Fix_
@@ -20,7 +50,7 @@ Other:
  - (VR) Fixed bug with final Apocrypha battle.
  - Removed "Soothe" spell tome from Riverwood trader.
 
-***v1.40.***
+***v1.40: the Monster Update.***
 Added Mods:
  - I got carried away with creature mods:
    - _Hunt of Hircine_ (creatures only edit)

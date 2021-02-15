@@ -220,10 +220,10 @@ The suggested MCM options are as follows:
 10. **SunHelm.** Activate the mod. If desired, change "Widget Display Type" in _Display and Notifications_ tab (I use "Alpha/Color Based").
 11. **Tentapalooza.** I am working on a script to apply these settings automatically. For now, when you use a Tentapalooza tent, change its corresponding setting in this menu.
 12. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
+13. **Vigor.** Start the mod.
 
 Further, there are a few settings to change using mod configuration spells:
-1. **Destructible Skyrim.** This configuration spell is available in the _Illusion_ tab. Simply cast and click "remove spell".
-2. (VR) **VRIK.** This configuration spell is available in the _Powers_ tab. Calibrate to headset height, and then to VR scale.
+1. (VR) **VRIK.** This configuration spell is available in the _Powers_ tab. Calibrate to headset height, and then to VR scale.
 
 (VR) ***If you want to use the optional voice commands, apply the following settings:***
 1. **Hunterborn.** Set the "Sense Direction" hotkey to "x".
@@ -375,7 +375,7 @@ If anything, Librum makes _more_ significant changes to the mage experience than
 
 Once you've learned enough about the spell archetypes you're interested in, you can attempt to write "magical theses" and apply them towards gaining a new spell. If you are skillful, lucky, and not mentally drained, you may discover a new spell that fits the archetypes of the theses you wrote.
 
-Now, there are several important gameplay consequences of this system. Existing mages will have an easier time learning new spells than new apprentices -- if you don't have any spells to start with (which may well be the case, thanks to [RAE](https://www.nexusmods.com/skyrimspecialedition/mods/23223)), you must study alchemical ingredients or artifacts in order to improve. Furthermore, as spell tomes are largely unavailable, you will have to make do with lower level magic than is otherwise the case; learning your first _Adept_ or _Expert_ spell, for instance, is a very difficult process.
+Now, there are several important gameplay consequences of this system. Existing mages will have an easier time learning new spells than new apprentices -- if you don't have any spells to start with (which may well be the case), you must study alchemical ingredients or artifacts in order to improve. Furthermore, as spell tomes are largely unavailable, you will have to make do with lower level magic than is otherwise the case; learning your first _Adept_ or _Expert_ spell, for instance, is a very difficult process.
 
 On the other hand, Librum adds many new spells and classes of magic, organized loosely around the [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) framework. Mysticism itself rebalances all of the vanilla spells, and it adds a wide swath of new spells corresponding to those of "legacy" Elder Scrolls games. The list below gives some examples, but is _noncomprehensive_:
 
