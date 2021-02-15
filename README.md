@@ -1,7 +1,9 @@
 # Librum (for Skyrim VR)
 Wabbajack modlist installer for _Librum_.
 
-***A small request: If you take any cool screenshots while playing, please send them to me or post them on the Wabbajack Discord. I'd like to see your adventures, or anything cool you find!***
+***A small request: if you enjoy my work, please consider contributing to my Patreon page using the button below. Although I certainly don't expect any donations from users, these sorts of contributions allow me to continue improving and supporting Librum.***
+
+<a href="https://www.patreon.com/bePatron?u=50342936" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
 - [Librum](#librum-for-skyrim-vr)
   - [Preamble](#preamble)
@@ -49,6 +51,11 @@ _You're lost in the woods, having narrowly escaped after scaring off a pack of w
 Skyrim VR is a wonderful experience, but it's a very familiar one. Even in stunning 3D, we visit the same locales and repeat the same adventures we have since the end of 2011.
 
 _Librum_ is a comprehensive gameplay, graphics, and content overhaul that attempts to change all of this. Combining together some of the best and most popular mods for Skyrim SE, a suite of new quests and adventures that outnumber Skyrim's own, the tradition of great "hardcore" gameplay overhauls that have come before -- like Skyrim's _Requiem_ and _YASH_ or Oblivion's _Oscuro's Oblivion Overhaul_ -- and a host of unique-to-VR immersion improvements, Librum brings new life (and new challenge!) to Skyrim in a way that has never been experienced before.
+
+***User Comments:***
+<div align="center">"This is definitely the most different playthrough I've ever done."</div>
+<div align="center">"I'm not used to the difficulty, but it was probably the most fun I had on Skyrim."</div>
+
 
 ## Technical Requirements
 Librum is fairly technically intensive, but in line with standard Skyrim VR graphics enhancements. Your mileage will certainly vary -- I can only provide my own specs, but I imagine you will find good performance on a weaker system.
