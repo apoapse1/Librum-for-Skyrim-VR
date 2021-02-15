@@ -75,7 +75,8 @@ Librum makes use of the excellent [Wabbajack](https://www.wabbajack.org/#/) prog
 
 1. Clean your Skyrim folder and disable the Steam overlay.
 2. Install the Wabbajack desktop client from [here](https://github.com/wabbajack-tools/wabbajack/releases).
-3. Navigate to Librum under the _Browse for Modlists_ tab.
+3. (VR) Navigate to Librum under the _Browse for Modlists_ tab.
+3. (SE) Download the Librum.wabbajack file from the "Releases" tab on this GitHub.
 4. Install Librum to a new folder, outside of `Program Files`.
 5. Copy the `Game Data Files` folder to your Skyrim VR directory.
 6. Start a new game, and wait until mod installation notes finish appearing.
@@ -123,7 +124,8 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 The download and installation process can take a very long time, depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
 1. Open Wabbajack.
-2. Download the modlist from [here](must update link) and choose the  _Install from Drive_ option in Wabbajack.
+2. (VR) Browse for the modlist in the Wabbajack client, and click to download it.
+2. (SE) Download the Librum_SE.wabbajack file from the "Releases" tab on this GitHub, and open it up in the "Install From Disk" option in the Wabbajack client.
 3. Once the download is complete, set the installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, or Desktop. Put it somewhere easy like `C:/Modlists/Librum`). The downloads path should automatically fill in the installation path.
 4. Click the Go/Begin button.
 5. Wait for Wabbajack to finish.
