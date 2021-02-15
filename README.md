@@ -1,9 +1,7 @@
 # Librum (for Skyrim VR)
 Wabbajack modlist installer for _Librum_.
 
-***A small request: if you enjoy my work, please consider contributing to my Patreon page using the button below. Although I certainly don't expect any donations from users, these sorts of contributions allow me to continue improving and supporting Librum.***
-
-<a href="https://www.patreon.com/bePatron?u=50342936" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+***A small request: if you enjoy my work, please consider contributing to my [Patreon page](https://www.patreon.com/apoapse?fan_landing=true). Although I certainly don't expect any donations from users, these sorts of contributions allow me to continue improving and supporting Librum.***
 
 - [Librum](#librum-for-skyrim-vr)
   - [Preamble](#preamble)
