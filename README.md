@@ -3,7 +3,7 @@ Wabbajack modlist installer for _Librum_.
 
 ***A small request: if you enjoy my work, please consider contributing to my [Patreon page](https://www.patreon.com/apoapse?fan_landing=true). Although I certainly don't expect any donations from users, these sorts of contributions allow me to continue improving and supporting Librum.***
 
-[![Patreon donate button](Resources/patreon.png)](https://www.patreon.com/apoapse)
+[<img src="Resources/patreon.png" width="300" height="100">](https://www.patreon.com/apoapse)
 
 - [Librum](#librum-for-skyrim-vr)
   - [Preamble](#preamble)
