@@ -5,7 +5,7 @@ Wabbajack modlist installer for _Librum_.
 
 [<img src="Resources/patreon.png" width="150" height="50">](https://www.patreon.com/apoapse)
 
-- [Librum](#librum-for-skyrim-se-vr)
+- [Librum](#librum-for-skyrim-sevr)
   - [Preamble](#preamble)
   - [Technical Requirements](#technical-requirements)
   - [Installation](#installation)
