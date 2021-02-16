@@ -41,7 +41,7 @@ Wabbajack modlist installer for _Librum_.
   - [Frequently Asked Questions](#frequently-asked-questions)
   - [Credits and Thanks](#credits-and-thanks)
   - [Contact](#contact)
-  - [Contributing](#contributing)
+
  
 ## Preamble
 ![Alt text](Resources/DoubleBanner.png?raw=tue "I made this image myself, and I am proud of it.")
@@ -551,22 +551,4 @@ Of course, I can only take a small slice of the credit for this modlist. I compi
 For any questions, comments, or suggestions, please contact me on Discord -- either through the Wabbajack Discord or through a private message (at `Apoapse#6933`).
 
 If you want to report an issue, the best way to do this is through the [Librum GitHub Issues page](https://github.com/apoapse1/Librum-for-Skyrim-VR/issues). If your issue is already there, and I have not responded within a week or so, please send me a message over Discord.
-
-## Contributing
-The best way you can contribute to this project is to play the game! Play through different quests, explore different areas, and try to push the game to its limits -- then report the issues you find.
-
-The second best way to contribute is to send me suggestions for Librum's development. As mentioned above, I may have missed some great mods, or I may not have correctly balanced certain gameplay features or locations.
-
-The _third_ best way to contribute is to send me screenshots, or to post them in the Wabbajack Discord. I'd like to see your adventures, or anything cool that you find!
-
-## Planned Changes
-There are a few changes planned already for future versions of Librum:
-
- - Cleaning up _Skyrim Underground_'s creatures. At present, it includes only non-vanilla creatures, and it includes a _ton_ of them. I will remove some of the worst offenders, and mix in vanilla creatures to make the Underground flow better into the Aboveground.
- - De-leveling some of the added content -- importantly, _Skyrim Underground_ and _Forgotten Dungeons_. They're currently pretty good in this regard, but there are improvements to be made.
- - Testing _Death Consumes All_ and _Shezarrine_ more thoroughly, and either remove them or move them to the core mod list.
- - Further balancing of _Bullet Time_, to prevent it from being overpowered.
-instance.
- - I will finish the _Suggested Add-ons_ and _Getting Started in Librum_ readme sections.
-
 
