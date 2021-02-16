@@ -3,6 +3,8 @@ Wabbajack modlist installer for _Librum_.
 
 ***A small request: if you enjoy my work, please consider contributing to my [Patreon page](https://www.patreon.com/apoapse?fan_landing=true). Although I certainly don't expect any donations from users, these sorts of contributions allow me to continue improving and supporting Librum.***
 
+[![Patreon donate button](https://img.shields.io/badge/patreon-donate-yellow.svg)](https://www.patreon.com/apoapse)
+
 - [Librum](#librum-for-skyrim-vr)
   - [Preamble](#preamble)
   - [Technical Requirements](#technical-requirements)
@@ -51,6 +53,7 @@ Skyrim VR is a wonderful experience, but it's a very familiar one. Even in stunn
 _Librum_ is a comprehensive gameplay, graphics, and content overhaul that attempts to change all of this. Combining together some of the best and most popular mods for Skyrim SE, a suite of new quests and adventures that outnumber Skyrim's own, the tradition of great "hardcore" gameplay overhauls that have come before -- like Skyrim's _Requiem_ and _YASH_ or Oblivion's _Oscuro's Oblivion Overhaul_ -- and a host of unique-to-VR immersion improvements, Librum brings new life (and new challenge!) to Skyrim in a way that has never been experienced before.
 
 ***User Comments:***
+
 <div align="center">"This is definitely the most different playthrough I've ever done."</div>
 
 <div align="center">"I'm not used to the difficulty, but it was probably the most fun I had on Skyrim."</div>
