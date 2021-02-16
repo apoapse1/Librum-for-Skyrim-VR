@@ -548,7 +548,8 @@ Here are some questions that you might want to ask:
 Of course, I can only take a small slice of the credit for this modlist. I compiled the list and Frankenstein-ed many of these mods together, but the mod authors themselves did most of the work. If you particularly like a certain quest, location, or gameplay mechanic, please go thank the mod authors!
 
 ## Contact
-For any questions, comments, or suggestions, please contact me on Discord -- either through the Wabbajack Discord or through a private message (at `Apoapse#6933`).
+For any questions, comments, or suggestions, please join my modding Discord server:
 
-If you want to report an issue, the best way to do this is through the [Librum GitHub Issues page](https://github.com/apoapse1/Librum-for-Skyrim-VR/issues). If your issue is already there, and I have not responded within a week or so, please send me a message over Discord.
+[<img src="Resources/discord.png" width="150">](https://discord.gg/3f8vPYFmJX)
+
 
