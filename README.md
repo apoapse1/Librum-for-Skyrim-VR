@@ -58,8 +58,7 @@ _Librum_ is a comprehensive gameplay, graphics, and content overhaul that attemp
 
 <div align="center">"I'm not used to the difficulty, but it was probably the most fun I had on Skyrim."</div>
 
-<div align="center">"It's refreshing. At this point I would have all novice spells that I wanted in a normal playthrough
-."</div>
+<div align="center">"It's refreshing. At this point I would have all novice spells that I wanted in a normal playthrough."</div>
 
 
 ## Technical Requirements
@@ -67,7 +66,7 @@ Librum is fairly technically intensive, but in line with standard Skyrim VR grap
 
 ***Space Requirements.*** Librum requires 38 GB of space for its downloads, and 70 GB of space for the installation. In total, you will need 118 GB free on your computer.
 
-***Recommended Specs.*** This was the machine I compiled Librum on. I have gotten very smooth gameplay, with an occasional stutter in a new area before the included [VR FPS Stabilizer](https://www.nexusmods.com/skyrimspecialedition/mods/31392) kicked into gear.
+***Recommended Specs.*** This was the machine I compiled Librum on. I get a very smooth 40 FPS, which gives quite smooth gameplay along with Oculus/SteamVR motion smoothing.
  - **CPU**: Intel Core i7-7700HQ, 4 cores at 2.80 GHz.
  - **GPU**: NVIDIA GeForce GTX 1060, 6 GB of VRAM
  - **RAM**: 16 GB DDR4
@@ -483,7 +482,7 @@ We top this off with several lighting mods:
 
  - ***[Relighting Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/8586).*** This mod changes the position and characteristics of existing light sources in dungeons, to match where light should actually be emitted. It sounds like a simple change, but it makes a huge atmospheric difference, and it's critical to being able to sneak around.
  - ***[Enhanced Lighting for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/1377).*** This is our "general purpose" lighting overhaul, and it makes a _big_ difference. In short, it makes light sources look much nicer and more natural, with a side effect of making dungeons and nights very dark.
- - ***[High Fidelity ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27308).*** "But wait!" you say, "don't ENBs trash your framerate?" The answer, in this case, is _no_. High Fidelity ENB accomplishes all of the things you've come to expect from your ENB, but it's highly performance-friendly for a better VR experience. Furthermore, it pairs very nicely with the mods listed above, to give Skyrim the bleak, hopeless feel you've been waiting for.
+ - ***[Ominous ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27333).*** Ominous ENB gives a grim, atmospheric look to Skyrim, without sacrificing framerate. It is the core of Librum's graphics overhaul.
 
 The above only gives a small taste of the various atmosphere and ambience mods included in Librum -- you can visit the manifest for a complete list, but Librum includes everything from [new dust effects](https://www.nexusmods.com/skyrimspecialedition/mods/2407) to [better cloud textures](https://www.nexusmods.com/skyrimspecialedition/mods/2393) and even [better sound dynamics](https://www.nexusmods.com/skyrimspecialedition/mods/701).
 
