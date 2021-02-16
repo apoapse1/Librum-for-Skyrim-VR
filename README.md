@@ -550,6 +550,6 @@ Of course, I can only take a small slice of the credit for this modlist. I compi
 ## Contact
 For any questions, comments, or suggestions, please join my modding Discord server:
 
-[<img src="Resources/discord.png" width="150">](https://discord.gg/3f8vPYFmJX)
+[<img src="Resources/discord.PNG" width="300">](https://discord.gg/3f8vPYFmJX)
 
 
