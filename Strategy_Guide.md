@@ -17,7 +17,7 @@ This guide will help you get off the ground in Librum -- Librum changes a great 
 
 # Character Creation
 ## Appearance and Race
-If you boot up Librum and create a new game, you'll find yourself in the new character creation area -- the [Realm of Lorkhan](https://www.nexusmods.com/skyrimspecialedition/mods/18223) -- looking at the glitchy [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) menu. Before finalizing your race and appearance, here are the details you need to know:
+If you boot up Librum and create a new game, you'll find yourself in the new character creation area -- the [Realm of Lorkhan](https://www.nexusmods.com/skyrimspecialedition/mods/18223) -- looking at the [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) menu. Before finalizing your race and appearance, here are the details you need to know:
 
 ***Race Abilites.*** Race abilities are given by EnaiSiaion's popular [Imperious](https://www.nexusmods.com/skyrimspecialedition/mods/1315) mod, with two modifications. Argonians are 50% resistant to _water damage_, and Orcs are 50% resistant to _earth damage_. These are new damage types introduced by [Elemental Destruction Magic](https://www.nexusmods.com/skyrimspecialedition/mods/440), and you will encounter enemy mages who make use of them. For detailed information on racial abilities, see the [Imperious mod page](https://www.nexusmods.com/skyrimspecialedition/mods/1315); notably, once-a-day powers have been replaced with interesting passive abilities, and you can unlock an additional ability by completing a race-specific objective.
 
@@ -76,6 +76,7 @@ _Classes_:
 
 Since the fast travel network is much denser in Librum's Skyrim -- with several new carriages and boats to bring you from place to place, thanks to [CFTO](https://www.nexusmods.com/skyrimspecialedition/mods/8379) -- it largely does not matter if you start in one city or another. However, you'll want to be careful if you start in the wilderness or (even more dangerously) in a dungeon. Dungeons are now at fixed levels (labeled when you point your hand at the corresponding teleportation crystal), so make sure you choose a low-level one or feel particularly confident. Similarly, different wilderness zones offer different challenges, as catalogued in the [Creatures and Encounter Zones](#creatures-and-encounter-zones) section later on.
 
+***Everything past this point is WIP***
 # Surviving the Night
 ## Making Money
 Money is a rare commodity in Librum, and there are several new mechanics to familiarize yourself with before we start:
@@ -92,6 +93,7 @@ With that out of the way, there are a few good strategies to get money early on.
 
 ### Carry Weight Penalties
 
+***WIP***
 # New Gameplay Mechanics
 ## Spell Research
 Librum is inherently a low-magic setting, so there is a lot working against you as a mage. However, if you _can_ discover the secrets of controlling magic, there is much more power available to you than in vanilla Skyrim. Many of the new spell "schools" or "archetypes" are described in the [Readme](README.md), so we focus here on how to start out.
@@ -104,9 +106,7 @@ First things first, you need to acquire your first spell. Most races do not star
 
 ![Alt Text](Resources/research.png?raw=true "Spell Research")
 
-***Below this is WIP.***
-
- - Prioritise getting a research journal, alembic and tongs.  
+Prioritise getting a research journal, alembic and tongs.  
  - Go to college of Winterhold to get your first spell, unless you are a race that starts with one. Researching the spell will give you basic experience with some archetypes.  
  - If you find any strange items like "enchanted axe-head" analyze this to get LOTS of experience.   
  - Use the alembic to dissolve individual reagents you find, then analyze the resulting solution - this will grant experience and unlock new archetypes.  

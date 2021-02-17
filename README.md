@@ -27,6 +27,7 @@ Wabbajack modlist installer for _Librum_.
       - [MCM Settings](#configure-the-mcm)
     - [Natural Locomotion](#natural-locomotion)
   - [Updating](#updating)
+  - [Strategy Guide](#strategy-guide)
   - [Features of Librum](#features-of-librum)
     - [General Philosophy](#general-philosophy)
     - [Leveling and Skills](#leveling-and-skills)
@@ -37,7 +38,6 @@ Wabbajack modlist installer for _Librum_.
     - [Magic](#magic)
     - [Quests and Adventures](#quests-and-adventures)
     - [Graphics and Ambience](#graphics-and-ambience)
-  - [Getting Started in Librum](#getting-started-in-librum)
   - [Frequently Asked Questions](#frequently-asked-questions)
   - [Credits and Thanks](#credits-and-thanks)
   - [Contact](#contact)
@@ -60,6 +60,7 @@ _Librum_ is a comprehensive gameplay, graphics, and content overhaul that attemp
 
 <div align="center">"It's refreshing. At this point I would have all novice spells that I wanted in a normal playthrough."</div>
 
+<div align="center">"I don't have enough money to pay followers 500/week."</div>
 
 ## Technical Requirements
 Librum is fairly technically intensive, but in line with standard Skyrim VR graphics enhancements. Your mileage will certainly vary -- I can only provide my own specs, but I imagine you will find good performance on a weaker system.
@@ -151,8 +152,6 @@ Now that Librum is installed, it is time to start the game up for real and creat
 #### Copy "Game Folder Files"
 Navigate to the installed Librum folder, where you will find a folder titled `Game Folder Files`. Copy the contents of this folder to the Skyrim root folder.
 
-There are two options available in the copied files: the "ENB - LCD" folder and the "ENB - OLED" folder. Depending on your headset, copy the contents of the appropriate folder to the Skyrim root folder; they should overwrite a few ENB-related files. If you do not know, the Valve Index and the Oculus Rift S are _LCD_ headsets, while the HTC Vive and Rift CV1 are _OLED_ headsets. 
-
 #### Starting Librum and Choosing Optional Plugins
 Navigate back to the installed Librum folder, and launch the program `ModOrganizer2.exe`. Before launching the game itself, take a look at the _Optional_ category at the bottom of the Mod Organizer 2 mod list. I will go over each below.
 
@@ -203,11 +202,7 @@ If you are left-handed, enable this in MO2.
 #### Start up Skyrim... again
 To start the game for real, start SKSE through Mod Organizer 2. This will be necessary every time you start the game; if you try to launch Skyrim through its default folder or through Steam, the game will be entirely vanilla.
 
-Start a new game once you get to the main menu. The "yes/no" dialogue in the _New Game_ menu does not always indicate which you are selecting, but the buttons will work as expected. You will start in the character creation area from [Realm of Lorkhan](https://www.nexusmods.com/skyrimspecialedition/mods/18223). Here are some things to know as you create your character:
-
-1. Race differences are changed in accordance with [Imperious](https://www.nexusmods.com/skyrimspecialedition/mods/1315), but with the modifications made by [Elemental Destruction Magic](https://www.nexusmods.com/skyrimspecialedition/mods/440). Namely, Orcs are 50% resistant to earth magic, and Argonians are 50% resistant to water magic.
-2. Standing stones are changed in accordance with [Andromeda](https://www.nexusmods.com/skyrimspecialedition/mods/14910). However, **the standing stone you choose in the Realm of Lorkhan is final**. That is, you will not be able to change it without first returning to the Realm of Lorkhan.
-3. Be particular with the items, spells, and powers you bring back from the Realm of Lorkhan. Much moreso than in vanilla Skyrim, having additional weapons, armors, spell tomes, gold, or even food items can start you out with a significant advantage. If you do not want this advantage, do not take anything with you.
+Start a new game once you get to the main menu. You will start in the character creation area from [Realm of Lorkhan](https://www.nexusmods.com/skyrimspecialedition/mods/18223). For more information on character creation, please read the [Strategy Guide](Strategy_Guide.md) (but come back here after!).
 
 Note that Wabbajack will reset some of the in-game Skyrim settings, which you will want to fix before continuing.
 Open main menu -> settings -> VR performance, and apply the following settings:
@@ -276,6 +271,9 @@ This means that any additional mods you have installed on top of Librum will be 
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _Overwrite existing modlist_ button.
 Note that some in-game settings will get reset when updating. Check them all again! Particularly, "dynamic resolution" and "disable lod" in the "VR Performance" settings menu. 
+
+## Strategy Guide
+Although Librum gameplay is largely detailed below, I have included somewhat more detail in the (currently WIP) [Strategy Guide](Strategy_Guide.md).
 
 ## Features of Librum
 Librum significantly affects nearly every aspect of gameplay; in this section, I explain all of the significant changes that have been made, and how they change the Skyrim experience. I will separate it here into various "modules" for ease of explanation -- however, this does not reflect any clean-cut separations of Librum mechanics. Changes from the various modules overlap, affect one another, and work together to create a consistent Librum experience. For instance, _Spell Research_ forces mages to interact with the survival elements of Librum, and these survival elements turn a quest like _Clockwork_ into a precarious and time-sensitive escape mission.
@@ -538,8 +536,6 @@ Last but not least, Skyrim's wilderness has also seen some improvements. Along w
 Librum also includes [Man Those Borders](https://www.nexusmods.com/skyrimspecialedition/mods/681), [Unique Border Gates](https://www.nexusmods.com/skyrimspecialedition/mods/4819), [Hold Border Banners](https://www.nexusmods.com/skyrimspecialedition/mods/1737), and [Immersive Dawnguard Dayspring Pass](https://www.nexusmods.com/skyrimspecialedition/mods/4126), to make the transitions between different holds and the journeys through wilderness zones a little more unique. Guards will now be stationed where they ought to be, and each hold can be identified by its flags and architectural styles upon arrival. Also, the entrance to the Dawnguards' territory is no longer a stupid piece-of-shit hole in a cliff wall.
 
 ![Alt Text](Resources/whiterun.jpg?raw=true "Whiterun Crossroads Keep")
-
-## Getting Started in Librum
 
 ## Frequently Asked Questions
 For an updated list of FAQs, please see my Discord server:
