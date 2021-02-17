@@ -448,8 +448,26 @@ With that in mind, here are the major new quest mods included in Librum:
 12. ***[Teldryn Serious](https://www.nexusmods.com/skyrimspecialedition/mods/5541).*** Teldryn Serious heavily expands the backstory of the mercenary Teldryn Sero, taking you around Solstheim once more in order to uncover a dangerous plot and defend Raven Rock.
 13. ***[Death Consumes All](https://www.nexusmods.com/skyrimspecialedition/mods/41910).*** Death Consumes All changes the game drastically, adding a spreading plague to the game world. Find and recruit the excellent companion Livia Salvian, fight the forces of the undead, and try to stop the plague and its mysterious source before it lays all of Skyrim to rest. ***The plague will have no in-game consequences until you first talk to Livia.***
 14. ***[Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673).*** A classic among Skyrim mods, Helgen Reborn gives you an opportunity to rebuild and revive the town of Helgen. Uncover a Thalmor plot, recruit and train your town guard, and participate in a ~bewildering and not-very-apropos~ secret fighting ring to reclaim the town and its legacy.
+15. ***[Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565).*** Now that it's back and purged of bugs, Wyrmstooth allows you to travel to the island of _Wyrmstooth_, north of Solitude, to rid the island of its dragon menace.
 
 ![Alt Text](Resources/sotha.jpg?raw=true "Trainwiz's work, at its finest.")
+
+On top of these new quests, Librum makes _tons_ of improvements to vanilla quests and questlines:
+
+16. ***[Civil War Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/37906).*** Finally, the civil war is hard to ignore. CWO restores all of the cut civil war battles Bethesda had planned, as well as improving the scope and AI of these battles, adding random sieges, and generally totally rewriting the civil war. Importantly, joining one side will cause the hold guards of the other to be hostile towards you.
+17. ***[Cutting Room Floor](https://www.nexusmods.com/skyrimspecialedition/mods/276).*** Less a quest mod than an overall content-restoration project, CRF reintroduces several cut locations and towns, small or miscellaneous quests, and general improvements to vanilla quests.
+18. ***[The Choice Is Yours](https://www.nexusmods.com/skyrimspecialedition/mods/3850).*** Most quests now have an opt-out option, in case you _don't_ actually want to go beat a priest to death three times in an obviously-haunted house.
+19. ***[Even Better Quest Objectives](https://www.nexusmods.com/skyrimspecialedition/mods/159).*** Vanilla Skyrim relies entirely on its map markers to get you places. In fact, they go so far as to _not provide enough information_ to do any quests without blindly following the map markers. EBQO fixes this, by providing Morrowind-level (except actually correct) descriptions of your quest objectives.
+20. ***[Finding Derkeethus](https://www.nexusmods.com/skyrimspecialedition/mods/19550).*** Loosely an addon to EBQO, _Finding Derkeethus_ fixes several conceptual problems with the quest to rescue Derkeethus from Darkwater Pass. Now the quest is completable without using the UESP.
+21. ***[Somebody Else's Problem](https://www.nexusmods.com/skyrimspecialedition/mods/43850).*** When Eltrys tells you to meet him to discuss the Forsworn Conspiracy, you can now tell him where to shove it.
+22. ***[Finding Helgi and Laelette](https://www.nexusmods.com/skyrimspecialedition/mods/28973).*** This mod fixes what would havebeen an interesting investigative mission. You can now truly investigate the burnt house, for instance, and the quest involves more questioning and dialogue with NPCs.
+23. ***[Better College Application](https://www.nexusmods.com/skyrimspecialedition/mods/5272).*** When Faralda asks you why you want to enter the college, your response now actually determines the spell you're tested on. This is critical for Librum's spell system, because it gives you a headstart in whatever school you want to focus on.
+24. ***[Save the Icerunner](https://www.nexusmods.com/skyrimspecialedition/mods/34681).*** This fits into the general TCIY framework -- if you don't want to brutally murder a ship full of people, now you don't have to.
+25. ***[Chill Out Aela](https://www.nexusmods.com/skyrimspecialedition/mods/31949).*** When Aela asks you why you didn't help fight the dragon, you now have a third option to choose from (instead of just "Screw you!" and "I'm just a wimp!").
+26. ***[Not So Fast - Main Quest](https://www.nexusmods.com/skyrimspecialedition/mods/2475).*** You've got no idea how often this mod's features are reported as bugs. In short, NSFMQ changes a number of the narrative beats of the main quest. The dragon sighting is no longer immediately after you recover the Dragonstone, Delphine no longer steals the Horn of Jurgen Windcaller, and Season Unending can largely be skipped.
+27. ***[End Times](https://www.nexusmods.com/skyrimspecialedition/mods/39201) (optional).*** To double down on the NSFMQ pacing, you now need to kill Alduin within a set amount of time, or he will literally eat the world (and your game will be over). Good luck.
+
+![Alt Text](Resources/Alduin.jpeg?raw=true "Maybe do better next time")
 
 Now, one of my all-time favorite Elder Scrolls experiences is Daggerfall's dungeon delving. Despite the numerous inaccessible areas and inescapable portal networks, there was something distinctly adventurous, epic, and psychologically rewarding about making your way through one of the game's gargantuan dungeons. Librum attempts to recreate this feeling with its own suite of dungeon mods. Together, the following mods fill Skyrim (and Solstheim, and other game areas) with a healthy number of new caverns, ruins, and more -- ranging from slightly-more-involved-than-vanilla to Daggerfall-style labyrinthine dungeons.
 
@@ -523,25 +541,9 @@ Librum also includes [Man Those Borders](https://www.nexusmods.com/skyrimspecial
 ## Getting Started in Librum
 
 ## Frequently Asked Questions
-Here are some questions that you might want to ask:
+For an updated list of FAQs, please see my Discord server:
 
-***I have enough XP to level up, but opening the skills menu isn't working!*** Sleep 8 hours to level up. You need to wait a full day before leveling again.
-
-***I can't switch between buying and selling.*** You can switch between buying and selling by using the cursor. Sometimes it takes exiting the menu once and re-entering, but the idea is to click outside the bounds of the menu to activate the cursor.
-
-***Why is campfire/tent placement not working?*** In Campfire's MCM, turn off _advanced placement_.
-
-***When I level up, I still get a perk!*** Check your ~Librum/overwrite~ folder for a ~plugins/sumwunn/skyrimuncapper.ini~ file. If that exists, delete it. If not, let me know.
-
-***What the hell are these new enemies below [insert city name]?*** You've encountered _Skyrim Underground_, and, honestly, I'm with you. Although I've applied a patch to make Underground more lore-friendly, there is a little more work to be done. I will sort this out in future versions.
-
-***The game is crashing!*** While I've done my best to mitigate crashing and poor performance, we all know that Skyrim's engine is not a perfect one. Let me know where and when the game crashes, and I'll try to figure it out.
-
-***I don't like [insert feature]!*** Please let me know! I'm open to suggestions, especially as Librum is getting off the ground. Whether you think something is unbalanced, not fun, or only gives off the wrong _vibe_, please shoot me a DM over Discord.
-
-***I've found a bug!*** Let me know about bugs, as well! I'll try to help you figure it out -- of course, if you modified Librum in any fashion, you may be on your own.
-
-***I think [insert mod] should be added/removed!*** As before, let me know of any suggestions you have. There are many cases where I made specific choices for compatibility's sake (i.e., Dawn of Skyrim over JK's Skyrim, or excluding EFF/NFF/AFT), but there are many others where I may have overlooked an excellent candidate for inclusion in Librum.
+[<img src="Resources/discord.PNG" width="300">](https://discord.gg/3f8vPYFmJX)
 
 ## Credits and Thanks
 Of course, I can only take a small slice of the credit for this modlist. I compiled the list and Frankenstein-ed many of these mods together, but the mod authors themselves did most of the work. If you particularly like a certain quest, location, or gameplay mechanic, please go thank the mod authors!
