@@ -84,7 +84,7 @@ Librum makes use of the excellent [Wabbajack](https://www.wabbajack.org/#/) prog
 3. (VR) Navigate to Librum under the _Browse for Modlists_ tab.
 3. (SE) Download the Librum.wabbajack file from the "Releases" tab on this GitHub.
 4. Install Librum to a new folder, outside of `Program Files`.
-5. Copy the `Game Data Files` folder to your Skyrim VR directory.
+5. Copy the `Game Folder Files` folder to your Skyrim VR directory.
 6. Start a new game, and wait until mod installation notes finish appearing.
 7. Configure the Mod Configuration Menu according to the [instructions that follow](#mcm).
 
@@ -220,15 +220,15 @@ Once you have created your character, open up the in-game settings and navigate 
 
 The suggested MCM options are as follows:
 1. **Cobb Encumbrance.** In the _Presets_ tab, apply the preset "Classic (SEM)".
-2. **Frostfall**. Activate the mod, and turn off fast travel and waiting outdoors in the _General_ tab. If desired, choose one of the presets in the _Meters_ tab (I use "bottom left").
-3. **Hunterborn**. Start the mod, and disable the Hunterborn config power in the _Enable_ tab.
-4. **Lock Overhaul.** Activate the mod.
-5. (VR) **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
-6. **Nemesis.** Activate both options.
-7. **Simple Horse.** Confirm that Follower horses are disabled.
-8. **SkyUI.** If desired, disable the Active Effects HUD under _General_.
-9. **Spell Research.** Import spells.
-10. **SunHelm.** Activate the mod. If desired, change "Widget Display Type" in _Display and Notifications_ tab (I use "Alpha/Color Based").
+2. **Hunterborn**. Start the mod, and disable the Hunterborn config power in the _Enable_ tab.
+3. **Lock Overhaul.** Activate the mod.
+4. (VR) **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
+5. (VR) **Nemesis PCEA.** Activate both options.
+6. **Simple Horse.** Confirm that Follower horses are disabled.
+7. **SkyUI.** If desired, disable the Active Effects HUD under _General_.
+8. **Spell Research.** Import spells.
+9. **SunHelm.** Activate the mod. If desired, change "Widget Display Type" in _Display and Notifications_ tab (I use "Alpha/Color Based").
+10. (SE) **Survival Control Panel.** Turn off the UI setting under _General_.
 11. **Tentapalooza.** I am working on a script to apply these settings automatically. For now, when you use a Tentapalooza tent, change its corresponding setting in this menu.
 12. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
 13. **Vigor.** Start the mod.
