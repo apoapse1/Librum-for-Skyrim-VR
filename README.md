@@ -62,6 +62,9 @@ _Librum_ is a comprehensive gameplay, graphics, and content overhaul that attemp
 
 <div align="center">"I don't have enough money to pay followers 500/week."</div>
 
+<div align="center">"Are bandits meant to attack when you're sleeping in an inn? Kinda like it, I have to admit."</div>
+
+<div align="center">"Certainly seems like I'll have to treat this like a new game rather than the skyrim I've come to know."</div>
 ## Technical Requirements
 Librum is fairly technically intensive, but in line with standard Skyrim VR graphics enhancements. Your mileage will certainly vary -- I can only provide my own specs, but I imagine you will find good performance on a weaker system.
 
@@ -421,6 +424,12 @@ In addition to the above list, Librum includes a ton of new "miscellaneous" spel
 Note that almost all of the above spells must be discovered on your own, through Spell Research. Because of this, you will naturally tend toward a specific magical niche (which may not align at all with the spell "classes" listed above), dependent on your experience in the different magic archetypes. In this fashion, Librum turns Skyrim's vanilla "eat a book" magic system into a truly immersive research experience; you will be able to discover nearly any sort of magic you can imagine, but you need to dedicate yourself to studying the secrets of magic.
 
 Finally, Librum adds a new element of challenge in the form of [FIZZLE](https://www.nexusmods.com/skyrimspecialedition/mods/18180). If your magic skill isn't high enough to comfortably cast a certain spell, there is a chance that it will fail on the spot (but still drain your Magicka!). This is affected by other environmental factors, forcing mages to adapt appropriately to Skyrim's harsh climate; for instance, if you are suffering from frostbite, your magic skills will be significantly reduced, and most of your spells will fail.
+
+### Leveling and Encounter Zones
+In regards to world-leveling mechanics, Librum primarily takes inspiration from D&D and similar tabletop games. The core point here is, the type of adventure you go on changes as you become more and more powerful -- while you may just be hunting wildlife at low levels, you progress to the point where you can go into certain dungeons and abandoned forts, and next to the point where you can handle more fantastical opponents: for instance, automata, undead, or otherworldly beings. After that point, the player starts doing really crazy stuff: going to planes of Oblivion, traveling outside of Skyrim, and truly saving the world.
+
+With that in mind, the world is largely _entirely unleveled_. There are some minor exceptions to that rule (e.g., dragons, dynamic [Genesis](https://www.nexusmods.com/skyrimspecialedition/mods/23871) spawns), but this means that _where_ you adventure and _what_ you do changes over the course of your playthrough.
+The "stages" of the game
 
 ### Quests and Adventures
 For all its strengths, Skyrim never got the questing aspect quite right. The game's many questlines are fairly straightforward and predictable, and most of its dungeons are as well. Librum only touches the worst offenders among Skyrim's vanilla quests, but it adds a great deal of new content to experience. Putting together dozens of curated quest and adventure mods, Librum's new content totals to hundreds of new quests and new areas to explore, including more questlines than are in the vanilla game, and several extensive dungeon systems and expansive new lands. In compiling these mods, there were a few specific requirements I upheld (excluding many otherwise fantastic mods, unfortunately):

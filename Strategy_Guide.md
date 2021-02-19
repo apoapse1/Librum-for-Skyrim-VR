@@ -95,6 +95,9 @@ With that out of the way, there are a few good strategies to get money early on.
 
 ***WIP***
 # New Gameplay Mechanics
+## Leveling and Progression
+In regards to character progression, Librum primarily takes inspiration from the  The core point here is, the type of adventure you go on changes as you become more and more powerful -- while you may just be hunting wildlife at low levels, you progress to the point where you can go into certain dungeons and abandoned forts, and next to the point where you can handle more fantastical opponents: for instance, automata, undead, or otherworldly beings. After that point, the player starts doing really crazy stuff: going to planes of Oblivion, traveling outside of Skyrim, and truly saving the world.
+
 ## Spell Research
 Librum is inherently a low-magic setting, so there is a lot working against you as a mage. However, if you _can_ discover the secrets of controlling magic, there is much more power available to you than in vanilla Skyrim. Many of the new spell "schools" or "archetypes" are described in the [Readme](README.md), so we focus here on how to start out.
 
