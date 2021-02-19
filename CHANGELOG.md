@@ -1,5 +1,49 @@
 ***Note:*** Librum versions are of the form _x.y-z_. In this notation, changes to the _x_ or _y_ denote significant updates, and you will need to read the update notes to see how to patch your savefile. Changes to the _z_ denote small hotfixes, and will never require a patched save.
 
+***v1.60.***
+Added Mods:
+ - _The Gray Cowl of Nocturnal_
+ - _First Person Combat Animations Overhaul_
+ - _Dirt and Blood_ and HD Retexture
+ - _STAYDOWN_
+ - _Wearable Lanterns_
+ - _TFoS Trees of Solitude_
+ - _Kato's Riverwood_ and _Blubbo's Riverwood_
+ - _Bosmer NPCs Have Antlers_
+ - _Cuyi's Bosmeri Antlers_
+ - _Fulcimentum - More Staves and Wands of Skyrim_
+ - _More Painful NPC Death Sounds_
+
+Other:
+ - Fixed bird sound bug.
+ - Fixed black face bug.
+ - Magic damage fixed.
+ - Invisible minotaurs fixed.
+
+***v1.52.***
+Added Mods:
+ - _The Curator's Companion_ (by popular demand)
+ - _Visual Animated Enchants_
+ - _Instant Equip VR_
+ - _No Edge Glow_
+ - _Pick Up Books Simpler_
+ - New _Mysticism - Spell Research Patch_
+ - _Depths of Skyrim_
+ - _CAS Sharpener_ for VR only 
+
+Removed Mods:
+ - Old _Mysticism - Spell Research Patch_
+
+Other:
+ - Fixed SE issue with _Sleep to Level Up_
+ - Fixed shiny Argonian skin in non-nude profile
+ - Fixed _Realm of Lorkhan_ Unbound bug
+ - Lowered price of lumber
+ - Improved LOD files
+ - Frostfall/Campfire settings fixed.
+ - Fixed animation issues in SE.
+ - Fixed blurriness in VR.
+
 ***v1.51.***
 Added Mods:
  - _Smooth Sky Mesh_
