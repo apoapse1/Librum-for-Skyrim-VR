@@ -428,7 +428,7 @@ Finally, Librum adds a new element of challenge in the form of [FIZZLE](https://
 ### Leveling and Encounter Zones
 In regards to world-leveling mechanics, Librum primarily takes inspiration from D&D and similar tabletop games. The core point here is, the type of adventure you go on changes as you become more and more powerful -- while you may just be hunting wildlife at low levels, you progress to the point where you can go into certain dungeons and abandoned forts, and next to the point where you can handle more fantastical opponents: for instance, automata, undead, or otherworldly beings. After that point, the player starts doing really crazy stuff: going to planes of Oblivion, traveling outside of Skyrim, and truly saving the world.
 
-With that in mind, the world is largely _entirely unleveled_. There are some minor exceptions to that rule (e.g., dragons, dynamic [Genesis](https://www.nexusmods.com/skyrimspecialedition/mods/23871) spawns), but this means that _where_ you adventure and _what_ you do changes over the course of your playthrough.
+With that in mind, the world is largely _entirely unleveled_.
 The "stages" of the game
 
 ### Quests and Adventures
@@ -552,7 +552,7 @@ For an updated list of FAQs, please see my Discord server:
 [<img src="Resources/discord.PNG" width="300">](https://discord.gg/3f8vPYFmJX)
 
 ## Credits and Thanks
-Of course, I can only take a small slice of the credit for this modlist. I compiled the list and Frankenstein-ed many of these mods together, but the mod authors themselves did most of the work. If you particularly like a certain quest, location, or gameplay mechanic, please go thank the mod authors!
+Of course, I can only take a small slice of the credit for this modlist. I've spent the past several months compiling, reviewing, and properly patching together all of these mods, but the mod authors themselves did most of the work. If you particularly like a certain quest, location, or gameplay mechanic, please go thank the mod authors!
 
 ## Contact
 For any questions, comments, or suggestions, please join my modding Discord server:
