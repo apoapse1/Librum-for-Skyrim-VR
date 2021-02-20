@@ -48,11 +48,12 @@ _Boons_:
  - Boon of the Locksmith -- lock "sweet spot" is 30% larger.
  - Boon of the Poisoner -- +10 strikes per poison applied.
  - Boon of the Pugilist -- +20 unarmed damage.
+ - Boon of Celerity -- Gain 50% more experience from skill use.
  - Boon of the Soul Reaver -- killed enemies restore 10% of their soul value to your enchanted weapon.
  - Voice of the Sky -- animals do not attack or flee from you, unless attacked.
  - Bardic Knowledge -- once per day, summon a spectral drum to give extra stamina regeneration.
 _Curses_:
- - Curse of Antimagicka -- -100% magicka regeneration.
+ - Curse of Magical Adversity -- Spells cost 20% more mana, but also gain skill 20% faster.
  - Curse of Generosity -- you sell items for half of their regular amount.
  - Curse of the Slow Learner -- -33% skill experience gain.
  - Curse of Soul Famine -- soul gems recharge 40% less energy.
@@ -68,6 +69,7 @@ _Classes_:
  - Barbarian -- +30 armor, health regen in combat, and +20% health regen
  - Bard -- +10% critical chance, +10 Speech
  - Commoner -- start with 50 less health, magicka, and stamina
+ - Pilgrim -- Increases items harvest from plants by 1. Increases skill learned from reading a skill book by 1.
  - Healer -- +20 Restoration, +20 Alchemy
  - Knight -- +20% health regen, +20% magic resistance
  - Mage -- +100 magicka, +20% magicka regen
