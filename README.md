@@ -56,15 +56,26 @@ _Librum_ is a comprehensive gameplay, graphics, and content overhaul that attemp
 
 <div align="center">"This is definitely the most different playthrough I've ever done."</div>
 
+	
+
 <div align="center">"I'm not used to the difficulty, but it was probably the most fun I had on Skyrim."</div>
+
+	
 
 <div align="center">"It's refreshing. At this point I would have all novice spells that I wanted in a normal playthrough."</div>
 
+	
+
 <div align="center">"I don't have enough money to pay followers 500/week."</div>
+
+	
 
 <div align="center">"Are bandits meant to attack when you're sleeping in an inn? Kinda like it, I have to admit."</div>
 
+	
+
 <div align="center">"Certainly seems like I'll have to treat this like a new game rather than the skyrim I've come to know."</div>
+
 ## Technical Requirements
 Librum is fairly technically intensive, but in line with standard Skyrim VR graphics enhancements. Your mileage will certainly vary -- I can only provide my own specs, but I imagine you will find good performance on a weaker system.
 

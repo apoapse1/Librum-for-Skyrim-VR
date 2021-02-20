@@ -13,6 +13,10 @@ Added Mods:
  - _Cuyi's Bosmeri Antlers_
  - _Fulcimentum - More Staves and Wands of Skyrim_
  - _More Painful NPC Death Sounds_
+ - _No Spinning Death Animation_
+
+Removed Mods:
+ - _SkyVoice_
 
 Other:
  - Fixed bird sound bug.
