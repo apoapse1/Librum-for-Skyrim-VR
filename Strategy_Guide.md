@@ -41,7 +41,7 @@ In the Realm, you can choose from plenty of equipment, spells, perks, factions, 
 
 ***Standing Stones.*** Every Standing Stone can be found within the Realm of Lorkhan, and -- as mentioned -- you can only choose a Standing Stone blessing while you are within the Realm. These blessings are governed by EnaiSiaion's [Andromeda](https://www.nexusmods.com/skyrimspecialedition/mods/14910) mod, and I recommend you look at that mod page for more information. Notably, once you find all thirteen Standing Stones around Skyrim, you unlock an additional, powerful ability, unique to the Stone you chose.
 
-**Note:** The Steed Stone is very quick, especially when your inventory is mostly empty (giving you a 10% movement speed buff), and with a Wintersun Faith such as Jephre (10% movement out of combat) to the levels that running around towns and inside can be overwhelmly quick. Please consider this before taking the stone, or test it first before committing. Remember, you cannot change your stone after leaving the Realm.
+**Note:** The Steed Stone makes you very quick, especially when your inventory is mostly empty (giving you a further 10% movement speed buff), and with a Wintersun Faith such as Jephre (10% movement out of combat). If wearing light or no armor, running around towns and indoors can be overwhelmly quick. Please consider this before taking the stone, or test it first before committing. Remember, you cannot change your stone after leaving the Realm.
 
 ***Boons and Curses.*** There are unique Boons and Curses available within the Realm of Lorkhan, found around a reflecting pool to the left of the starting location. They are as follows:
 
