@@ -30,6 +30,7 @@ Added Mods:
  - _Dawnguard Rewritten Arvak_
  - _Dawnguard Map Markers_
  - _Bird Sound Removed_
+ - _True 3D Sound_
 
 Updated Mods:
  - _Grass FPS Booster_
