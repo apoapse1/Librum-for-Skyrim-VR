@@ -332,7 +332,7 @@ Last but not least, Librum includes the fan-favorite [VRIK Player Avatar](https:
 ![Alt Text](Resources/hands.png?raw=true "VRIK-enabled body, with visible holsters.")
 
 ### Dynamic World
-Continuing on with the theme of the last section, Librum includes a suite of mods designed to make static objects react to your actions. Along with the mods mentioned before, the key players here are [Dynamic Things](https://www.nexusmods.com/skyrimspecialedition/mods/19520), [Dynamic Things Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/19521?tab=posts), [Destructible Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/28291), and [Sneak Tools](https://www.nexusmods.com/skyrimspecialedition/mods/1863) (which will come up again later).
+Continuing on with the theme of the last section, Librum includes a suite of mods designed to make static objects react to your actions. Along with the mods mentioned before, the key players here are [Dynamic Things](https://www.nexusmods.com/skyrimspecialedition/mods/19520), [Dynamic Things Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/19521?tab=posts), and [Sneak Tools](https://www.nexusmods.com/skyrimspecialedition/mods/1863) (which will come up again later).
 
 The combined effects of these mods are as follows:
 1. Any haypile or stack of wood you find in the game can be looted, and will decrease in size as you loot them.
