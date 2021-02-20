@@ -3,17 +3,44 @@
 ***v1.60.***
 Added Mods:
  - _The Gray Cowl of Nocturnal_
- - _First Person Combat Animations Overhaul_
- - _Dirt and Blood_ and HD Retexture
- - _STAYDOWN_
+ - _Dirt and Blood_ and _HD Retexture_
  - _Wearable Lanterns_
  - _TFoS Trees of Solitude_
- - _Kato's Riverwood_ and _Blubbo's Riverwood_
+ - Remaining Town Overhauls:
+   - _Kato's Riverwood_
+   - _Blubbo's Riverwood_ (trees)
+   - _Rorikstead Basalt Cliffs_
+   - _Rorikstead Wagons_
+   - _JK's Rorikstead_
  - _Bosmer NPCs Have Antlers_
  - _Cuyi's Bosmeri Antlers_
  - _Fulcimentum - More Staves and Wands of Skyrim_
- - _More Painful NPC Death Sounds_
- - _No Spinning Death Animation_
+ - Combat and Animation changes:
+   - _Athletik Combat_
+   - _STAYDOWN_
+   - _First Person Combat Animations Overhaul_ (SE only)
+   - _First Person Magic Animation_ (SE only)
+   - _More Painful NPC Death Sounds_
+   - _No Spinning Death Animation_
+ - _Helps to Have a Map_
+ - _Potion Toxicity_
+ - _TDG's Legendary Enemies_
+ - _Rally's Solstheim Shrines_
+ - _Rally's Candlelight and Magelight Fix_
+ - _Dawnguard Rewritten Arvak_
+ - _Dawnguard Map Markers_
+ - _Bird Sound Removed_
+
+Updated Mods:
+ - _Grass FPS Booster_
+ - _Serana Dialogue Overhaul_
+ - _Civil War Overhaul_
+ - _Vigilant Armors and Weapons Retexture_
+ - _R.A.S.S._
+ - _Cathedral - 3D Mountain Flowers_
+ - _Myrkvior_
+ - _Dragonborn Speaks Naturally_
+ - _Undiscovered Means Unknown_ (SE only)
 
 Removed Mods:
  - _SkyVoice_
@@ -23,6 +50,7 @@ Other:
  - Fixed black face bug.
  - Magic damage fixed.
  - Invisible minotaurs fixed.
+ - Made _Dragonborn Speaks Naturally_ optional, but available for both SE and VR.
 
 ***v1.52.***
 Added Mods:
