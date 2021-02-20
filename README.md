@@ -227,10 +227,10 @@ The suggested MCM options are as follows:
 5. (VR) **Nemesis PCEA.** Activate both options.
 6. **Simple Horse.** Confirm that Follower horses are disabled.
 7. **SkyUI.** If desired, disable the Active Effects HUD under _General_.
-8. **Spell Research.** Import spells.
+8. **Spell Research.** Import spells. It takes a bit to import everything, several pop ups will appear, hit Yes for all.
 9. **SunHelm.** Activate the mod. If desired, change "Widget Display Type" in _Display and Notifications_ tab (I use "Alpha/Color Based").
 10. (SE) **Survival Control Panel.** Turn off the UI setting under _General_.
-11. **Tentapalooza.** I am working on a script to apply these settings automatically. For now, when you use a Tentapalooza tent, change its corresponding setting in this menu.
+11. **Tentapalooza.** I am working on a script to apply these settings automatically. For now, when you use a Tentapalooza tent, change its corresponding setting in this menu to Rain and Snow.
 12. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
 13. **Vigor.** Start the mod.
 
