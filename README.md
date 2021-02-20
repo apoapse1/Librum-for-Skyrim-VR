@@ -171,17 +171,9 @@ If you do not want this plugin, disable it in MO2.
 
 If you do not want this plugin, disable it in MO2.
 
-***The Adventurer Theme Mod*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/35568)]. The Adventurer Theme adds Oblivion-like elements to Skyrim's UI, changing (among other things) the inventory, magic menu, and crafting menus to look like parchment. See the [UI section below](#user-interface-and-controls) for more details.
+***Adventure Theme Lite***. If you want a nicer cursor and Oblivion-style inventory icons, this is the plugin for you.
 
-If you do not want this plugin, disable it in MO2.
-
-***Adventure Theme Lite***. If you don't want the full effect of _The Adventure Theme_, but you want the nicer cursor and Oblivion-style inventory icons, this is the plugin for you.
-
-If you want this plugin, enable it in MO2. You don't need this if you have the full _Adventure Theme Mod_ option.
-
-***Bullet Time Power*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/16690)]. This mod adds a toggleable "bullet time" power, which acts a little differently from standard _Slow Time_ effects and drains stamina as it goes. I recommend using this, to add a level of tactical movement to combat that is not easily achievable with real-time VR. If you use this, I recommend choosing a higher difficulty setting to compensate.
-
-If you do not want this plugin, disable it in MO2.
+If you want this plugin, enable it in MO2.
 
 ***VRIK Controller Bindings*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/23416)]. These are recommended controller bindings to go along with VRIK. If you are using an Index, you will need the latest community bindings. Unfortunately, some in-game button prompts will not align with these bindings.
 
@@ -227,10 +219,10 @@ The suggested MCM options are as follows:
 5. (VR) **Nemesis PCEA.** Activate both options.
 6. **Simple Horse.** Confirm that Follower horses are disabled.
 7. **SkyUI.** If desired, disable the Active Effects HUD under _General_.
-8. **Spell Research.** Import spells.
+8. **Spell Research.** Import spells. It takes a bit to import everything, several pop ups will appear, hit Yes for all.
 9. **SunHelm.** Activate the mod. If desired, change "Widget Display Type" in _Display and Notifications_ tab (I use "Alpha/Color Based").
 10. (SE) **Survival Control Panel.** Turn off the UI setting under _General_.
-11. **Tentapalooza.** I am working on a script to apply these settings automatically. For now, when you use a Tentapalooza tent, change its corresponding setting in this menu.
+11. **Tentapalooza.** I am working on a script to apply these settings automatically. For now, when you use a Tentapalooza tent, change its corresponding setting in this menu to Rain and Snow.
 12. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
 13. **Vigor.** Start the mod.
 
@@ -332,7 +324,7 @@ Last but not least, Librum includes the fan-favorite [VRIK Player Avatar](https:
 ![Alt Text](Resources/hands.png?raw=true "VRIK-enabled body, with visible holsters.")
 
 ### Dynamic World
-Continuing on with the theme of the last section, Librum includes a suite of mods designed to make static objects react to your actions. Along with the mods mentioned before, the key players here are [Dynamic Things](https://www.nexusmods.com/skyrimspecialedition/mods/19520), [Dynamic Things Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/19521?tab=posts), [Destructible Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/28291), and [Sneak Tools](https://www.nexusmods.com/skyrimspecialedition/mods/1863) (which will come up again later).
+Continuing on with the theme of the last section, Librum includes a suite of mods designed to make static objects react to your actions. Along with the mods mentioned before, the key players here are [Dynamic Things](https://www.nexusmods.com/skyrimspecialedition/mods/19520), [Dynamic Things Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/19521?tab=posts), and [Sneak Tools](https://www.nexusmods.com/skyrimspecialedition/mods/1863) (which will come up again later).
 
 The combined effects of these mods are as follows:
 1. Any haypile or stack of wood you find in the game can be looted, and will decrease in size as you loot them.
@@ -454,10 +446,9 @@ With that in mind, here are the major new quest mods included in Librum:
 10. ***[Moonpath to Elsweyr](https://www.nexusmods.com/skyrimspecialedition/mods/4341).*** One of the great classics of Skyrim modding, but remastered for a modern experience, Moonpath to Elsweyr brings you south to the heart of the Khajiiti homeland in order to recover the legendary _Staff of Indarys_. Along the way, explore the alien jungles of Elsweyr, join forces with the Khajiiti rebellion, and gain access to the airship _Dev Aveza_.
 11. ***[The Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748).*** Return to Sotha Sil's mysterious clockwork city, and take a trip through the stranger side of Elder Scrolls lore. Along the way, solve new puzzles and tread through Zelda-esque dungeons, unlock the fantastical weapons and equipment of Sotha Sil's Chronographers, and explore alien landscapes, all in the labyrinthian expanse of Sotha Sil.
 12. ***[Teldryn Serious](https://www.nexusmods.com/skyrimspecialedition/mods/5541).*** Teldryn Serious heavily expands the backstory of the mercenary Teldryn Sero, taking you around Solstheim once more in order to uncover a dangerous plot and defend Raven Rock.
-13. ***[Death Consumes All](https://www.nexusmods.com/skyrimspecialedition/mods/41910).*** Death Consumes All changes the game drastically, adding a spreading plague to the game world. Find and recruit the excellent companion Livia Salvian, fight the forces of the undead, and try to stop the plague and its mysterious source before it lays all of Skyrim to rest. ***The plague will have no in-game consequences until you first talk to Livia.***
-14. ***[Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673).*** A classic among Skyrim mods, Helgen Reborn gives you an opportunity to rebuild and revive the town of Helgen. Uncover a Thalmor plot, recruit and train your town guard, and participate in a ~bewildering and not-very-apropos~ secret fighting ring to reclaim the town and its legacy.
-15. ***[Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565).*** Now that it's back and purged of bugs, Wyrmstooth allows you to travel to the island of _Wyrmstooth_, north of Solitude, to rid the island of its dragon menace.
-16. ***[The Notice Board](https://www.nexusmods.com/skyrimspecialedition/mods/3218).*** The Notice Board overhauls radiant questing in Skyrim. In short, it adds two notice boards outside each major inn in Skyrim, which detail (a) miscellaneous quests you can undergo and (b) goings-on in the area.
+13. ***[Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673).*** A classic among Skyrim mods, Helgen Reborn gives you an opportunity to rebuild and revive the town of Helgen. Uncover a Thalmor plot, recruit and train your town guard, and participate in a ~bewildering and not-very-apropos~ secret fighting ring to reclaim the town and its legacy.
+14. ***[Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565).*** Now that it's back and purged of bugs, Wyrmstooth allows you to travel to the island of _Wyrmstooth_, north of Solitude, to rid the island of its dragon menace.
+15. ***[The Notice Board](https://www.nexusmods.com/skyrimspecialedition/mods/3218).*** The Notice Board overhauls radiant questing in Skyrim. In short, it adds two notice boards outside each major inn in Skyrim, which detail (a) miscellaneous quests you can undergo and (b) goings-on in the area.
 
 ![Alt Text](Resources/sotha.jpg?raw=true "Trainwiz's work, at its finest.")
 
