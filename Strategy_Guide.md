@@ -72,7 +72,7 @@ _Classes_:
  - Pilgrim -- Increases items harvest from plants by 1. Increases skill learned from reading a skill book by 1.
  - Healer -- +20 Restoration, +20 Alchemy
  - Knight -- +20% health regen, +20% magic resistance
- - Mage -- +100 magicka, +20% magicka regen
+ - Mage -- +100 magicka, +20% magicka regen 
 
 ***Starting Locations.*** Once you've chosen your starting buffs and equipment, you have to choose where to start out in Skyrim. As mentioned before, you _cannot re-enter the Realm_ once you leave, so choose carefully.
 
