@@ -213,7 +213,7 @@ Once you have created your character, open up the in-game settings and navigate 
 
 The suggested MCM options are as follows:
 1. **Cobb Encumbrance.** In the _Presets_ tab, apply the preset "Classic (SEM)".
-2. **Frostfall.** Enable it. Close the MCM, and once it has finished starting up, reopen the MCM and check exposure is set to death, to make sure everything has configured correctly.
+2. **Frostfall.** Enable it. Close the MCM, and once it has finished starting up, check the MCM settings. [This is how the MCM should look.](https://i.imgur.com/WUcO5jT.png)
 3. **Hunterborn**. Start the mod, and disable the Hunterborn config power in the _Enable_ tab.
 4. **Lock Overhaul.** Activate the mod.
 5. (VR) **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
