@@ -8,7 +8,6 @@ Added Mods:
  - _TFoS Trees of Solitude_
  - Remaining Town Overhauls:
    - _Kato's Riverwood_
-   - _Blubbo's Riverwood_ (trees)
    - _Rorikstead Basalt Cliffs_
    - _Rorikstead Wagons_
    - _JK's Rorikstead_
@@ -16,6 +15,7 @@ Added Mods:
  - _Cuyi's Bosmeri Antlers_
  - _Fulcimentum - More Staves and Wands of Skyrim_
  - Combat and Animation changes:
+   - _Archery Gameplay Overhaul_
    - _Athletik Combat_
    - _STAYDOWN_
    - _First Person Combat Animations Overhaul_ (SE only)
@@ -45,6 +45,7 @@ Updated Mods:
 
 Removed Mods:
  - _SkyVoice_
+ - _Death Consumes All_
 
 Other:
  - Fixed bird sound bug.
@@ -52,6 +53,7 @@ Other:
  - Magic damage fixed.
  - Invisible minotaurs fixed.
  - Made _Dragonborn Speaks Naturally_ optional, but available for both SE and VR.
+ - Onmund dialogue/face fixed.
 
 ***v1.52.***
 Added Mods:
