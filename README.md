@@ -209,23 +209,24 @@ Open main menu -> settings -> VR performance, and apply the following settings:
 
 
 #### Configure the MCM
-Once you have created your character, open up the in-game settings and navigate to the _Mod Configuration Menu_ (MCM). You will need to make several changes here to adhere to the suggested Librum setup. Unfortunately, very few of the mods used in Librum support FISS, so you will need to do this each time you create a new character.
+Once you have created your character, wait until all the messages in the top left of the screen stop appearing and then open up the in-game settings and navigate to the _Mod Configuration Menu_ (MCM). You will need to make several changes here to adhere to the suggested Librum setup. Unfortunately, very few of the mods used in Librum support FISS, so you will need to do this each time you create a new character.
 
 The suggested MCM options are as follows:
-1. **Cobb Encumbrance.** In the _Presets_ tab, apply the preset "Classic (SEM)".
-2. **Frostfall.** Enable it. Close the MCM, and once it has finished starting up, check the MCM settings. [This is how the MCM should look.](https://i.imgur.com/WUcO5jT.png)
-3. **Hunterborn**. Start the mod, and disable the Hunterborn config power in the _Enable_ tab.
-4. **Lock Overhaul.** Activate the mod.
-5. (VR) **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
-6. (VR) **Nemesis PCEA.** Activate both options.
-7. **Simple Horse.** Confirm that Follower horses are disabled.
-8. **SkyUI.** If desired, disable the Active Effects HUD under _General_.
-9. **Spell Research.** Import spells. It takes a bit to import everything, several pop ups will appear, hit Yes for all.
-10. **SunHelm.** Activate the mod. If desired, change "Widget Display Type" in _Display and Notifications_ tab (I use "Alpha/Color Based").
-11. (SE) **Survival Control Panel.** Turn off the UI setting under _General_.
-12. **Tentapalooza.** I am working on a script to apply these settings automatically. For now, when you use a Tentapalooza tent, change its corresponding setting in this menu to Rain and Snow.
-13. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
-14. **Vigor.** Start the mod.
+1. **AGO** Disable Arrow Wounds (Player), Arrow Wounds (NPC) and Persistent Arrows
+2. **Cobb Encumbrance.** In the _Presets_ tab, apply the preset "Classic (SEM)".
+3. **Frostfall.** Enable it. Close the MCM, and once it has finished starting up, check the MCM settings. [This is how the MCM should look.](https://i.imgur.com/WUcO5jT.png)
+4. **Hunterborn**. Start the mod, and disable the Hunterborn config power in the _Enable_ tab.
+5. **Lock Overhaul.** Activate the mod.
+6. (VR) **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
+7. (VR) **Nemesis PCEA.** Activate both options.
+8. **Simple Horse.** Confirm that Follower horses are disabled.
+9. **SkyUI.** If desired, disable the Active Effects HUD under _General_.
+10. **Spell Research.** Import spells. It takes a bit to import everything, several pop ups will appear, hit Yes for all.
+11. **SunHelm.** Activate the mod. If desired, change "Widget Display Type" in _Display and Notifications_ tab (I use "Alpha/Color Based").
+12. (SE) **Survival Control Panel.** Turn off the UI setting under _General_.
+13. **Tentapalooza.** I am working on a script to apply these settings automatically. For now, when you use a Tentapalooza tent, change its corresponding setting in this menu to Rain and Snow.
+14. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
+15. **Vigor.** Start the mod.
 
 **Please read if you don't want Surival Features!!** 
 You still need to active **Frostfall** and **SunHelm**, just deactivate them again after they've finished starting up. This is to avoid script bloat and is very important.
