@@ -156,7 +156,7 @@ Now that Librum is installed, it is time to start the game up for real and creat
 #### Copy "Game Folder Files"
 Navigate to the installed Librum folder, where you will find a folder titled `Game Folder Files`. Copy the contents of this folder to the Skyrim root folder.
 
-**Optional: CAS Sharpener for VR.** If you find that the game is too blurry with the default ENB preset, I have included [CAS Sharpener](https://www.nexusmods.com/skyrimspecialedition/mods/38219). Note that it will compromise the "ominous" look of the default ENB.
+**Optional: CAS Sharpener for VR.** If you find that the game is too blurry with the default ENB preset, I have included [CAS Sharpener](https://www.nexusmods.com/skyrimspecialedition/mods/38219) Note that it will compromise the "ominous" look of the default ENB.
 
 #### Starting Librum and Choosing Optional Plugins
 Navigate back to the installed Librum folder, and launch the program `ModOrganizer2.exe`. Before launching the game itself, take a look at the _Optional_ category at the bottom of the Mod Organizer 2 mod list. I will go over each below.
@@ -229,13 +229,13 @@ The suggested MCM options are as follows:
 13. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
 14. **Vigor.** Start the mod.
 
-**Please read if you don't want Surival Features!!** 
+**Please read if you don't want Survival Features!** 
 You still need to active **Frostfall** and **SunHelm**, just deactivate them again after they've finished starting up. This is to avoid script bloat and is very important.
 
 Further, there are a few settings to change using mod configuration spells:
 1. (VR) **VRIK.** This configuration spell is available in the _Powers_ tab. Calibrate to headset height, and then to VR scale.
 
-(VR) ***If you want to use the optional voice commands, apply the following settings:***
+***If you want to use the optional voice commands, apply the following settings:***
 1. **Hunterborn.** Set the "Sense Direction" hotkey to "x".
 2. **Spell Research.** Set the "Spell Research" hotkey to "alt".
 3. **SunHelm.** Set the "Continuance" hotkey to "y", and the "Drink Water/Fill Waterskin" hotkey to "l".
