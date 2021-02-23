@@ -245,7 +245,7 @@ Congratulations! You've completed the Librum setup, and you are ready to play. T
 ### Natural Locomotion
 ***Only applies to VR.***
 
-If you dom't plan on using Natural Locomotion, turn off "physical sneak".
+If you don't plan on using Natural Locomotion, turn off "physical sneak".
 
 This step is ***not mandatory***, but it will significantly improve your VR experience. Download [Natural Locomotion](https://store.steampowered.com/app/798810/Natural_Locomotion/) through Steam. It is an independent app, which allows you to walk around in VR games by swinging your arms (and possibly holding a hotkey). Although this sounds intrusive and unnatural, it quickly becomes a _very_ natural way to move around Skyrim. As a bonus, it works for everything from Skyrim and Fallout 4 VR to _No Man's Sky_.
 
