@@ -213,23 +213,24 @@ Open main menu -> settings -> VR performance, and apply the following settings:
 
 
 #### Configure the MCM
-Once you have created your character, open up the in-game settings and navigate to the _Mod Configuration Menu_ (MCM). You will need to make several changes here to adhere to the suggested Librum setup. Unfortunately, very few of the mods used in Librum support FISS, so you will need to do this each time you create a new character.
+Once you have created your character, wait until all the messages in the top left of the screen stop appearing and then open up the in-game settings and navigate to the _Mod Configuration Menu_ (MCM). You will need to make several changes here to adhere to the suggested Librum setup. Unfortunately, very few of the mods used in Librum support FISS, so you will need to do this each time you create a new character.
 
 The suggested MCM options are as follows:
-1. **Cobb Encumbrance.** In the _Presets_ tab, apply the preset "Classic (SEM)".
-2. **Frostfall.** Enable it. Close the MCM, and once it has finished starting up, check the MCM settings. [This is how the MCM should look.](https://i.imgur.com/WUcO5jT.png)
-3. **Hunterborn**. Start the mod, and disable the Hunterborn config power in the _Enable_ tab.
-4. **Lock Overhaul.** Activate the mod.
-5. (VR) **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
-6. (VR) **Nemesis PCEA.** Activate both options.
-7. **Simple Horse.** Confirm that Follower horses are disabled.
-8. **SkyUI.** If desired, disable the Active Effects HUD under _General_.
-9. **Spell Research.** Import spells. It takes a bit to import everything, several pop ups will appear, hit Yes for all.
-10. **SunHelm.** Activate the mod. If desired, change "Widget Display Type" in _Display and Notifications_ tab (I use "Alpha/Color Based").
-11. (SE) **Survival Control Panel.** Turn off the UI setting under _General_.
-12. **Tentapalooza.** I am working on a script to apply these settings automatically. For now, when you use a Tentapalooza tent, change its corresponding setting in this menu to Rain and Snow.
-13. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
-14. **Vigor.** Start the mod.
+1. **AGO** Disable Arrow Wounds (Player), Arrow Wounds (NPC) and Persistent Arrows
+2. **Cobb Encumbrance.** In the _Presets_ tab, apply the preset "Classic (SEM)".
+3. **Frostfall.** Enable it. Close the MCM, and once it has finished starting up, check the MCM settings. [This is how the MCM should look.](https://i.imgur.com/WUcO5jT.png)
+4. **Hunterborn**. Start the mod, and disable the Hunterborn config power in the _Enable_ tab.
+5. **Lock Overhaul.** Activate the mod.
+6. (VR) **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
+7. (VR) **Nemesis PCEA.** Activate both options.
+8. **Simple Horse.** Confirm that Follower horses are disabled.
+9. **SkyUI.** If desired, disable the Active Effects HUD under _General_.
+10. **Spell Research.** Import spells. It takes a bit to import everything, several pop ups will appear, hit Yes for all.
+11. **SunHelm.** Activate the mod. If desired, change "Widget Display Type" in _Display and Notifications_ tab (I use "Alpha/Color Based").
+12. (SE) **Survival Control Panel.** Turn off the UI setting under _General_.
+13. **Tentapalooza.** I am working on a script to apply these settings automatically. For now, when you use a Tentapalooza tent, change its corresponding setting in this menu to Rain and Snow.
+14. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
+15. **Vigor.** Start the mod.
 
 **Please read if you don't want Survival Features!** 
 You still need to active **Frostfall** and **SunHelm**, just deactivate them again after they've finished starting up. This is to avoid script bloat and is very important.
@@ -247,6 +248,8 @@ Congratulations! You've completed the Librum setup, and you are ready to play. T
 
 ### Natural Locomotion
 ***Only applies to VR.***
+
+If you don't plan on using Natural Locomotion, turn off "physical sneak".
 
 This step is ***not mandatory***, but it will significantly improve your VR experience. Download [Natural Locomotion](https://store.steampowered.com/app/798810/Natural_Locomotion/) through Steam. It is an independent app, which allows you to walk around in VR games by swinging your arms (and possibly holding a hotkey). Although this sounds intrusive and unnatural, it quickly becomes a _very_ natural way to move around Skyrim. As a bonus, it works for everything from Skyrim and Fallout 4 VR to _No Man's Sky_.
 
@@ -534,7 +537,7 @@ Not only do these city improvements make the cities denser, livelier, and more r
 
 Importantly, Librum also includes the changes from [Open Cities](https://www.nexusmods.com/skyrimspecialedition/mods/281), allowing you to seamlessly transition from a city interior to the world of Skyrim. This pairs nicely with mods like [Sneak Tools](https://www.nexusmods.com/skyrimspecialedition/mods/1863) and [Magistrate Levitate](https://www.nexusmods.com/skyrimspecialedition/mods/24695), which allow you to climb over or float above city walls, respectively.
 
-These architectural changes are matched with AI improvements for the citizens of Skyrim. Using [AI Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/21654), Librum makes townspeople act like real townspeople. People will spend the day hunting, farming, traveling, shopping, or cooking (or whatever else they want to do), depending on their profession and the circumstances. Friends and family may gather at the local tavern or for shared meals, for instance. People will more realistically mourn the loss of a friend or loved one. They'll pray at temples associated to their faith. They may even act realistically during combat (and sometimes run away). In addition, [Wet and Cold](https://www.nexusmods.com/skyrimspecialedition/mods/644) forces NPCs to respond correctly to weather events. They'll put on hoods or masks in snow- and ash-storms, respectively, and they'll try to get home as quickly as possible. Wet and Cold makes a number of more graphical improvements, as well, such as visible breath when cold or snow/ash accumulation on people's clothes. Of course, the AI effects of the above mods are magnified by [Realistic Conversations](https://www.nexusmods.com/skyrimspecialedition/mods/1717), [Relationship Dialogue Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/1187), and [Guard Dialogue Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/20791), which make normal citizens and guards not sound like robots or maniacs.
+These architectural changes are matched with AI improvements for the citizens of Skyrim. Using [AI Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/21654), Librum makes townspeople act like real townspeople. People will spend the day hunting, farming, traveling, shopping, or cooking (or whatever else they want to do), depending on their profession and the circumstances. Friends and family may gather at the local tavern or for shared meals, for instance. People will more realistically mourn the loss of a friend or loved one. They'll pray at temples associated to their faith. They may even act realistically during combat (and sometimes run away). Of course, the AI effects of the above mods are magnified by [Realistic Conversations](https://www.nexusmods.com/skyrimspecialedition/mods/1717), [Relationship Dialogue Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/1187), and [Guard Dialogue Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/20791), which make normal citizens and guards not sound like robots or maniacs.
 
 Librum overhauls specific buildings, as well, with [Palaces and Castles Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/1819), [Distinct Interiors](https://www.nexusmods.com/skyrimspecialedition/mods/6130), [Immersive College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/17004), and [Immersive Fort Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/40436). Overall, these mods give a more hand-crafted feel to the world of Skyrim; many of Skyrim's interiors have been totally redesigned, with hand-placed objects, furniture, and lighting, and with elements unique to their location or purpose. Stores will now have goods on display, for instance, and inns and other regional establishments will be decorated according to their respective regions.
 
