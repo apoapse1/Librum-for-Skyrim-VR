@@ -1,6 +1,13 @@
 ***Note:*** Librum versions are of the form _x.y-z_. In this notation, changes to the _x_ or _y_ denote significant updates, and you will need to read the update notes to see how to patch your savefile. Changes to the _z_ denote small hotfixes, and will never require a patched save.
 
-***v1.60.***
+***v1.61.***
+Other:
+ - fixed _More Informative Console_.
+ - fixed player starting spells.
+ - fixed RaceMenu overlays.
+ - fixed Frostfall MCM.
+
+***v1.60 - the Kitchen Sink Update.***
 Added Mods:
  - _The Gray Cowl of Nocturnal_
  - _Dirt and Blood_ and _HD Retexture_
@@ -8,7 +15,6 @@ Added Mods:
  - _TFoS Trees of Solitude_
  - Remaining Town Overhauls:
    - _Kato's Riverwood_
-   - _Blubbo's Riverwood_ (trees)
    - _Rorikstead Basalt Cliffs_
    - _Rorikstead Wagons_
    - _JK's Rorikstead_
@@ -16,6 +22,7 @@ Added Mods:
  - _Cuyi's Bosmeri Antlers_
  - _Fulcimentum - More Staves and Wands of Skyrim_
  - Combat and Animation changes:
+   - _Archery Gameplay Overhaul_
    - _Athletik Combat_
    - _STAYDOWN_
    - _First Person Combat Animations Overhaul_ (SE only)
@@ -30,6 +37,8 @@ Added Mods:
  - _Dawnguard Rewritten Arvak_
  - _Dawnguard Map Markers_
  - _Bird Sound Removed_
+ - _True 3D Sound_
+ - _Clean Menu Plus_
 
 Updated Mods:
  - _Grass FPS Booster_
@@ -44,6 +53,7 @@ Updated Mods:
 
 Removed Mods:
  - _SkyVoice_
+ - _Death Consumes All_
 
 Other:
  - Fixed bird sound bug.
@@ -51,6 +61,8 @@ Other:
  - Magic damage fixed.
  - Invisible minotaurs fixed.
  - Made _Dragonborn Speaks Naturally_ optional, but available for both SE and VR.
+ - Onmund dialogue/face fixed.
+ - Floating door removed in Whiterun plains.
 
 ***v1.52.***
 Added Mods:

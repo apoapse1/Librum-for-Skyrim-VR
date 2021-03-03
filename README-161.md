@@ -46,8 +46,6 @@ Wabbajack modlist installer for _Librum_.
 ## Preamble
 ![Alt text](Resources/DoubleBanner.png?raw=tue "I made this image myself, and I am proud of it.")
 
-<div align="center">With big thanks to the Librum team: _Algeddon_, _Mashtyx_, and _NemeanLion_.</div>
-
 _You're lost in the woods, having narrowly escaped after scaring off a pack of wolves with a summoned flame atronach. Your torch finally fades out, and it's getting cold. You can conjure basic foods, and your summoned atronach provides enough heat for the time being, but you'll need to gather wood in order to sustain a fire and survive the night. With little time to spare, you can't search far for materials -- luckily, you've fashioned a basic hatchet the night before, and you can chop down a nearby tree for lumber. You fall asleep next to your fire, having placed several runes nearby to dispatch would-be predators. Despite a few interruptions in the night, the morning comes at last, and the sun finally breaks over the horizon._
 
 Skyrim VR is a wonderful experience, but it's a very familiar one. Even in stunning 3D, we visit the same locales and repeat the same adventures we have since the end of 2011.
@@ -69,9 +67,6 @@ _Librum_ is a comprehensive gameplay, graphics, and content overhaul that attemp
 <div align="center">"Certainly seems like I'll have to treat this like a new game rather than the skyrim I've come to know."</div>
 
 <div align="center">"Rick Harrison from pawn stars is literally from Librum's Skyrim. [Sword worth 150 Septims] 'Best I can do is 10.'"</div>
-
-<div align="center">"So far I've had a blast with the modlist. Makes Skyrim feel like a new game."</div>
-
 
 ## Technical Requirements
 Librum is fairly technically intensive, but in line with standard Skyrim VR graphics enhancements. Your mileage will certainly vary -- I can only provide my own specs, but I imagine you will find good performance on a weaker system.
@@ -162,7 +157,6 @@ Now that Librum is installed, it is time to start the game up for real and creat
 
 #### Copy "Game Folder Files"
 Navigate to the installed Librum folder, where you will find a folder titled `Game Folder Files`. Copy the contents of this folder to the Skyrim root folder.
-If you don't want 3D sound, do not copy over x3audio1_7.dll and the hrtf folder.
 
 **Optional: CAS Sharpener for VR.** If you find that the game is too blurry with the default ENB preset, I have included [CAS Sharpener](https://www.nexusmods.com/skyrimspecialedition/mods/38219) Note that it will compromise the "ominous" look of the default ENB.
 
@@ -219,7 +213,7 @@ Open main menu -> settings -> VR performance, and apply the following settings:
 
 
 #### Configure the MCM
-Once you have created your character, wait until all the messages in the top left of the screen stop appearing and click Yes/OK to all message pop-ups that appear, and then open up the in-game settings and navigate to the _Mod Configuration Menu_ (MCM). You will need to make several changes here to adhere to the suggested Librum setup. Unfortunately, very few of the mods used in Librum support FISS, so you will need to do this each time you create a new character.
+Once you have created your character, wait until all the messages in the top left of the screen stop appearing and then open up the in-game settings and navigate to the _Mod Configuration Menu_ (MCM). You will need to make several changes here to adhere to the suggested Librum setup. Unfortunately, very few of the mods used in Librum support FISS, so you will need to do this each time you create a new character.
 
 The suggested MCM options are as follows:
 1. **AGO** Disable Arrow Wounds (Player), Arrow Wounds (NPC) and Persistent Arrows
@@ -236,8 +230,7 @@ The suggested MCM options are as follows:
 12. (SE) **Survival Control Panel.** Turn off the UI setting under _General_.
 13. **Tentapalooza.** I am working on a script to apply these settings automatically. For now, when you use a Tentapalooza tent, change its corresponding setting in this menu to Rain and Snow.
 14. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
-15. **Traits in Skyrim.** Click add config note. Open your inventory and click on the "Medical History" book.
-16. **Vigor.** Start the mod.
+15. **Vigor.** Start the mod.
 
 **Please read if you don't want Survival Features!** 
 You still need to active **Frostfall** and **SunHelm**, just deactivate them again after they've finished starting up. This is to avoid script bloat and is very important.
@@ -314,9 +307,8 @@ Librum makes several major changes to character progression, described by the fo
  | Dragon souls are exclusively used to unlock dragon shouts.	| Dragon souls have three purposes. They can be used to unlock shouts, they can be used to unlock perk points (as mentioned above), and finally, you will have passive buffs applied depending on the number of unspent souls in your collection.
  | You can level up at any time by opening the Skills menu.	| You must sleep for 8 hours in order to level up, in order to prevent level-ups in dangerous locations.
  | Perks are typically straight buffs to your existing skills, and form the core part of your character's identity.	| Librum uses [Vokrii](https://www.nexusmods.com/skyrimspecialedition/mods/26176) to mix up perk benefits and to help balance around having only a small handful of perks; a single perk investment in any tree replaces vanilla's "20/40/60/80/100%" improvement perks or "Novice/Apprentice/Adept/Expert/Master" perks.
- | Standing Stones provide moderate benefits to an existing character build, and can be changed at any time.	| Standing Stones entirely change your character's make-up, thanks to [Curse of the Firmament](https://www.nexusmods.com/skyrimspecialedition/mods/28419), but they can only be chosen during character creation.
- | Your race typically gives you a once-a-day power, as well as some moderate resistances. 	| Through [Legacy](https://www.nexusmods.com/skyrimspecialedition/mods/36415), your race confers significant passive abilities. These typically change gameplay drastically.
- | You can open your map whenever you want. | Thanks to [Helps To Have A Map](https://www.nexusmods.com/skyrimspecialedition/mods/37238) you must have a Map of [Location] equipped in your shield hand to open the map menu. Maps eventually break the more you use them, and if you take damage with your map equipped.
+ | Standing Stones provide moderate benefits to an existing character build, and can be changed at any time.	| Standing Stones entirely change your character's make-up, thanks to [Andromeda](https://www.nexusmods.com/skyrimspecialedition/mods/14910), but they can only be chosen during character creation.
+ | Your race typically gives you a once-a-day power, as well as some moderate resistances. 	| Through [Imperious](https://www.nexusmods.com/skyrimspecialedition/mods/1315), your race confers significant passive abilities. These typically change gameplay drastically.
 
 ### User Interface and Controls
 Librum makes a few changes to the default user interface, to (a) create a unique visual experience and (b) to improve the VR experience. For the first point, Librum uses [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604) along with the excellent [Dear Diary UI](https://www.nexusmods.com/skyrimspecialedition/mods/23010) and pieces of the [Adventurer Theme Mod](https://www.nexusmods.com/skyrimspecialedition/mods/35568) in order to blend a Skyrim-style modern UI with touches of a more Oblivion-style classic visual theme:
@@ -371,7 +363,7 @@ Finally, through _Sunhelm_, diseases have become much more dangerous. Instead of
 ### Combat and Enemies
 Librum uses a slew of mods to improve the combat experience overall, with a strong focus on making each fight (within reason) a dangerous and harrowing experience.
 
-For general combat, Librum combines its many [new VR options](#user-interface-and-controls) with [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549), [Mortal Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/4881), [Skyrim Revamped - Complete Enemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/14598), [Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807), and [Morrowloot Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/3058). The former two mods add an element of dynamism to combat -- instead of standing and swinging your Touch controllers wildly, you will need to duck, weave, and carefully time both your attacks and your blocks. If you interrupt an opponent's power attack pullback or bow draw, or if you hit them from behind or while staggered, you will gain massive "attack of opportunity" damage bonuses. Similarly, if you properly time your block, you can negate most damage and stagger your opponent (thus allowing for an attack of opportunity). Of course, the same effects apply to your opponents, so you will need to keep your guard up as you fight.
+For general combat, Librum combines its many [new VR options](#user-interface-and-controls) with [Wildcat](https://www.nexusmods.com/skyrimspecialedition/mods/1368), [Mortal Enemies](#https://www.nexusmods.com/skyrimspecialedition/mods/4881), [Advanced Adversary Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/6843?tab=description), [Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807), and [Morrowloot Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/3058). The former two mods add an element of dynamism to combat -- instead of standing and swinging your Touch controllers wildly, you will need to duck, weave, and carefully time both your attacks and your blocks. If you interrupt an opponent's power attack pullback or bow draw, or if you hit them from behind or while staggered, you will gain massive "attack of opportunity" damage bonuses. Similarly, if you properly time your block, you can negate most damage and stagger your opponent (thus allowing for an attack of opportunity). Of course, the same effects apply to your opponents, so you will need to keep your guard up as you fight.
 
 On the flip side, you (and your opponents) will have to be much more careful in order to avoid Wildcat's all-new injuries, which can quickly turn the tide of combat. Any time someone sustains a major attack (30% or more of their total health), they have a chance of injuring your head, chest, arms, legs, or back, and thus facing major body-part-specific penalties to their combat abilities.
 
@@ -422,8 +414,8 @@ In addition, unique spells from previous games make a comeback. These range from
 This is just the core of Librum's magic offerings, however. Through the addition of several curated spell packs, Librum opens up many more-specific branches of magic:
 
  - ***Earth, Wind, and ~Fire~ Water Magic.*** Cast the same Mysticism-style destruction spells for the elements of earth, wind, water, and poison, thanks to [Elemental Destruction Magic](https://www.nexusmods.com/skyrimspecialedition/mods/440). Certain enemies will resist or be weak to these elements, and Vokrii perks have been changed to reflect these new additions. You can also summon earth, wind, and water atronachs, in the same style as the vanilla elements, and you can apply enchantments that make use of these new elements.
- - ***Shadow Magic.*** Teleport through shadows, cloak areas in darkness or reveal important items in existing darkness, and draw power from the shadows around you, with [Triumvirate's](https://www.nexusmods.com/skyrimspecialedition/mods/39170) expansive Shadow magic options.
- - ***Blood Magic.*** Use your health in place of your Magicka to cast spells, with [Ace Blood Magic](https://www.nexusmods.com/skyrimspecialedition/mods/16995). You can also manipulate blood in the environment, with bleeding effects, blood-mists that can infect opponents, and defensive orbs or pools of blood.
+ - ***Shadow Magic.*** Teleport through shadows, cloak areas in darkness or reveal important items in existing darkness, and draw power from the shadows around you, with [Triumvirate's](https://www.nexusmods.com/skyrimspecialedition/mods/39170) expansive Shadow magic options. You can also deal all-new "shadow damage", petrify opponents, and apply shadow-based curses, combining Triumvirate's more aggressive options with [Shadow Spell Package](https://www.nexusmods.com/skyrimspecialedition/mods/13299).
+ - ***Blood Magic.*** Use your health in place of your Magicka to cast spells, with [Ace Blood Magic](https://www.nexusmods.com/skyrimspecialedition/mods/16995). You can also manipulate blood in the environment, with bleeding effects, blood-mists that can infect opponents, and defensive orbs or pools of blood. Vampires have their own sort of blood magic, through [Sacrosanct's](https://www.nexusmods.com/skyrimspecialedition/mods/3928) "Hemomancy" mechanic. The more you feed, the more hemomancy spells you unlock.
  - ***Nature Magic.*** Follow the path of the druid, using nature-themed spell schools from Triumvirate and [Forgotten Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/12711). Draw power or healing from the environment, infect your target with damaging spores or poisons, or grow various damaging brambles, vines, or mushrooms around your opponent. You can also call unique animals to aid you in combat, or take the form of these animals to gain unique abilities.
  - ***Expanded Fire/Frost/Shock Magic.*** Use Forgotten Magic Redone's heavily expanded elemental options to add new combat mechanics to your Destruction mage. Teleport around the battlefield through shock gates, surround yourself with a glacial fortress or freeze would-be attackers solid, or drop meteors on distant opponents. 
  - ***Holy Magic.*** Call upon the Divines to aid you in your quest, using spells from [Dawnguard Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/25094) as well as Triumvirate and Forgotten Magic Redone. Sun spells have been expanded to match the other elements, but you can also bless your weapons in combat, protect and buff nearby allies, or summon divine weapons or guardians to fight on your behalf.
@@ -508,6 +500,7 @@ Finally, Librum adds several _follower_ mods, to make the game world a little le
 25. ***[Hoth](https://www.nexusmods.com/skyrimspecialedition/mods/16137).*** One of the most visually unique follower mods available, Hoth is a grizzled bounty hunter and a new sort of companion to your character. Uniquely, he can provide bounty quests radiantly, dependent on your current area. He can talk dynamically with Auri.
 26. ***[Serana Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/16222) and [Serana Dialogue Addon](https://www.nexusmods.com/skyrimspecialedition/mods/32161).*** Together, these mods turn Dawnguard's beloved vampire follower into the sort of "super follower" introduced by the above mods. She is now aware of most quests and situations you find yourself in, and she speaks naturally with you and with others.
 27. ***[Useful Dogs](https://www.nexusmods.com/skyrimspecialedition/mods/1666).*** Although a minor addition relative to the follower mods above, Useful Dogs allows you to give commands to your canine companion. You can send them looking for food, weapons, ammunition, keys, and more, in the style of Fallout 3 and 4.
+28. ***[Shezarrine -- The Fate of Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/15866).*** In its current iteration, _Shezarrine_ overhauls the College of Winterhold's Onmund as a "super follower" of the above sort. In addition to greatly improved behavior and world interactions for Onmund, it adds a signifant amount to the end of the College's questline, completing the story of Onmund's family. 
 
 ### Graphics and Ambience
 Last but not least, Librum includes a full graphical makeover of Skyrim. The goal is to match the photorealism we are used to these days, but with a bend towards realizing Librum's dark, gritty, and foreboding nature in Skyrim's atmosphere.Perhaps most important for this end, Librum includes a suite of literal atmosphere mods, centered around a Frankenstein-ing of [Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/12125) and [True Storms](https://www.nexusmods.com/skyrimspecialedition/mods/2472):
@@ -536,7 +529,7 @@ Another interesting addition to Librum comes in the form of [Frozen Electrocuted
 
 Finally, one of my major goals of Librum was to make the existing Skyrim content feel new and different. As such, Librum completely redoes every town and city in Skyrim, from large-scale architecture and layout changes to a re-imagining of citizens' AI, all towards the end of making Skyrim a natural-but-exciting place to be.
 
-On the town-and-city level, Librum combines the [Great City series](https://www.nexusmods.com/skyrimspecialedition/mods/20272) (except for Winterhold, for compatibility) with [Dawn of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/9074) and Cities of the North: [Dawnstar](https://www.nexusmods.com/skyrimspecialedition/mods/28952), [Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/40088), and [Morthal](https://www.nexusmods.com/skyrimspecialedition/mods/34168). It also includes the minor mods in the Great City series: [Solitude (docks)](https://www.nexusmods.com/skyrimspecialedition/mods/22243), [Karthwasten](https://www.nexusmods.com/skyrimspecialedition/mods/33032), [Old Hroldan](https://www.nexusmods.com/skyrimspecialedition/mods/33189), [Ivarstead](https://www.nexusmods.com/skyrimspecialedition/mods/34505), [Shor's Stone](https://www.nexusmods.com/skyrimspecialedition/mods/35977), [Mixwater Mill](https://www.nexusmods.com/skyrimspecialedition/mods/36350), and [Kynesgrove](https://www.nexusmods.com/skyrimspecialedition/mods/42639). We also have [Kato's Riverwood](https://www.nexusmods.com/skyrimspecialedition/mods/7031), and [Rorikstead Basalt Cliffs](https://www.nexusmods.com/skyrimspecialedition/mods/25718). For Solstheim, I have included [Better Tel Mithryn](https://www.nexusmods.com/skyrimspecialedition/mods/643) and [Quaint Raven Rock](https://www.nexusmods.com/skyrimspecialedition/mods/20851).
+On the town-and-city level, Librum combines the [Great City series](https://www.nexusmods.com/skyrimspecialedition/mods/20272) (except for Rorikstead and Winterhold, for compatibility) with [Dawn of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/9074) and Cities of the North: [Dawnstar](https://www.nexusmods.com/skyrimspecialedition/mods/28952), [Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/40088), and [Morthal](https://www.nexusmods.com/skyrimspecialedition/mods/34168). It also includes the minor mods in the Great City series: [Solitude (docks)](https://www.nexusmods.com/skyrimspecialedition/mods/22243), [Karthwasten](https://www.nexusmods.com/skyrimspecialedition/mods/33032), [Old Hroldan](https://www.nexusmods.com/skyrimspecialedition/mods/33189), [Ivarstead](https://www.nexusmods.com/skyrimspecialedition/mods/34505), [Shor's Stone](https://www.nexusmods.com/skyrimspecialedition/mods/35977), [Mixwater Mill](https://www.nexusmods.com/skyrimspecialedition/mods/36350), and [Kynesgrove](https://www.nexusmods.com/skyrimspecialedition/mods/42639). For Solstheim, I have included [Better Tel Mithryn](https://www.nexusmods.com/skyrimspecialedition/mods/643) and [Quaint Raven Rock](https://www.nexusmods.com/skyrimspecialedition/mods/20851).
 
 Not only do these city improvements make the cities denser, livelier, and more realistic -- they also give each city, town, and hamlet its own unique character. Instead of the "see one, see them all" nature of the towns in vanilla Skyrim, each of Skyrim's villages has its own architectural style, its own industry, and its own landscape.
 
@@ -562,8 +555,6 @@ For an updated list of FAQs, please see my Discord server:
 [<img src="Resources/discord.PNG" width="300">](https://discord.gg/3f8vPYFmJX)
 
 ## Credits and Thanks
-First of all, I couldn't have done it without the Librum team: _Algeddon_, _Mashtyx_, and _NemeanLion_. They have been a huge part of this process, both creatively and in developing the modlist and its associated resources.
-
 Of course, I can only take a small slice of the credit for this modlist. I've spent the past several months compiling, reviewing, and properly patching together all of these mods, but the mod authors themselves did most of the work. If you particularly like a certain quest, location, or gameplay mechanic, please go thank the mod authors!
 
 ## Contact
