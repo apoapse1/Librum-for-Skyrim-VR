@@ -212,7 +212,7 @@ Open main menu -> settings -> VR performance, and apply the following settings:
 
 
 #### Configure the MCM
-Once you have created your character, wait until all the messages in the top left of the screen stop appearing and then open up the in-game settings and navigate to the _Mod Configuration Menu_ (MCM). You will need to make several changes here to adhere to the suggested Librum setup. Unfortunately, very few of the mods used in Librum support FISS, so you will need to do this each time you create a new character.
+Once you have created your character, wait until all the messages in the top left of the screen stop appearing and click Yes/OK to all message pop-ups that appear, and then open up the in-game settings and navigate to the _Mod Configuration Menu_ (MCM). You will need to make several changes here to adhere to the suggested Librum setup. Unfortunately, very few of the mods used in Librum support FISS, so you will need to do this each time you create a new character.
 
 The suggested MCM options are as follows:
 1. **AGO** Disable Arrow Wounds (Player), Arrow Wounds (NPC) and Persistent Arrows
@@ -229,7 +229,7 @@ The suggested MCM options are as follows:
 12. (SE) **Survival Control Panel.** Turn off the UI setting under _General_.
 13. **Tentapalooza.** I am working on a script to apply these settings automatically. For now, when you use a Tentapalooza tent, change its corresponding setting in this menu to Rain and Snow.
 14. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
-15. **Traits in Skyrim.** Click add config note.
+15. **Traits in Skyrim.** Click add config note. Open your inventory and click on the "Medical History" book.
 16. **Vigor.** Start the mod.
 
 **Please read if you don't want Surival Features!!** 
