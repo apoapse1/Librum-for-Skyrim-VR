@@ -66,6 +66,8 @@ _Librum_ is a comprehensive gameplay, graphics, and content overhaul that attemp
 
 <div align="center">"Certainly seems like I'll have to treat this like a new game rather than the skyrim I've come to know."</div>
 
+<div align="center">"The work you're all doing is quite amazing. So far I've had a blast with the modlist. Makes Skyrim feel like a new game."</div>
+
 ## Technical Requirements
 Librum is fairly technically intensive, but in line with standard Skyrim VR graphics enhancements. Your mileage will certainly vary -- I can only provide my own specs, but I imagine you will find good performance on a weaker system.
 
@@ -155,6 +157,7 @@ Now that Librum is installed, it is time to start the game up for real and creat
 
 #### Copy "Game Folder Files"
 Navigate to the installed Librum folder, where you will find a folder titled `Game Folder Files`. Copy the contents of this folder to the Skyrim root folder.
+If you don't want 3D sound, do not copy over x3audio1_7.dll and the hrtf folder.
 
 #### Starting Librum and Choosing Optional Plugins
 Navigate back to the installed Librum folder, and launch the program `ModOrganizer2.exe`. Before launching the game itself, take a look at the _Optional_ category at the bottom of the Mod Organizer 2 mod list. I will go over each below.
@@ -226,7 +229,8 @@ The suggested MCM options are as follows:
 12. (SE) **Survival Control Panel.** Turn off the UI setting under _General_.
 13. **Tentapalooza.** I am working on a script to apply these settings automatically. For now, when you use a Tentapalooza tent, change its corresponding setting in this menu to Rain and Snow.
 14. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
-15. **Vigor.** Start the mod.
+15. **Traits in Skyrim.** Click add config note.
+16. **Vigor.** Start the mod.
 
 **Please read if you don't want Surival Features!!** 
 You still need to active **Frostfall** and **SunHelm**, just deactivate them again after they've finished starting up. This is to avoid script bloat and is very important.
@@ -303,8 +307,8 @@ Librum makes several major changes to character progression, described by the fo
  | Dragon souls are exclusively used to unlock dragon shouts.	| Dragon souls have three purposes. They can be used to unlock shouts, they can be used to unlock perk points (as mentioned above), and finally, you will have passive buffs applied depending on the number of unspent souls in your collection.
  | You can level up at any time by opening the Skills menu.	| You must sleep for 8 hours in order to level up, in order to prevent level-ups in dangerous locations.
  | Perks are typically straight buffs to your existing skills, and form the core part of your character's identity.	| Librum uses [Vokrii](https://www.nexusmods.com/skyrimspecialedition/mods/26176) to mix up perk benefits and to help balance around having only a small handful of perks; a single perk investment in any tree replaces vanilla's "20/40/60/80/100%" improvement perks or "Novice/Apprentice/Adept/Expert/Master" perks.
- | Standing Stones provide moderate benefits to an existing character build, and can be changed at any time.	| Standing Stones entirely change your character's make-up, thanks to [Andromeda](https://www.nexusmods.com/skyrimspecialedition/mods/14910), but they can only be chosen during character creation.
- | Your race typically gives you a once-a-day power, as well as some moderate resistances. 	| Through [Imperious](https://www.nexusmods.com/skyrimspecialedition/mods/1315), your race confers significant passive abilities. These typically change gameplay drastically.
+ | Standing Stones provide moderate benefits to an existing character build, and can be changed at any time.	| Standing Stones entirely change your character's make-up, thanks to [Curse of the Firmament](https://www.nexusmods.com/skyrimspecialedition/mods/28419), but they can only be chosen during character creation.
+ | Your race typically gives you a once-a-day power, as well as some moderate resistances. 	| Through [Legacy](https://www.nexusmods.com/skyrimspecialedition/mods/36415), your race confers significant passive abilities. These typically change gameplay drastically.
 
 ### User Interface and Controls
 Librum makes a few changes to the default user interface, to (a) create a unique visual experience and (b) to improve the VR experience. For the first point, Librum uses [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604) along with the excellent [Dear Diary UI](https://www.nexusmods.com/skyrimspecialedition/mods/23010) and pieces of the [Adventurer Theme Mod](https://www.nexusmods.com/skyrimspecialedition/mods/35568) in order to blend a Skyrim-style modern UI with touches of a more Oblivion-style classic visual theme:
