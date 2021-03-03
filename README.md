@@ -66,7 +66,7 @@ _Librum_ is a comprehensive gameplay, graphics, and content overhaul that attemp
 
 <div align="center">"Certainly seems like I'll have to treat this like a new game rather than the skyrim I've come to know."</div>
 
-<div align="center">"The work you're all doing is quite amazing. So far I've had a blast with the modlist. Makes Skyrim feel like a new game."</div>
+<div align="center">"So far I've had a blast with the modlist. Makes Skyrim feel like a new game."</div>
 
 ## Technical Requirements
 Librum is fairly technically intensive, but in line with standard Skyrim VR graphics enhancements. Your mileage will certainly vary -- I can only provide my own specs, but I imagine you will find good performance on a weaker system.
