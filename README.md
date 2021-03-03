@@ -46,6 +46,8 @@ Wabbajack modlist installer for _Librum_.
 ## Preamble
 ![Alt text](Resources/DoubleBanner.png?raw=tue "I made this image myself, and I am proud of it.")
 
+<div align="center">With big thanks to the Librum team: _Algeddon_, _Mashtyx_, and _NemeanLion_.</div>
+
 _You're lost in the woods, having narrowly escaped after scaring off a pack of wolves with a summoned flame atronach. Your torch finally fades out, and it's getting cold. You can conjure basic foods, and your summoned atronach provides enough heat for the time being, but you'll need to gather wood in order to sustain a fire and survive the night. With little time to spare, you can't search far for materials -- luckily, you've fashioned a basic hatchet the night before, and you can chop down a nearby tree for lumber. You fall asleep next to your fire, having placed several runes nearby to dispatch would-be predators. Despite a few interruptions in the night, the morning comes at last, and the sun finally breaks over the horizon._
 
 Skyrim VR is a wonderful experience, but it's a very familiar one. Even in stunning 3D, we visit the same locales and repeat the same adventures we have since the end of 2011.
@@ -555,6 +557,8 @@ For an updated list of FAQs, please see my Discord server:
 [<img src="Resources/discord.PNG" width="300">](https://discord.gg/3f8vPYFmJX)
 
 ## Credits and Thanks
+First of all, I couldn't have done it without the Librum team: _Algeddon_, _Mashtyx_, and _NemeanLion_. They have been a huge part of this process, both creatively and in developing the modlist and its associated resources.
+
 Of course, I can only take a small slice of the credit for this modlist. I've spent the past several months compiling, reviewing, and properly patching together all of these mods, but the mod authors themselves did most of the work. If you particularly like a certain quest, location, or gameplay mechanic, please go thank the mod authors!
 
 ## Contact
