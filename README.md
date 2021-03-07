@@ -222,7 +222,7 @@ Open main menu -> settings -> VR performance, and apply the following settings:
 Once you have created your character, wait until all the messages in the top left of the screen stop appearing and click Yes/OK to all message pop-ups that appear, and then open up the in-game settings and navigate to the _Mod Configuration Menu_ (MCM). You will need to make several changes here to adhere to the suggested Librum setup. Unfortunately, very few of the mods used in Librum support FISS, so you will need to do this each time you create a new character.
 
 The suggested MCM options are as follows:
-1. **AGO** Disable Arrow Wounds (Player), Arrow Wounds (NPC) and Persistent Arrows
+1. **AGO** Disable Arrow Wounds (Player), Arrow Wounds (NPC), Persistent Arrows and Arm Fatigue.
 2. **Cobb Encumbrance.** In the _Presets_ tab, apply the preset "Classic (SEM)".
 3. **Frostfall.** Enable it. Close the MCM, and once it has finished starting up, check the MCM settings. [This is how the MCM should look.](https://i.imgur.com/WUcO5jT.png)
 4. **Hunterborn**. Start the mod, and disable the Hunterborn config power in the _Enable_ tab.
