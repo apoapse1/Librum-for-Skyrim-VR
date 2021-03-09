@@ -121,7 +121,7 @@ Bugfixes:
  - fixed transparency issue with _Deadly Spell Impacts_
  - fixed inconsistencies with follower payment
  - fixed most VR crashing
-
+ - fixed Growl MCM
 
 ***v1.61.***
 Other:
