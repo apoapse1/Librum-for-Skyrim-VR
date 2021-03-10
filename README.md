@@ -445,7 +445,7 @@ With that in mind, the world is largely _entirely unleveled_.
 The "stages" of the game
 
 ### The Dragonborn Story
-Librum is designed around your character being the legendary Dovahkiin. However, the vanilla experience didn't fit our vision for what it means to be Dragonborn, and what the The Dragonborn's story holds. To handle this, we have [Dragon souls are free](URL) and [True Teacher Durnehviir](https://www.nexusmods.com/skyrimspecialedition/mods/44969).
+Librum is designed around your character being the legendary Dovahkiin. However, the vanilla experience didn't fit our vision for what it means to be Dragonborn, and what the The Dragonborn's story holds. To handle this, we have [Dragon souls are free](https://www.nexusmods.com/skyrimspecialedition/mods/46794/) and [True Teacher Durnehviir](https://www.nexusmods.com/skyrimspecialedition/mods/44969).
 
 ### Quests and Adventures
 For all its strengths, Skyrim never got the questing aspect quite right. The game's many questlines are fairly straightforward and predictable, and most of its dungeons are as well. Librum only touches the worst offenders among Skyrim's vanilla quests, but it adds a great deal of new content to experience. Putting together dozens of curated quest and adventure mods, Librum's new content totals to hundreds of new quests and new areas to explore, including more questlines than are in the vanilla game, and several extensive dungeon systems and expansive new lands. In compiling these mods, there were a few specific requirements I upheld (excluding many otherwise fantastic mods, unfortunately):
