@@ -1,5 +1,128 @@
 ***Note:*** Librum versions are of the form _x.y-z_. In this notation, changes to the _x_ or _y_ denote significant updates, and you will need to read the update notes to see how to patch your savefile. Changes to the _z_ denote small hotfixes, and will never require a patched save.
 
+***v2.0.***
+Added Mods:
+ - Core gameplay mechanics redone:
+   - _Legacy Race Overhaul_
+   - _Apoapse's Legacy Startup_
+   - _Blade and Blunt_
+   - _Enchanting Awakened_
+   - _Curse of the Firmament_
+   - _Curse of the Vampire_
+   - _Daggerfall Traits for Skyrim SE_
+   - _Better Magical Progression_
+ - _Nightmare of Lorkhan_ (by our very own dev, Algeddon!) and _Daggerfall Traits_ patch
+ - New follower system:
+   - _Nether's Follower Framework_
+   - _Special Edition Followers_
+   - _Interesting Follower Requirements for Interesting NPCs_ (no hard req'ts version)
+   - _Meeko Reborn_
+   - _Vigilance Reborn_
+ - New dungeons and quests:
+   - _Hammet's Dungeon Pack_
+   - _The Land of Vominheim_
+   - _Midwood Isle_
+   - _Darkend_
+   - _Hammet's Dungeons - More Rewards_
+   - _EasierRider's Dungeon Pack_
+  - Enemy Encounters:
+   - _Less Dragons - No Random Dragons_
+   - _Skyrim Revamped - Complete Enemy Overhaul_
+ - Patches for quest mods:
+   - _Helps to Have a Map_ patches for _Vominheim_, _Midwood_, and _Darkend_
+   - _Vigilant - SRCEO_ patch and delay
+   - _Project AHO - Start When You Want_
+   - _Unofficial LotD Bruma Patch_ (and _Curator's Companion_ add-on)
+   - _Quest and Reward Delay for Legacy of the Dragonborn_
+   - _Vigilant Crafting Stations_ by Sovn
+   - _Project AHO Telvanni Hybrid Temper Patch_
+   - _Moonpath Stuck Combat Music Fix_
+ - Enhanced graphics for quest mods:
+   - _Majestic Mountains for Bruma_ (TheRetroCarrot's edit)
+   - _Vigilant Book Covers_
+   - _Ashes - Vigilant Witch Hunter Armor Retexture_
+   - _Stendarr Statue Replacer for Vigilant_
+   - _Alik'r Flora Overhaul_ for _Gray Cowl of Nocturnal_
+ - New UI for Skyrim SE:
+   - _Adventurer Theme_ perk menu and start menu backgrounds
+   - _A Matter of Time_
+   - _SkyHUD_
+   - _Paper HUD_ (bottom bar option)
+   - (VR and SE) _SkyUI The Adventurer Theme Mod Tweak_ (by our own dev, Mashtyx!)
+ - Gameplay and balance tweaks:
+   - _Unlocking Shouts Costs No Souls_
+   - _True Teacher Durnehviir_
+   - _Incognito_
+   - _Khajiits Steal Too - Caravan Fence Option_
+   - _Ask Innkeepers to Show Room_
+   - (VR only) _Simple Realistic Archery_
+   - _No Killmoves - No Killcams - No Killbites_
+   - (VR) _Auto Sneak and Jump_
+   - _True Armor_
+ - New city overhauls and textures:
+   - _The Great City of Rorikstead_
+   - _2K SMIM Whiterun Bench - Dark Option_
+   - _3D Solitude Market Trellis_
+   - _3D Whiterun Trellis_
+   - _Better Balustrades for Windhelm_
+   - _Markarth - a Mountainous Experience_
+   - _Markarth - a Reflective Experience_
+   - _Markarth Concrete Walkways_
+   - _Mrf's Riften_
+   - _Solitude Dome Paintings_
+   - _Solitude Dome New Meshes_
+   - _Solitude Clover to Ivy Replacer_
+   - _Solitude Grass Textures_
+   - _Visitant's Solitude Rooftops_
+   - _Windhelm Brazier Replacer_
+ - General graphics improvements:
+   - _Regal Dragons - SSE Retexture Mod_
+   - _Pretty Animated Potions_
+   - _Cloaks of Skyrim Retextured_
+   - _Real 3D Walls_ alternative normal map
+   - _Mari's Flora_ all-in-one
+   - _Enchantment Effect Replacer_
+   - _Retexture for The Scroll_
+   - _Iconic Statues_
+   - _Undead Summons Emerge From the Ground_
+
+Removed Mods:
+ - _Simple Horse_ (redundant with NFF)
+ - _Staydown_ (redundant with NFF)
+ - WICO patches (unnecessary with Synthesis)
+ - _Stunning Statues of Skyrim_ (_Iconic Statues_ better fits Librum's theme)
+ - _TB's Improved Rivers_ (mod hidden)
+ - _High Poly Project_ (poorly optimized)
+ - _Bent Pines_ (unrealistic, so does not fit Librum's tree goals)
+ - _OBIS_ (doesn't fit Librum's leveling and magic goals)
+ - _Summermyst_ (incompatible with _Enchanting Awakened_, but we may reintroduce later)
+ - _Visual Animated Enchants_ (_Enchantment Effect Replacer_ better fits Librum's theme)
+ - _Underwhelming Multiple Followers_ (redundant with NFF)
+ - _Shezarrine - the Fate of Tamriel - Prologue_ (compatibility concerns)
+ - _Eagle's Nest Teleport Spell_ (works against Librum's magic goals)
+ - _Diverse Dragons Collection_ (balance and theme issues)
+ - _Unique Uniques_ (largely unnecessary with _LotD_, so not worthwhile)
+ - Individual Mari mods (replaced by all-in-one)
+ - _JK's Rorikstead_ and _Rorikstead Wagons_ (TGCoR better fits Librum's theme)
+ - _Advanced Adversary Encounters_ (SRCEO better fits Librum's leveling goals)
+ - _Wildcat_ (_Blade and Blunt_ better fits Librum's new combat system)
+ - _Less Dragons_ (replaced with _No Dragons_)
+ - _Imperious_ (_Legacy_ better fits Librum's character goals)
+ - _Andromeda_ (_Curse of the Firmament_ better fits Librum's character goals)
+ - _Sacrosanct_ (_Curse of the Vampire_ better fits Librum's magic goals)
+
+Bugfixes:
+ - fixed crash when killing werebears and burnt spriggans
+ - fixed dragon corpse issues
+ - fixed blacksmith forge water mesh
+ - fixed all known floating or misplaced objects
+ - fixed Moonpath combat music
+ - fixed AHO starting requirements
+ - fixed transparency issue with _Deadly Spell Impacts_
+ - fixed inconsistencies with follower payment
+ - fixed most VR crashing
+ - fixed Growl MCM
+
 ***v1.61.***
 Other:
  - fixed _More Informative Console_.
