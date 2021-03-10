@@ -343,7 +343,7 @@ Last but not least, Librum includes the fan-favorite [VRIK Player Avatar](https:
 ![Alt Text](Resources/hands.png?raw=true "VRIK-enabled body, with visible holsters.")
 
 ### Dynamic World
-Continuing on with the theme of the last section, Librum includes a suite of mods designed to make static objects react to your actions. Along with the mods mentioned before, the key players here are [Dynamic Things](https://www.nexusmods.com/skyrimspecialedition/mods/19520), [Dynamic Things Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/19521?tab=posts), and [Sneak Tools](https://www.nexusmods.com/skyrimspecialedition/mods/1863) (which will come up again later).
+Continuing on with the theme of the last section, Librum includes a suite of mods designed to make static objects react to your actions. Along with the mods mentioned before, the key players here are [Dynamic Things](https://www.nexusmods.com/skyrimspecialedition/mods/19520), [Dynamic Things Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/19521?tab=posts), [Incognito](https://www.nexusmods.com/skyrimspecialedition/mods/20929) and [Sneak Tools](https://www.nexusmods.com/skyrimspecialedition/mods/1863) (which will come up again later).
 
 The combined effects of these mods are as follows:
 1. Any haypile or stack of wood you find in the game can be looted, and will decrease in size as you loot them.
@@ -354,7 +354,8 @@ The combined effects of these mods are as follows:
 6. Using your weapons or Destruction magic on training dummies and archery targets will yield experience.
 7. You can harvest mammoth tusks from mammoth skulls you find.
 8. Most "standard" objects, like barrels, urns, and small furniture, will be destroyed if you hit them.
-9. Light sources around Skyrim can be ignited and put out, either by standard fire/frost effects or by the fire/water arrows included in Sneak Tools.
+9. Changing your face at The Face Sculptor in the Ragged Flagon will remove all crime and bounties from you.
+10. Light sources around Skyrim can be ignited and put out, either by standard fire/frost effects or by the fire/water arrows included in Sneak Tools.
 
 ### Survival and Realism
 On the flip side, _you_ have to appropriately react to Skyrim's environment. The core of this, of course, is [Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/667) and [Frostfall](https://www.nexusmods.com/skyrimspecialedition/mods/671). Along with some more resource-adding mods (notably, [Tentapalooza](https://www.nexusmods.com/skyrimspecialedition/mods/652)), these mods add a complete cold-weather survival system to Skyrim. Your character will be subject to Skyrim's harsh climate, and you will need to bundle up, set up camp frequently, and avoid frigid water and inclement weather in order to survive. Mages will have various options to escape the cold (all compatible with Librum's [Spell Research](https://www.nexusmods.com/skyrimspecialedition/mods/20983) mechanics!): summoning cloaks or various tents and shelters, transmuting or summoning materials, summoning a Fire Atronach for heat, or teleporting to safety, among others. Finally, your character's survival skills will improve over time, unlocking various survival-themed perks available at a campfire.
