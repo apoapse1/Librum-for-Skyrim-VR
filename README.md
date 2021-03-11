@@ -223,14 +223,14 @@ Open main menu -> settings -> VR performance, and apply the following settings:
 Once you have created your character, wait until all the messages in the top left of the screen stop appearing and click Yes/OK to all message pop-ups that appear, and then open up the in-game settings and navigate to the _Mod Configuration Menu_ (MCM). You will need to make several changes here to adhere to the suggested Librum setup. Unfortunately, very few of the mods used in Librum support FISS, so you will need to do this each time you create a new character.
 
 The suggested MCM options are as follows:
-1. **AGO** Disable Arrow Wounds (Player), Arrow Wounds (NPC), Persistent Arrows and Arm Fatigue.
-2. **Cobb Encumbrance.** In the _Presets_ tab, apply the preset "Classic (SEM)".
-3. **Frostfall.** Enable it. Close the MCM, and once it has finished starting up, check the MCM settings. [This is how the MCM should look.](https://i.imgur.com/WUcO5jT.png)
-4. **Hunterborn**. Start the mod, and disable the Hunterborn config power in the _Enable_ tab.
-5. **Lock Overhaul.** Activate the mod.
-6. (VR) **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
-7. (VR) **Nemesis PCEA.** Activate both options.
-8. **Simple Horse.** Confirm that Follower horses are disabled.
+1. **A Matter of Time** Head to Presets, under User settings hit GO on Load user settings.
+2. **AGO** Disable Arrow Wounds (Player), Arrow Wounds (NPC), Persistent Arrows and Arm Fatigue.
+3. **Cobb Encumbrance.** In the _Presets_ tab, apply the preset "Classic (SEM)".
+4. **Frostfall.** Enable it. Close the MCM, and once it has finished starting up, check the MCM settings. [This is how the MCM should look.](https://i.imgur.com/WUcO5jT.png)
+5. **Hunterborn**. Start the mod, and disable the Hunterborn config power in the _Enable_ tab.
+6. **Lock Overhaul.** Activate the mod.
+7. (VR) **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
+8. (VR) **Nemesis PCEA.** Activate both options.
 9. **SkyUI.** If desired, disable the Active Effects HUD under _General_.
 10. **Spell Research.** Import spells. It takes a bit to import everything, several pop ups will appear, hit Yes for all.
 11. **SunHelm.** Activate the mod. If desired, change "Widget Display Type" in _Display and Notifications_ tab (I use "Alpha/Color Based").
