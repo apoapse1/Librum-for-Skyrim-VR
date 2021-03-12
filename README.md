@@ -187,6 +187,14 @@ If you do not want this plugin, disable it in MO2.
 
 If you want Ethereal Cosmos textures instead, disable this in MO2.
 
+***Adventure Theme Lite***. If you want a nicer cursor and Oblivion-style inventory icons, this is the plugin for you.
+
+If you want this plugin, enable it in MO2.
+
+***Magic Cards Font*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/14356)]. This is the font from Morrowind. It looks more "medieval" than the standard font, but is generally a nice (and nostalgic) change of pace.
+
+If you do not want this plugin, disable it in MO2.
+
 ***Kitties Speak Spanish, Nords speak Deutsch, Italian for Tullius*** These mods replace the voice and lip-syncing for the appropriate NPCs with alternate languages. Khajiit will speak Spanish, Nords (and some non-Nords) will speak German, and General Tullius will speak Italian. Subtitles will remain in English, so make sure you have them turned on if you choose to use some or all of these optional mods.
 
 ***(VR) New Voice Commands***. This adds several new voice commands, to automate many of the features you'll be using frequently: _Open Map_ and _Close Map_, _Call Horse_, _Spell Research_, _Drink Water_ and _Fill Waterskin_, _Continuance_ or _Get Status_ (for general health and hunger/thirst/fatigue status), and _Sense Direction_.
