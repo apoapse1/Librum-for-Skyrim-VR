@@ -223,14 +223,14 @@ Open main menu -> settings -> VR performance, and apply the following settings:
 Once you have created your character, wait until all the messages in the top left of the screen stop appearing and click Yes/OK to all message pop-ups that appear, and then open up the in-game settings and navigate to the _Mod Configuration Menu_ (MCM). You will need to make several changes here to adhere to the suggested Librum setup. Unfortunately, very few of the mods used in Librum support FISS, so you will need to do this each time you create a new character.
 
 The suggested MCM options are as follows:
-1. **AGO** Disable Arrow Wounds (Player), Arrow Wounds (NPC), Persistent Arrows and Arm Fatigue.
-2. **Cobb Encumbrance.** In the _Presets_ tab, apply the preset "Classic (SEM)".
-3. **Frostfall.** Enable it. Close the MCM, and once it has finished starting up, check the MCM settings. [This is how the MCM should look.](https://i.imgur.com/WUcO5jT.png)
-4. **Hunterborn**. Start the mod, and disable the Hunterborn config power in the _Enable_ tab.
-5. **Lock Overhaul.** Activate the mod.
-6. (VR) **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
-7. (VR) **Nemesis PCEA.** Activate both options.
-8. **Simple Horse.** Confirm that Follower horses are disabled.
+1. **A Matter of Time** Head to Presets, under User settings hit GO on Load user settings.
+2. **AGO** Disable Arrow Wounds (Player), Arrow Wounds (NPC), Persistent Arrows and Arm Fatigue.
+3. **Cobb Encumbrance.** In the _Presets_ tab, apply the preset "Classic (SEM)".
+4. **Frostfall.** Enable it. Close the MCM, and once it has finished starting up, check the MCM settings. [This is how the MCM should look.](https://i.imgur.com/WUcO5jT.png)
+5. **Hunterborn**. Start the mod, and disable the Hunterborn config power in the _Enable_ tab.
+6. **Lock Overhaul.** Activate the mod.
+7. (VR) **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
+8. (VR) **Nemesis PCEA.** Activate both options.
 9. **SkyUI.** If desired, disable the Active Effects HUD under _General_.
 10. **Spell Research.** Import spells. It takes a bit to import everything, several pop ups will appear, hit Yes for all.
 11. **SunHelm.** Activate the mod. If desired, change "Widget Display Type" in _Display and Notifications_ tab (I use "Alpha/Color Based").
@@ -446,7 +446,7 @@ With that in mind, the world is largely _entirely unleveled_.
 The "stages" of the game
 
 ### The Dragonborn Story
-Librum is designed around your character being the legendary Dovahkiin. However, the vanilla experience didn't fit our vision for what it means to be Dragonborn, and what the The Dragonborn's story holds. To handle this, we have [Dragon souls are free](https://www.nexusmods.com/skyrimspecialedition/mods/46794/) and [True Teacher Durnehviir](https://www.nexusmods.com/skyrimspecialedition/mods/44969).
+Librum is designed around your character being the legendary Dovahkiin. However, the vanilla experience didn't fit our vision for what it means to be Dragonborn, and what the The Dragonborn's story holds. To handle this, we have [Dragon Souls Cost Literally Zero Souls](https://www.nexusmods.com/skyrimspecialedition/mods/46794/) and [True Teacher Durnehviir](https://www.nexusmods.com/skyrimspecialedition/mods/44969).
 
 ### Quests and Adventures
 For all its strengths, Skyrim never got the questing aspect quite right. The game's many questlines are fairly straightforward and predictable, and most of its dungeons are as well. Librum only touches the worst offenders among Skyrim's vanilla quests, but it adds a great deal of new content to experience. Putting together dozens of curated quest and adventure mods, Librum's new content totals to hundreds of new quests and new areas to explore, including more questlines than are in the vanilla game, and several extensive dungeon systems and expansive new lands. In compiling these mods, there were a few specific requirements I upheld (excluding many otherwise fantastic mods, unfortunately):
@@ -472,7 +472,7 @@ With that in mind, here are the major new quest mods included in Librum:
 13. ***[Teldryn Serious](https://www.nexusmods.com/skyrimspecialedition/mods/5541).*** Teldryn Serious heavily expands the backstory of the mercenary Teldryn Sero, taking you around Solstheim once more in order to uncover a dangerous plot and defend Raven Rock.
 14. ***[Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673).*** A classic among Skyrim mods, Helgen Reborn gives you an opportunity to rebuild and revive the town of Helgen. Uncover a Thalmor plot, recruit and train your town guard, and participate in a ~bewildering and not-very-apropos~ secret fighting ring to reclaim the town and its legacy.
 15. ***[Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565).*** Now that it's back and purged of bugs, Wyrmstooth allows you to travel to the island of _Wyrmstooth_, north of Solitude, to rid the island of its dragon menace.
-16. ***[Midwood Isle](https://www.nexusmods.com/skyrimspecialedition/mods/28120). *New as of 2.0.*** A large new land with plenty of exciting features to explore, including a player home, two new shouts and eight spells. 
+16. ***[Midwood Isle](https://www.nexusmods.com/skyrimspecialedition/mods/28120). New as of 2.0.*** A large new land with plenty of exciting features to explore, including a player home, two new shouts and eight spells. 
 17. ***[The Notice Board](https://www.nexusmods.com/skyrimspecialedition/mods/3218).*** The Notice Board overhauls radiant questing in Skyrim. In short, it adds two notice boards outside each major inn in Skyrim, which detail (a) miscellaneous quests you can undergo and (b) goings-on in the area.
 
 ![Alt Text](Resources/sotha.jpg?raw=true "Trainwiz's work, at its finest.")
@@ -498,10 +498,10 @@ Now, one of my all-time favorite Elder Scrolls experiences is Daggerfall's dunge
 
 30. ***[Skyrim Underground](https://www.nexusmods.com/skyrimspecialedition/mods/131).*** Skyrim Underground adds a _gigantic_ network of dungeons below Skyrim's surface. You can now travel from Solitude to Riften on foot, for instance, though you'll have to uncover secret passages and face many new and powerful opponents to do so. Fit for its scope, it also adds many secrets to discover, from ancient artifacts to undead merchants and impromptu underground settlements. *Skyrim Underground has been patched to be more lore-friendly, but I will continue this work in future versions*.
 31. ***[Forgotten Dungeons](https://www.nexusmods.com/skyrimspecialedition/mods/449).*** Forgotten Dungeons adds many (dare-I-say) Daggerfall-style dungeons to the Skyrim and Solstheim landscapes. They can be explored independently, for their own prizes, but many have also been enabled for Skyrim's radiant quest system. *I have renamed many of the dungeons in Forgotten Dungeons, to better fit Skyrim's theme*.
-32. ***[Hammet's Dungeon Pack](https://www.nexusmods.com/skyrimspecialedition/mods/12186) and [Hammet's Dungeons - More Rewards](https://www.nexusmods.com/skyrimspecialedition/mods/23455). *New as of 2.0.***
-33. ***[EasierRider's Dungeon Pack](https://www.nexusmods.com/skyrimspecialedition/mods/23455). *New as of 2.0.*** 
-34. ***[Land of Vominheim](https://www.nexusmods.com/skyrimspecialedition/mods/31472). *New as of 2.0.*** With several islands to explore as well as plenty of dungeons and caves, you'll find yourself immersed in Vominheim as you're led primarily with written notes.
-35. ***[Darkend](https://www.nexusmods.com/skyrimspecialedition/mods/10423). *New as of 2.0.*** Expect to see beautiful environments and architecture, as well as terrifying foes that test your skills. 
+32. ***[Hammet's Dungeon Pack](https://www.nexusmods.com/skyrimspecialedition/mods/12186) and [Hammet's Dungeons - More Rewards](https://www.nexusmods.com/skyrimspecialedition/mods/23455). New as of 2.0.***
+33. ***[EasierRider's Dungeon Pack](https://www.nexusmods.com/skyrimspecialedition/mods/23455). New as of 2.0.*** 
+34. ***[Land of Vominheim](https://www.nexusmods.com/skyrimspecialedition/mods/31472). New as of 2.0.*** With several islands to explore as well as plenty of dungeons and caves, you'll find yourself immersed in Vominheim as you're led primarily with written notes.
+35. ***[Darkend](https://www.nexusmods.com/skyrimspecialedition/mods/10423). New as of 2.0.*** Expect to see beautiful environments and architecture, as well as terrifying foes that test your skills. 
 36. ***[Konahrik's Accoutrements](https://www.nexusmods.com/skyrimspecialedition/mods/22206).*** This mod adds a great deal of new content surrounding Skyrim's Dragon Priests. Use the forgotten field of Abjuration magic to collect and cleanse the Dragon Priests' powerful new relics, and go back in time to explore the lost Dragon Priest temple of Revakheim.
 37. ***[Skyrim Sewers](https://www.nexusmods.com/skyrimspecialedition/mods/9320).*** Skyrim Sewers adds sewer systems below Windhelm, Solitude, and Whiterun (and a few forts), bringing back the age-old Elder Scrolls experience of murdering rats, discovering secrets, and getting lost in the sewers.
 38. ***[The Lost Wonders of Mzark](https://www.nexusmods.com/skyrimspecialedition/mods/40674).*** Far beyond Skyrim's northern border, the great Dwemer lord Mzark left his final projects and greatest artifacts -- but also his most clever traps and puzzles.
@@ -512,17 +512,17 @@ Now, one of my all-time favorite Elder Scrolls experiences is Daggerfall's dunge
 ### Followers
 Librum adds several _follower_ mods, to make the game world a little less lonely. Though some of these mods add quests, their primary role within Librum is to allow you to (a) connect with your followers as real people and (b) effectively run a party-style playthrough. Think _Fallout: New Vegas_ or _Dragon Age_, but in Skyrim. Librum is designed with followers in mind. Gather your party and venture forth!
 
-1. ***[Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/18076). *New as of 2.0.*** As our follower framework.
+1. ***[Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/18076). New as of 2.0.*** As our follower framework.
 2. ***[Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194).*** Interesting NPCs adds a ton of new quests, matching even Bruma for size. It also adds, of course, _interesting NPCs_, breathing new life into many of Skyrim's familiar locations. In particular, some of the new NPCs are "super followers", meaning that they comment on your quests, choices, and locations, and they generally behave like real people. An interesting aspect of Interesting NPCs is, many of the new quests and questlines tie several NPCs together -- this gives the game more of a "Dragon Age" feel, in terms of how characters are relatable and recurrent in your adventures.
-3. ***IInteresting Follower Requirements for 3DNPC (Soft Requirements) NPCs(https://www.nexusmods.com/skyrimspecialedition/mods/45646). *New as of 2.0.***
+3. ***[Interesting Follower Requirements for 3DNPC (Soft Requirements) NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/45646). New as of 2.0.***
 4. ***[Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461).*** Inigo is Skyrim's most popular follower mod, for good reason. Not only is he an effective combatant and willing to roll with whatever moral code you're comfortable with, Inigo is as close to a real companion as any Skyrim follower has come. Importantly, he responds dynamically to most situations, and he talks naturally with you and with other NPCs. Inigo can talk dynamically with vanilla and Interesting NPCs followers.
 5. ***[Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035).*** Lucien has all the benefits of Inigo, but instead of a burglarizing cat-man, he is a scholar from the Arcane University. Lucien can talk dynamically with Inigo, as well as with vanilla and Interesting NPCs followers.
 6. ***[Song of the Green](https://www.nexusmods.com/skyrimspecialedition/mods/11278).*** Song of the Green adds the excellent follower Auri, who is a female Bosmer from Valenwood. Although she does not have as much dialogue as the above followers, this reflects her character naturally. Further, she can talk dynamically with Lucien, as well as with vanilla and Interesting NPCs followers.
 7. ***[Hoth](https://www.nexusmods.com/skyrimspecialedition/mods/16137).*** One of the most visually unique follower mods available, Hoth is a grizzled bounty hunter and a new sort of companion to your character. Uniquely, he can provide bounty quests radiantly, dependent on your current area. He can talk dynamically with Auri.
-8. ***[Special Edition Followers](https://www.nexusmods.com/skyrimspecialedition/mods/7622). *New as of 2.0.***
+8. ***[Special Edition Followers](https://www.nexusmods.com/skyrimspecialedition/mods/7622). New as of 2.0.***
 9. ***[Serana Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/16222) and [Serana Dialogue Addon](https://www.nexusmods.com/skyrimspecialedition/mods/32161).*** Together, these mods turn Dawnguard's beloved vampire follower into the sort of "super follower" introduced by the above mods. She is now aware of most quests and situations you find yourself in, and she speaks naturally with you and with others.
 10. ***[Useful Dogs](https://www.nexusmods.com/skyrimspecialedition/mods/1666).*** Although a minor addition relative to the follower mods above, Useful Dogs allows you to give commands to your canine companion. You can send them looking for food, weapons, ammunition, keys, and more, in the style of Fallout 3 and 4.
-11. ***[Meeko Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/17572) and [Vigilance Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/17571). *New as of 2.0.*** Giving some extra love to two of the most loyal of companions.
+11. ***[Meeko Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/17572) and [Vigilance Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/17571). New as of 2.0.*** Giving some extra love to two of the most loyal of companions.
 
 ### Graphics and Ambience
 Last but not least, Librum includes a full graphical makeover of Skyrim. The goal is to match the photorealism we are used to these days, but with a bend towards realizing Librum's dark, gritty, and foreboding nature in Skyrim's atmosphere.Perhaps most important for this end, Librum includes a suite of literal atmosphere mods, centered around a Frankenstein-ing of [Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/12125) and [True Storms](https://www.nexusmods.com/skyrimspecialedition/mods/2472):
