@@ -22,8 +22,9 @@ Wabbajack modlist installer for _Librum_.
         - [Problems with Wabbajack](#problems-with-wabbajack)
     - [Post-Installation](#post-installation)
       - [Copy "Game Folder Files"](#copy-game-folder-files)
-      - [Starting Librum and Choosing Optional Plugins](#starting-librum-and-choosing-optional-plugins)
-      - [Start up Skyrim... again](#start-up-skyrim-again)
+      - [Optional Plugins](#optional-plugins)
+        - [UI Customizations](#ui-customizations)
+      - [Launching Librum](#launching-librum)
       - [MCM Settings](#configure-the-mcm)
     - [Natural Locomotion](#natural-locomotion)
   - [Updating](#updating)
@@ -91,11 +92,11 @@ Librum makes use of the excellent [Wabbajack](https://www.wabbajack.org/#/) prog
 1. Clean your Skyrim folder and disable the Steam overlay.
 2. Install the Wabbajack desktop client from [here](https://github.com/wabbajack-tools/wabbajack/releases).
 3. (VR) Navigate to Librum under the _Browse for Modlists_ tab.
-3. (SE) Download the Librum.wabbajack file from the "Releases" tab on this GitHub.
-4. Install Librum to a new folder, outside of `Program Files`.
-5. Copy the `Game Folder Files` folder to your Skyrim VR directory.
-6. Start a new game, and wait until mod installation notes finish appearing.
-7. Configure the Mod Configuration Menu according to the [instructions that follow](#mcm).
+3. (SE) Download the Librum_SE.wabbajack file from the "Releases" tab on this GitHub.
+4. Install Librum to a new folder outside of `Program Files` using Wabbajack.
+5. Copy the `Game Folder Files` folder to your Skyrim VR or SE directory.
+6. Start a new game, and wait until mod installation notes finish appearing in the top left.
+7. Configure the Mod Configuration Menu (MCM) according to the [instructions that follow](#mcm).
 
 ### Pre-Installation
 
@@ -121,11 +122,11 @@ Open the Steam Properties window, navigate to the _Language_ tab and select _Eng
 
 ##### Clean Skyrim
 
-If your Skyrim VR installation is not newly installed, I recommend uninstalling the game through Steam, deleting the game folder, and reinstalling it. You should also clean up the `Skyrim VR` folder in `Documents/My Games/` by deleting the contents in it.
+If your Skyrim VR or SE installation is not newly installed, I recommend uninstalling the game through Steam, deleting the game folder, and reinstalling it. You should also clean up the `Skyrim VR` or `Skyrim SE` folder in `Documents/My Games/` by deleting the contents in it. 
 
 #### Start up Skyrim
 
-After you have done everything above and have a clean Skyrim VR installation ready, start the Launcher and and let it do the initial graphics check. Do not worry about the graphics settings at this point, as the Librum installation will replace them. 
+After you have done everything above and have a clean Skyrim VR/SE installation ready, start the Launcher and and let it do the initial graphics check. Do not worry about the graphics settings at this point, as the Librum installation will replace them. 
 Start the game and exit once you're in the main menu.
 
 ### Using Wabbajack
@@ -140,8 +141,8 @@ The download and installation process can take a very long time, depending on yo
 
 1. Open Wabbajack.
 2. (VR) Browse for the modlist in the Wabbajack client, and click to download it.
-2. (SE) Download the Librum_SE.wabbajack file from the "Releases" tab on this GitHub, and open it up in the "Install From Disk" option in the Wabbajack client.
-3. Once the download is complete, set the installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, or Desktop. Put it somewhere easy like `C:/Modlists/Librum`). The downloads path should automatically fill in the installation path.
+2. (SE) Download the Librum_SE.wabbajack file from the "Releases" tab on this GitHub, and open it up in the "Install From Disk" option in the Wabbajack client. Do not place the .wabbajack file in the folder you want to install Librum to.
+3. Once the download is complete, set the installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, or Desktop. Put it somewhere easy like `C:/Modlists/Librum`). The downloads path should automatically fill in the installation path, but this can be changed if needed. 
 4. Click the Go/Begin button.
 5. Wait for Wabbajack to finish.
 6. If you run into any issues, see the next section. If the installation is successful, proceed to [Post-Installation](#post-installation).
@@ -154,7 +155,7 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 
 ***X is not a whitelisted download.*** This can happen when I update the modlist. Check if a new update is available and wait if there is none.
 
-***Wabbajack could not find my game folder.*** Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
+***Wabbajack could not find my game folder.*** Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step and ensure you've started up Skyrim once before you open Wabbajack.exe so the scan can locate your installation.
 
 ***Windows is reporting that a virus has been detected.*** Windows 10 has started to auto-quarantine the usvfs_proxy_x86.exe file from the latest version of Mod Organizer 2, saying a threat has been detected. This is a known false postive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. Example for Windows Defender can be found [here](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
@@ -165,10 +166,10 @@ Now that Librum is installed, it is time to start the game up for real and creat
 Navigate to the installed Librum folder, where you will find a folder titled `Game Folder Files`. Copy the contents of this folder to the Skyrim root folder.
 If you don't want 3D sound, do not copy over x3audio1_7.dll and the hrtf folder.
 
-**Optional: CAS Sharpener for VR.** If you find that the game is too blurry with the default ENB preset, I have included [CAS Sharpener](https://www.nexusmods.com/skyrimspecialedition/mods/38219) Note that it will compromise the "ominous" look of the default ENB.
+**(VR) Optional: CAS Sharpener for VR.** If you find that the game is too blurry with the default ENB preset, I have included [CAS Sharpener](https://www.nexusmods.com/skyrimspecialedition/mods/38219) Note that it will compromise the "ominous" look of the default ENB.
 
-#### Starting Librum and Choosing Optional Plugins
-Navigate back to the installed Librum folder, and launch the program `ModOrganizer2.exe`. Before launching the game itself, take a look at the _Optional_ category at the bottom of the Mod Organizer 2 mod list. I will go over each below.
+#### Optional Plugins
+Navigate back to the installed Librum folder, and launch the program `ModOrganizer2.exe`. Before launching the game itself, take a look at the _Optional_ category at the bottom of the Mod Organizer 2 mod list - you may need to expand the category to view the mods. I will go over each below.
 
 ***End Times*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/39201)]. This plugin adds a sense of urgency to the Main Quest, and it ties in nicely with Librum's re-centering of Skyrim around being the Dragonborn. Specifically, if you do not defeat Alduin within a certain amount of time (365 days by default, but configurable in the MCM), he will swallow the world (accompanied by a nice visual), and you will have to reload and try again. You will have a _Doomsday Clock_ spell available, as well as configurable regular updates, to tell you how much time you have left.
 
@@ -182,36 +183,35 @@ If you do not want this plugin, disable it in MO2.
 
 If you do not want this plugin, disable it in MO2.
 
-***Adventure Theme Lite***. If you want a nicer cursor and Oblivion-style inventory icons, this is the plugin for you.
-
-If you want this plugin, enable it in MO2.
-
-***VRIK Controller Bindings*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/23416)]. These are recommended controller bindings to go along with VRIK. If you are using an Index, you will need the latest community bindings. Unfortunately, some in-game button prompts will not align with these bindings.
-
-If you do not want this plugin, disable it in MO2.
-
-***Magic Cards Font*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/14356)]. This is the font from Morrowind. It looks more "medieval" than the standard font, but is generally a nice (and nostalgic) change of pace.
-
-If you do not want this plugin, disable it in MO2.
-
 ***Darker Night Sky***. This is SGS's night sky texture, to go alongside the ENB preset we're using. It is a darker texture with reddish auroras, and it fits in very nicely with Librum's theme. If you do not use this, you will have the brighter and arguably prettier textures from [Ethereal Cosmos](https://www.nexusmods.com/skyrimspecialedition/mods/5728).
 
 If you want Ethereal Cosmos textures instead, disable this in MO2.
 
-***New Voice Commands***. This adds several new voice commands, to automate many of the features you'll be using frequently: _Open Map_ and _Close Map_, _Call Horse_, _Spell Research_, _Drink Water_ and _Fill Waterskin_, _Continuance_ or _Get Status_ (for general health and hunger/thirst/fatigue status), and _Sense Direction_.
+***Kitties Speak Spanish, Nords speak Deutsch, Italian for Tullius*** These mods replace the voice and lip-syncing for the appropriate NPCs with alternate languages. Khajiit will speak Spanish, Nords (and some non-Nords) will speak German, and General Tullius will speak Italian. Subtitles will remain in English, so make sure you have them turned on if you choose to use some or all of these optional mods.
+
+***(VR) New Voice Commands***. This adds several new voice commands, to automate many of the features you'll be using frequently: _Open Map_ and _Close Map_, _Call Horse_, _Spell Research_, _Drink Water_ and _Fill Waterskin_, _Continuance_ or _Get Status_ (for general health and hunger/thirst/fatigue status), and _Sense Direction_.
 
 If you do not want this plugin, disable it in MO2.
 
-***Left-handed Settings***. Self-explanatory. Make sure to also enable "Left-Handed Mode" in the in-game settings.
+***(VR) VRIK Controller Bindings*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/23416)]. These are recommended controller bindings to go along with VRIK. If you are using an Index, you will need the latest community bindings. Unfortunately, some in-game button prompts will not align with these bindings.
+
+If you do not want this plugin, disable it in MO2.
+
+***(VR) Left-handed Settings*** Self-explanatory. Make sure to also enable "Left-Handed Mode" in the in-game settings.
 
 If you are left-handed, enable this in MO2.
 
-#### Start up Skyrim... again
+##### UI Customizations
+UI is often a very personal and subjective choice, so we've included a few options for you to choose from.
+
+***Remove Player Indicator on Map*** *Undiscovered Means Unknown* - Right-clicking and selecting Reinstall Mod in MO2 will allow you to remove the "GPS" functionality that shows the player on your map. Librum defaults to displaying the player on the map.
+
+#### Launching Librum
 To start the game for real, start SKSE through Mod Organizer 2. This will be necessary every time you start the game; if you try to launch Skyrim through its default folder or through Steam, the game will be entirely vanilla.
 
-Start a new game once you get to the main menu. You will start in the character creation area from [Realm of Lorkhan](https://www.nexusmods.com/skyrimspecialedition/mods/18223). For more information on character creation, please read the [Strategy Guide](Strategy_Guide.md) (but come back here after!).
+Start a new game once you get to the main menu. You will start in the character creation area from [Realm of Lorkhan](https://www.nexusmods.com/skyrimspecialedition/mods/18223). For more information on character creation, please read the [Strategy Guide](Strategy_Guide.md) (but come back here after!). Please note that Librum heavily modifies the Realm of Lorkhan to better align with our vision.
 
-Note that Wabbajack will reset some of the in-game Skyrim settings, which you will want to fix before continuing.
+**(VR)** Note that Wabbajack will reset some of the in-game Skyrim settings, which you will want to fix before continuing.
 Open main menu -> settings -> VR performance, and apply the following settings:
 
  - Untick dynamic resolution
