@@ -212,7 +212,7 @@ If you are left-handed, enable this in MO2.
 ##### UI Customizations
 UI is often a very personal and subjective choice, so we've included a few options for you to choose from.
 
-***Remove Player Indicator on Map*** *Undiscovered Means Unknown* - Right-clicking and selecting Reinstall Mod in MO2 will allow you to remove the "GPS" functionality that shows the player on your map. Librum defaults to displaying the player on the map.
+***Remove Player Indicator on Map*** Right-clicking and selecting Reinstall Mod for "Undiscovered Means Unknown" in MO2 will allow you to remove the "GPS" functionality that shows the player on your map. Librum defaults to displaying the player on the map.
 
 #### Launching Librum
 To start the game for real, start SKSE through Mod Organizer 2. This will be necessary every time you start the game; if you try to launch Skyrim through its default folder or through Steam, the game will be entirely vanilla.
