@@ -191,13 +191,20 @@ Navigate back to the installed Librum folder, and launch the program `ModOrganiz
 ##### UI Customization
 The UI and UX of your game is a very personal and subjective choice, so we've included a few options for you to choose from:
 
-- **Undiscovered Means Unknown** *('GPS' disabled by default)* Right-clicking and selecting Reinstall Mod for Undiscovered Means Unknown in MO2 will allow you to restore the 'GPS' functionality that shows the player on your map. 
+- **Librum Font Selector** *(Defaults to Morrowind Font Replacer)* Right-clicking and selecting *Reinstall Mod* on the Librum Font Selector will allow you to choose between several pre-installed fonts and compatibility patches/replacers.
+  - [Morrowind Font Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/2784) by Valistar, ported to SE by jglenn1066. This is the default option for Librum.
+  - [Sovngarde](https://www.nexusmods.com/skyrimspecialedition/mods/386) Bold and Light are both included, along with several compatibility patches.
+    - [12th Century Bookfont](https://www.nexusmods.com/skyrim/mods/72159/) A compatibility patch for Sovngarde that adds manuscript-style books.
+    - [Font Overhaul - Books & Notes](https://www.nexusmods.com/skyrimspecialedition/mods/2880) A compatibility patch that adds Font Overhaul's books and notes to the Sovngarde UI font.
+  - [Font Overhaul - Natural Typefaces](https://www.nexusmods.com/skyrimspecialedition/mods/2880) Clean UI fonts with more immersive books & notes.
+  - [Enderal Font for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/2004/) Both the original and the "Modified Zero" alternate are included.
+    - [Font Overhaul - Books & Notes](https://www.nexusmods.com/skyrimspecialedition/mods/2880) A compatibility patch that adds Font Overhaul's books and notes to the Enderal UI font.
+
+- **Undiscovered Means Unknown** *('GPS' disabled by default)* Right-clicking and selecting *Reinstall Mod* for Undiscovered Means Unknown in MO2 will allow you to restore the 'GPS' functionality that shows the player on your map. 
 
 - **Darker Night Sky** *(Enabled)* This is SGS's night sky texture, to go alongside the ENB preset we're using. It is a darker texture with reddish auroras, and it fits in very nicely with Librum's theme. If you do not use this, you will have the brighter and arguably prettier textures from [Ethereal Cosmos](https://www.nexusmods.com/skyrimspecialedition/mods/5728). If you want Ethereal Cosmos textures instead, disable this in MO2.
 
 - **Adventure Theme Lite** *(Enabled)* If you want a nicer cursor and Oblivion-style inventory icons, this is the plugin for you. If you do not want this plugin, disable it in MO2.
-
-- **Magic Cards Font** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/14356)] *(Enabled)* This is the font from Morrowind. It looks more "medieval" than the standard font, but is generally a nice (and nostalgic) change of pace. If you do not want this plugin, disable it in MO2.
 
 - **Kitties Speak Spanish, Nords speak Deutsch, Italian for Tullius** *(Disabled)* These mods replace the voice and lip-syncing for the appropriate NPCs with alternate languages. Khajiit will speak Spanish, Nords (and some non-Nords) will speak German, and Imperials (not just Tullius) will speak Italian. Subtitles will remain in English, so make sure you have them turned on if you choose to use some or all of these optional mods!
 
