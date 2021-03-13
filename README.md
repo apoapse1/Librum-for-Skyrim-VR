@@ -191,7 +191,8 @@ Navigate back to the installed Librum folder, and launch the program `ModOrganiz
 ##### UI Customization
 The UI and UX of your game is a very personal and subjective choice, so we've included a few options for you to choose from:
 
-- **Librum Font Selector** *(Defaults to Magic Cards)* Right-clicking and selecting *Reinstall Mod* on the Librum Font Selector will allow you to choose between several pre-installed fonts and compatibility patches/replacers. If prompted, select `Replace Mod`. A massive thanks to all the authors who have given permission for us to include these!
+- **Librum Font Selector** *(Defaults to Magic Cards)* Right-clicking and selecting *Reinstall Mod* on the Librum Font Selector will allow you to choose between several pre-installed fonts and compatibility patches/replacers. If prompted, select `Replace Mod`. The fonts can be previewed [here](https://i.imgur.com/a/QhGuCU9), as well as in the FOMOD installer. A massive thanks to all the authors who have given permission for us to include these!
+
   - [Main Font Replacer SSE](https://www.nexusmods.com/skyrimspecialedition/mods/14356) originally by Valistar, ported by RumblestrutPig. Permissions provided by Valistar in the original Skyrim LE file. Includes the Andalus, Centaur, Fertigo Pro, Magic Cards, Morpheus and TaraType fonts.
   - [Sovngarde](https://www.nexusmods.com/skyrimspecialedition/mods/386) by Koveich, permissions provided on the mod's page. Bold and Light are both included, along with several compatibility patches.
     - [12th Century Bookfont](https://www.nexusmods.com/skyrim/mods/72159/) by MaGlas, permission provided personally by MaGlas. A compatibility patch for Sovngarde that adds manuscript-style books.
