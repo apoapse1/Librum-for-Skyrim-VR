@@ -23,7 +23,8 @@ Wabbajack modlist installer for _Librum_.
     - [Post-Installation](#post-installation)
       - [Copy "Game Folder Files"](#copy-game-folder-files)
       - [Optional Plugins](#optional-plugins)
-        - [UI Customizations](#ui-customizations)
+        - [Gameplay Customization](#gameplay-customization) 
+        - [UI Customization](#ui-customization)
       - [Launching Librum](#launching-librum)
       - [MCM Settings](#configure-the-mcm)
     - [Natural Locomotion](#natural-locomotion)
@@ -157,62 +158,55 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 
 ***Wabbajack could not find my game folder.*** Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step and ensure you've started up Skyrim once before you open Wabbajack.exe so the scan can locate your installation.
 
-***Windows is reporting that a virus has been detected.*** Windows 10 has started to auto-quarantine the usvfs_proxy_x86.exe file from the latest version of Mod Organizer 2, saying a threat has been detected. This is a known false postive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. Example for Windows Defender can be found [here](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
+***Windows is reporting that a virus has been detected.*** Windows 10 has started to auto-quarantine the `usvfs_proxy_x86.exe` file from the latest version of Mod Organizer 2, saying a threat has been detected. This is a known false postive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. Example for Windows Defender can be found [here](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
 ### Post-Installation
 Now that Librum is installed, it is time to start the game up for real and create your character. The character creation process has changed with Librum, so we will give details below. Moreover, it is highly recommended that you **configure the MCM after race selection** as described below.
 
 #### Copy "Game Folder Files"
 Navigate to the installed Librum folder, where you will find a folder titled `Game Folder Files`. Copy the contents of this folder to the Skyrim root folder.
-If you don't want 3D sound, do not copy over x3audio1_7.dll and the hrtf folder.
+If you don't want 3D sound, do not copy over `x3audio1_7.dll` and the `hrtf` folder.
 
 **(VR) Optional: CAS Sharpener for VR.** If you find that the game is too blurry with the default ENB preset, I have included [CAS Sharpener](https://www.nexusmods.com/skyrimspecialedition/mods/38219) Note that it will compromise the "ominous" look of the default ENB.
 
 #### Optional Plugins
-Navigate back to the installed Librum folder, and launch the program `ModOrganizer2.exe`. Before launching the game itself, take a look at the _Optional_ category at the bottom of the Mod Organizer 2 mod list - you may need to expand the category to view the mods. I will go over each below.
+Navigate back to the installed Librum folder, and launch the program `ModOrganizer2.exe`. Before launching the game itself, take a look at the _Optional_ category at the bottom of the Mod Organizer 2 mod list - you may need to expand the category to view the mods. I will go over each below and indicate if they are *(Enabled)* or *(Disabled)* by default.
 
-***End Times*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/39201)]. This plugin adds a sense of urgency to the Main Quest, and it ties in nicely with Librum's re-centering of Skyrim around being the Dragonborn. Specifically, if you do not defeat Alduin within a certain amount of time (365 days by default, but configurable in the MCM), he will swallow the world (accompanied by a nice visual), and you will have to reload and try again. You will have a _Doomsday Clock_ spell available, as well as configurable regular updates, to tell you how much time you have left.
+##### Gameplay Customization
 
-If you do not want this plugin, disable it in MO2.
+- **End Times** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/39201)] *(Enabled)* This plugin adds a sense of urgency to the Main Quest, and it ties in nicely with Librum's re-centering of Skyrim around being the Dragonborn. Specifically, if you do not defeat Alduin within a certain amount of time (365 days by default, but configurable in the MCM), he will swallow the world (accompanied by a nice visual), and you will have to reload and try again. You will have a _Doomsday Clock_ spell available, as well as configurable regular updates, to tell you how much time you have left. If you do not want this plugin, disable it in MO2.
 
-***Dragons from the Start*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/41453)]. This plugin enables dragon encounters from the very beginning of the game. This is highly recommended for Librum's Dragonborn-centric play, and it is especially important if you use the next optional plugin. 
+- **Dragons from the Start** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/41453)] *(Enabled)* This plugin enables dragon encounters from the very beginning of the game (keep in mind there are no random dragons as of 2.0). This is highly recommended for Librum's Dragonborn-centric play, and it is especially important if you use the next optional plugin. If you do not want this plugin, disable it in MO2.
 
-If you do not want this plugin, disable it in MO2.
+- **No Perks on Level-Up** *(Enabled)* This is a core feature of Librum, so it is highly recommended. With this plugin, you will no longer earn perks when you level up; rather, you will have to spend dragon souls or discover special Librums (books) in order to earn perk points. This accomplishes two things. First, along with other mods from the core modlist, this re-centers the Skyrim experience on you _actually being the Dragonborn_. You will not progress without hunting dragons and advancing major questlines. Secondly, this reframes the role of perks in the Librum experience - because (especially at the beginning) they are much harder to obtain, they will form a much smaller part of your character's identity, and your character will spend a longer time being a "normal person". If you do not want this plugin, disable it in MO2 - but keep in mind that we've still implemented 1 perk every 2 levels instead of 1 for 1 to help maintain some semblance of balance with our vision.
 
-***No Perks on Level-Up***. This is a core feature of Librum, so it is highly recommended. With this plugin, you will no longer earn perks when you level up; rather, you will have to spend dragon souls in order to earn perk points. This accomplishes two things. First, along with other mods from the core modlist, this re-centers the Skyrim experience on you _actually being the Dragonborn_. You will not progress without hunting dragons and progressing the main quest. Secondly, this reframes the role of perks in the Librum experience. Because (especially at the beginning) they are much harder to obtain, they will form a much smaller part of your character's identity, and your character will spend a longer time being a "normal person".
+- **Morrowind-Style Beast Races** *(Enabled)* This mod liberates the paws and claws of Argonians and Khajiits. Plan accordingly for their inability to wear boots! If you do not want this plugin, disable it in MO2.
 
-If you do not want this plugin, disable it in MO2.
+- **(VR) New Voice Commands** *(Enabled)* This adds several new voice commands, to automate many of the features you'll be using frequently: _Open Map_ and _Close Map_, _Call Horse_, _Spell Research_, _Drink Water_ and _Fill Waterskin_, _Continuance_ or _Get Status_ (for general health and hunger/thirst/fatigue status), and _Sense Direction_. If you do not want this plugin, disable it in MO2.
 
-***Darker Night Sky***. This is SGS's night sky texture, to go alongside the ENB preset we're using. It is a darker texture with reddish auroras, and it fits in very nicely with Librum's theme. If you do not use this, you will have the brighter and arguably prettier textures from [Ethereal Cosmos](https://www.nexusmods.com/skyrimspecialedition/mods/5728).
+- **(VR) VRIK Controller Bindings** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/23416)] *(Enabled)* These are recommended controller bindings to go along with VRIK. If you are using an Index, you will need the latest community bindings. Unfortunately, some in-game button prompts will not align with these bindings. If you do not want this plugin, disable it in MO2.
 
-If you want Ethereal Cosmos textures instead, disable this in MO2.
+- **(VR) Left-handed Settings** *(Disabled)* Self-explanatory. Make sure to also enable "Left-Handed Mode" in the in-game settings. If you are left-handed, enable this in MO2.
 
-***Adventure Theme Lite***. If you want a nicer cursor and Oblivion-style inventory icons, this is the plugin for you.
+##### UI Customization
+The UI and UX of your game is a very personal and subjective choice, so we've included a few options for you to choose from:
 
-If you want this plugin, enable it in MO2.
+- **Librum Font Selector** *(Defaults to Morrowind Font Replacer)* Right-clicking and selecting *Reinstall Mod* on the Librum Font Selector will allow you to choose between several pre-installed fonts and compatibility patches/replacers.
+  - [Morrowind Font Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/2784) by Valistar, ported to SE by jglenn1066. This is the default option for Librum.
+  - [Sovngarde](https://www.nexusmods.com/skyrimspecialedition/mods/386) Bold and Light are both included, along with several compatibility patches.
+    - [12th Century Bookfont](https://www.nexusmods.com/skyrim/mods/72159/) A compatibility patch for Sovngarde that adds manuscript-style books.
+    - [Font Overhaul - Books & Notes](https://www.nexusmods.com/skyrimspecialedition/mods/2880) A compatibility patch that adds Font Overhaul's books and notes to the Sovngarde UI font.
+  - [Font Overhaul - Natural Typefaces](https://www.nexusmods.com/skyrimspecialedition/mods/2880) Clean UI fonts with more immersive books & notes.
+  - [Enderal Font for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/2004/) Both the original and the "Modified Zero" alternate are included.
+    - [Font Overhaul - Books & Notes](https://www.nexusmods.com/skyrimspecialedition/mods/2880) A compatibility patch that adds Font Overhaul's books and notes to the Enderal UI font.
 
-***Magic Cards Font*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/14356)]. This is the font from Morrowind. It looks more "medieval" than the standard font, but is generally a nice (and nostalgic) change of pace.
+- **Undiscovered Means Unknown** *('GPS' disabled by default)* Right-clicking and selecting *Reinstall Mod* for Undiscovered Means Unknown in MO2 will allow you to restore the 'GPS' functionality that shows the player on your map. 
 
-If you do not want this plugin, disable it in MO2.
+- **Darker Night Sky** *(Enabled)* This is SGS's night sky texture, to go alongside the ENB preset we're using. It is a darker texture with reddish auroras, and it fits in very nicely with Librum's theme. If you do not use this, you will have the brighter and arguably prettier textures from [Ethereal Cosmos](https://www.nexusmods.com/skyrimspecialedition/mods/5728). If you want Ethereal Cosmos textures instead, disable this in MO2.
 
-***Kitties Speak Spanish, Nords speak Deutsch, Italian for Tullius*** These mods replace the voice and lip-syncing for the appropriate NPCs with alternate languages. Khajiit will speak Spanish, Nords (and some non-Nords) will speak German, and General Tullius will speak Italian. Subtitles will remain in English, so make sure you have them turned on if you choose to use some or all of these optional mods.
+- **Adventure Theme Lite** *(Enabled)* If you want a nicer cursor and Oblivion-style inventory icons, this is the plugin for you. If you do not want this plugin, disable it in MO2.
 
-***(VR) New Voice Commands***. This adds several new voice commands, to automate many of the features you'll be using frequently: _Open Map_ and _Close Map_, _Call Horse_, _Spell Research_, _Drink Water_ and _Fill Waterskin_, _Continuance_ or _Get Status_ (for general health and hunger/thirst/fatigue status), and _Sense Direction_.
-
-If you do not want this plugin, disable it in MO2.
-
-***(VR) VRIK Controller Bindings*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/23416)]. These are recommended controller bindings to go along with VRIK. If you are using an Index, you will need the latest community bindings. Unfortunately, some in-game button prompts will not align with these bindings.
-
-If you do not want this plugin, disable it in MO2.
-
-***(VR) Left-handed Settings*** Self-explanatory. Make sure to also enable "Left-Handed Mode" in the in-game settings.
-
-If you are left-handed, enable this in MO2.
-
-##### UI Customizations
-UI is often a very personal and subjective choice, so we've included a few options for you to choose from.
-
-***Remove Player Indicator on Map*** Right-clicking and selecting Reinstall Mod for "Undiscovered Means Unknown" in MO2 will allow you to remove the "GPS" functionality that shows the player on your map. Librum defaults to displaying the player on the map.
+- **Kitties Speak Spanish, Nords speak Deutsch, Italian for Tullius** *(Disabled)* These mods replace the voice and lip-syncing for the appropriate NPCs with alternate languages. Khajiit will speak Spanish, Nords (and some non-Nords) will speak German, and Imperials (not just Tullius) will speak Italian. Subtitles will remain in English, so make sure you have them turned on if you choose to use some or all of these optional mods!
 
 #### Launching Librum
 To start the game for real, start SKSE through Mod Organizer 2. This will be necessary every time you start the game; if you try to launch Skyrim through its default folder or through Steam, the game will be entirely vanilla.
