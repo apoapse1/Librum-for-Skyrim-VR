@@ -191,14 +191,12 @@ Navigate back to the installed Librum folder, and launch the program `ModOrganiz
 ##### UI Customization
 The UI and UX of your game is a very personal and subjective choice, so we've included a few options for you to choose from:
 
-- **Librum Font Selector** *(Defaults to Morrowind Font Replacer)* Right-clicking and selecting *Reinstall Mod* on the Librum Font Selector will allow you to choose between several pre-installed fonts and compatibility patches/replacers.
-  - [Morrowind Font Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/2784) by Valistar, ported to SE by jglenn1066. This is the default option for Librum.
-  - [Sovngarde](https://www.nexusmods.com/skyrimspecialedition/mods/386) Bold and Light are both included, along with several compatibility patches.
-    - [12th Century Bookfont](https://www.nexusmods.com/skyrim/mods/72159/) A compatibility patch for Sovngarde that adds manuscript-style books.
-    - [Font Overhaul - Books & Notes](https://www.nexusmods.com/skyrimspecialedition/mods/2880) A compatibility patch that adds Font Overhaul's books and notes to the Sovngarde UI font.
-  - [Font Overhaul - Natural Typefaces](https://www.nexusmods.com/skyrimspecialedition/mods/2880) Clean UI fonts with more immersive books & notes.
-  - [Enderal Font for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/2004/) Both the original and the "Modified Zero" alternate are included.
-    - [Font Overhaul - Books & Notes](https://www.nexusmods.com/skyrimspecialedition/mods/2880) A compatibility patch that adds Font Overhaul's books and notes to the Enderal UI font.
+- **Librum Font Selector** *(Defaults to Magic Cards)* Right-clicking and selecting *Reinstall Mod* on the Librum Font Selector will allow you to choose between several pre-installed fonts and compatibility patches/replacers. If prompted, select `Replace Mod`. A massive thanks to all the authors who have given permission for us to include these!
+  - [Main Font Replacer SSE](https://www.nexusmods.com/skyrimspecialedition/mods/14356) originally by Valistar, ported by RumblestrutPig. Permissions provided by Valistar in the original Skyrim LE file. Includes the Andalus, Centaur, Fertigo Pro, Magic Cards, Morpheus and TaraType fonts.
+  - [Sovngarde](https://www.nexusmods.com/skyrimspecialedition/mods/386) by Koveich, permissions provided on the mod's page. Bold and Light are both included, along with several compatibility patches.
+    - [12th Century Bookfont](https://www.nexusmods.com/skyrim/mods/72159/) by MaGlas, permission provided personally by MaGlas. A compatibility patch for Sovngarde that adds manuscript-style books.
+
+- **Mash's A Matter of Time Preset** This preset is for those who dislike the "Paper Bar" UI at the bottom of the screen. To replace it with Mashtyx's preset, navigate to your `<Librum Install Folder>/mods/(se) Paper HUD/SKSE/Plugins/FISS` and rename the files to switch them out. You may need to reload the user preset in the A Matter of Time MCM. 
 
 - **Undiscovered Means Unknown** *('GPS' disabled by default)* Right-clicking and selecting *Reinstall Mod* for Undiscovered Means Unknown in MO2 will allow you to restore the 'GPS' functionality that shows the player on your map. 
 
