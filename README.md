@@ -335,10 +335,10 @@ In a similar vein, Librum includes [Dragonborn Speaks Naturally](https://www.nex
 
 Librum also includes [MageVR](https://www.nexusmods.com/skyrimspecialedition/mods/21297), which generally overhauls the way you interact with spells and equipment. I recommend thoroughly reading its mod page for more information, but in short, it adds the following features:
 1. Spells can be slotted to drawn "glyphs". You can re-draw the glyph later to either equip or auto-cast the slotted spell, all without entering your menu.
-3. Archery is realistic. You will need to manually retrieve an arrow from your quiver in order to fire another shot.
-4. You can quickslot shouts and powers, usable through a gesture and hotkey press.
-5. You are able to "immersively" loot a container, in which you manually drag loot from the container to your backpack.
-6. You are able to "immersively" lockpick, in a way resembling the real procedure for a tumbler lock.
+2. Archery is realistic. You will need to manually retrieve an arrow from your quiver in order to fire another shot.
+3. You can quickslot shouts and powers, usable through a gesture and hotkey press.
+4. You are able to "immersively" loot a container, in which you manually drag loot from the container to your backpack.
+5. You are able to "immersively" lockpick, in a way resembling the real procedure for a tumbler lock.
 
 Last but not least, Librum includes the fan-favorite [VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416), which allows you to see your character in-game. Not only that, but VRIK provides several visible weapon holsters around your body -- your calves, thighs, hips, forearms, upper arms, chest, stomach, and shoulders. To use these, hold your weapon over the appropriate holster (you should feel a haptic signal) and press "grip". Hold "grip" and pull away to unsheathe. VRIK also allows you to go into "selfie mode", by lifting your right hand above your head and rotating; you can finally see your VR character in his/her full glory!
 
@@ -351,7 +351,7 @@ The combined effects of these mods are as follows:
 1. Any haypile or stack of wood you find in the game can be looted, and will decrease in size as you loot them.
 2. Almost all "static" containers in Skyrim -- crates, barrels, and others -- can now be looted. They can also be destroyed with a woodcutter's axe, which will drop all of their contents and firewood.
 3. Most rocks can be mined with a pickaxe, giving you Hearthfire resources.
-4. Most trees can be cut down with any axe, giving you firewood and other resources.
+4. Most trees can be cut down with any axe, giving you firewood and other resources. *(VR Note) You may need to power attack (hold the trigger) and reach "into" the tree with your axe.*
 5. You can drink or bottle liquids from mead barrels and similar containers.
 6. Using your weapons or Destruction magic on training dummies and archery targets will yield experience.
 7. You can harvest mammoth tusks from mammoth skulls you find.
@@ -374,11 +374,15 @@ Finally, through _Sunhelm_, diseases have become much more dangerous. Instead of
 ### Combat and Enemies
 Librum uses a slew of mods to improve the combat experience overall, with a strong focus on making each fight (within reason) a dangerous and harrowing experience.
 
-For general combat, Librum combines its many [new VR options](#user-interface-and-controls) with [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549), [Mortal Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/4881), [Skyrim Revamped - Complete Enemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/14598), [Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807), and [Morrowloot Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/3058). The former two mods add an element of dynamism to combat -- instead of standing and swinging your Touch controllers wildly, you will need to duck, weave, and carefully time both your attacks and your blocks. If you interrupt an opponent's power attack pullback or bow draw, or if you hit them from behind or while staggered, you will gain massive "attack of opportunity" damage bonuses. Similarly, if you properly time your block, you can negate most damage and stagger your opponent (thus allowing for an attack of opportunity). Of course, the same effects apply to your opponents, so you will need to keep your guard up as you fight.
+For general combat, Librum combines its many [new VR options](#user-interface-and-controls) with [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549), [Vigor - Enhanced Combat](https://www.nexusmods.com/skyrimspecialedition/mods/38075), [Mortal Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/4881), [Skyrim Revamped - Complete Enemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/14598), [Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807), and [Morrowloot Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/3058). The former two mods add an element of dynamism to combat -- instead of standing and swinging your Touch controllers wildly (or spamming the LMB), you will need to duck, weave, and carefully time both your attacks and your blocks. Knowing when to press your advantage and attack when an enemy is staggered or off-balance will grant significant damage bonuses -- but these bonuses also apply to your opponents, so make every attack count and don't leave yourself vulnerable!
 
-On the flip side, you (and your opponents) will have to be much more careful in order to avoid Wildcat's all-new injuries, which can quickly turn the tide of combat. Any time someone sustains a major attack (30% or more of their total health), they have a chance of injuring your head, chest, arms, legs, or back, and thus facing major body-part-specific penalties to their combat abilities.
+Managing your Stamina (and therefore carry weight, thanks to Cobb Encumbrance) is more important than ever, and you will be rewarded for learning how each weapon handles in terms of speed and reach. Blocking will consume stamina first (before overflowing into health) and may not always be the best option compared to dodging and positioning. Vigor also introduces the concept of "Poise" which is a hidden stat that's based off of your armor weight and stamina total. As you lose health your poise will decrease, and when it reaches 0 you'll be staggered and your Stamina reduced based on how far past 0 poise was surpassed. 
 
-The latter two mods, AAE and MLU, step in before you've even started a fight. The latter delevels all enemies, so you'll have to make sure you're properly prepared to be wherever you're going. The former drastically changes enemies' resistances, weaknesses, and abilities, forcing you to plan in advance before a difficult fight. You will now _need_ to pack a silver, Daedric, or magical weapon in order to fight ghosts, for instance, and you'll need to clobber skeletons instead of shooting at them. Furthermore, opponents will use all of the tools at their disposal. From the mod page, "witches will now summon spriggans and use poison spells to their advantage, Thalmor will try to subdue their foes by way of paralysis, while vampires can use hand to hand combat, as well as summon gargoyles, and even morph into a swarm of bats while in combat". Combined with AI tweaks from Wildcat and more minor mods (like [Multiple Floors Sandboxing](https://www.nexusmods.com/skyrimspecialedition/mods/4524)), these improvements will make any fight a life-or-death experience.
+Know Your Enemy and Morrowloot Ultimate step in before you've even started a fight, with the latter deleveling all enemies, so you'll have to make sure you're properly prepared to be wherever you're going. The former drastically changes enemies' resistances and weaknesses, forcing you to plan in advance before a difficult fight. It adds a variety of traits to armor and creatures to provide different resistance levels to various attack types -- for example, arrows will be able to pierce through most light armors, but will be significantly weaker against metal/heavy armors. These changes combined with AI tweaks and minor mods (like [Multiple Floors Sandboxing](https://www.nexusmods.com/skyrimspecialedition/mods/4524)) will make any fight a life-or-death experience that rewards careful planning and intelligence. There are no one-size-fits-all solutions to combat.
+
+Potions are no longer instantaneous and spammable, instead drawing their effects out over 10 seconds. No longer can you pause the game seconds before a power attack hits you and spring back to full health to survive the hit! Potions have also been distributed to most NPCs and they will use them intelligently to restore their health/magicka/stamina, boost resistances and utilize invisibility.
+
+Pay close attention to the passive bonuses given through [Legacy](https://www.nexusmods.com/skyrimspecialedition/mods/36415) and remember that they *now apply to NPCs as well as the player*. NPCs have also had Standing Stone passives distributed to them through [Curse of the Firmament](https://www.nexusmods.com/skyrimspecialedition/mods/28419), potentially creating some tricky and unpredictable combinations to overcome. If you're fighting an Orc and they suddenly burst into 'flames' and dramatically increase in power, that's Legacy at work.
 
 ![Alt Text](Resources/Trident.png?raw=true "Glass trident, from Heavy Armory")
 
@@ -447,7 +451,7 @@ With that in mind, the world is largely _entirely unleveled_.
 The "stages" of the game
 
 ### The Dragonborn Story
-Librum is designed around your character being the legendary Dovahkiin. However, the vanilla experience didn't fit our vision for what it means to be Dragonborn, and what the The Dragonborn's story holds. To handle this, we have [Dragon Souls Cost Literally Zero Souls](https://www.nexusmods.com/skyrimspecialedition/mods/46794/) and [True Teacher Durnehviir](https://www.nexusmods.com/skyrimspecialedition/mods/44969).
+Librum is designed around your character being the legendary Dovahkiin. However, the vanilla experience didn't fit our vision for what it means to be Dragonborn, and what the The Dragonborn's story holds. To handle this, we have [Dragon souls are free](https://www.nexusmods.com/skyrimspecialedition/mods/46794/) and [True Teacher Durnehviir](https://www.nexusmods.com/skyrimspecialedition/mods/44969).
 
 ### Quests and Adventures
 For all its strengths, Skyrim never got the questing aspect quite right. The game's many questlines are fairly straightforward and predictable, and most of its dungeons are as well. Librum only touches the worst offenders among Skyrim's vanilla quests, but it adds a great deal of new content to experience. Putting together dozens of curated quest and adventure mods, Librum's new content totals to hundreds of new quests and new areas to explore, including more questlines than are in the vanilla game, and several extensive dungeon systems and expansive new lands. In compiling these mods, there were a few specific requirements I upheld (excluding many otherwise fantastic mods, unfortunately):
@@ -515,7 +519,7 @@ Librum adds several _follower_ mods, to make the game world a little less lonely
 
 1. ***[Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/18076). New as of 2.0.*** As our follower framework.
 2. ***[Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194).*** Interesting NPCs adds a ton of new quests, matching even Bruma for size. It also adds, of course, _interesting NPCs_, breathing new life into many of Skyrim's familiar locations. In particular, some of the new NPCs are "super followers", meaning that they comment on your quests, choices, and locations, and they generally behave like real people. An interesting aspect of Interesting NPCs is, many of the new quests and questlines tie several NPCs together -- this gives the game more of a "Dragon Age" feel, in terms of how characters are relatable and recurrent in your adventures.
-3. ***[Interesting Follower Requirements for 3DNPC (Soft Requirements) NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/45646). New as of 2.0.***
+3. ***[Interesting Follower Requirements for 3DNPC (Soft Requirements) NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/45646). New as of 2.0.*** This mod adds requirements to various Followers that must be met before you can recruit them to join your party. For example, Hjoromir may be clueless and inexperienced, but he's savvy enough not to follow someone *completely* inexperienced as he is. You will now need to be at least Level 5 to recruit him to join you.
 4. ***[Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461).*** Inigo is Skyrim's most popular follower mod, for good reason. Not only is he an effective combatant and willing to roll with whatever moral code you're comfortable with, Inigo is as close to a real companion as any Skyrim follower has come. Importantly, he responds dynamically to most situations, and he talks naturally with you and with other NPCs. Inigo can talk dynamically with vanilla and Interesting NPCs followers.
 5. ***[Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035).*** Lucien has all the benefits of Inigo, but instead of a burglarizing cat-man, he is a scholar from the Arcane University. Lucien can talk dynamically with Inigo, as well as with vanilla and Interesting NPCs followers.
 6. ***[Song of the Green](https://www.nexusmods.com/skyrimspecialedition/mods/11278).*** Song of the Green adds the excellent follower Auri, who is a female Bosmer from Valenwood. Although she does not have as much dialogue as the above followers, this reflects her character naturally. Further, she can talk dynamically with Lucien, as well as with vanilla and Interesting NPCs followers.
@@ -534,7 +538,7 @@ We top this off with several lighting mods:
 
  - ***[Relighting Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/8586).*** This mod changes the position and characteristics of existing light sources in dungeons, to match where light should actually be emitted. It sounds like a simple change, but it makes a huge atmospheric difference, and it's critical to being able to sneak around.
  - ***[Enhanced Lighting for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/1377).*** This is our "general purpose" lighting overhaul, and it makes a _big_ difference. In short, it makes light sources look much nicer and more natural, with a side effect of making dungeons and nights very dark.
- - ***[Ominous ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27333).*** Ominous ENB gives a grim, atmospheric look to Skyrim, without sacrificing framerate. It is the core of Librum's graphics overhaul.
+ - ***[Ominous ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27333).*** Ominous ENB gives a grim, atmospheric look to Skyrim, without sacrificing framerate. It is the core of Librum's graphics overhaul. Please note there is a known issue with Ominous ENB that causes many hands and arms to look pale. Unfortunately we can't change this, so if it bothers you, we recommend finding an ENB that meets your visual standards. 
 
 The above only gives a small taste of the various atmosphere and ambience mods included in Librum -- you can visit the manifest for a complete list, but Librum includes everything from [new dust effects](https://www.nexusmods.com/skyrimspecialedition/mods/2407) to [better cloud textures](https://www.nexusmods.com/skyrimspecialedition/mods/2393) and even [better sound dynamics](https://www.nexusmods.com/skyrimspecialedition/mods/701).
 
@@ -573,12 +577,12 @@ Librum also includes [Man Those Borders](https://www.nexusmods.com/skyrimspecial
 ![Alt Text](Resources/whiterun.jpg?raw=true "Whiterun Crossroads Keep")
 
 ## Frequently Asked Questions
-For an updated list of FAQs, please see my Discord server:
+For an updated list of FAQs, please see the Librum Discord server:
 
 [<img src="Resources/discord.PNG" width="300">](https://discord.gg/3f8vPYFmJX)
 
 ## Credits and Thanks
-First of all, I couldn't have done it without the Librum team: _Algeddon_, _Mashtyx_, and _NemeanLion_. They have been a huge part of this process, both creatively and in developing the modlist and its associated resources.
+First of all, I couldn't have done it without the Librum team: _Algeddon_, _Mashtyx_, _NemeanLion_, _Capell_ and _Snidely_. They have been a huge part of this process, both creatively and in developing the modlist and its associated resources.
 
 Of course, I can only take a small slice of the credit for this modlist. I've spent the past several months compiling, reviewing, and properly patching together all of these mods, but the mod authors themselves did most of the work. If you particularly like a certain quest, location, or gameplay mechanic, please go thank the mod authors!
 
@@ -586,5 +590,3 @@ Of course, I can only take a small slice of the credit for this modlist. I've sp
 For any questions, comments, or suggestions, please join my modding Discord server:
 
 [<img src="Resources/discord.PNG" width="300">](https://discord.gg/3f8vPYFmJX)
-
-
