@@ -212,20 +212,20 @@ You still need to active **Frostfall** and **SunHelm**, just deactivate them aga
 
 **Base MCM Configuration for SE & VR**
 1. **AGO** Disable Arrow Wounds (Player), Arrow Wounds (NPC), Persistent Arrows and Arm Fatigue.
-3. **Cobb Encumbrance.** In the _Presets_ tab, apply the preset "Classic (SEM)".
-4. **Frostfall.** Enable it. Close the MCM, and once it has finished starting up, check the MCM settings. [This is how the MCM should look.](https://i.imgur.com/WUcO5jT.png)
-5. **Hunterborn**. Start the mod, and disable the Hunterborn config power in the _Enable_ tab.
-6. **Lock Overhaul.** Activate the mod.
-7. **PSDI Menu.** Activate the mod.
+2. **Cobb Encumbrance.** In the _Presets_ tab, apply the preset "Classic (SEM)".
+3. **Frostfall.** Enable it. Close the MCM, and once it has finished starting up, check the MCM settings. [This is how the MCM should look.](https://i.imgur.com/WUcO5jT.png)
+4. **Hunterborn**. Start the mod, and disable the Hunterborn config power in the _Enable_ tab.
+5. **Lock Overhaul.** Activate the mod.
+6. **PSDI Menu.** Activate the mod.
 7. **Spell Research.** Import spells. It takes a bit to import everything, several pop ups will appear, hit Yes for all.
 8. **SunHelm.** Activate the mod. If desired, change "Widget Display Type" in _Display and Notifications_ tab (I use "Alpha/Color Based").
-10. **Tentapalooza.** I am working on a script to apply these settings automatically. For now, when you use a Tentapalooza tent, change its corresponding setting in this menu to Rain and Snow.
-11. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
-12. **Vigor.** Start the mod.
+9. **Tentapalooza.** I am working on a script to apply these settings automatically. For now, when you use a Tentapalooza tent, change its corresponding setting in this menu to Rain and Snow.
+10. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
+11. **Vigor.** Start the mod.
 
 **Special Edition MCMs**
 
-1. **A Matter of Time** Head to Presets, under User settings hit GO on Load user settings.
+1. **A Matter of Time** Head to _Presets_, and under _User Settings_, hit GO on Load user settings.
 2. **Survival Control Panel.** Turn off the UI setting under _General_.
 
 ## VR Configuration
