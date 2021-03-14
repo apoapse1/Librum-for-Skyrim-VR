@@ -12,9 +12,6 @@ Wabbajack modlist installer for _Librum_.
     - [Pre-Installation](#pre-installation)
       - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
       - [Steam Config](#steam-config)
-        - [Disable the Steam Overlay](#disable-the-steam-overlay)
-        - [Set the Game language to English](#set-the-game-language-to-english)
-        - [Clean Skyrim](#clean-skyrim)
       - [Start Skyrim](#start-up-skyrim)
     - [Using Wabbajack](#using-wabbajack)
       - [Preparations](#preparations)
@@ -27,7 +24,7 @@ Wabbajack modlist installer for _Librum_.
         - [UI Customization](#ui-customization)
       - [Launching Librum](#launching-librum)
       - [MCM Settings](#configure-the-mcm)
-    - [Natural Locomotion](#natural-locomotion)
+    - [VR Configuration](#vr-configuration)
   - [Updating](#updating)
   - [Strategy Guide](#strategy-guide)
   - [Features of Librum](#features-of-librum)
@@ -48,7 +45,7 @@ Wabbajack modlist installer for _Librum_.
 ## Preamble
 ![Alt text](Resources/DoubleBanner.png?raw=tue "I made this image myself, and I am proud of it.")
 
-<div align="center"><b>With big thanks to the Librum team: Algeddon, Mashtyx, and NemeanLion.</b></div>
+<div align="center"><b>With big thanks to the Librum team: Algeddon, Mashtyx, NemeanLion, Capell and Snidely.</b></div>
 <br/>
 
 _You're lost in the woods, having narrowly escaped after scaring off a pack of wolves with a summoned flame atronach. Your torch finally fades out, and it's getting cold. You can conjure basic foods, and your summoned atronach provides enough heat for the time being, but you'll need to gather wood in order to sustain a fire and survive the night. With little time to spare, you can't search far for materials -- luckily, you've fashioned a basic hatchet the night before, and you can chop down a nearby tree for lumber. You fall asleep next to your fire, having placed several runes nearby to dispatch would-be predators. Despite a few interruptions in the night, the morning comes at last, and the sun finally breaks over the horizon._
@@ -109,21 +106,11 @@ I doubt you need to do this since you likely already have this installed. The pa
 
 #### Steam Config
 
-##### Disable the Steam Overlay
+- **Disable the Steam Overlay** - The Steam Overlay can cause issues with ENB and is recommended to be turned off. Open the Properties window (right click the game in your `Library -> Properties`), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
 
-The Steam Overlay can cause issues with ENB and is recommended to be turned off.
+- **Set the Game language to English** - Librum is entirely in English, as many excellent mods are English-exclusive. This may change in the future, but for now, I highly recommend playing the game in English. Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
 
-Open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
-
-##### Set the Game language to English
-
-Librum is entirely in English, as many excellent mods are English-exclusive. This may change in the future, but for now, I highly recommend playing the game in English.
-
-Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
-
-##### Clean Skyrim
-
-If your Skyrim VR or SE installation is not newly installed, I recommend uninstalling the game through Steam, deleting the game folder, and reinstalling it. You should also clean up the `Skyrim VR` or `Skyrim SE` folder in `Documents/My Games/` by deleting the contents in it. 
+- **Clean Skyrim** - If your Skyrim VR or SE installation is not newly installed, I recommend uninstalling the game through Steam, deleting the game folder, and reinstalling it. You should also clean up the `Skyrim VR` or `Skyrim SE` folder in `Documents/My Games/` by deleting the contents in it. 
 
 #### Start up Skyrim
 
@@ -152,13 +139,13 @@ The download and installation process can take a very long time, depending on yo
 
 There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off, so you lose no progress.
 
-***Could not download X.*** If a mod updated and the old files got deleted, it is impossible to download them. In this case, just wait until I update Librum.
+- ***Could not download X.*** If a mod updated and the old files got deleted, it is impossible to download them. In this case, just wait until I update Librum.
 
-***X is not a whitelisted download.*** This can happen when I update the modlist. Check if a new update is available and wait if there is none.
+- ***X is not a whitelisted download.*** This can happen when I update the modlist. Check if a new update is available and wait if there is none.
 
-***Wabbajack could not find my game folder.*** Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step and ensure you've started up Skyrim once before you open Wabbajack.exe so the scan can locate your installation.
+- ***Wabbajack could not find my game folder.*** Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step and ensure you've started up Skyrim once before you open Wabbajack.exe so the scan can locate your installation.
 
-***Windows is reporting that a virus has been detected.*** Windows 10 has started to auto-quarantine the `usvfs_proxy_x86.exe` file from the latest version of Mod Organizer 2, saying a threat has been detected. This is a known false postive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. Example for Windows Defender can be found [here](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
+- ***Windows is reporting that a virus has been detected.*** Windows 10 has started to auto-quarantine the `usvfs_proxy_x86.exe` file from the latest version of Mod Organizer 2, saying a threat has been detected. This is a known false postive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. Example for Windows Defender can be found [here](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
 ### Post-Installation
 Now that Librum is installed, it is time to start the game up for real and create your character. The character creation process has changed with Librum, so we will give details below. Moreover, it is highly recommended that you **configure the MCM after race selection** as described below.
@@ -197,6 +184,8 @@ The UI and UX of your game is a very personal and subjective choice, so we've in
   - [Sovngarde](https://www.nexusmods.com/skyrimspecialedition/mods/386) by Koveich, permissions provided on the mod's page. Bold and Light are both included, along with several compatibility patches.
     - [12th Century Bookfont](https://www.nexusmods.com/skyrim/mods/72159/) by MaGlas, permission provided personally by MaGlas. A compatibility patch for Sovngarde that adds manuscript-style books.
 
+![Glorious Fonts!](Resources/Font_Selector_Preview.png?raw=true "The fonts on offer in the Librum Font Selector")
+
 - **Mash's A Matter of Time Preset** This preset is for those who dislike the "Paper Bar" UI at the bottom of the screen. To replace it with Mashtyx's preset, navigate to your `<Librum Install Folder>/mods/(se) Paper HUD/SKSE/Plugins/FISS` and rename the files to switch them out. You may need to reload the user preset in the A Matter of Time MCM. 
 
 - **Undiscovered Means Unknown** *('GPS' disabled by default)* Right-clicking and selecting *Reinstall Mod* for Undiscovered Means Unknown in MO2 will allow you to restore the 'GPS' functionality that shows the player on your map. 
@@ -212,51 +201,57 @@ To start the game for real, start SKSE through Mod Organizer 2. This will be nec
 
 Start a new game once you get to the main menu. You will start in the character creation area from [Realm of Lorkhan](https://www.nexusmods.com/skyrimspecialedition/mods/18223). For more information on character creation, please read the [Strategy Guide](Strategy_Guide.md) (but come back here after!). Please note that Librum heavily modifies the Realm of Lorkhan to better align with our vision.
 
-**(VR)** Note that Wabbajack will reset some of the in-game Skyrim settings, which you will want to fix before continuing.
-Open main menu -> settings -> VR performance, and apply the following settings:
-
- - Untick dynamic resolution
- - Untick the two "disable lod" options
- - Other options can be configured according to your hardware. In particular, note the "actor distance" slider -- keep this low or you will lag in towns and cities, even with the best CPU.
-
 
 #### Configure the MCM
-Once you have created your character, wait until all the messages in the top left of the screen stop appearing and click Yes/OK to all message pop-ups that appear, and then open up the in-game settings and navigate to the _Mod Configuration Menu_ (MCM). You will need to make several changes here to adhere to the suggested Librum setup. Unfortunately, very few of the mods used in Librum support FISS, so you will need to do this each time you create a new character.
+Once you have created your character, wait until all the messages in the top left of the screen stop appearing and click Yes/OK to all message pop-ups that appear, and then open up the in-game settings and navigate to the _Mod Configuration Menu_ (MCM). You will need to make several changes here to adhere to the suggested Librum setup. Unfortunately, very few of the mods used in Librum support FISS, so you will need to do this each time you create a new character. 
 
-The suggested MCM options are as follows:
-1. **A Matter of Time** Head to Presets, under User settings hit GO on Load user settings.
-2. **AGO** Disable Arrow Wounds (Player), Arrow Wounds (NPC), Persistent Arrows and Arm Fatigue.
-3. **Cobb Encumbrance.** In the _Presets_ tab, apply the preset "Classic (SEM)".
-4. **Frostfall.** Enable it. Close the MCM, and once it has finished starting up, check the MCM settings. [This is how the MCM should look.](https://i.imgur.com/WUcO5jT.png)
-5. **Hunterborn**. Start the mod, and disable the Hunterborn config power in the _Enable_ tab.
-6. **Lock Overhaul.** Activate the mod.
-7. (VR) **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
-8. (VR) **Nemesis PCEA.** Activate both options.
-9. **SkyUI.** If desired, disable the Active Effects HUD under _General_.
-10. **Spell Research.** Import spells. It takes a bit to import everything, several pop ups will appear, hit Yes for all.
-11. **SunHelm.** Activate the mod. If desired, change "Widget Display Type" in _Display and Notifications_ tab (I use "Alpha/Color Based").
-12. (SE) **Survival Control Panel.** Turn off the UI setting under _General_.
-13. **Tentapalooza.** I am working on a script to apply these settings automatically. For now, when you use a Tentapalooza tent, change its corresponding setting in this menu to Rain and Snow.
-14. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
-15. **Traits in Skyrim.** Click add config note. Open your inventory and click on the "Medical History" book.
-16. **Vigor.** Start the mod.
+***If you are playing Librum with Skyrim VR, don't forget to follow the [VR Configuration](#VR-configuration) section!***
 
 **Please read if you don't want Survival Features!** 
 You still need to active **Frostfall** and **SunHelm**, just deactivate them again after they've finished starting up. This is to avoid script bloat and is very important.
 
-Further, there are a few settings to change using mod configuration spells:
-1. (VR) **VRIK.** This configuration spell is available in the _Powers_ tab. Calibrate to headset height, and then to VR scale.
+**Base MCM Configuration for SE & VR**
+1. **AGO** Disable Arrow Wounds (Player), Arrow Wounds (NPC), Persistent Arrows and Arm Fatigue.
+3. **Cobb Encumbrance.** In the _Presets_ tab, apply the preset "Classic (SEM)".
+4. **Frostfall.** Enable it. Close the MCM, and once it has finished starting up, check the MCM settings. [This is how the MCM should look.](https://i.imgur.com/WUcO5jT.png)
+5. **Hunterborn**. Start the mod, and disable the Hunterborn config power in the _Enable_ tab.
+6. **Lock Overhaul.** Activate the mod.
+7. **PSDI Menu.** Activate the mod.
+7. **Spell Research.** Import spells. It takes a bit to import everything, several pop ups will appear, hit Yes for all.
+8. **SunHelm.** Activate the mod. If desired, change "Widget Display Type" in _Display and Notifications_ tab (I use "Alpha/Color Based").
+10. **Tentapalooza.** I am working on a script to apply these settings automatically. For now, when you use a Tentapalooza tent, change its corresponding setting in this menu to Rain and Snow.
+11. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
+12. **Vigor.** Start the mod.
 
-***If you want to use the optional voice commands, apply the following settings:***
+**Special Edition MCMs**
+
+1. **A Matter of Time** Head to Presets, under User settings hit GO on Load user settings.
+2. **Survival Control Panel.** Turn off the UI setting under _General_.
+
+## VR Configuration
+
+### (VR) MCMs
+1. **Nemesis PCEA.** Activate both options.
+2. **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
+
+***Mod Configuration Spells***
+1. **VRIK.** This configuration spell is available in the _Powers_ tab. Calibrate to headset height, and then to VR scale.
+
+***Optional Voice Command MCMs***
 1. **Hunterborn.** Set the "Sense Direction" hotkey to "x".
 2. **Spell Research.** Set the "Spell Research" hotkey to "alt".
 3. **SunHelm.** Set the "Continuance" hotkey to "y", and the "Drink Water/Fill Waterskin" hotkey to "l".
 
+### (VR) In-Game Settings
 
-Congratulations! You've completed the Librum setup, and you are ready to play. The next several sections will explain what Librum is and does, as well as provide support.
+Note that Wabbajack will reset some of the in-game Skyrim VR settings, which you will want to fix before continuing.
+Open the `Main Menu -> Settings -> VR Performance`, and apply the following settings:
 
-### Natural Locomotion
-***Only applies to VR.***
+ - Untick Dynamic Resolution
+ - Untick the two "Disable LOD" options
+ - Other options can be configured according to your hardware. In particular, note the "Actor Distance" slider -- keep this low or you will lag in towns and cities, even with the best CPU.
+
+### (VR) Natural Locomotion
 
 If you don't plan on using Natural Locomotion, turn off "physical sneak".
 
@@ -277,6 +272,8 @@ In terms of configuring NaLo, I recommend the following settings (although it is
  - _Desired trackpad/joystick orientation_ - set to _head relative_.
 
 When you want to play, first load up NaLo and click "Start selected profile" on Skyrim VR, and then launch Skyrim normally (SKSE through MO2).
+
+Congratulations! You've completed the Librum setup, and you are ready to play. The next several sections will explain what Librum is and does, as well as provide support.
 
 ## Updating
 If Librum receives an update, please check the Changelog before doing anything. Always back up your saves or start a new game after updating.
