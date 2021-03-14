@@ -219,11 +219,12 @@ You still need to active **Frostfall** and **SunHelm**, just deactivate them aga
 4. **Hunterborn**. Start the mod, and disable the Hunterborn config power in the _Enable_ tab.
 5. **Lock Overhaul.** Activate the mod.
 6. **PSDI Menu.** Activate the mod.
-7. **Spell Research.** Import spells. It takes a bit to import everything, several pop ups will appear, hit Yes for all.
-8. **SunHelm.** Activate the mod. If desired, change "Widget Display Type" in _Display and Notifications_ tab (I use "Alpha/Color Based").
-9. **Tentapalooza.** I am working on a script to apply these settings automatically. For now, when you use a Tentapalooza tent, change its corresponding setting in this menu to Rain and Snow.
-10. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
-11. **Vigor.** Start the mod.
+7. **SoT Sleeping Encounters.** Uncheck "Allow Drowsy Effect".
+8. **Spell Research.** Import spells. It takes a bit to import everything, several pop ups will appear, hit Yes for all.
+9. **SunHelm.** Activate the mod. If desired, change "Widget Display Type" in _Display and Notifications_ tab (I use "Alpha/Color Based").
+10. **Tentapalooza.** I am working on a script to apply these settings automatically. For now, when you use a Tentapalooza tent, change its corresponding setting in this menu to Rain and Snow.
+11. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
+12. **Vigor.** Start the mod.
 
 **Special Edition MCMs**
 
