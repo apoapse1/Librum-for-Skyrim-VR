@@ -110,6 +110,7 @@ Removed Mods:
  - _Imperious_ (_Legacy_ better fits Librum's character goals)
  - _Andromeda_ (_Curse of the Firmament_ better fits Librum's character goals)
  - _Sacrosanct_ (_Curse of the Vampire_ better fits Librum's magic goals)
+ - _Song of the Green - Auri_ (currently hidden)
 
 Bugfixes:
  - fixed crash when killing werebears and burnt spriggans
