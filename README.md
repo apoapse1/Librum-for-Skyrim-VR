@@ -189,7 +189,7 @@ The UI and UX of your game is a very personal and subjective choice, so we've in
 ![Glorious Fonts!](Resources/Font_Selector_Preview.png?raw=true "The fonts on offer in the Librum Font Selector")
 
 - **Mash's A Matter of Time Preset** This preset is for those who dislike PaperHUD. Please disable PaperHUD and enable this preset. You can't use both at the same time.
-- 
+
 - **Undiscovered Means Unknown** *('GPS' disabled by default)* Right-clicking and selecting *Reinstall Mod* for Undiscovered Means Unknown in MO2 will allow you to restore the 'GPS' functionality that shows the player on your map. 
 
 - **Darker Night Sky** *(Enabled)* This is SGS's night sky texture, to go alongside the ENB preset we're using. It is a darker texture with reddish auroras, and it fits in very nicely with Librum's theme. If you do not use this, you will have the brighter and arguably prettier textures from [Ethereal Cosmos](https://www.nexusmods.com/skyrimspecialedition/mods/5728). If you want Ethereal Cosmos textures instead, disable this in MO2.
@@ -217,7 +217,7 @@ You still need to active **Frostfall** and **SunHelm**, just deactivate them aga
 **Base MCM Configuration for SE & VR**
 1. **AGO** Disable Arrow Wounds (Player), Arrow Wounds (NPC), Persistent Arrows and Arm Fatigue.
 2. **Cobb Encumbrance.** In the _Presets_ tab, apply the preset "Classic (SEM)".
-3. **Frostfall.** Enable it. Close the MCM, and once it has finished starting up, check the MCM settings. [This is how the MCM should look.](https://i.imgur.com/WUcO5jT.png)
+3. **Frostfall.** Enable it. Close the MCM, and once it has finished starting up, check the [MCM settings](https://i.imgur.com/WUcO5jT.png).
 4. **Hunterborn**. Start the mod, and disable the Hunterborn config power in the _Enable_ tab.
 5. **Lock Overhaul.** Activate the mod.
 6. **PSDI Menu.** Activate the mod.
