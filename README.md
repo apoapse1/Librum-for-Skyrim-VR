@@ -235,7 +235,6 @@ You still need to active **Frostfall** and **SunHelm**, just deactivate them aga
 
 ### (VR) MCMs
 1. **Nemesis PCEA.** Activate both options.
-2. **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
 
 ***Mod Configuration Spells***
 1. **VRIK.** This configuration spell is available in the _Powers_ tab. Calibrate to headset height, and then to VR scale.
