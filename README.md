@@ -217,16 +217,18 @@ You still need to active **Frostfall** and **SunHelm**, just deactivate them aga
 **Base MCM Configuration for SE & VR**
 1. **AGO** Disable Arrow Wounds (Player), Arrow Wounds (NPC), Persistent Arrows and Arm Fatigue.
 2. **Cobb Encumbrance.** In the _Presets_ tab, apply the preset "Classic (SEM)".
-3. **Frostfall.** Enable it. Close the MCM, and once it has finished starting up, check the [MCM settings](https://i.imgur.com/WUcO5jT.png).
-4. **Hunterborn**. Start the mod, and disable the Hunterborn config power in the _Enable_ tab.
-5. **Lock Overhaul.** Activate the mod.
-6. **PSDI Menu.** Activate the mod.
-7. **SoT Sleeping Encounters.** Uncheck "Allow Drowsy Effect".
-8. **Spell Research.** Import spells. It takes a bit to import everything, several pop ups will appear, hit Yes for all.
-9. **SunHelm.** Activate the mod. Cannibalism is enabled by default, if you don't want it please disable it.
-10. **Tentapalooza.** I am working on a script to apply these settings automatically. For now, when you use a Tentapalooza tent, change its corresponding setting in this menu to Rain and Snow.
-11. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
-12. **Vigor.** Start the mod.
+3. **Follower Framework.** Under System, hit Load from File.
+4. **Frostfall.** Enable it. Close the MCM, and once it has finished starting up, check the [MCM settings](https://i.imgur.com/WUcO5jT.png).
+5. **Hunterborn**. Start the mod, and disable the Hunterborn config power in the _Enable_ tab.
+6. **Lock Overhaul.** Activate the mod.
+7. **PSDI Menu.** Activate the mod.
+8. **SoT Sleeping Encounters.** Uncheck "Allow Drowsy Effect".
+9. **Spell Research.** Import spells. It takes a bit to import everything, several pop ups will appear, hit Yes for all.
+10. **SunHelm.** Activate the mod. Cannibalism is enabled by default, if you don't want it please disable it.
+11. **Tentapalooza.** I am working on a script to apply these settings automatically. For now, when you use a Tentapalooza tent, change its corresponding setting in this menu to Rain and Snow.
+12. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
+13. **True Armor.** Scroll all the way down to Save & Load and select Load Balanced Settings.
+14. **Vigor.** Start the mod.
 
 **Special Edition MCMs**
 
