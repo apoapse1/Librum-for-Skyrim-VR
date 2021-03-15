@@ -188,13 +188,15 @@ The UI and UX of your game is a very personal and subjective choice, so we've in
 
 ![Glorious Fonts!](Resources/Font_Selector_Preview.png?raw=true "The fonts on offer in the Librum Font Selector")
 
-- **Mash's A Matter of Time Preset** This preset is for those who dislike the "Paper Bar" UI at the bottom of the screen. To replace it with Mashtyx's preset, navigate to your `<Librum Install Folder>/mods/(se) Paper HUD/SKSE/Plugins/FISS` and rename the files to switch them out. You may need to reload the user preset in the A Matter of Time MCM. 
-
+- **Mash's A Matter of Time Preset** This preset is for those who dislike PaperHUD. Please disable PaperHUD and enable this preset. You can't use both at the same time.
+- 
 - **Undiscovered Means Unknown** *('GPS' disabled by default)* Right-clicking and selecting *Reinstall Mod* for Undiscovered Means Unknown in MO2 will allow you to restore the 'GPS' functionality that shows the player on your map. 
 
 - **Darker Night Sky** *(Enabled)* This is SGS's night sky texture, to go alongside the ENB preset we're using. It is a darker texture with reddish auroras, and it fits in very nicely with Librum's theme. If you do not use this, you will have the brighter and arguably prettier textures from [Ethereal Cosmos](https://www.nexusmods.com/skyrimspecialedition/mods/5728). If you want Ethereal Cosmos textures instead, disable this in MO2.
 
 - **Adventure Theme Lite** *(Enabled)* If you want a nicer cursor and Oblivion-style inventory icons, this is the plugin for you. If you do not want this plugin, disable it in MO2.
+
+- **SkyUI The Adventurer Theme Mod Tweak** *(Enabled)* A slight tweak to Adventure Theme Lite, must be enabled or disabled alongside it.
 
 - **Kitties Speak Spanish, Nords speak Deutsch, Italian for Tullius** *(Disabled)* These mods replace the voice and lip-syncing for the appropriate NPCs with alternate languages. Khajiit will speak Spanish, Nords (and some non-Nords) will speak German, and Imperials (not just Tullius) will speak Italian. Subtitles will remain in English, so make sure you have them turned on if you choose to use some or all of these optional mods!
 
@@ -221,7 +223,7 @@ You still need to active **Frostfall** and **SunHelm**, just deactivate them aga
 6. **PSDI Menu.** Activate the mod.
 7. **SoT Sleeping Encounters.** Uncheck "Allow Drowsy Effect".
 8. **Spell Research.** Import spells. It takes a bit to import everything, several pop ups will appear, hit Yes for all.
-9. **SunHelm.** Activate the mod. If desired, change "Widget Display Type" in _Display and Notifications_ tab (I use "Alpha/Color Based").
+9. **SunHelm.** Activate the mod. Cannibalism is enabled by default, if you don't want it please disable it.
 10. **Tentapalooza.** I am working on a script to apply these settings automatically. For now, when you use a Tentapalooza tent, change its corresponding setting in this menu to Rain and Snow.
 11. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
 12. **Vigor.** Start the mod.
