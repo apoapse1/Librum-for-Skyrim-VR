@@ -12,9 +12,6 @@ Wabbajack modlist installer for _Librum_.
     - [Pre-Installation](#pre-installation)
       - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
       - [Steam Config](#steam-config)
-        - [Disable the Steam Overlay](#disable-the-steam-overlay)
-        - [Set the Game language to English](#set-the-game-language-to-english)
-        - [Clean Skyrim](#clean-skyrim)
       - [Start Skyrim](#start-up-skyrim)
     - [Using Wabbajack](#using-wabbajack)
       - [Preparations](#preparations)
@@ -22,16 +19,20 @@ Wabbajack modlist installer for _Librum_.
         - [Problems with Wabbajack](#problems-with-wabbajack)
     - [Post-Installation](#post-installation)
       - [Copy "Game Folder Files"](#copy-game-folder-files)
-      - [Starting Librum and Choosing Optional Plugins](#starting-librum-and-choosing-optional-plugins)
-      - [Start up Skyrim... again](#start-up-skyrim-again)
+      - [Optional Plugins](#optional-plugins)
+        - [Gameplay Customization](#gameplay-customization) 
+        - [UI Customization](#ui-customization)
+      - [Launching Librum](#launching-librum)
       - [MCM Settings](#configure-the-mcm)
-    - [Natural Locomotion](#natural-locomotion)
+    - [VR Configuration](#vr-configuration)
   - [Updating](#updating)
   - [Strategy Guide](#strategy-guide)
   - [Features of Librum](#features-of-librum)
     - [General Philosophy](#general-philosophy)
+    - [Character Creation](#character-creation)
     - [Leveling and Skills](#leveling-and-skills)
-    - [User Interface and Controls](#user-interface-and-controls)
+    - [User Interface](#user-interface)
+    - [VR Experience](#vr-experience)
     - [Dynamic World](#dynamic-world)
     - [Survival and Realism](#survival-and-realism)
     - [Combat and Enemies](#combat-and-enemies)
@@ -46,7 +47,7 @@ Wabbajack modlist installer for _Librum_.
 ## Preamble
 ![Alt text](Resources/DoubleBanner.png?raw=tue "I made this image myself, and I am proud of it.")
 
-<div align="center"><b>With big thanks to the Librum team: Algeddon, Mashtyx, and NemeanLion.</b></div>
+<div align="center"><b>With big thanks to the Librum team: Algeddon, Mashtyx, NemeanLion, Capell and Snidely.</b></div>
 <br/>
 
 _You're lost in the woods, having narrowly escaped after scaring off a pack of wolves with a summoned flame atronach. Your torch finally fades out, and it's getting cold. You can conjure basic foods, and your summoned atronach provides enough heat for the time being, but you'll need to gather wood in order to sustain a fire and survive the night. With little time to spare, you can't search far for materials -- luckily, you've fashioned a basic hatchet the night before, and you can chop down a nearby tree for lumber. You fall asleep next to your fire, having placed several runes nearby to dispatch would-be predators. Despite a few interruptions in the night, the morning comes at last, and the sun finally breaks over the horizon._
@@ -91,11 +92,11 @@ Librum makes use of the excellent [Wabbajack](https://www.wabbajack.org/#/) prog
 1. Clean your Skyrim folder and disable the Steam overlay.
 2. Install the Wabbajack desktop client from [here](https://github.com/wabbajack-tools/wabbajack/releases).
 3. (VR) Navigate to Librum under the _Browse for Modlists_ tab.
-3. (SE) Download the Librum.wabbajack file from the "Releases" tab on this GitHub.
-4. Install Librum to a new folder, outside of `Program Files`.
-5. Copy the `Game Folder Files` folder to your Skyrim VR directory.
-6. Start a new game, and wait until mod installation notes finish appearing.
-7. Configure the Mod Configuration Menu according to the [instructions that follow](#mcm).
+3. (SE) Download the Librum_SE.wabbajack file from the "Releases" tab on this GitHub.
+4. Install Librum to a new folder outside of `Program Files` using Wabbajack.
+5. Copy the `Game Folder Files` folder to your Skyrim VR or SE directory.
+6. Start a new game, and wait until mod installation notes finish appearing in the top left.
+7. Configure the Mod Configuration Menu (MCM) according to the [instructions that follow](#mcm).
 
 ### Pre-Installation
 
@@ -107,25 +108,15 @@ I doubt you need to do this since you likely already have this installed. The pa
 
 #### Steam Config
 
-##### Disable the Steam Overlay
+- **Disable the Steam Overlay** - The Steam Overlay can cause issues with ENB and is recommended to be turned off. Open the Properties window (right click the game in your `Library -> Properties`), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
 
-The Steam Overlay can cause issues with ENB and is recommended to be turned off.
+- **Set the Game language to English** - Librum is entirely in English, as many excellent mods are English-exclusive. This may change in the future, but for now, I highly recommend playing the game in English. Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
 
-Open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
-
-##### Set the Game language to English
-
-Librum is entirely in English, as many excellent mods are English-exclusive. This may change in the future, but for now, I highly recommend playing the game in English.
-
-Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
-
-##### Clean Skyrim
-
-If your Skyrim VR installation is not newly installed, I recommend uninstalling the game through Steam, deleting the game folder, and reinstalling it. You should also clean up the `Skyrim VR` folder in `Documents/My Games/` by deleting the contents in it.
+- **Clean Skyrim** - If your Skyrim VR or SE installation is not newly installed, I recommend uninstalling the game through Steam, deleting the game folder, and reinstalling it. You should also clean up the `Skyrim VR` or `Skyrim SE` folder in `Documents/My Games/` by deleting the contents in it. 
 
 #### Start up Skyrim
 
-After you have done everything above and have a clean Skyrim VR installation ready, start the Launcher and and let it do the initial graphics check. Do not worry about the graphics settings at this point, as the Librum installation will replace them. 
+After you have done everything above and have a clean Skyrim VR/SE installation ready, start the Launcher and and let it do the initial graphics check. Do not worry about the graphics settings at this point, as the Librum installation will replace them. 
 Start the game and exit once you're in the main menu.
 
 ### Using Wabbajack
@@ -140,8 +131,8 @@ The download and installation process can take a very long time, depending on yo
 
 1. Open Wabbajack.
 2. (VR) Browse for the modlist in the Wabbajack client, and click to download it.
-2. (SE) Download the Librum_SE.wabbajack file from the "Releases" tab on this GitHub, and open it up in the "Install From Disk" option in the Wabbajack client.
-3. Once the download is complete, set the installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, or Desktop. Put it somewhere easy like `C:/Modlists/Librum`). The downloads path should automatically fill in the installation path.
+2. (SE) Download the Librum_SE.wabbajack file from the "Releases" tab on this GitHub, and open it up in the "Install From Disk" option in the Wabbajack client. Do not place the .wabbajack file in the folder you want to install Librum to.
+3. Once the download is complete, set the installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, or Desktop. Put it somewhere easy like `C:/Modlists/Librum`). The downloads path should automatically fill in the installation path, but this can be changed if needed. 
 4. Click the Go/Begin button.
 5. Wait for Wabbajack to finish.
 6. If you run into any issues, see the next section. If the installation is successful, proceed to [Post-Installation](#post-installation).
@@ -150,112 +141,119 @@ The download and installation process can take a very long time, depending on yo
 
 There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off, so you lose no progress.
 
-***Could not download X.*** If a mod updated and the old files got deleted, it is impossible to download them. In this case, just wait until I update Librum.
+- ***Could not download X.*** If a mod updated and the old files got deleted, it is impossible to download them. In this case, just wait until I update Librum.
 
-***X is not a whitelisted download.*** This can happen when I update the modlist. Check if a new update is available and wait if there is none.
+- ***X is not a whitelisted download.*** This can happen when I update the modlist. Check if a new update is available and wait if there is none.
 
-***Wabbajack could not find my game folder.*** Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
+- ***Wabbajack could not find my game folder.*** Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step and ensure you've started up Skyrim once before you open Wabbajack.exe so the scan can locate your installation.
 
-***Windows is reporting that a virus has been detected.*** Windows 10 has started to auto-quarantine the usvfs_proxy_x86.exe file from the latest version of Mod Organizer 2, saying a threat has been detected. This is a known false postive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. Example for Windows Defender can be found [here](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
+- ***Windows is reporting that a virus has been detected.*** Windows 10 has started to auto-quarantine the `usvfs_proxy_x86.exe` file from the latest version of Mod Organizer 2, saying a threat has been detected. This is a known false postive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. Example for Windows Defender can be found [here](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
 ### Post-Installation
 Now that Librum is installed, it is time to start the game up for real and create your character. The character creation process has changed with Librum, so we will give details below. Moreover, it is highly recommended that you **configure the MCM after race selection** as described below.
 
 #### Copy "Game Folder Files"
 Navigate to the installed Librum folder, where you will find a folder titled `Game Folder Files`. Copy the contents of this folder to the Skyrim root folder.
-If you don't want 3D sound, do not copy over x3audio1_7.dll and the hrtf folder.
+If you don't want 3D sound, do not copy over `x3audio1_7.dll` and the `hrtf` folder.
 
-**Optional: CAS Sharpener for VR.** If you find that the game is too blurry with the default ENB preset, I have included [CAS Sharpener](https://www.nexusmods.com/skyrimspecialedition/mods/38219) Note that it will compromise the "ominous" look of the default ENB.
+**(VR) Optional: CAS Sharpener for VR.** If you find that the game is too blurry with the default ENB preset, I have included [CAS Sharpener](https://www.nexusmods.com/skyrimspecialedition/mods/38219) Note that it will compromise the "ominous" look of the default ENB.
 
-#### Starting Librum and Choosing Optional Plugins
-Navigate back to the installed Librum folder, and launch the program `ModOrganizer2.exe`. Before launching the game itself, take a look at the _Optional_ category at the bottom of the Mod Organizer 2 mod list. I will go over each below.
+#### Optional Plugins
+Navigate back to the installed Librum folder, and launch the program `ModOrganizer2.exe`. Before launching the game itself, take a look at the _Optional_ category at the bottom of the Mod Organizer 2 mod list - you may need to expand the category to view the mods. I will go over each below and indicate if they are *(Enabled)* or *(Disabled)* by default.
 
-***End Times*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/39201)]. This plugin adds a sense of urgency to the Main Quest, and it ties in nicely with Librum's re-centering of Skyrim around being the Dragonborn. Specifically, if you do not defeat Alduin within a certain amount of time (365 days by default, but configurable in the MCM), he will swallow the world (accompanied by a nice visual), and you will have to reload and try again. You will have a _Doomsday Clock_ spell available, as well as configurable regular updates, to tell you how much time you have left.
+##### Gameplay Customization
 
-If you do not want this plugin, disable it in MO2.
+- **End Times** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/39201)] *(Enabled)* This plugin adds a sense of urgency to the Main Quest, and it ties in nicely with Librum's re-centering of Skyrim around being the Dragonborn. Specifically, if you do not defeat Alduin within a certain amount of time (365 days by default, but configurable in the MCM), he will swallow the world (accompanied by a nice visual), and you will have to reload and try again. You will have a _Doomsday Clock_ spell available, as well as configurable regular updates, to tell you how much time you have left. If you do not want this plugin, disable it in MO2.
 
-***Dragons from the Start*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/41453)]. This plugin enables dragon encounters from the very beginning of the game. This is highly recommended for Librum's Dragonborn-centric play, and it is especially important if you use the next optional plugin. 
+- **Dragons from the Start** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/41453)] *(Enabled)* This plugin enables dragon encounters from the very beginning of the game (keep in mind there are no random dragons as of 2.0). This is highly recommended for Librum's Dragonborn-centric play, and it is especially important if you use the next optional plugin. If you do not want this plugin, disable it in MO2.
 
-If you do not want this plugin, disable it in MO2.
+- **No Perks on Level-Up** *(Enabled)* This is a core feature of Librum, so it is highly recommended. With this plugin, you will no longer earn perks when you level up; rather, you will have to spend dragon souls or discover special Librums (books) in order to earn perk points. This accomplishes two things. First, along with other mods from the core modlist, this re-centers the Skyrim experience on you _actually being the Dragonborn_. You will not progress without hunting dragons and advancing major questlines. Secondly, this reframes the role of perks in the Librum experience - because (especially at the beginning) they are much harder to obtain, they will form a much smaller part of your character's identity, and your character will spend a longer time being a "normal person". If you do not want this plugin, disable it in MO2 - but keep in mind that we've still implemented 1 perk every 2 levels instead of 1 for 1 to help maintain some semblance of balance with our vision.
 
-***No Perks on Level-Up***. This is a core feature of Librum, so it is highly recommended. With this plugin, you will no longer earn perks when you level up; rather, you will have to spend dragon souls in order to earn perk points. This accomplishes two things. First, along with other mods from the core modlist, this re-centers the Skyrim experience on you _actually being the Dragonborn_. You will not progress without hunting dragons and progressing the main quest. Secondly, this reframes the role of perks in the Librum experience. Because (especially at the beginning) they are much harder to obtain, they will form a much smaller part of your character's identity, and your character will spend a longer time being a "normal person".
+- **Morrowind-Style Beast Races** *(Enabled)* This mod liberates the paws and claws of Argonians and Khajiits. Plan accordingly for their inability to wear boots! If you do not want this plugin, disable it in MO2.
 
-If you do not want this plugin, disable it in MO2.
+- **(VR) New Voice Commands** *(Enabled)* This adds several new voice commands, to automate many of the features you'll be using frequently: _Open Map_ and _Close Map_, _Call Horse_, _Spell Research_, _Drink Water_ and _Fill Waterskin_, _Continuance_ or _Get Status_ (for general health and hunger/thirst/fatigue status), and _Sense Direction_. If you do not want this plugin, disable it in MO2.
 
-***Adventure Theme Lite***. If you want a nicer cursor and Oblivion-style inventory icons, this is the plugin for you.
+- **(VR) VRIK Controller Bindings** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/23416)] *(Enabled)* These are recommended controller bindings to go along with VRIK. If you are using an Index, you will need the latest community bindings. Unfortunately, some in-game button prompts will not align with these bindings. If you do not want this plugin, disable it in MO2.
 
-If you want this plugin, enable it in MO2.
+- **(VR) Left-handed Settings** *(Disabled)* Self-explanatory. Make sure to also enable "Left-Handed Mode" in the in-game settings. If you are left-handed, enable this in MO2.
 
-***VRIK Controller Bindings*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/23416)]. These are recommended controller bindings to go along with VRIK. If you are using an Index, you will need the latest community bindings. Unfortunately, some in-game button prompts will not align with these bindings.
+##### UI Customization
+The UI and UX of your game is a very personal and subjective choice, so we've included a few options for you to choose from:
 
-If you do not want this plugin, disable it in MO2.
+- **Librum Font Selector** *(Defaults to Magic Cards)* Right-clicking and selecting *Reinstall Mod* on the Librum Font Selector will allow you to choose between several pre-installed fonts and compatibility patches/replacers. If prompted, select `Replace Mod`. The fonts can be previewed [here](https://i.imgur.com/a/QhGuCU9), as well as in the FOMOD installer. A massive thanks to all the authors who have given permission for us to include these!
 
-***Magic Cards Font*** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/14356)]. This is the font from Morrowind. It looks more "medieval" than the standard font, but is generally a nice (and nostalgic) change of pace.
+  - [Main Font Replacer SSE](https://www.nexusmods.com/skyrimspecialedition/mods/14356) originally by Valistar, ported by RumblestrutPig. Permissions provided by Valistar in the original Skyrim LE file. Includes the Andalus, Centaur, Fertigo Pro, Magic Cards, Morpheus and TaraType fonts.
+  - [Sovngarde](https://www.nexusmods.com/skyrimspecialedition/mods/386) by Koveich, permissions provided on the mod's page. Bold and Light are both included, along with several compatibility patches.
+    - [12th Century Bookfont](https://www.nexusmods.com/skyrim/mods/72159/) by MaGlas, permission provided personally by MaGlas. A compatibility patch for Sovngarde that adds manuscript-style books.
 
-If you do not want this plugin, disable it in MO2.
+![Glorious Fonts!](Resources/Font_Selector_Preview.png?raw=true "The fonts on offer in the Librum Font Selector")
 
-***Darker Night Sky***. This is SGS's night sky texture, to go alongside the ENB preset we're using. It is a darker texture with reddish auroras, and it fits in very nicely with Librum's theme. If you do not use this, you will have the brighter and arguably prettier textures from [Ethereal Cosmos](https://www.nexusmods.com/skyrimspecialedition/mods/5728).
+- **Mash's A Matter of Time Preset** This preset is for those who dislike the "Paper Bar" UI at the bottom of the screen. To replace it with Mashtyx's preset, navigate to your `<Librum Install Folder>/mods/(se) Paper HUD/SKSE/Plugins/FISS` and rename the files to switch them out. You may need to reload the user preset in the A Matter of Time MCM. 
 
-If you want Ethereal Cosmos textures instead, disable this in MO2.
+- **Undiscovered Means Unknown** *('GPS' disabled by default)* Right-clicking and selecting *Reinstall Mod* for Undiscovered Means Unknown in MO2 will allow you to restore the 'GPS' functionality that shows the player on your map. 
 
-***New Voice Commands***. This adds several new voice commands, to automate many of the features you'll be using frequently: _Open Map_ and _Close Map_, _Call Horse_, _Spell Research_, _Drink Water_ and _Fill Waterskin_, _Continuance_ or _Get Status_ (for general health and hunger/thirst/fatigue status), and _Sense Direction_.
+- **Darker Night Sky** *(Enabled)* This is SGS's night sky texture, to go alongside the ENB preset we're using. It is a darker texture with reddish auroras, and it fits in very nicely with Librum's theme. If you do not use this, you will have the brighter and arguably prettier textures from [Ethereal Cosmos](https://www.nexusmods.com/skyrimspecialedition/mods/5728). If you want Ethereal Cosmos textures instead, disable this in MO2.
 
-If you do not want this plugin, disable it in MO2.
+- **Adventure Theme Lite** *(Enabled)* If you want a nicer cursor and Oblivion-style inventory icons, this is the plugin for you. If you do not want this plugin, disable it in MO2.
 
-***Left-handed Settings***. Self-explanatory. Make sure to also enable "Left-Handed Mode" in the in-game settings.
+- **Kitties Speak Spanish, Nords speak Deutsch, Italian for Tullius** *(Disabled)* These mods replace the voice and lip-syncing for the appropriate NPCs with alternate languages. Khajiit will speak Spanish, Nords (and some non-Nords) will speak German, and Imperials (not just Tullius) will speak Italian. Subtitles will remain in English, so make sure you have them turned on if you choose to use some or all of these optional mods!
 
-If you are left-handed, enable this in MO2.
-
-#### Start up Skyrim... again
+#### Launching Librum
 To start the game for real, start SKSE through Mod Organizer 2. This will be necessary every time you start the game; if you try to launch Skyrim through its default folder or through Steam, the game will be entirely vanilla.
 
-Start a new game once you get to the main menu. You will start in the character creation area from [Realm of Lorkhan](https://www.nexusmods.com/skyrimspecialedition/mods/18223). For more information on character creation, please read the [Strategy Guide](Strategy_Guide.md) (but come back here after!).
-
-Note that Wabbajack will reset some of the in-game Skyrim settings, which you will want to fix before continuing.
-Open main menu -> settings -> VR performance, and apply the following settings:
-
- - Untick dynamic resolution
- - Untick the two "disable lod" options
- - Other options can be configured according to your hardware. In particular, note the "actor distance" slider -- keep this low or you will lag in towns and cities, even with the best CPU.
+Start a new game once you get to the main menu. You will start in the character creation area from [Realm of Lorkhan](https://www.nexusmods.com/skyrimspecialedition/mods/18223). For more information on character creation, please read the [Strategy Guide](Strategy_Guide.md) (but come back here after!). Please note that Librum heavily modifies the Realm of Lorkhan to better align with our vision.
 
 
 #### Configure the MCM
-Once you have created your character, wait until all the messages in the top left of the screen stop appearing and click Yes/OK to all message pop-ups that appear, and then open up the in-game settings and navigate to the _Mod Configuration Menu_ (MCM). You will need to make several changes here to adhere to the suggested Librum setup. Unfortunately, very few of the mods used in Librum support FISS, so you will need to do this each time you create a new character.
+Once you have created your character, wait until all the messages in the top left of the screen stop appearing and click Yes/OK to all message pop-ups that appear, and then open up the in-game settings and navigate to the _Mod Configuration Menu_ (MCM). You will need to make several changes here to adhere to the suggested Librum setup. Unfortunately, very few of the mods used in Librum support FISS, so you will need to do this each time you create a new character. 
 
-The suggested MCM options are as follows:
-1. **A Matter of Time** Head to Presets, under User settings hit GO on Load user settings.
-2. **AGO** Disable Arrow Wounds (Player), Arrow Wounds (NPC), Persistent Arrows and Arm Fatigue.
-3. **Cobb Encumbrance.** In the _Presets_ tab, apply the preset "Classic (SEM)".
-4. **Frostfall.** Enable it. Close the MCM, and once it has finished starting up, check the MCM settings. [This is how the MCM should look.](https://i.imgur.com/WUcO5jT.png)
-5. **Hunterborn**. Start the mod, and disable the Hunterborn config power in the _Enable_ tab.
-6. **Lock Overhaul.** Activate the mod.
-7. (VR) **MageVR.** Spawn MageVR backpack, and "Archery Mode" -> "Hardcore". Either set the first weapon slots (both left and right) to _empty quickslots_ or to _quivers_, to prevent MageVR holsters interfering with VRIK holsters.
-8. (VR) **Nemesis PCEA.** Activate both options.
-9. **SkyUI.** If desired, disable the Active Effects HUD under _General_.
-10. **Spell Research.** Import spells. It takes a bit to import everything, several pop ups will appear, hit Yes for all.
-11. **SunHelm.** Activate the mod. If desired, change "Widget Display Type" in _Display and Notifications_ tab (I use "Alpha/Color Based").
-12. (SE) **Survival Control Panel.** Turn off the UI setting under _General_.
-13. **Tentapalooza.** I am working on a script to apply these settings automatically. For now, when you use a Tentapalooza tent, change its corresponding setting in this menu to Rain and Snow.
-14. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
-15. **Traits in Skyrim.** Click add config note. Open your inventory and click on the "Medical History" book.
-16. **Vigor.** Start the mod.
+***If you are playing Librum with Skyrim VR, don't forget to follow the [VR Configuration](#VR-configuration) section!***
 
 **Please read if you don't want Survival Features!** 
 You still need to active **Frostfall** and **SunHelm**, just deactivate them again after they've finished starting up. This is to avoid script bloat and is very important.
 
-Further, there are a few settings to change using mod configuration spells:
-1. (VR) **VRIK.** This configuration spell is available in the _Powers_ tab. Calibrate to headset height, and then to VR scale.
+**Base MCM Configuration for SE & VR**
+1. **AGO** Disable Arrow Wounds (Player), Arrow Wounds (NPC), Persistent Arrows and Arm Fatigue.
+2. **Cobb Encumbrance.** In the _Presets_ tab, apply the preset "Classic (SEM)".
+3. **Frostfall.** Enable it. Close the MCM, and once it has finished starting up, check the MCM settings. [This is how the MCM should look.](https://i.imgur.com/WUcO5jT.png)
+4. **Hunterborn**. Start the mod, and disable the Hunterborn config power in the _Enable_ tab.
+5. **Lock Overhaul.** Activate the mod.
+6. **PSDI Menu.** Activate the mod.
+7. **SoT Sleeping Encounters.** Uncheck "Allow Drowsy Effect".
+8. **Spell Research.** Import spells. It takes a bit to import everything, several pop ups will appear, hit Yes for all.
+9. **SunHelm.** Activate the mod. If desired, change "Widget Display Type" in _Display and Notifications_ tab (I use "Alpha/Color Based").
+10. **Tentapalooza.** I am working on a script to apply these settings automatically. For now, when you use a Tentapalooza tent, change its corresponding setting in this menu to Rain and Snow.
+11. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
+12. **Vigor.** Start the mod.
 
-***If you want to use the optional voice commands, apply the following settings:***
+**Special Edition MCMs**
+
+1. **A Matter of Time** Head to _Presets_, and under _User Settings_, hit GO on Load user settings.
+2. **Survival Control Panel.** Turn off the UI setting under _General_.
+
+## VR Configuration
+
+### (VR) MCMs
+1. **Nemesis PCEA.** Activate both options.
+
+***Mod Configuration Spells***
+1. **VRIK.** This configuration spell is available in the _Powers_ tab. Calibrate to headset height, and then to VR scale.
+
+***Optional Voice Command MCMs***
 1. **Hunterborn.** Set the "Sense Direction" hotkey to "x".
 2. **Spell Research.** Set the "Spell Research" hotkey to "alt".
 3. **SunHelm.** Set the "Continuance" hotkey to "y", and the "Drink Water/Fill Waterskin" hotkey to "l".
 
+### (VR) In-Game Settings
 
-Congratulations! You've completed the Librum setup, and you are ready to play. The next several sections will explain what Librum is and does, as well as provide support.
+Note that Wabbajack will reset some of the in-game Skyrim VR settings, which you will want to fix before continuing.
+Open the `Main Menu -> Settings -> VR Performance`, and apply the following settings:
 
-### Natural Locomotion
-***Only applies to VR.***
+ - Untick Dynamic Resolution
+ - Untick the two "Disable LOD" options
+ - Other options can be configured according to your hardware. In particular, note the "Actor Distance" slider -- keep this low or you will lag in towns and cities, even with the best CPU.
+
+### (VR) Natural Locomotion
 
 If you don't plan on using Natural Locomotion, turn off "physical sneak".
 
@@ -276,6 +274,8 @@ In terms of configuring NaLo, I recommend the following settings (although it is
  - _Desired trackpad/joystick orientation_ - set to _head relative_.
 
 When you want to play, first load up NaLo and click "Start selected profile" on Skyrim VR, and then launch Skyrim normally (SKSE through MO2).
+
+Congratulations! You've completed the Librum setup, and you are ready to play. The next several sections will explain what Librum is and does, as well as provide support.
 
 ## Updating
 If Librum receives an update, please check the Changelog before doing anything. Always back up your saves or start a new game after updating.
@@ -302,12 +302,19 @@ With every change, Librum attempts to adhere to the points of its _core philosop
 2. The world is static in ways that make sense, but dynamic in all others. The world is not centered around you, but it reacts realistically to the actions you take and the choices you make. In particular, the ways in which you interact with the world change as you become more powerful.
 3. Magic in all forms is a dangerous, arcane, and powerful force. Magic can solve most any problem you have, but -- as an example -- acquiring a single Master-level spell might take a whole playthrough.
 
+### Character Creation
+Though they are expanded upon in more detail below, the following changes and mods are core to your character creation and are included here for ease of reference:
+- **Races** - [Legacy](https://www.nexusmods.com/skyrimspecialedition/mods/36415) not only significantly changes your race's abilities, but it also affects NPCs in the world. The race of a bandit you're fighting is no longer just a cosmetic distinction, but will significantly impact how you approach the fight. 
+- **Standing Stones** - [Curse of the Firmament](https://www.nexusmods.com/skyrimspecialedition/mods/28419) overhauls the familiar vanilla standing stone buffs into more interesting trade-offs and decisions. Choose wisely, as once you leave the Realm of Lorkhan, they are permanent. Standing Stone abilities have also been distributed to NPCs in the world, so much as with Legacy it's worth becoming familiar with these and considering how they will affect the way you fight.
+- **Magicka** - Starts at 10. In the low magic setting of Librum, nobody is a mage at level 1 -- however, those who are prepared to invest the time and effort into their magical studies will be greatly rewarded. See the [Magic](#magic) section for (much) more detail.  
+
+
 ### Leveling and Skills
 Librum makes several major changes to character progression, described by the following comparison table:
 
  | Vanilla Skyrim | Librum
  | -------------- | ------
- | Character progression happens primarily as you level, and primarily through the allocation of perk points.	  | Character progression occurs through three unrelated aspects of your character: spell/equipment progression, character level, and collected dragon souls.
+ | Character progression happens primarily as you level, and primarily through the allocation of perk points.	  | Character progression occurs through four unrelated aspects of your character: spell/equipment progression, character level, collected dragon souls, and the discovery of *Librum Antiquums* in various places around the world.
  | Available equipment and enemies depend exclusively on your level.	| Librum's loot distribution is based on [Morrowloot Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/3058), so equipment and enemies (with the exception of dragons) are entirely unleveled.
  | Higher level equipment can be made and improved at any time, mitigating any effect of leveled weapons and armor	| Smithing now requires more knowledge than just a perk point; for instance, you need to acquire the _[Ancient Knowledge](http://en.uesp.net/wiki/Skyrim:Powers#Ancient_Knowledge)_ effect to make any Dwarven equipment, and Daedric smithing requires uncovering the secret of its construction. Improving equipment is no longer as effective.
  | Available spell tomes depend exclusively on your skill level, but are readily available at spell merchants.	| Spell tomes do not exist, by and large, with the exception of select hand-placed tomes. Rather, all spell progression is done through [Spell Research](https://www.nexusmods.com/skyrimspecialedition/mods/20983).
@@ -319,11 +326,14 @@ Librum makes several major changes to character progression, described by the fo
  | Your race typically gives you a once-a-day power, as well as some moderate resistances. 	| Through [Legacy](https://www.nexusmods.com/skyrimspecialedition/mods/36415), your race confers significant passive abilities. These typically change gameplay drastically.
  | You can open your map whenever you want. | Thanks to [Helps To Have A Map](https://www.nexusmods.com/skyrimspecialedition/mods/37238) you must have a Map of [Location] equipped in your shield hand to open the map menu. Maps eventually break the more you use them, and if you take damage with your map equipped.
 
-### User Interface and Controls
+### User Interface
 Librum makes a few changes to the default user interface, to (a) create a unique visual experience and (b) to improve the VR experience. For the first point, Librum uses [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604) along with the excellent [Dear Diary UI](https://www.nexusmods.com/skyrimspecialedition/mods/23010) and pieces of the [Adventurer Theme Mod](https://www.nexusmods.com/skyrimspecialedition/mods/35568) in order to blend a Skyrim-style modern UI with touches of a more Oblivion-style classic visual theme:
 
 ![Alt text](Resources/UI.jpeg?raw=true "Adventurer Theme Mod, Rendered in Skyrim SE")
 
+We recognize that UIs, HUDs, Fonts and ENBs are all very personal and subjective choices, so as of 2.0 we've begun to look deeper at providing bundled options so you don't need to go rogue just to make things look the way you like! To start, we've provided a Font Selector to switch between several different options along with two different HUD presets. We hope to provide many more options to come in future releases.
+
+### VR Experience
 Librum makes larger changes in terms of controls. For one, it includes [Dual Wield Block VR](https://www.nexusmods.com/skyrimspecialedition/mods/28456), [Weapon Throw VR](https://www.nexusmods.com/skyrimspecialedition/mods/31374), [Sprint Jump VR](https://www.nexusmods.com/skyrimspecialedition/mods/28354), [VR Power Attack Fix](https://www.nexusmods.com/skyrimspecialedition/mods/28004), [Haptic Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/20364), and [Realistic Mining VR](https://www.nexusmods.com/skyrimspecialedition/mods/16692) in order to better match player motions to character actions. With this suite of mods, VR combat is a much more natural experience, and you have all the options -- such as blocking with an off-hand weapon or throwing your weapon -- that you would expect. In particular, as we will further discuss in the next section, you can swing your pickaxe at _any_ in-game rock (including, but not limited to standard ore veins) and swing your woodcutter's axe at (most) any in-game tree or wooden object to get the resources you expect.
 
 A big change in this direction is [HIGGS VR](https://www.nexusmods.com/skyrimspecialedition/mods/43930), which allows you to use your hands to truly interact with the world. You can pick up items naturally and turn them in your hand, throw them at NPCs, or put them over your shoulder to put them in your inventory. You can drag bodies around (finally) to hide your crimes from the law, or grab armor pieces directly off of corpses without entering a menu. Finally, you have gravity-glove-like abilities, as in _Half-Life: Alyx_.
@@ -334,10 +344,10 @@ In a similar vein, Librum includes [Dragonborn Speaks Naturally](https://www.nex
 
 Librum also includes [MageVR](https://www.nexusmods.com/skyrimspecialedition/mods/21297), which generally overhauls the way you interact with spells and equipment. I recommend thoroughly reading its mod page for more information, but in short, it adds the following features:
 1. Spells can be slotted to drawn "glyphs". You can re-draw the glyph later to either equip or auto-cast the slotted spell, all without entering your menu.
-3. Archery is realistic. You will need to manually retrieve an arrow from your quiver in order to fire another shot.
-4. You can quickslot shouts and powers, usable through a gesture and hotkey press.
-5. You are able to "immersively" loot a container, in which you manually drag loot from the container to your backpack.
-6. You are able to "immersively" lockpick, in a way resembling the real procedure for a tumbler lock.
+2. Archery is realistic. You will need to manually retrieve an arrow from your quiver in order to fire another shot.
+3. You can quickslot shouts and powers, usable through a gesture and hotkey press.
+4. You are able to "immersively" loot a container, in which you manually drag loot from the container to your backpack.
+5. You are able to "immersively" lockpick, in a way resembling the real procedure for a tumbler lock.
 
 Last but not least, Librum includes the fan-favorite [VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416), which allows you to see your character in-game. Not only that, but VRIK provides several visible weapon holsters around your body -- your calves, thighs, hips, forearms, upper arms, chest, stomach, and shoulders. To use these, hold your weapon over the appropriate holster (you should feel a haptic signal) and press "grip". Hold "grip" and pull away to unsheathe. VRIK also allows you to go into "selfie mode", by lifting your right hand above your head and rotating; you can finally see your VR character in his/her full glory!
 
@@ -350,7 +360,7 @@ The combined effects of these mods are as follows:
 1. Any haypile or stack of wood you find in the game can be looted, and will decrease in size as you loot them.
 2. Almost all "static" containers in Skyrim -- crates, barrels, and others -- can now be looted. They can also be destroyed with a woodcutter's axe, which will drop all of their contents and firewood.
 3. Most rocks can be mined with a pickaxe, giving you Hearthfire resources.
-4. Most trees can be cut down with any axe, giving you firewood and other resources.
+4. Most trees can be cut down with any axe, giving you firewood and other resources. *(VR Note) You may need to power attack (hold the trigger) and reach "into" the tree with your axe.*
 5. You can drink or bottle liquids from mead barrels and similar containers.
 6. Using your weapons or Destruction magic on training dummies and archery targets will yield experience.
 7. You can harvest mammoth tusks from mammoth skulls you find.
@@ -373,11 +383,15 @@ Finally, through _Sunhelm_, diseases have become much more dangerous. Instead of
 ### Combat and Enemies
 Librum uses a slew of mods to improve the combat experience overall, with a strong focus on making each fight (within reason) a dangerous and harrowing experience.
 
-For general combat, Librum combines its many [new VR options](#user-interface-and-controls) with [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549), [Mortal Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/4881), [Skyrim Revamped - Complete Enemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/14598), [Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807), and [Morrowloot Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/3058). The former two mods add an element of dynamism to combat -- instead of standing and swinging your Touch controllers wildly, you will need to duck, weave, and carefully time both your attacks and your blocks. If you interrupt an opponent's power attack pullback or bow draw, or if you hit them from behind or while staggered, you will gain massive "attack of opportunity" damage bonuses. Similarly, if you properly time your block, you can negate most damage and stagger your opponent (thus allowing for an attack of opportunity). Of course, the same effects apply to your opponents, so you will need to keep your guard up as you fight.
+For general combat, Librum combines its many [new VR options](#user-interface-and-controls) with [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549), [Vigor - Enhanced Combat](https://www.nexusmods.com/skyrimspecialedition/mods/38075), [Mortal Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/4881), [Skyrim Revamped - Complete Enemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/14598), [Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807), and [Morrowloot Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/3058). The former two mods add an element of dynamism to combat -- instead of standing and swinging your Touch controllers wildly (or spamming the LMB), you will need to duck, weave, and carefully time both your attacks and your blocks. Knowing when to press your advantage and attack when an enemy is staggered or off-balance will grant significant damage bonuses -- but these bonuses also apply to your opponents, so make every attack count and don't leave yourself vulnerable!
 
-On the flip side, you (and your opponents) will have to be much more careful in order to avoid Wildcat's all-new injuries, which can quickly turn the tide of combat. Any time someone sustains a major attack (30% or more of their total health), they have a chance of injuring your head, chest, arms, legs, or back, and thus facing major body-part-specific penalties to their combat abilities.
+Managing your Stamina (and therefore carry weight, thanks to Cobb Encumbrance) is more important than ever, and you will be rewarded for learning how each weapon handles in terms of speed and reach. Blocking will consume stamina first (before overflowing into health) and may not always be the best option compared to dodging and positioning. Vigor also introduces the concept of "Poise" which is a hidden stat that's based off of your armor weight and stamina total. As you lose health your poise will decrease, and when it reaches 0 you'll be staggered and your Stamina reduced based on how far past 0 poise was surpassed. 
 
-The latter two mods, AAE and MLU, step in before you've even started a fight. The latter delevels all enemies, so you'll have to make sure you're properly prepared to be wherever you're going. The former drastically changes enemies' resistances, weaknesses, and abilities, forcing you to plan in advance before a difficult fight. You will now _need_ to pack a silver, Daedric, or magical weapon in order to fight ghosts, for instance, and you'll need to clobber skeletons instead of shooting at them. Furthermore, opponents will use all of the tools at their disposal. From the mod page, "witches will now summon spriggans and use poison spells to their advantage, Thalmor will try to subdue their foes by way of paralysis, while vampires can use hand to hand combat, as well as summon gargoyles, and even morph into a swarm of bats while in combat". Combined with AI tweaks from Wildcat and more minor mods (like [Multiple Floors Sandboxing](https://www.nexusmods.com/skyrimspecialedition/mods/4524)), these improvements will make any fight a life-or-death experience.
+Know Your Enemy and Morrowloot Ultimate step in before you've even started a fight, with the latter deleveling all enemies, so you'll have to make sure you're properly prepared to be wherever you're going. The former drastically changes enemies' resistances and weaknesses, forcing you to plan in advance before a difficult fight. It adds a variety of traits to armor and creatures to provide different resistance levels to various attack types -- for example, arrows will be able to pierce through most light armors, but will be significantly weaker against metal/heavy armors. These changes combined with AI tweaks and minor mods (like [Multiple Floors Sandboxing](https://www.nexusmods.com/skyrimspecialedition/mods/4524)) will make any fight a life-or-death experience that rewards careful planning and intelligence. There are no one-size-fits-all solutions to combat.
+
+Potions are no longer instantaneous and spammable, instead drawing their effects out over 10 seconds. No longer can you pause the game seconds before a power attack hits you and spring back to full health to survive the hit! Potions have also been distributed to most NPCs and they will use them intelligently to restore their health/magicka/stamina, boost resistances and utilize invisibility.
+
+Pay close attention to the passive bonuses given through [Legacy](https://www.nexusmods.com/skyrimspecialedition/mods/36415) and remember that they *now apply to NPCs as well as the player*. NPCs have also had Standing Stone passives distributed to them through [Curse of the Firmament](https://www.nexusmods.com/skyrimspecialedition/mods/28419), potentially creating some tricky and unpredictable combinations to overcome. If you're fighting an Orc and they suddenly burst into 'flames' and dramatically increase in power, that's Legacy at work.
 
 ![Alt Text](Resources/Trident.png?raw=true "Glass trident, from Heavy Armory")
 
@@ -396,7 +410,9 @@ Of course, dragon combat still forms the foundation of Librum, and dragons are n
 Finally, Librum turns Skyrim's half-baked sneaking mechanic into a stealth experience worthy of the _Thief_ franchise. With the many thoroughly researched changes from [Realistic AI Detection](https://www.nexusmods.com/skyrimspecialedition/mods/2345), you will now need to use darkness and silence to your advantage. Many dungeons have undergone [significant lighting improvements](https://www.nexusmods.com/skyrimspecialedition/mods/8586), which you need to make use of as you sneak around enemies' now-more-realistic detection skills. Speaking of the _Thief_ franchise, Librum adds many new tools of the trade to aspiring rogues, courtesy of [Sneak Tools](https://www.nexusmods.com/skyrimspecialedition/mods/1863). You can now knock unsuspecting opponents out with your bare hands or a blackjack, ignite and extinguish light sources with fire/frost magic or fire/water arrows, and better navigate your environment with rope arrows. You can also set things ablaze after hitting them with oil arrows, fool opponents with noisemaker arrows, and conceal your identity with various masks and hoods (a la Grey Cowl of Nocturnal). 
 
 ### Magic
-If anything, Librum makes _more_ significant changes to the mage experience than the warrior or thief experiences mentioned in the last section. First and foremost, the process for obtaining new spells adheres to the [Spell Research](https://www.nexusmods.com/skyrimspecialedition/mods/20983) format. In short, ***spell tomes no longer exist***, by and large, with the exception of certain hand-placed tomes. This means that you will need to _research_ to discover each new spell, in one of three general fashions:
+When you start Librum, you need to change your fundamental expectations of what being a mage looks like in Skyrim. Though the magic of Librum can be described as ***low magic***, it is equally apt to call it ***deep magic***. As you'll see below, the systems surrounding magic have been expanded upon greatly to introduce new schools and nuance to the casting of spells. Not only that, the process of *becoming* a mage isn't assumed to have happened sometime before level 1, but rather will be a core focus of your playthrough should you intend to take up the esoteric arts. No longer will you be shooting flames from your hands from the moment you step into the world, instead you'll be hitting the books (or paper rolls, in this case) to study magical artifacts and painstakingly research your spells. Did I mention you start with 10 Magicka? Better bring some bodyguards along!
+
+The process for obtaining new spells adheres to the [Spell Research](https://www.nexusmods.com/skyrimspecialedition/mods/20983) format. In short, ***spell tomes no longer exist***, by and large, with the exception of certain hand-placed tomes. This means that you will need to _research_ to discover each new spell, in one of three general fashions:
 1. _Researching existing spells_. Using your research journal, you can spend time studying any spell already in your possession, in order to increase your knowledge of the spell's various archetypes. For instance, studying _Lesser Ward_ would improve your knowledge of Restoration magic, of shielding spells, of "magical force" inducing spells, of self-targeting spells, and of concentration spells. This is slow, but a very straightforward method of progression for existing mages.
 2. _Distilling and studying alchemical ingredients_. Using an alembic or a cauldron, you can distill alchemy ingredients into concentrated serums, which you can then (a) use for interesting crafting recipes or (b) study to improve your knowledge of their effects. This is relatively fast, but expensive and terribly confusing.
 3. _Beating the shit out of valuable artifacts_. Along your adventures, you will come across all manner of new magical artifacts, ranging from the relatively commonplace enchanted weapon fragments to the dangerous and rare _Grimoires_. By studying magical items, translating old tomes, or destroying all of these artifacts, you can learn a huge amount about various spell archetypes, or even gain new spells automatically. However, these methods can be finnicky and dangerous, and they may harm you more than they help.
@@ -437,16 +453,17 @@ In addition to the above list, Librum includes a ton of new "miscellaneous" spel
 
 Note that almost all of the above spells must be discovered on your own, through Spell Research. Because of this, you will naturally tend toward a specific magical niche (which may not align at all with the spell "classes" listed above), dependent on your experience in the different magic archetypes. In this fashion, Librum turns Skyrim's vanilla "eat a book" magic system into a truly immersive research experience; you will be able to discover nearly any sort of magic you can imagine, but you need to dedicate yourself to studying the secrets of magic.
 
-Finally, Librum adds a new element of challenge in the form of [FIZZLE](https://www.nexusmods.com/skyrimspecialedition/mods/18180). If your magic skill isn't high enough to comfortably cast a certain spell, there is a chance that it will fail on the spot (but still drain your Magicka!). This is affected by other environmental factors, forcing mages to adapt appropriately to Skyrim's harsh climate; for instance, if you are suffering from frostbite, your magic skills will be significantly reduced, and most of your spells will fail.
+When it comes to actually *casting* spells, Librum also adds a new element of challenge in the form of [FIZZLE](https://www.nexusmods.com/skyrimspecialedition/mods/18180). If your magic skill isn't high enough to comfortably cast a certain spell, there is a chance that it will fail on the spot (but still drain your Magicka!). This is affected by other environmental factors, forcing mages to adapt appropriately to Skyrim's harsh climate; for instance, if you are suffering from frostbite, your magic skills will be significantly reduced, and most of your spells will fail. 
+
+Even after all this effort to acquire materials and research a spell, it will be very weak to begin -- as you cast them and begin to specialize in schools of magic, you will organically grow more powerful thanks to [Better Magic Progression](https://www.nexusmods.com/skyrimspecialedition/mods/16269) allowing your abilities to develop through use. 
+
+When it comes to Enchanting your own magical items of power, the list includes [Enchanting Awakened](https://www.nexusmods.com/skyrimspecialedition/mods/18558) to further provide avenues of specialization and complexity to the experience. There are now three schools of Enchantment: ***Aether***, ***Chaos*** and ***Corpus***, and a fledgling enchanter must choose which path they will go down carefully as they are mutually exclusive. Soul Trapping has become a more central focus to the life of an enchanter, with the vast majority of soul gems in the world now coming unfilled. Several additional tweaks have been made to enchantments themselves, and if you wish to produce powerful items you will need to invest valuable perks in your chosen specialization.
 
 ### Leveling and Encounter Zones
-In regards to world-leveling mechanics, Librum primarily takes inspiration from D&D and similar tabletop games. The core point here is, the type of adventure you go on changes as you become more and more powerful -- while you may just be hunting wildlife at low levels, you progress to the point where you can go into certain dungeons and abandoned forts, and next to the point where you can handle more fantastical opponents: for instance, automata, undead, or otherworldly beings. After that point, the player starts doing really crazy stuff: going to planes of Oblivion, traveling outside of Skyrim, and truly saving the world.
-
-With that in mind, the world is largely _entirely unleveled_.
-The "stages" of the game
+In regards to world-leveling mechanics, Librum primarily takes inspiration from D&D and similar tabletop games. The core point here is, the type of adventure you go on changes as you become more and more powerful -- while you may just be hunting wildlife at low levels, you progress to the point where you can go into certain dungeons and abandoned forts, and next to the point where you can handle more fantastical opponents: for instance, automata, undead, or otherworldly beings. After that point, the player starts doing really crazy stuff: going to planes of Oblivion, traveling outside of Skyrim, and truly saving the world. The world is largely _entirely unleveled_, so be prepared to run away a lot at the start of your journey!
 
 ### The Dragonborn Story
-Librum is designed around your character being the legendary Dovahkiin. However, the vanilla experience didn't fit our vision for what it means to be Dragonborn, and what the The Dragonborn's story holds. To handle this, we have [Dragon Souls Cost Literally Zero Souls](https://www.nexusmods.com/skyrimspecialedition/mods/46794/) and [True Teacher Durnehviir](https://www.nexusmods.com/skyrimspecialedition/mods/44969).
+Librum is designed around your character being the legendary Dovahkiin. However, the vanilla experience didn't fit our vision for what it means to be Dragonborn, and what the The Dragonborn's story holds. To handle this, we have [Dragon souls are free](https://www.nexusmods.com/skyrimspecialedition/mods/46794/) and [True Teacher Durnehviir](https://www.nexusmods.com/skyrimspecialedition/mods/44969).
 
 ### Quests and Adventures
 For all its strengths, Skyrim never got the questing aspect quite right. The game's many questlines are fairly straightforward and predictable, and most of its dungeons are as well. Librum only touches the worst offenders among Skyrim's vanilla quests, but it adds a great deal of new content to experience. Putting together dozens of curated quest and adventure mods, Librum's new content totals to hundreds of new quests and new areas to explore, including more questlines than are in the vanilla game, and several extensive dungeon systems and expansive new lands. In compiling these mods, there were a few specific requirements I upheld (excluding many otherwise fantastic mods, unfortunately):
@@ -514,7 +531,7 @@ Librum adds several _follower_ mods, to make the game world a little less lonely
 
 1. ***[Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/18076). New as of 2.0.*** As our follower framework.
 2. ***[Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194).*** Interesting NPCs adds a ton of new quests, matching even Bruma for size. It also adds, of course, _interesting NPCs_, breathing new life into many of Skyrim's familiar locations. In particular, some of the new NPCs are "super followers", meaning that they comment on your quests, choices, and locations, and they generally behave like real people. An interesting aspect of Interesting NPCs is, many of the new quests and questlines tie several NPCs together -- this gives the game more of a "Dragon Age" feel, in terms of how characters are relatable and recurrent in your adventures.
-3. ***[Interesting Follower Requirements for 3DNPC (Soft Requirements) NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/45646). New as of 2.0.***
+3. ***[Interesting Follower Requirements for 3DNPC (Soft Requirements) NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/45646). New as of 2.0.*** This mod adds requirements to various Followers that must be met before you can recruit them to join your party. For example, Hjoromir may be clueless and inexperienced, but he's savvy enough not to follow someone *completely* inexperienced as he is. You will now need to be at least Level 5 to recruit him to join you.
 4. ***[Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461).*** Inigo is Skyrim's most popular follower mod, for good reason. Not only is he an effective combatant and willing to roll with whatever moral code you're comfortable with, Inigo is as close to a real companion as any Skyrim follower has come. Importantly, he responds dynamically to most situations, and he talks naturally with you and with other NPCs. Inigo can talk dynamically with vanilla and Interesting NPCs followers.
 5. ***[Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035).*** Lucien has all the benefits of Inigo, but instead of a burglarizing cat-man, he is a scholar from the Arcane University. Lucien can talk dynamically with Inigo, as well as with vanilla and Interesting NPCs followers.
 6. ***[Song of the Green](https://www.nexusmods.com/skyrimspecialedition/mods/11278).*** Song of the Green adds the excellent follower Auri, who is a female Bosmer from Valenwood. Although she does not have as much dialogue as the above followers, this reflects her character naturally. Further, she can talk dynamically with Lucien, as well as with vanilla and Interesting NPCs followers.
@@ -533,7 +550,8 @@ We top this off with several lighting mods:
 
  - ***[Relighting Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/8586).*** This mod changes the position and characteristics of existing light sources in dungeons, to match where light should actually be emitted. It sounds like a simple change, but it makes a huge atmospheric difference, and it's critical to being able to sneak around.
  - ***[Enhanced Lighting for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/1377).*** This is our "general purpose" lighting overhaul, and it makes a _big_ difference. In short, it makes light sources look much nicer and more natural, with a side effect of making dungeons and nights very dark.
- - ***[Ominous ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27333).*** Ominous ENB gives a grim, atmospheric look to Skyrim, without sacrificing framerate. It is the core of Librum's graphics overhaul.
+ - ***[Ominous ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27333).*** Ominous ENB gives a grim, atmospheric look to Skyrim, without sacrificing framerate. It is the core of Librum's graphics overhaul. 
+   - *Please note there is a known issue with Ominous ENB that causes many hands and arms to look pale. Unfortunately we can't change this, so if it bothers you we recommend finding an ENB that meets your visual standards.*
 
 The above only gives a small taste of the various atmosphere and ambience mods included in Librum -- you can visit the manifest for a complete list, but Librum includes everything from [new dust effects](https://www.nexusmods.com/skyrimspecialedition/mods/2407) to [better cloud textures](https://www.nexusmods.com/skyrimspecialedition/mods/2393) and even [better sound dynamics](https://www.nexusmods.com/skyrimspecialedition/mods/701).
 
@@ -572,12 +590,12 @@ Librum also includes [Man Those Borders](https://www.nexusmods.com/skyrimspecial
 ![Alt Text](Resources/whiterun.jpg?raw=true "Whiterun Crossroads Keep")
 
 ## Frequently Asked Questions
-For an updated list of FAQs, please see my Discord server:
+For an updated list of FAQs, please see the Librum Discord server:
 
 [<img src="Resources/discord.PNG" width="300">](https://discord.gg/3f8vPYFmJX)
 
 ## Credits and Thanks
-First of all, I couldn't have done it without the Librum team: _Algeddon_, _Mashtyx_, and _NemeanLion_. They have been a huge part of this process, both creatively and in developing the modlist and its associated resources.
+First of all, I couldn't have done it without the Librum team: _Algeddon_, _Mashtyx_, _NemeanLion_, _Capell_ and _Snidely_. They have been a huge part of this process, both creatively and in developing the modlist and its associated resources.
 
 Of course, I can only take a small slice of the credit for this modlist. I've spent the past several months compiling, reviewing, and properly patching together all of these mods, but the mod authors themselves did most of the work. If you particularly like a certain quest, location, or gameplay mechanic, please go thank the mod authors!
 
@@ -585,5 +603,3 @@ Of course, I can only take a small slice of the credit for this modlist. I've sp
 For any questions, comments, or suggestions, please join my modding Discord server:
 
 [<img src="Resources/discord.PNG" width="300">](https://discord.gg/3f8vPYFmJX)
-
-
