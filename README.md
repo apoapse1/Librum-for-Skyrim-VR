@@ -219,7 +219,7 @@ You still need to active **Frostfall** and **SunHelm**, just deactivate them aga
 2. **Cobb Encumbrance.** In the _Presets_ tab, apply the preset "Classic (SEM)".
 3. **Follower Framework.** Under System, hit Load from File.
 4. **Frostfall.** Enable it. Close the MCM, and once it has finished starting up, check the [MCM settings](https://i.imgur.com/WUcO5jT.png).
-5. **Hunterborn**. Start the mod, and disable the Hunterborn config power in the _Enable_ tab.
+5. **Hunterborn**. Start the mod, close the MCM and once it has finished starting up reopen it head to Profile and select Load Profile, and also disable the Hunterborn config power in the _Enable_ tab.
 6. **Lock Overhaul.** Activate the mod.
 7. **PSDI Menu.** Activate the mod.
 8. **SoT Sleeping Encounters.** Uncheck "Allow Drowsy Effect".
