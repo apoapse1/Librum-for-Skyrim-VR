@@ -85,7 +85,7 @@ Money is a rare commodity in Librum, and there are several new mechanics to fami
 ![Alt Text](Resources/coins.png?raw=true "Rally's Five Cities Currencies. Coin textures depend on your location.")
 
 With that out of the way, there are a few good strategies to get money early on. 
- - please tell us your strategies because we're also poor
+ - please tell us your strategies because we're also poor 
 
 ### Carry Weight Penalties
 
