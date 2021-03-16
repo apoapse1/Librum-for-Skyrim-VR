@@ -194,9 +194,7 @@ The UI and UX of your game is a very personal and subjective choice, so we've in
 
 - **Darker Night Sky** *(Enabled)* This is SGS's night sky texture, to go alongside the ENB preset we're using. It is a darker texture with reddish auroras, and it fits in very nicely with Librum's theme. If you do not use this, you will have the brighter and arguably prettier textures from [Ethereal Cosmos](https://www.nexusmods.com/skyrimspecialedition/mods/5728). If you want Ethereal Cosmos textures instead, disable this in MO2.
 
-- **Adventure Theme Lite** *(Enabled)* If you want a nicer cursor and Oblivion-style inventory icons, this is the plugin for you. If you do not want this plugin, disable it in MO2.
-
-- **SkyUI The Adventurer Theme Mod Tweak** *(Enabled)* A slight tweak to Adventure Theme Lite, must be enabled or disabled alongside it.
+- **SkyUI The Adventurer Theme Mod SE** *(Enabled)* If you want a nicer cursor and Oblivion-style inventory icons, this is the plugin for you. If you do not want this plugin, disable it in MO2.
 
 - **Kitties Speak Spanish, Nords speak Deutsch, Italian for Tullius** *(Disabled)* These mods replace the voice and lip-syncing for the appropriate NPCs with alternate languages. Khajiit will speak Spanish, Nords (and some non-Nords) will speak German, and Imperials (not just Tullius) will speak Italian. Subtitles will remain in English, so make sure you have them turned on if you choose to use some or all of these optional mods!
 
@@ -221,19 +219,17 @@ You still need to active **Frostfall** and **SunHelm**, just deactivate them aga
 4. **Frostfall.** Enable it. Close the MCM, and once it has finished starting up, check the [MCM settings](https://i.imgur.com/WUcO5jT.png).
 5. **Hunterborn**. Start the mod, close the MCM and once it has finished starting up reopen it head to Profile and select Load Profile, and also disable the Hunterborn config power in the _Enable_ tab.
 6. **Lock Overhaul.** Activate the mod.
-7. **PSDI Menu.** Activate the mod.
-8. **SoT Sleeping Encounters.** Uncheck "Allow Drowsy Effect".
-9. **Spell Research.** Import spells. It takes a bit to import everything, several pop ups will appear, hit Yes for all.
-10. **SunHelm.** Activate the mod. Cannibalism is enabled by default, if you don't want it please disable it.
-11. **Tentapalooza.** I am working on a script to apply these settings automatically. For now, when you use a Tentapalooza tent, change its corresponding setting in this menu to Rain and Snow.
-12. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
-13. **True Armor.** Scroll all the way down to Save & Load and select Load Balanced Settings.
-14. **Vigor.** Start the mod.
+7. **SoT Sleeping Encounters.** Uncheck "Allow Drowsy Effect".
+8. **Spell Research.** Import spells. It takes a bit to import everything, several pop ups will appear, hit Yes for all.
+9. **SunHelm.** Activate the mod. Cannibalism is enabled by default, if you don't want it please disable it.
+10. **Tentapalooza.** I am working on a script to apply these settings automatically. For now, when you use a Tentapalooza tent, change its corresponding setting in this menu to Rain and Snow.
+11. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
+12. **True Armor.** Scroll all the way down to Save & Load and select Load Balanced Settings.
+13. **Vigor.** Start the mod.
 
 **Special Edition MCMs**
 
 1. **A Matter of Time** Head to _Presets_, and under _User Settings_, hit GO on Load user settings.
-2. **Survival Control Panel.** Turn off the UI setting under _General_.
 
 ## VR Configuration
 
