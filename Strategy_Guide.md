@@ -3,7 +3,7 @@ This guide will help you get off the ground in Librum -- Librum changes a great 
 
  - [Character Creation](#character-creation)
    - [Appearance and Race](#appearance-and-race)
-   - [The Realm of Lorkhan](#the-realm-of-lorkhan)
+   - [The Nightmare of Lorkhan](#the-nightmare-of-lorkhan)
  - [Surviving the Night](#surviving-the-night)
    - [Making Money](#making-money)
      - [Carry Weight Penalties](#carry-weight-penalties)
@@ -17,9 +17,9 @@ This guide will help you get off the ground in Librum -- Librum changes a great 
 
 # Character Creation
 ## Appearance and Race
-If you boot up Librum and create a new game, you'll find yourself in the new character creation area -- the [Realm of Lorkhan](https://www.nexusmods.com/skyrimspecialedition/mods/18223) -- looking at the [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) menu. Before finalizing your race and appearance, here are the details you need to know:
+If you boot up Librum and create a new game, you'll find yourself in the new character creation area -- the [Nightmare of Lorkhan](https://www.nexusmods.com/skyrimspecialedition/mods/46649) -- looking at the [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) menu. Before finalizing your race and appearance, here are the details you need to know:
 
-***Race Abilites.*** Race abilities are given by EnaiSiaion's popular [Imperious](https://www.nexusmods.com/skyrimspecialedition/mods/1315) mod, with two modifications. Argonians are 50% resistant to _water damage_, and Orcs are 50% resistant to _earth damage_. These are new damage types introduced by [Elemental Destruction Magic](https://www.nexusmods.com/skyrimspecialedition/mods/440), and you will encounter enemy mages who make use of them. For detailed information on racial abilities, see the [Imperious mod page](https://www.nexusmods.com/skyrimspecialedition/mods/1315); notably, once-a-day powers have been replaced with interesting passive abilities, and you can unlock an additional ability by completing a race-specific objective.
+***Race Abilites.*** Race abilities are given by [Legacy - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/36415), with two modifications. Argonians are 50% resistant to _water damage_, and Orcs are 50% resistant to _earth damage_. These are new damage types introduced by [Elemental Destruction Magic](https://www.nexusmods.com/skyrimspecialedition/mods/440), and you will encounter enemy mages who make use of them. For detailed information on racial abilities, see the [Legacy mod page](https://www.nexusmods.com/skyrimspecialedition/mods/36415); notably, once-a-day powers have been replaced with interesting passive abilities that enemies will have too.
 
 There are a few non-ability-related differences between the various races. Importantly, _beast races cannot wear shoes_. In addition to locking them out of certain enchantments (e.g., muffle), this gives both Khajiits and Argonians a higher susceptibility to frostbite. You'll need to find alternate solutions, like magical spells or avoiding Skyrim's northern reaches, in order to avoid the cold.
 
@@ -28,55 +28,47 @@ Furthermore, some races start with spells. Although this doesn't make a huge dif
  2. Bretons begin with _Conjure Familiar_.
  3. Dunmer (Dark Elves) begin with _Sparks_. 
 
-***Appearance.*** Next, you'll notice that the character appearance menu is a little janky. Unfortunately, that's the state of the art in Skyrim VR; to fine-tune settings, you need to make use of the new cursor. In particular, Librum comes with a few hundred graphical _overlays_ for your character: tattoos, scars, freckles, and more. These can be found in the _Makeup_ and _Paint_ tabs, at the far right of the menu. To apply a new overlay, click "Choose Texture" at the bottom of the menu, navigate to the one you want (using the cursor to scroll), and select it. Then, click "Choose Color" and repeat.
+***Appearance.*** Next, you'll notice that the character appearance menu is a little janky for those of you playing VR. Unfortunately, that's the state of the art in Skyrim VR; to fine-tune settings, you need to make use of the new cursor. In particular, Librum comes with a few hundred graphical _overlays_ for your character: tattoos, scars, freckles, and more. These can be found in the _Makeup_ and _Paint_ tabs, at the far right of the menu. To apply a new overlay, click "Choose Texture" at the bottom of the menu, navigate to the one you want (using the cursor to scroll), and select it. Then, click "Choose Color" and repeat.
 
-## The Realm of Lorkhan 
-Once you finish selecting your race, gender, and appearance, you will be put into the [Realm of Lorkhan](https://www.nexusmods.com/skyrimspecialedition/mods/18223) before venturing out into Skyrim. At this point, remember to set your MCM settings according to the [Readme](README.md#configure-the-mcm). 
+## The Nightmare of Lorkhan 
+Once you finish selecting your race, gender, and appearance, you will be put into the [Nightmare of Lorkhan](https://www.nexusmods.com/skyrimspecialedition/mods/46649) before venturing out into Skyrim. At this point, remember to set your MCM settings according to the [Readme](README.md#configure-the-mcm).
 
 ![Alt Text](Resources/Realm.png?raw=true "The Realm of Lorkhan")
 
-In the Realm, you can choose from plenty of equipment, spells, perks, factions, and starting locations. I will go over many of these in the section that follows. Importantly, note two major differences between Librum and the vanilla Realm of Lorkhan mod:
+Here are a few things to note about the Nightmare of Lorkhan:
+ - You will need the torches on the table beside you to navigate the Realm.
+ - Be careful as there are a few bear traps placed around. Watch the ground.
+ - Please check the entirity of the Realm, there's a few armour & weapon sets placed around for you, as well as some gold, a pickaxe and a woodcutter's axe.
  - Once you leave the Realm, you cannot re-enter. For this reason, I recommend you make a save before exiting to Skyrim.
- - You can only choose a Standing Stone blessing from within the Realm of Lorkhan. Standing Stones still exist around Skyrim, but they are only aesthetic.
+ - You can only choose a Standing Stone blessing from within the Nightmare of Lorkhan. Standing Stones still exist around Skyrim, but they are only aesthetic.
 
-***Standing Stones.*** Every Standing Stone can be found within the Realm of Lorkhan, and -- as mentioned -- you can only choose a Standing Stone blessing while you are within the Realm. These blessings are governed by EnaiSiaion's [Andromeda](https://www.nexusmods.com/skyrimspecialedition/mods/14910) mod, and I recommend you look at that mod page for more information. Notably, once you find all thirteen Standing Stones around Skyrim, you unlock an additional, powerful ability, unique to the Stone you chose.
+***Standing Stones.*** Every Standing Stone can be found within the Nightmare of Lorkhan, and -- as mentioned -- you can only choose a Standing Stone blessing while you are within the Realm. These blessings are governed by [Curse of the Firmament](https://www.nexusmods.com/skyrimspecialedition/mods/28419), and I recommend you look at that mod page for more information. Notably, each stone has both a blessing and a curse, and the modpage gives you recommended builds for each, as well as a difficulty rating.
 
-**Note:** The Steed Stone makes you very quick, especially when your inventory is mostly empty (giving you a further 10% movement speed buff), and with a Wintersun Faith such as Jephre (10% movement out of combat). If wearing light or no armor, running around towns and indoors can be overwhelmly quick. Please consider this before taking the stone, or test it first before committing. Remember, you cannot change your stone after leaving the Realm.
+***Daggerfall Traits.*** To help assist you in your builds, we have [Daggerfall Traits](https://www.nexusmods.com/skyrimspecialedition/mods/29416), bringing the classic traits from Daggerfall into Skyrim via a point-buy system. For each Benefit you take, you spend points. To get more points, you must give yourself a Detriment. You can have 5 traits total. Once you have chosen your traits, you are asked to confirm them. Once you confirm, you _cannot change them again_, please make sure you are 100% on your choice before confirming.
 
-***Boons and Curses.*** There are unique Boons and Curses available within the Realm of Lorkhan, found around a reflecting pool to the left of the starting location. They are as follows:
+_Benefits_:
+ - Adrenaline Rush - Gain a bonus to your attack damage and damage resistance while low on health.
+ - Athletecism - +100 stamina.
+ - Bonus against - Gain bonus damage against animals, humanoids, daedra, or the undead.
+ - Expertise - Cause more damage with this weapon type.
+ - Immunity - Gain total immunity to this element.
+ - Rapid Healing - The rate at which you regenerate health is increased greatly.
+ - Resist - Gain 50% resistance to this element.
+ - Spell Absorb - Able to absorb hostile spells when not at full magicka, spells that fail to absorb cause massive damage.
+ - Wisdom - Gain +50, +100, or +200 magicka.
 
-_Boons_:
- - Boon of the Cat -- 1/2 fall damage.
- - Boon of the Locksmith -- lock "sweet spot" is 30% larger.
- - Boon of the Poisoner -- +10 strikes per poison applied.
- - Boon of the Pugilist -- +20 unarmed damage.
- - Boon of Celerity -- Gain 50% more experience from skill use.
- - Boon of the Soul Reaver -- killed enemies restore 10% of their soul value to your enchanted weapon.
- - Voice of the Sky -- animals do not attack or flee from you, unless attacked.
- - Bardic Knowledge -- once per day, summon a spectral drum to give extra stamina regeneration.
-_Curses_:
- - Curse of Magical Adversity -- Spells cost 20% more mana, but also gain skill 20% faster.
- - Curse of Generosity -- you sell items for half of their regular amount.
- - Curse of the Slow Learner -- -33% skill experience gain.
- - Curse of Soul Famine -- soul gems recharge 40% less energy.
- - Curse of the Unlucky -- enemies get a 10% chance to land critical hits on you.
+_Detriments_:
+ - Damage - Receive damage when in strong light or when inside temples and inside halls of the dead.
+ - Dark Magic - Magical ability reduced or nullified entirely when not in darkness.
+ - Forbidden - You cannot cause damage with this weapon type.
+ - Light Magic - Magical ability reduced or nullified entirely when not in light.
+ - Low Tolerance - Gain 50% weakness to this element.
+ - Phobia - Cause reduced damage to and receive extra damage from animals, humanoids, daedra, or the undead.
+ - Stunted Magicka - Cannot regenerate spell points normally
+ - Weakness - Gain 100% weakness to this element.
+ - Forbidden Material - Weapons and armor made of this material are useless when worn by you.
 
-***Classes.*** In the same location as the Boons and Curses, you can find several "Classes" available to you. These are not mutually exclusive, and they work the same way as Boons and Curses.
-
-_Classes_:
- - Acrobat -- +5% movement speed, +20% melee damage reflection, +20% stamina regeneration.
- - Agent -- barter prices are 10% better, and bribes are 20% cheaper.
- - Arcane Smith -- tempering is 30% more effective, and enchantments are 20% stronger.
- - Archer -- +10% attack speed, and +20% slow effect while aiming.
- - Barbarian -- +30 armor, health regen in combat, and +20% health regen
- - Bard -- +10% critical chance, +10 Speech
- - Commoner -- start with 50 less health, magicka, and stamina
- - Pilgrim -- Increases items harvest from plants by 1. Increases skill learned from reading a skill book by 1.
- - Healer -- +20 Restoration, +20 Alchemy
- - Knight -- +20% health regen, +20% magic resistance
- - Mage -- +100 magicka, +20% magicka regen 
-
-***Starting Locations.*** Once you've chosen your starting buffs and equipment, you have to choose where to start out in Skyrim. As mentioned before, you _cannot re-enter the Realm_ once you leave, so choose carefully.
+***Starting Locations.*** Once you've chosen your traits, your standing stone and found your equipment, you have to choose where to start out in Skyrim. As mentioned before, you _cannot re-enter the Realm_ once you leave, so choose carefully.
 
 Since the fast travel network is much denser in Librum's Skyrim -- with several new carriages and boats to bring you from place to place, thanks to [CFTO](https://www.nexusmods.com/skyrimspecialedition/mods/8379) -- it largely does not matter if you start in one city or another. However, you'll want to be careful if you start in the wilderness or (even more dangerously) in a dungeon. Dungeons are now at fixed levels (labeled when you point your hand at the corresponding teleportation crystal), so make sure you choose a low-level one or feel particularly confident. Similarly, different wilderness zones offer different challenges, as catalogued in the [Creatures and Encounter Zones](#creatures-and-encounter-zones) section later on.
 
@@ -93,7 +85,7 @@ Money is a rare commodity in Librum, and there are several new mechanics to fami
 ![Alt Text](Resources/coins.png?raw=true "Rally's Five Cities Currencies. Coin textures depend on your location.")
 
 With that out of the way, there are a few good strategies to get money early on. 
- - You can sell firewood at lumbermills to get some easy cash, and also in some inns.
+ - please tell us your strategies because we're also poor
 
 ### Carry Weight Penalties
 
@@ -105,7 +97,7 @@ In regards to character progression, Librum primarily takes inspiration from the
 ## Spell Research
 Librum is inherently a low-magic setting, so there is a lot working against you as a mage. However, if you _can_ discover the secrets of controlling magic, there is much more power available to you than in vanilla Skyrim. Many of the new spell "schools" or "archetypes" are described in the [Readme](README.md), so we focus here on how to start out.
 
-First things first, you need to acquire your first spell. Most races do not start out with any spells (see the section on [character creation](#the-realm-of-lorkhan)), so if you're not an Altmer, Dunmer, or Breton, you will need to acquire a spell elsewhere. Here are some important points on this front:
+First things first, you need to acquire your first spell. Most races do not start out with any spells (see the section on [character creation](#the-nightmare-of-lorkhan), so if you're not an Altmer, Dunmer, or Breton, you will need to acquire a spell elsewhere. Here are some important points on this front:
  - Spell tomes are exceedingly rare. Merchants do not sell them, they cannot be found in containers or on creatures, and only a few hand-placed ones exist in various dungeons.
  - You cannot read spell tomes above your skill level. For instance, if your Destruction skill is lower than 25, you cannot use an Apprentice tome.
  - The easiest way to acquire a spell is to enter the College of Winterhold. Faralda will still grant you one at the gate, and you now get to choose which school it's from. See [Better College Application](https://www.nexusmods.com/skyrimspecialedition/mods/5272) for more details.
