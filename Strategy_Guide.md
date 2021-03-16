@@ -33,7 +33,7 @@ Furthermore, some races start with spells. Although this doesn't make a huge dif
 ## The Nightmare of Lorkhan 
 Once you finish selecting your race, gender, and appearance, you will be put into the [Nightmare of Lorkhan](https://www.nexusmods.com/skyrimspecialedition/mods/46649) before venturing out into Skyrim. At this point, remember to set your MCM settings according to the [Readme](README.md#configure-the-mcm).
 
-![Alt Text](Resources/Realm.png?raw=true "The Realm of Lorkhan")
+![Alt Text](Resources/snide nightmare of lorkhan 2.png?raw=true "The Nightmare of Lorkhan")
 
 Here are a few things to note about the Nightmare of Lorkhan:
  - You will need the torches on the table beside you to navigate the Realm.
