@@ -179,6 +179,8 @@ Navigate back to the installed Librum folder, and launch the program `ModOrganiz
 
 - **(VR) Left-handed Settings** *(Disabled)* Self-explanatory. Make sure to also enable "Left-Handed Mode" in the in-game settings. If you are left-handed, enable this in MO2.
 
+- **(VR) Auto Sneak and Jump** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/23649)] *(Disabled)* Automatic sneak and jump functionality for VR. You will need to edit the .ini file for the mod, please see the Nexus page for details.
+
 ##### UI Customization
 The UI and UX of your game is a very personal and subjective choice, so we've included a few options for you to choose from:
 
@@ -220,7 +222,7 @@ You still need to active **Frostfall** and **SunHelm**, just deactivate them aga
 3. **Follower Framework.** Under System, hit Load from File.
 4. **Frostfall.** Enable it. Close the MCM, and once it has finished starting up, check the [MCM settings](https://i.imgur.com/WUcO5jT.png).
 5. **Hunterborn**. Start the mod, close the MCM and once it has finished starting up reopen it head to Profile and select Load Profile, and also disable the Hunterborn config power in the _Enable_ tab.
-6. **Lock Overhaul.** Activate the mod.
+6. **Lock Overhaul.** Activate the mod. Enable "Lock Requirements" and "Lock Bash". 
 7. **SoT Sleeping Encounters.** Uncheck "Allow Drowsy Effect".
 8. **Spell Research.** Import spells. It takes a bit to import everything, several pop ups will appear, hit Yes for all.
 9. **SunHelm.** Activate the mod. Cannibalism is enabled by default, if you don't want it please disable it.
