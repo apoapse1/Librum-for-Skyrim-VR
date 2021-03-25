@@ -201,9 +201,9 @@ The UI and UX of your game is a very personal and subjective choice, so we've in
 - **Kitties Speak Spanish, Nords speak Deutsch, Italian for Tullius** *(Disabled)* These mods replace the voice and lip-syncing for the appropriate NPCs with alternate languages. Khajiit will speak Spanish, Nords (and some non-Nords) will speak German, and Imperials (not just Tullius) will speak Italian. Subtitles will remain in English, so make sure you have them turned on if you choose to use some or all of these optional mods!
 
 #### Launching Librum
-To start the game for real, start SKSE through Mod Organizer 2. This will be necessary every time you start the game; if you try to launch Skyrim through its default folder or through Steam, the game will be entirely vanilla.
+To start the game for real, start SKSE or "Play Librum" through Mod Organizer 2. This will be necessary every time you start the game; if you try to launch Skyrim through its default folder or through Steam, the game will be entirely vanilla.
 
-Start a new game once you get to the main menu. You will start in the character creation area from [Realm of Lorkhan](https://www.nexusmods.com/skyrimspecialedition/mods/18223). For more information on character creation, please read the [Strategy Guide](Strategy_Guide.md) (but come back here after!). Please note that Librum heavily modifies the Realm of Lorkhan to better align with our vision.
+Start a new game once you get to the main menu. You will start in the character creation area from [Nightmare of Lorkhan](https://www.nexusmods.com/skyrimspecialedition/mods/46649). For more information on character creation, please read the [Strategy Guide](Strategy_Guide.md) (but come back here after!).
 
 
 #### Configure the MCM
@@ -307,7 +307,7 @@ With every change, Librum attempts to adhere to the points of its _core philosop
 ### Character Creation
 Though they are expanded upon in more detail below, the following changes and mods are core to your character creation and are included here for ease of reference:
 - **Races** - [Legacy](https://www.nexusmods.com/skyrimspecialedition/mods/36415) not only significantly changes your race's abilities, but it also affects NPCs in the world. The race of a bandit you're fighting is no longer just a cosmetic distinction, but will significantly impact how you approach the fight. 
-- **Standing Stones** - [Curse of the Firmament](https://www.nexusmods.com/skyrimspecialedition/mods/28419) overhauls the familiar vanilla standing stone buffs into more interesting trade-offs and decisions. Choose wisely, as once you leave the Realm of Lorkhan, they are permanent. Standing Stone abilities have also been distributed to NPCs in the world, so much as with Legacy it's worth becoming familiar with these and considering how they will affect the way you fight.
+- **Standing Stones** - [Curse of the Firmament](https://www.nexusmods.com/skyrimspecialedition/mods/28419) overhauls the familiar vanilla standing stone buffs into more interesting trade-offs and decisions. You cannot interact with Standing Stones out in the world anymore, so if you want to change your stone once you leave Nightmare of Lorkhan you must head to the Curse of the Firmament MCM page and change your Stone there. Standing Stone abilities have also been distributed to NPCs in the world, so much as with Legacy it's worth becoming familiar with these and considering how they will affect the way you fight.
 - **Magicka** - Starts at 10. In the low magic setting of Librum, nobody is a mage at level 1 -- however, those who are prepared to invest the time and effort into their magical studies will be greatly rewarded. See the [Magic](#magic) section for (much) more detail.  
 
 
