@@ -215,19 +215,19 @@ Once you have created your character, wait until all the messages in the top lef
 You still need to active **Frostfall** and **SunHelm**, just deactivate them again after they've finished starting up. This is to avoid script bloat and is very important.
 
 **Base MCM Configuration for SE & VR**
-1. **AGO** Disable Arrow Wounds (Player), Arrow Wounds (NPC), Persistent Arrows and Arm Fatigue.
+1. **AGO** Disable "Arrow Wounds (Player)", "Arrow Wounds (NPC)", "Persistent Arrows" and *Optionally* "Arm Fatigue".
 2. **Cobb Encumbrance.** In the _Presets_ tab, apply the preset "Classic (SEM)".
-3. **Follower Framework.** Under System, hit Load from File.
-4. **Frostfall.** Enable it. Close the MCM, and once it has finished starting up, check the [MCM settings](https://i.imgur.com/WUcO5jT.png).
-5. **Hunterborn**. Start the mod, close the MCM and once it has finished starting up reopen it head to Profile and select Load Profile, and also disable the Hunterborn config power in the _Enable_ tab.
+3. **Follower Framework.** Under _System_, hit "Load from File". *Note:* Capslock is set to "Followers Attack" and Y is set to "Command Followers".
+4. **Frostfall.** Enable it. Close the entire System Menu and wait for it to activate fully before moving on.
+5. **Hunterborn**. Start the mod, close the MCM and once it has finished starting up reopen it head to _Profile_ and select "Load Profile", and also disable the Hunterborn config power in the _Enable_ tab.
 6. **Lock Overhaul.** Activate the mod.
 7. **PSDI Menu.** Confirm the mod is Activated. *Optional:* Set up a Hotkey to easily activate and deactivate the mod.
 8. **SoT Sleeping Encounters.** Uncheck "Allow Drowsy Effect".
 9. **Spell Research.** Import spells. It takes a bit to import everything, several pop ups will appear, hit Yes for all.
-10. **SunHelm.** Activate the mod. Cannibalism is enabled by default, if you don't want it please disable it.
-11. **Tentapalooza.** I am working on a script to apply these settings automatically. For now, when you use a Tentapalooza tent, change its corresponding setting in this menu to Rain and Snow.
+10. **SunHelm.** Activate the mod. Close the entire System Menu and wait for it to activate fully before moving on. *Note:* Cannibalism is enabled by default.
+11. **Tentapalooza.** Change all settings to "Rain and Snow".
 12. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
-13. **True Armor.** Scroll all the way down to Save & Load and select Load Balanced Settings.
+13. **True Armor.** Scroll all the way down to _Save & Load_ and select Load Balanced Settings.
 14. **Vigor.** Start the mod.
 
 **Special Edition MCMs**
