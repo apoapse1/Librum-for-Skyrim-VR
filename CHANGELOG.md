@@ -1,6 +1,42 @@
 ***Note:*** Librum versions are of the form _x.y-z_. In this notation, changes to the _x_ or _y_ denote significant updates, and you will need to read the update notes to see how to patch your savefile. Changes to the _z_ denote small hotfixes, and will never require a patched save.
 
-***v2.0.***
+***v2.10 - A New Coat of Polish.***
+Added Mods:
+ - New ENBs, organized into a FOMOD:
+   - _Ominous ENB_, performance and full
+   - _Touch of Natural Tamriel_, performance and full
+   - _Silent Horizons_
+   - _Contrastive Adaptive Sharpener_
+   - _Pi-Cho ENB_
+ - _Simply Realistic Armor and Weapons_ with alt. Steel and Leather
+ - SE-specific patches and improvements
+   - _SSE Display Tweaks_
+ - _Night Sky HD_
+ - _Improved Vanilla Torches_
+ - _ENB Light_ (for SE only)
+
+
+Other:
+ - Distributed _Libri Antiqui_ around various dungeons
+ - Removed random enchantments from certain mods
+ - Removed all starting spells
+
+
+Bugfixes:
+ - Patched all bugs and inconsistencies in xEdit
+ - Fixed all navmeshes
+ - Fixed issue with ENB binaries (SE)
+ - Fixed issue with sun spells not working
+ - Fixed _FEC_
+
+Removed Mods:
+ - _Project NordWarUA_ (unnecessary with SRAW)
+ - _Ethereal Cosmos_ (replaced by _Night Sky HD_)
+ - _High Fidelity ENB_'s Night Sky (replaced by _Night Sky HD_)
+ - _Athletik Combat_ (I didn't like it) 
+ - _Smooth Shores_ (not worth the necessary patching)
+
+***v2.0 - Librum Re-Imagined.***
 Added Mods:
  - Core gameplay mechanics redone:
    - _Legacy Race Overhaul_
