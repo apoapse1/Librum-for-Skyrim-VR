@@ -15,12 +15,11 @@ Added Mods:
  - _Improved Vanilla Torches_
  - _ENB Light_ (for SE only)
 
-
 Other:
  - Distributed _Libri Antiqui_ around various dungeons
  - Removed random enchantments from certain mods
  - Removed all starting spells
-
+ - Rebalanced all traits
 
 Bugfixes:
  - Patched all bugs and inconsistencies in xEdit
@@ -28,6 +27,8 @@ Bugfixes:
  - Fixed issue with ENB binaries (SE)
  - Fixed issue with sun spells not working
  - Fixed _FEC_
+ - Fixed floating objects
+ - Fixed blocked dungeon doors
 
 Removed Mods:
  - _Project NordWarUA_ (unnecessary with SRAW)
