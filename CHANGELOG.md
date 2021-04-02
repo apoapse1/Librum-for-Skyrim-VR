@@ -32,7 +32,7 @@ Other:
  - Included optional patch to use enchantments without perks
 
 Bugfixes:
- - Patched all bugs and inconsistencies in xEdit
+ - Patched many bugs and inconsistencies in xEdit
  - Fixed all navmeshes
  - Fixed issue with ENB binaries (SE)
  - Fixed issue with sun spells not working
