@@ -47,7 +47,7 @@ Wabbajack modlist installer for _Librum_.
 ## Preamble
 ![Alt text](Resources/DoubleBanner.png?raw=tue "I made this image myself, and I am proud of it.")
 
-<div align="center"><b>With big thanks to the Librum team: Algeddon, Mashtyx, NemeanLion, Capell and Snidely.</b></div>
+<div align="center"><b>With big thanks to the Librum team: Mashtyx, Snidely, EllieMental, JulieChaos and NemeanLion.</b></div>
 <br/>
 
 _You're lost in the woods, having narrowly escaped after scaring off a pack of wolves with a summoned flame atronach. Your torch finally fades out, and it's getting cold. You can conjure basic foods, and your summoned atronach provides enough heat for the time being, but you'll need to gather wood in order to sustain a fire and survive the night. With little time to spare, you can't search far for materials -- luckily, you've fashioned a basic hatchet the night before, and you can chop down a nearby tree for lumber. You fall asleep next to your fire, having placed several runes nearby to dispatch would-be predators. Despite a few interruptions in the night, the morning comes at last, and the sun finally breaks over the horizon._
