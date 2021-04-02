@@ -1,7 +1,11 @@
 ***Note:*** Librum versions are of the form _x.y-z_. In this notation, changes to the _x_ or _y_ denote significant updates, and you will need to read the update notes to see how to patch your savefile. Changes to the _z_ denote small hotfixes, and will never require a patched save.
 
-***v2.10 - A New Coat of Polish.***
+***v2.10 - Libri Antiqui.***
 Added Mods:
+ - _Spell Wheel VR_ (only VR)
+ - _NavigateVR_ (only VR)
+ - _Splashes of Skyrim_ (SE and VR)
+ - _Storm Lightning_ (SE and VR)
  - New ENBs, organized into a FOMOD:
    - _Ominous ENB_, performance and full
    - _Touch of Natural Tamriel_, performance and full
@@ -14,12 +18,18 @@ Added Mods:
  - _Night Sky HD_
  - _Improved Vanilla Torches_
  - _ENB Light_ (for SE only)
+ - _Improved College Entry_
+ - _Chewing Sounds for Spell Tomes_
+ - _Helgen Reborn - TGCoF Patch_
+ - _Apoapse's Balanced Daggerfall Traits_
+ - _Complete Widescreen Fix_
 
 Other:
- - Distributed _Libri Antiqui_ around various dungeons
+ - Distributed _Libri Antiqui_ around the world
  - Removed random enchantments from certain mods
  - Removed all starting spells
  - Rebalanced all traits
+ - Included optional patch to use enchantments without perks
 
 Bugfixes:
  - Patched all bugs and inconsistencies in xEdit
@@ -29,6 +39,7 @@ Bugfixes:
  - Fixed _FEC_
  - Fixed floating objects
  - Fixed blocked dungeon doors
+ - Fixed voice
 
 Removed Mods:
  - _Project NordWarUA_ (unnecessary with SRAW)
@@ -36,6 +47,7 @@ Removed Mods:
  - _High Fidelity ENB_'s Night Sky (replaced by _Night Sky HD_)
  - _Athletik Combat_ (I didn't like it) 
  - _Smooth Shores_ (not worth the necessary patching)
+ - _Better College Application_ (replaced by _Improved College Entry_)
 
 ***v2.0 - Librum Re-Imagined.***
 Added Mods:
