@@ -236,7 +236,7 @@ And wish to use the same save, we recommend that you open the **Traits for Skyri
 
 **Special Edition MCMs**
 
-1. **A Matter of Time** Head to _Presets_, and under _User Settings_, hit GO on Load user settings. If using the Director's Cut of PaperHUD, you will want to further customize the AmoT to your liking.
+1. **A Matter of Time** Head to _Presets_, and under _User Settings_, hit GO on Load user settings. *Note:* Not every UI option in the _Librum UI Customizer_ has a AMOT preset. You'll have to customize the mod yourself for the ones that don't.
 
 ## VR Configuration
 
