@@ -1,5 +1,26 @@
 ***Note:*** Librum versions are of the form _x.y-z_. In this notation, changes to the _x_ or _y_ denote significant updates, and you will need to read the update notes to see how to patch your savefile. Changes to the _z_ denote small hotfixes, and will never require a patched save.
 
+***v2.11.***
+Added Mods:
+ - _No Starting Spells_
+ - _Arkay's Cremation_
+
+Bugfixes:
+ - Fixed _SunHelm_ water refill
+ - Fixed certain Open Cities door issues
+ - Fixed root file loading error
+ - Fixed "no starting spells"
+ - Fixed VR aiming issue
+
+Other:
+ - _VRIK_ selfie mode disabled by default
+
+Removed Mods:
+ - _Athletik Combat_ (correctly this time)
+ - _NPCs Don't Regenerate Magicka While Casting_ (unnecessary)
+ - _Optional Starting Spells_ (didn't work)
+ - (VR only! This is still in SE) _Frozen Electrocuted Combustion_
+
 ***v2.10 - Libri Antiqui.***
 Added Mods:
  - _Spell Wheel VR_ (only VR)
@@ -83,6 +104,19 @@ Added Mods:
    - _Project AHO - Start When You Want_
    - _Unofficial LotD Bruma Patch_ (and _Curator's Companion_ add-on)
    - _Quest and Reward Delay for Legacy of the Dragonborn_
+   - _Vigilant Crafting Stations_ by Sovn
+   - _Project AHO Telvanni Hybrid Temper Patch_
+   - _Moonpath Stuck Combat Music Fix_
+ - Enhanced graphics for quest mods:
+   - _Majestic Mountains for Bruma_ (TheRetroCarrot's edit)
+   - _Vigilant Book Covers_
+   - _Ashes - Vigilant Witch Hunter Armor Retexture_
+   - _Stendarr Statue Replacer for Vigilant_
+   - _Alik'r Flora Overhaul_ for _Gray Cowl of Nocturnal_
+ - New UI for Skyrim SE:
+   - _Adventurer Theme_ perk menu and start menu backgrounds
+   - _A Matter of Time_
+   - _SkyHUD_
    - _Vigilant Crafting Stations_ by Sovn
    - _Project AHO Telvanni Hybrid Temper Patch_
    - _Moonpath Stuck Combat Music Fix_
@@ -522,19 +556,6 @@ Removed Mods:
 
 Other:
  - Tons of updates.
- - Fixed floating objects in Whiterun's tundra.
- - Fixed Open Cities incompatibilities with Skyrim Sewers and Realm of Lorkhan.
- - Left-handed support.
-
-Updating:
- - You can't update an old savegame.
- - Start a new character.
- - No, really.
-
-***v0.9-beta.***
-Added Mods:
- - New animations for player and NPCs:
-   - _Neutral VR Animations for VRIK and PCEA2_.
    - _Pretty Combat Animations_ and _PCA 1hm Animations Overhaul_.
    - _Magic Casting Animations Overhaul SSE_.
    - _360 Walk and Run Plus_.
