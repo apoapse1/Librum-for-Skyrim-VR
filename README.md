@@ -22,7 +22,7 @@ Wabbajack modlist installer for _Librum_.
       - [Optional Plugins](#optional-plugins)
         - [Gameplay Customization](#gameplay-customization) 
         - [UI Customization](#ui-customization)
-      - [Launching Librum](#launching-librum)
+      - [Starting Librum](#starting-librum)
       - [MCM Settings](#configure-the-mcm)
     - [VR Configuration](#vr-configuration)
   - [Updating](#updating)
@@ -47,7 +47,7 @@ Wabbajack modlist installer for _Librum_.
 ## Preamble
 ![Alt text](Resources/DoubleBanner.png?raw=tue "I made this image myself, and I am proud of it.")
 
-<div align="center"><b>With big thanks to the Librum team: Algeddon, Mashtyx, NemeanLion, Capell and Snidely.</b></div>
+<div align="center"><b>With big thanks to the Librum team: Mashtyx, Snidely, EllieMental, JulieChaos and NemeanLion.</b></div>
 <br/>
 
 _You're lost in the woods, having narrowly escaped after scaring off a pack of wolves with a summoned flame atronach. Your torch finally fades out, and it's getting cold. You can conjure basic foods, and your summoned atronach provides enough heat for the time being, but you'll need to gather wood in order to sustain a fire and survive the night. With little time to spare, you can't search far for materials -- luckily, you've fashioned a basic hatchet the night before, and you can chop down a nearby tree for lumber. You fall asleep next to your fire, having placed several runes nearby to dispatch would-be predators. Despite a few interruptions in the night, the morning comes at last, and the sun finally breaks over the horizon._
@@ -151,6 +151,8 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 
 - ***Windows is reporting that a virus has been detected.*** Windows 10 has started to auto-quarantine the `usvfs_proxy_x86.exe` file from the latest version of Mod Organizer 2, saying a threat has been detected. This is a known false postive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. Example for Windows Defender can be found [here](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
+- ***Cyclic Redundancy Check error during installation*** This could be several things, but the first thing we would recommend is confirming that Wabbajack is not installed in your Documents, Downloads or Program Files folders, then delete the contents of `%APPDATA%/Local/Wabbajack` and re-open the app and try again. If this does not resolve the problem, it could be related to drive corruption and you should run CHKDSK on the drive in question.
+
 ### Post-Installation
 Now that Librum is installed, it is time to start the game up for real and create your character. The character creation process has changed with Librum, so we will give details below. Moreover, it is highly recommended that you **configure the MCM after race selection** as described below.
 
@@ -179,18 +181,16 @@ Navigate back to the installed Librum folder, and launch the program `ModOrganiz
 
 - **(VR) Left-handed Settings** *(Disabled)* Self-explanatory. Make sure to also enable "Left-Handed Mode" in the in-game settings. If you are left-handed, enable this in MO2.
 
+- **(VR) Auto Sneak and Jump** [[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/23649)] *(Disabled)* Automatic sneak and jump functionality for VR. You will need to edit the .ini file for the mod, please see the Nexus page for details.
+
 ##### UI Customization
 The UI and UX of your game is a very personal and subjective choice, so we've included a few options for you to choose from:
 
-- **Librum Font Selector** *(Defaults to Magic Cards)* Right-clicking and selecting *Reinstall Mod* on the Librum Font Selector will allow you to choose between several pre-installed fonts and compatibility patches/replacers. If prompted, select `Replace Mod`. The fonts can be previewed [here](https://i.imgur.com/a/QhGuCU9), as well as in the FOMOD installer. A massive thanks to all the authors who have given permission for us to include these!
+- **Librum UI Customizer** *(Defaults to Magic Cards)* Right-clicking and selecting Reinstall Mod on the Librum UI Customizer will allow you to choose between several pre-installed fonts, compatibility patches/replacers, and UI/HUD Presets. When prompted by MO2, select **Replace Mod**. The fonts can be previewed [here](https://i.imgur.com/a/QhGuCU9), as well as in the FOMOD installer. A massive thanks to all the authors who have given permission for us to include these!
 
-  - [Main Font Replacer SSE](https://www.nexusmods.com/skyrimspecialedition/mods/14356) originally by Valistar, ported by RumblestrutPig. Permissions provided by Valistar in the original Skyrim LE file. Includes the Andalus, Centaur, Fertigo Pro, Magic Cards, Morpheus and TaraType fonts.
-  - [Sovngarde](https://www.nexusmods.com/skyrimspecialedition/mods/386) by Koveich, permissions provided on the mod's page. Bold and Light are both included, along with several compatibility patches.
-    - [12th Century Bookfont](https://www.nexusmods.com/skyrim/mods/72159/) by MaGlas, permission provided personally by MaGlas. A compatibility patch for Sovngarde that adds manuscript-style books.
+- **Librum ENB Selector** (Defaults to Ominous ENB) Right-clicking and selecting Reinstall Mod on the Librum ENB Selector will allow you to choose between several included ENB options with various quality presets. If playing Skyrim VR, we’ve also included some reshade options for better sharpening.
 
-![Glorious Fonts!](Resources/Font_Selector_Preview.png?raw=true "The fonts on offer in the Librum Font Selector")
-
-- **Mash's A Matter of Time Preset** This preset is for those who dislike PaperHUD. Please disable PaperHUD and enable this preset. You can't use both at the same time.
+***Please note that if you have your Wabbajack Downloads folder outside of the `<Librum Install>/downloads` path, you will need to go to your downloads folder, copy the Librum ENB Selector and Librum UI Customizer .7z files to your `<Librum Install>/downloads` folder before you can Reinstall them in MO2 and use the FOMOD.***
 
 - **Undiscovered Means Unknown** *('GPS' disabled by default)* Right-clicking and selecting *Reinstall Mod* for Undiscovered Means Unknown in MO2 will allow you to restore the 'GPS' functionality that shows the player on your map. 
 
@@ -200,41 +200,47 @@ The UI and UX of your game is a very personal and subjective choice, so we've in
 
 - **Frenchsworn, Kitties Speak Spanish, Nords speak Deutsch, Italian for Tullius** *(Disabled)* These mods replace the voice and lip-syncing for the appropriate NPCs with alternate languages. Forsworn will speak French, Khajiit will speak Spanish, Nords (and some non-Nords) will speak German, and Imperials (not just Tullius) will speak Italian. Subtitles will remain in English, so make sure you have them turned on if you choose to use some or all of these optional mods!
 
-#### Launching Librum
+#### Starting Librum
 To start the game for real, start SKSE or "Play Librum" through Mod Organizer 2. This will be necessary every time you start the game; if you try to launch Skyrim through its default folder or through Steam, the game will be entirely vanilla.
 
 Start a new game once you get to the main menu. You will start in the character creation area from [Nightmare of Lorkhan](https://www.nexusmods.com/skyrimspecialedition/mods/46649). For more information on character creation, please read the [Strategy Guide](Strategy_Guide.md) (but come back here after!).
 
+If you want to read up on your character creation options, please see the [Character Creation](https://librum-modpack.com/?page_id=296) page.
 
 #### Configure the MCM
 Once you have created your character, wait until all the messages in the top left of the screen stop appearing and click Yes/OK to all message pop-ups that appear, and then open up the in-game settings and navigate to the _Mod Configuration Menu_ (MCM). You will need to make several changes here to adhere to the suggested Librum setup. Unfortunately, very few of the mods used in Librum support FISS, so you will need to do this each time you create a new character. 
 
 ***If you are playing Librum with Skyrim VR, don't forget to follow the [VR Configuration](#VR-configuration) section!***
 
-**Please read if you don't want Survival Features!** 
+**f you don't want Survival Features:** 
 You still need to active **Frostfall** and **SunHelm**, just deactivate them again after they've finished starting up. This is to avoid script bloat and is very important.
+
+**If you are updating from Librum 2.0:** 
+And wish to use the same save, we recommend that you open the **Traits for Skyrim** MCM, click **Uninstall**, and then re-select your traits with the new balanced costs and abilities by using the Medical History again.
 
 **Base MCM Configuration for SE & VR**
 1. **AGO** Disable "Arrow Wounds (Player)", "Arrow Wounds (NPC)", "Persistent Arrows" and *Optionally* "Arm Fatigue".
 2. **Cobb Encumbrance.** In the _Presets_ tab, apply the preset "Classic (SEM)".
 3. **Follower Framework.** Under _System_, hit "Load from File". *Note:* Capslock is set to "Followers Attack" and Y is set to "Command Followers".
-4. **Frostfall.** Enable it. Close the entire System Menu and wait for it to activate fully before moving on.
+4. **Frostfall.** Enable it. Close the entire System Menu and wait for it to activate fully before moving on. Once it gives you the "fully loaded" message, re-open the MCM and ensure that it's set to "On Exposure: Death"
 5. **Hunterborn**. Start the mod, close the MCM and once it has finished starting up reopen it head to _Profile_ and select "Load Profile", and also disable the Hunterborn config power in the _Enable_ tab.
 6. **Lock Overhaul.** Activate the mod.
-7. **PSDI Menu.** Confirm the mod is Activated. *Optional:* Set up a Hotkey to easily activate and deactivate the mod.
-8. **SoT Sleeping Encounters.** Uncheck "Allow Drowsy Effect".
-9. **Spell Research.** Import spells. It takes a bit to import everything, several pop ups will appear, hit Yes for all.
-10. **SunHelm.** Activate the mod. Close the entire System Menu and wait for it to activate fully before moving on. *Note:* Cannibalism is enabled by default.
-11. **Tentapalooza.** Change all settings to "Rain and Snow".
-12. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
-13. **True Armor.** Scroll all the way down to _Save & Load_ and select Load Balanced Settings.
-14. **Vigor.** Start the mod.
+8. **PSDI Menu.** Confirm the mod is Activated. *Optional:* Set up a Hotkey to easily activate and deactivate the mod.
+9. **SoT Sleeping Encounters.** Uncheck "Allow Drowsy Effect".
+10. **Spell Research.** Import spells. It takes a bit to import everything, several pop ups will appear, hit Yes for all.
+11. **SunHelm.** Activate the mod. Close the entire System Menu and wait for it to activate fully before moving on. *Note:* Cannibalism is enabled by default.
+12. **Tentapalooza.** Change all settings to "Rain and Snow".
+13. **Trade & Barter.** Under _Barter Rates_, set "Barter Presets" -> "Hardcore".
+14. **True Armor.** Scroll all the way down to _Save & Load_ and select Load Balanced Settings (it's on the right side).
+15. **Vigor.** Start the mod.
 
 **Special Edition MCMs**
 
-1. **A Matter of Time** Head to _Presets_, and under _User Settings_, hit GO on Load user settings.
+1. **A Matter of Time** Head to _Presets_, and under _User Settings_, hit GO on Load user settings. *Note:* Not every UI option in the _Librum UI Customizer_ has an AMOT preset. You'll have to customize the mod yourself for the ones that don't.
 
 ## VR Configuration
+
+If you're playing the VR edition of Librum, this section covers some important additional configuration, as well as suggesting some tweaks you will likely want to make to settings and for 3rd party tools.
 
 ### (VR) MCMs
 1. **Nemesis PCEA.** Activate both options.
