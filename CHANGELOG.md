@@ -1,5 +1,22 @@
 ***Note:*** Librum versions are of the form _x.y-z_. In this notation, changes to the _x_ or _y_ denote significant updates, and you will need to read the update notes to see how to patch your savefile. Changes to the _z_ denote small hotfixes, and will never require a patched save.
 
+**v2.12 (Unreleased).***
+Added Mods:
+ - New assets from _Simply Realistic Armor_:
+   - Alternative Steel Armor
+   - Dragonscale/Dragonbone Armor
+   - Glass Armor
+   - Stahlrim Armor
+   - Thieves' Guild Armor
+ - _StLU Immersive Level Up Message_
+
+Bugfixes:
+ - Fixed several 3DNPC-related bugs (will not apply to existing saves).
+ - Fixed clipping and navmesh in Old Hroldan Inn.
+ - Fixed water refill bugs.
+ - Fixed occassional issue with NPC mages glowing.
+ - All overwritten trees replaced with _Myrkvior_ versions.
+
 ***v2.11.***
 Added Mods:
  - _No Starting Spells_
