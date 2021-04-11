@@ -269,15 +269,18 @@ If you don't plan on using Natural Locomotion, turn off "physical sneak".
 This step is ***not mandatory***, but it will significantly improve your VR experience. Download [Natural Locomotion](https://store.steampowered.com/app/798810/Natural_Locomotion/) through Steam. It is an independent app, which allows you to walk around in VR games by swinging your arms (and possibly holding a hotkey). Although this sounds intrusive and unnatural, it quickly becomes a _very_ natural way to move around Skyrim. As a bonus, it works for everything from Skyrim and Fallout 4 VR to _No Man's Sky_.
 
 In terms of configuring NaLo, I recommend the following settings (although it is up to taste):
+
 ***Common Settings:***
  - _Allow jumping while crouched_ - off.
  - _Enable strafing by tilting head_ - on.
  - _Sticky buttons_ - off.
+
 ***Edit Profile/Configure Buttons:***
  - Enable walking with one of the following two options:
    - _Hands down the hip (buttonless)_. This is newer, and may interrupt other actions, but feels more natural.
    - _Joystick touch_ on right or left hand only, and _enable both hands with this button_. You will only move around when your thumb is on the joystick, but you do not need to hold any buttons down.
  - _Enable jumping in place_ - on, with button set to _right joystick up_. The "natural jumping" doesn't always trigger when you want it to.
+
 ***Edit Profile/Configure Speed and Trackpad Emulation:***
  - _Original trackpad/joystick_ - set to _combine with movement_.
  - _Desired trackpad/joystick orientation_ - set to _head relative_.
