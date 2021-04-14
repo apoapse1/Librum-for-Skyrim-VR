@@ -9,6 +9,8 @@ Added Mods:
    - Stahlrim Armor
    - Thieves' Guild Armor
  - _StLU Immersive Level Up Message_
+ - _Improved Night Sky_ (VR only)
+ - _Arbor Philosophorum_
 
 Bugfixes:
  - Fixed several 3DNPC-related bugs (will not apply to existing saves).
@@ -16,6 +18,25 @@ Bugfixes:
  - Fixed water refill bugs.
  - Fixed occassional issue with NPC mages glowing.
  - All overwritten trees replaced with _Myrkvior_ versions.
+ - Fixed all known object placement issues.
+ - Fixed all known water seam issues.
+ - Forwarded NSUTR edits to associated objects.
+ - Fixed ownership issues in Dawnstar and Falkreath.
+ - Fixed Ysgramor's armor and Vahlok's armor.
+ - Patched remaining magic effects to use _ENB Light_ (SE only)
+ - Restored _ACE_ shoes to College questline.
+ - Fixed issue with Sunhelm's resting condition.
+ - Fixed issue with _Finding Helgi and Laelette_.
+ - Added cloaks to certain Civil War generals.
+
+Other:
+ - More Libri given custom text.
+ - Changed names of most remaining Forgotten Dungeons 
+
+Removed Mods:
+ - (VR only) _Improved Vanilla Torches_ (messed with torch placement)
+ - (VR only) _Night Sky HD_ (caused UI problems on RTX cards)
+ - _Vokrii-CACO Patch_ (unnecessary with _Arbor Philosophorum_)
 
 ***v2.11.***
 Added Mods:
