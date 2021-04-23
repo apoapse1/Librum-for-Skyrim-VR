@@ -10,3 +10,5 @@ mkdocs:
 
 # Optionally set the version of Python and requirements required to build your docs
 
+docs_dir: 'source'
+site_dir: 'build/html'
