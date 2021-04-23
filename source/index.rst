@@ -10,10 +10,3 @@ Welcome to Librum for Skyrim SE/VR's documentation!
 
    README
    Strategy_Guide
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
