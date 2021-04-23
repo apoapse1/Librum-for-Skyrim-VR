@@ -68,8 +68,8 @@ Preamble
 --------
 
 
-.. image:: Resources/DoubleBanner.png?raw=true
-   :target: Resources/DoubleBanner.png?raw=true
+.. image:: ../../Resources/DoubleBanner.png?raw=true
+   :target: ../../Resources/DoubleBanner.png?raw=true
    :alt: Banner
 
 
