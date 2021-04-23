@@ -10,8 +10,7 @@ Welcome to Librum for Skyrim SE/VR's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   README.rst
-   Strategy_Guide.rst
+.. include:: ../README.rst
 
 Indices and tables
 ==================
