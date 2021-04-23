@@ -7,11 +7,9 @@ Welcome to Librum for Skyrim SE/VR's documentation!
 ===================================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
-   README.rst
-   Strategy_Guide.rst
+   README
+   Strategy_Guide
 
 Indices and tables
 ==================
