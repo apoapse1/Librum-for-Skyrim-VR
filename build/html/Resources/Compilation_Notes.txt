@@ -1,0 +1,5 @@
+Load Order:
+ - WICO and WICO_Merged_Patches after Bashed Patch.
+ - Immersive Citizens right before Distinct Interiors.
+ - Realm of Lorkhan right before Sedentary Standing Stones.
+ - RAE_ELE_Vokrii patch after Vokrii_Merged_Patches
