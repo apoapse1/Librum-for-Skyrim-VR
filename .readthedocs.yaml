@@ -7,8 +7,7 @@ version: 2
 
 mkdocs:
   configuration: mkdocs.yml
-
+  docs_dir: 'source'
+  site_dir: 'build/html'
 # Optionally set the version of Python and requirements required to build your docs
 
-docs_dir: 'source'
-site_dir: 'build/html'
