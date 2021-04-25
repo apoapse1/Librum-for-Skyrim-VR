@@ -1,6 +1,6 @@
 
-Getting Started in Librum
-=========================
+Strategy Guide
+==============
 
 This guide will help you get off the ground in Librum -- Librum changes a great deal about Skyrim's world, inhabitants, and mechanics, and you'll need to familiarize yourself with the new rules of the road. If you have not done so yet, read the `Readme <README.md>`_ to install Librum and learn a little about it. This guide is in continual development as Librum continues to enhance and refine the experience of playing the game.
 
@@ -28,10 +28,10 @@ This guide will help you get off the ground in Librum -- Librum changes a great 
   * `Combat <#combat>`_ Coming Soon!
 
 Character Creation
-==================
+------------------
 
 Appearance and Race
--------------------
+^^^^^^^^^^^^^^^^^^^
 
 If you boot up Librum and create a new game, you'll find yourself in the new character creation area -- the `Nightmare of Lorkhan <https://www.nexusmods.com/skyrimspecialedition/mods/46649>`_ -- looking at the `RaceMenu <https://www.nexusmods.com/skyrimspecialedition/mods/19080>`_ menu. Before finalizing your race and appearance, here are the details you need to know:
 
@@ -42,7 +42,7 @@ There are a few non-ability-related differences between the various races. Impor
 **\ *Appearance.*\ ** Next, you'll notice that the character appearance menu is a little janky for those of you playing VR. Unfortunately, that's the state of the art in Skyrim VR; to fine-tune settings, you need to make use of the new cursor. In particular, Librum comes with a few hundred graphical *overlays* for your character: tattoos, scars, freckles, and more. These can be found in the *Makeup* and *Paint* tabs, at the far right of the menu. To apply a new overlay, click "Choose Texture" at the bottom of the menu, navigate to the one you want (using the cursor to scroll), and select it. Then, click "Choose Color" and repeat.
 
 The Nightmare of Lorkhan
-------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 Once you finish selecting your race, gender, and appearance, you will be put into the `Nightmare of Lorkhan <https://www.nexusmods.com/skyrimspecialedition/mods/46649>`_ before venturing out into Skyrim. At this point, remember to set your MCM settings according to the `Readme <README.md#configure-the-mcm>`_.
 
@@ -74,10 +74,10 @@ Here are a few things to note about the Nightmare of Lorkhan:
 Since the fast travel network is much denser in Librum's Skyrim -- with several new carriages and boats to bring you from place to place, thanks to `CFTO <https://www.nexusmods.com/skyrimspecialedition/mods/8379>`_ -- it largely does not matter if you start in one city or another. However, you'll want to be careful if you start in the wilderness or (even more dangerously) in a dungeon. Dungeons are now at fixed levels (labeled when you point your hand at the corresponding teleportation crystal), so make sure you choose a low-level one or feel particularly confident. Similarly, different wilderness zones offer different challenges, as catalogued in the `Creatures and Encounter Zones <#creatures-and-encounter-zones>`_ section later on. Do note that the vanilla start is completely disabled, so starting at Helgen or the border will not start the main quest automatically.
 
 Surviving the Night
-===================
+-------------------
 
 Making Money
-------------
+^^^^^^^^^^^^
 
 Money is a rare commodity in Librum, and there are several new mechanics to familiarize yourself with before we start:
 
@@ -107,7 +107,7 @@ With that out of the way, there are a few good strategies to get money early on.
 * also if you come up with any, feel free to share because we're also poor
 
 Carry Weight Penalties
-----------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Your carry weight now becomes a factor before you hit the vanilla limit for over-encumbered. This is controlled by `Cobb Encumbrance <https://www.nexusmods.com/skyrimspecialedition/mods/18362>`_\ , and the specific settings can be found in the MCM. In short, the heavier your pack, the slower you move, starting when you are carrying half of your maximum. The movement speed penalty increases as more weight is added, until ultimately the weight of your pack will start to crush you to death. On the flip side, being below one fourth of your max weight will give you a slight speed bonus. Notifications will let you know as you pass through stages of encumbrance. Since being crushed to death is generally undesirable and being slow can get you killed, you'll probably want to keep your pack light and your maximum carry weight high.
 
@@ -118,7 +118,7 @@ Your carry weight now becomes a factor before you hit the vanilla limit for over
 * Enchanted items to increase carry weight are not only harder to find, but also unusable until you put a perk or two into enchanting. Don't count on these in the early game.
 
 Food, Water, and Fatigue
-------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 Through `Sunhelm Survival and Needs <https://www.nexusmods.com/skyrimspecialedition/mods/39414>`_\ , your character now needs food, water, and sleep to survive. In addition, diseases are more dangerous. For longer sojourns into the wilds of Tamriel, you will want to pack adequate supplies. Getting too hungry, thirsty, or tired will incrementally debuff your health, stamina, and magicka, as well as their regeneration rates. Go too long without tending to your needs can lead to your death.
 
@@ -131,7 +131,7 @@ Through `Sunhelm Survival and Needs <https://www.nexusmods.com/skyrimspecialedit
 * Sleeping recovers fatigue (in addition to being necessary to level up), but you have to be careful where you sleep! You can craft or purchase bedrolls to sleep anywhere, but most places will leave you vulnerable to attack. If you must sleep in the wild, be sure to set up traps for protection. Sleeping at inns is a much better option, despite the small fee. Joining a faction, like the Companions, is also a great option for early game. No place is 100% safe from attack, though.
 
 Weather and Camping
--------------------
+^^^^^^^^^^^^^^^^^^^
 
 `Frostfall <https://www.nexusmods.com/skyrimspecialedition/mods/671>`_ makes the cold weather of Skyrim something to be truly feared, but it also gives you the tools to survive. The details are too much for this guide, but the `website <http://skyrimsurvival.com/home/frostfall/how-to-play/>`_ is thorough. Pay attention to the plethora of powers added by this mod, as knowing how and when to use them can save your life. Some tips:
 
@@ -142,10 +142,10 @@ Weather and Camping
 * You can and should also bring a tent with you any time you might face being stranded in some frozen wasteland. This isn't quite as bad in the low-level areas, thankfully.
 
 New Gameplay Mechanics
-======================
+----------------------
 
 Leveling and Progression
-------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 In regards to character progression, Librum primarily takes inspiration from AD&D and the Dragon Age series of games. The core point here is, the type of adventure you go on changes as you become more and more powerful -- while you may just be hunting wildlife and running errands at low levels, you progress to the point where you can go into certain dungeons and abandoned forts, and next to the point where you can handle more fantastical opponents: for instance, automata, undead, or otherworldly beings. After that point, the player starts doing really crazy stuff: going to planes of Oblivion, traveling outside of Skyrim, and truly saving the world.
 
@@ -157,7 +157,7 @@ In regards to character progression, Librum primarily takes inspiration from AD&
 * Dungeons and the like show their level, but they're more like guidelines for what it takes to clear the whole area. For example, with a good party and good tactics (and a whole lot of luck), a level 5 character still can clear a level 8 - 20 dungeon. 
 
 Spell Research
---------------
+^^^^^^^^^^^^^^
 
 Librum is inherently a low-magic setting, so there is a lot working against you as a mage. However, if you *can* discover the secrets of controlling magic, there is much more power available to you than in vanilla Skyrim. Many of the new spell "schools" or "archetypes" are described in the `Readme <README.md>`_\ , so we focus here on how to start out.
 
