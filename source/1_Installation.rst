@@ -9,72 +9,19 @@ Wabbajack modlist installer for *Librum*.
 
 **A small request: if you enjoy my work, please consider contributing to my Patreon page at the link below. Although I certainly don't expect any donations from users, these sorts of contributions allow me to continue improving and supporting Librum.**
 
-`
+
 .. raw:: html
 
 	<img src="https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/patreon.png" width="150" height="50">
 
-<https://www.patreon.com/apoapse?fan_landing=true>
-`
-
-* `Librum <#librum-for-skyrim-sevr>`_
-
-  * `Preamble <#preamble>`_
-  * `Technical Requirements <#technical-requirements>`_
-  * `Installation <#installation>`_
-
-    * `Pre-Installation <#pre-installation>`_
-
-      * `Installing Microsoft Visual C++ Redistributable Package <#installing-microsoft-visual-c-redistributable-package>`_
-      * `Steam Config <#steam-config>`_
-      * `Start Skyrim <#start-up-skyrim>`_
-
-    * `Using Wabbajack <#using-wabbajack>`_
-
-      * `Preparations <#preparations>`_
-      * `Downloading and Installing <#downloading-and-installing>`_
-
-        * `Problems with Wabbajack <#problems-with-wabbajack>`_
-
-    * `Post-Installation <#post-installation>`_
-
-      * `Copy "Game Folder Files" <#copy-game-folder-files>`_
-      * `Optional Plugins <#optional-plugins>`_
-
-        * `Gameplay Customization <#gameplay-customization>`_ 
-        * `UI Customization <#ui-customization>`_
-
-      * `Starting Librum <#starting-librum>`_
-      * `MCM Settings <#configure-the-mcm>`_
-
-    * `VR Configuration <#vr-configuration>`_
-
-  * `Updating <#updating>`_
-  * `Strategy Guide <#strategy-guide>`_
-  * `Features of Librum <#features-of-librum>`_
-
-    * `General Philosophy <#general-philosophy>`_
-    * `Character Creation <#character-creation>`_
-    * `Leveling and Skills <#leveling-and-skills>`_
-    * `User Interface <#user-interface>`_
-    * `VR Experience <#vr-experience>`_
-    * `Dynamic World <#dynamic-world>`_
-    * `Survival and Realism <#survival-and-realism>`_
-    * `Combat and Enemies <#combat-and-enemies>`_
-    * `Magic <#magic>`_
-    * `Quests and Adventures <#quests-and-adventures>`_
-    * `Graphics and Ambience <#graphics-and-ambience>`_
-
-  * `Frequently Asked Questions <#frequently-asked-questions>`_
-  * `Credits and Thanks <#credits-and-thanks>`_
-  * `Contact <#contact>`_
+'Patreon Link <https://www.patreon.com/apoapse?fan_landing=true>`_
 
 Preamble
 --------
 
 
-.. image:: _images/Resources/DoubleBanner.png?raw=true
-   :target: _images/Resources/DoubleBanner.png?raw=true
+.. image:: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/DoubleBanner.png
+   :target: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/Resources/DoubleBanner.png
    :alt: Banner
 
 
@@ -84,7 +31,7 @@ Preamble
    <div align="center"><b>With big thanks to the Librum team: Mashtyx, Snidely, EllieMental, JulieChaos and NemeanLion.</b></div>
    <br/>
 
-   _You're lost in the woods, having narrowly escaped after scaring off a pack of wolves with a summoned flame atronach. Your torch finally fades out, and it's getting cold. You can conjure basic foods, and your summoned atronach provides enough heat for the time being, but you'll need to gather wood in order to sustain a fire and survive the night. With little time to spare, you can't search far for materials -- luckily, you've fashioned a basic hatchet the night before, and you can chop down a nearby tree for lumber. You fall asleep next to your fire, having placed several runes nearby to dispatch would-be predators. Despite a few interruptions in the night, the morning comes at last, and the sun finally breaks over the horizon._
+   *You're lost in the woods, having narrowly escaped after scaring off a pack of wolves with a summoned flame atronach. Your torch finally fades out, and it's getting cold. You can conjure basic foods, and your summoned atronach provides enough heat for the time being, but you'll need to gather wood in order to sustain a fire and survive the night. With little time to spare, you can't search far for materials -- luckily, you've fashioned a basic hatchet the night before, and you can chop down a nearby tree for lumber. You fall asleep next to your fire, having placed several runes nearby to dispatch would-be predators. Despite a few interruptions in the night, the morning comes at last, and the sun finally breaks over the horizon.*
 
    Skyrim VR is a wonderful experience, but it's a very familiar one. Even in stunning 3D, we visit the same locales and repeat the same adventures we have since the end of 2011.
 
