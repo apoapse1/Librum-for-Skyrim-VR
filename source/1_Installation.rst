@@ -1,4 +1,4 @@
-Technical Requirements
+Installation
 ----------------------
 
 Librum is relatively lightweight, with most of the graphical draw coming from the ENB you select. Your mileage will certainly vary -- I can only provide my own specs, but I imagine you will find good performance on a weaker system.
@@ -11,9 +11,6 @@ Librum is relatively lightweight, with most of the graphical draw coming from th
 * **CPU**\ : Intel Core i7-7700HQ, 4 cores at 2.80 GHz.
 * **GPU**\ : NVIDIA GeForce GTX 1060, 6 GB of VRAM
 * **RAM**\ : 16 GB DDR4
-
-Installation
-------------
 
 Librum makes use of the excellent `Wabbajack <https://www.wabbajack.org/#/>`_ program to make its installation as fast and painless as possible. That said, there are a few, very easy steps involved in setting up Librum. We will go over each in detail, but they are summarized as follows:
 
@@ -41,14 +38,11 @@ Steam Config
 ~~~~~~~~~~~~
 
 
-* 
-  **Disable the Steam Overlay** - The Steam Overlay can cause issues with ENB and is recommended to be turned off. Open the Properties window (right click the game in your ``Library -> Properties``\ ), navigate to the *General* tab and un-tick the *Enable the Steam Overlay while in-game* checkbox.
+* **Disable the Steam Overlay** - The Steam Overlay can cause issues with ENB and is recommended to be turned off. Open the Properties window (right click the game in your ``Library -> Properties``\ ), navigate to the *General* tab and un-tick the *Enable the Steam Overlay while in-game* checkbox.
 
-* 
-  **Set the Game language to English** - Librum is entirely in English, as many excellent mods are English-exclusive. This may change in the future, but for now, I highly recommend playing the game in English. Open the Steam Properties window, navigate to the *Language* tab and select *English* from the dropdown menu.
+* **Set the Game language to English** - Librum is entirely in English, as many excellent mods are English-exclusive. This may change in the future, but for now, I highly recommend playing the game in English. Open the Steam Properties window, navigate to the *Language* tab and select *English* from the dropdown menu.
 
-* 
-  **Clean Skyrim** - If your Skyrim VR or SE installation is not newly installed, I recommend uninstalling the game through Steam, deleting the game folder, and reinstalling it. You should also clean up the ``Skyrim VR`` or ``Skyrim SE`` folder in ``Documents/My Games/`` by deleting the contents in it. 
+* **Clean Skyrim** - If your Skyrim VR or SE installation is not newly installed, I recommend uninstalling the game through Steam, deleting the game folder, and reinstalling it. You should also clean up the ``Skyrim VR`` or ``Skyrim SE`` folder in ``Documents/My Games/`` by deleting the contents in it. 
 
 Start up Skyrim
 ~~~~~~~~~~~~~~~
