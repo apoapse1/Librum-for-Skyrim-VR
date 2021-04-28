@@ -8,6 +8,7 @@ Welcome to Librum for Skyrim SE/VR's documentation!
 
 .. toctree::
 
+   0_Home
    1_Installation
    2_FAQ
    3_Features
