@@ -68,12 +68,12 @@ User Comments
 
 .. raw:: html
 
-   <div align="center">"Certainly seems like I'll have to treat this like a new game rather than the skyrim I've come to know."</div>
+   <div align="center">"Certainly seems like I'll have to treat this like a new game<br>rather than the skyrim I've come to know."</div>
 
 
 .. raw:: html
 
-   <div align="center">"Rick Harrison from pawn stars is literally from Librum's Skyrim. [Sword worth 150 Septims] 'Best I can do is 10.'"</div>
+   <div align="center">"Rick Harrison from pawn stars is literally from Librum's Skyrim.<br>[Sword worth 150 Septims] 'Best I can do is 10.'"</div>
 
 
 .. raw:: html
