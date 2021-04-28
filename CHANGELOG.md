@@ -1,6 +1,6 @@
 ***Note:*** Librum versions are of the form _x.y-z_. In this notation, changes to the _x_ or _y_ denote significant updates, and you will need to read the update notes to see how to patch your savefile. Changes to the _z_ denote small hotfixes, and will never require a patched save.
 
-**v2.12 (Unreleased).***
+***v2.2.0 - Gold, Silver, and Steel.***
 Added Mods:
  - New assets from _Simply Realistic Armor_:
    - Alternative Steel Armor
@@ -11,6 +11,31 @@ Added Mods:
  - _StLU Immersive Level Up Message_
  - _Improved Night Sky_ (VR only)
  - _Arbor Philosophorum_
+ - _BodySlide_ and UNP assets
+ - Alduin remaster:
+   - _Deiform Alduin_ and ENB Light addon
+   - Optional custom remaster of _Aurbic Alduin_
+   - _Children of the Sky_
+ - _Animated Armoury_ and necessary patches
+ - Economy Overhaul:
+   - _Coins of Tamriel_
+   - _Exchange Currency_
+   - _Medes in Your Pockets_
+   - _Septim Texture Replacer_
+   - _Thematic Loot_
+ - _LOTD Pale Pass Extension_
+ - _Spell Research - Patch Grimoire_
+ - _Respawn - Death Overhaul_ (massively redone for Librum)
+ - Optional no-HUD setup for VR:
+   - _Better Resource Warnings_
+   - _Hidden Location Info and More_
+   - _No Map Menu_ (redone for Librum)
+ - _Loot and Degradation_
+ - Script Patches:
+   - _To Your Face_
+   - _I'm Walkin' Here_
+   - _Bard Instrumentals Mostly - Sing Rarely_
+ - _Reflection - Level Up Messages_
 
 Bugfixes:
  - Fixed several 3DNPC-related bugs (will not apply to existing saves).
@@ -28,15 +53,23 @@ Bugfixes:
  - Fixed issue with Sunhelm's resting condition.
  - Fixed issue with _Finding Helgi and Laelette_.
  - Added cloaks to certain Civil War generals.
+ - Mysticism spells fixed for Spell Research
+ - Bound Bow FX restored in VR
+ - Several scripts manually fixed
+ - Dragonsreach LOD fixed
 
 Other:
  - More Libri given custom text.
  - Changed names of most remaining Forgotten Dungeons 
+ - Followers no longer draw weapons until they enter combat
+ - Optional darker nights
+ - High-level enemies ramped up for party gameplay
 
 Removed Mods:
  - (VR only) _Improved Vanilla Torches_ (messed with torch placement)
  - (VR only) _Night Sky HD_ (caused UI problems on RTX cards)
  - _Vokrii-CACO Patch_ (unnecessary with _Arbor Philosophorum_)
+ - _JD's Coins and Coinpurses_ (inconsistent with new coins)
 
 ***v2.11.***
 Added Mods:
