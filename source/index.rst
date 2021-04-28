@@ -12,3 +12,4 @@ Welcome to Librum for Skyrim SE/VR's documentation!
    1_Installation
    2_FAQ
    features/index
+   survival/index
