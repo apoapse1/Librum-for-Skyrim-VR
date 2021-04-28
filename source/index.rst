@@ -8,5 +8,7 @@ Welcome to Librum for Skyrim SE/VR's documentation!
 
 .. toctree::
 
-   README
-   Strategy_Guide
+   1_Installation
+   2_FAQ
+   3_Features
+   4_Survival
