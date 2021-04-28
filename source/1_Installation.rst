@@ -7,14 +7,15 @@ Librum (for Skyrim SE/VR)
 
 Wabbajack modlist installer for *Librum*.
 
-**\ *A small request: if you enjoy my work, please consider contributing to my Patreon page at the link below. Although I certainly don't expect any donations from users, these sorts of contributions allow me to continue improving and supporting Librum.*\ **
+**A small request: if you enjoy my work, please consider contributing to my Patreon page at the link below. Although I certainly don't expect any donations from users, these sorts of contributions allow me to continue improving and supporting Librum.**
 
+`
 .. raw:: html
-	
-	<a href="https://www.patreon.com/apoapse">
-		<img src="https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/patreon.png" width="150" height="50">
-	</a>
 
+	<img src="https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/patreon.png" width="150" height="50">
+
+<https://www.patreon.com/apoapse?fan_landing=true>
+`
 
 * `Librum <#librum-for-skyrim-sevr>`_
 
