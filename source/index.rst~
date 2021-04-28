@@ -8,12 +8,8 @@ Welcome to Librum for Skyrim SE/VR's documentation!
 
 .. toctree::
 
-   README
-   Strategy_Guide
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   0_Home
+   1_Installation
+   2_FAQ
+   features/index
+   survival/index
