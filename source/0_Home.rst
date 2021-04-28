@@ -40,6 +40,7 @@ Librum is available for both VR and SE.
 User Comments
 -------------
 
+
 .. raw:: html
 
    <div align="center">"This is definitely the most different playthrough I've ever done."</div>
@@ -81,6 +82,7 @@ User Comments
    
 
 \ 
+
 Credits and Thanks
 ------------------
 
