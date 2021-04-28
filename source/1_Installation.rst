@@ -11,7 +11,9 @@ Wabbajack modlist installer for *Librum*.
 
 .. raw:: html
 	
-	<img src="https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/patreon.png" width="150" height="50"> <https://www.patreon.com/apoapse>
+	<a href="https://www.patreon.com/apoapse">
+		<img src="https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/patreon.png" width="150" height="50">
+	</a>
 
 
 * `Librum <#librum-for-skyrim-sevr>`_
