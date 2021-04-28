@@ -16,6 +16,7 @@ You are being redirected to the Librum home page.
                                 
 .. toctree::
 
+   redirect
    0_Home
    1_Installation
    2_FAQ
