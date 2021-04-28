@@ -12,4 +12,3 @@ Welcome to Librum for Skyrim SE/VR's documentation!
    1_Installation
    2_FAQ
    3_Features
-   4_Survival
