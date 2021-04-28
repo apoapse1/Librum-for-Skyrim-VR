@@ -71,3 +71,15 @@ User Comments
 .. raw:: html
 
    <div align="center">"So far I've had a blast with the modlist. Makes Skyrim feel like a new game."</div>
+   
+Credits and Thanks
+------------------
+
+I couldn't have done it without the Librum team: *Mashtyx*\ , *EllieMental*\ , *Snidely*\ , *JulieChaos*\ , *PrivateDelta*\ , and *tmt*\ . They have been a huge part of this process, both creatively and in developing the modlist and its associated resources.
+
+Contact
+-------
+
+For any questions, comments, or suggestions, please join my modding Discord server:
+
+`\ :raw-html-m2r:`<img src="Resources/discord.PNG" width="300">` <https://discord.gg/3f8vPYFmJX>`_
