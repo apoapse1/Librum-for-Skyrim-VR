@@ -4,8 +4,8 @@ Survival and Realism
 On the flip side, *you* have to appropriately react to Skyrim's environment. The core of this, of course, is `Campfire <https://www.nexusmods.com/skyrimspecialedition/mods/667>`_ and `Frostfall <https://www.nexusmods.com/skyrimspecialedition/mods/671>`_. Along with some more resource-adding mods (notably, `Tentapalooza <https://www.nexusmods.com/skyrimspecialedition/mods/652>`_\ ), these mods add a complete cold-weather survival system to Skyrim. Your character will be subject to Skyrim's harsh climate, and you will need to bundle up, set up camp frequently, and avoid frigid water and inclement weather in order to survive. Mages will have various options to escape the cold (all compatible with Librum's `Spell Research <https://www.nexusmods.com/skyrimspecialedition/mods/20983>`_ mechanics!): summoning cloaks or various tents and shelters, transmuting or summoning materials, summoning a Fire Atronach for heat, or teleporting to safety, among others. Finally, your character's survival skills will improve over time, unlocking various survival-themed perks available at a campfire.
 
 
-.. image:: Resources/Campfire.jpg?raw=true
-   :target: Resources/Campfire.jpg?raw=true
+.. image:: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/Campfire.jpg?raw=true
+   :target: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/Campfire.jpg?raw=true
    :alt: Alt text
 
 

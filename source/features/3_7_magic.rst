@@ -30,9 +30,9 @@ Mysticism makes these effects -- and many more -- available in a number of diffe
 In addition, unique spells from previous games make a comeback. These range from Destruction spells like Finger of the Mountain and the fan-favorite Enemies Explode to unique Conjuration spells, allowing you to summon any type of weapon as well as various types of Dremora, Skeletons, and other creatures. Notably, through `Magistrate Levitate httpswww.nexusmods.comskyrimspecialeditionmods24695`_ , Morrowind-style levitation has also been reintroduced to the game.
 
 
-.. image ResourcesShield.jpegraw=true
-   target ResourcesShield.jpegraw=true
-   alt Alt Text
+.. image:: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/Shield.jpeg?raw=true
+   :target: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/Shield.jpeg?raw=true
+   :alt: Alt Text
 
 
 This is just the core of Librum's magic offerings, however. Through the addition of several curated spell packs, Librum opens up many more-specific branches of magic

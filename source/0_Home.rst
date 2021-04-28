@@ -80,7 +80,7 @@ User Comments
    <div align="center">"So far I've had a blast with the modlist. Makes Skyrim feel like a new game."</div>
    
 
-
+\ 
 Credits and Thanks
 ------------------
 
@@ -89,6 +89,4 @@ I couldn't have done it without the Librum team: *Mashtyx*\ , *EllieMental*\ , *
 Contact
 -------
 
-For any questions, comments, or suggestions, please join my modding Discord server:
-
-`\ :raw-html-m2r:`<img src="Resources/discord.PNG" width="300">` <https://discord.gg/3f8vPYFmJX>`_
+For any questions, comments, or suggestions, please join the `Librum Discord server <https://discord.gg/3f8vPYFmJX>`_\ .

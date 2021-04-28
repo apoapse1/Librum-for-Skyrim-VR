@@ -4,8 +4,8 @@ Graphics and Ambience
 Last but not least, Librum includes a full graphical makeover of Skyrim. The goal is to match the photorealism we are used to these days, but with a bend towards realizing Librum's dark, gritty, and foreboding nature in Skyrim's atmosphere.Perhaps most important for this end, Librum includes a suite of literal atmosphere mods, centered around a Frankenstein-ing of `Obsidian Weathers <https://www.nexusmods.com/skyrimspecialedition/mods/12125>`_ and `True Storms <https://www.nexusmods.com/skyrimspecialedition/mods/2472>`_\ :
 
 
-.. image:: Resources/rain.jpg?raw=true
-   :target: Resources/rain.jpg?raw=true
+.. image:: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/rain.jpg?raw=true
+   :target: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/rain.jpg?raw=true
    :alt: Alt Text
 
 
@@ -21,8 +21,8 @@ We top this off with several lighting mods:
 The above only gives a small taste of the various atmosphere and ambience mods included in Librum -- you can visit the manifest for a complete list, but Librum includes everything from `new dust effects <https://www.nexusmods.com/skyrimspecialedition/mods/2407>`_ to `better cloud textures <https://www.nexusmods.com/skyrimspecialedition/mods/2393>`_ and even `better sound dynamics <https://www.nexusmods.com/skyrimspecialedition/mods/701>`_.
 
 
-.. image:: Resources/lights.png?raw=true
-   :target: Resources/lights.png?raw=true
+.. image:: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/lights.png?raw=true
+   :target: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/lights.png?raw=true
    :alt: Alt Text
 
 
@@ -31,16 +31,16 @@ As we have become accustomed to, Librum also overhauls everything graphical abou
 First of all, as mentioned earlier in the `Combat and Enemies <#combat-and-enemies>`_ section, Librum uses `Savage Skyrim <https://www.nexusmods.com/skyrimspecialedition/mods/37768>`_ (along with several texture-enhancing mods) to redesign many of Skyrim's creatures. Some, like Spriggans, Seekers, and Lurkers, have been made significantly creepier and more imposing, befitting their supernatural nature. Ice Wraiths have been made more serpent-like, Netches have been given longer tentacles, and Rieklings have been made larger and more muscular. Hardy animals, from mammoths to horkers, have been made to look hardier; more slender animals, such as wolves and skeevers, have been made to look hungrier, more vicious, and wild-eyed. Dragons, vampire lords, and gargoyles have been given larger wings, Dwemer automata have been given better and scarier-looking proportions, and the new insects have been called "pure nightmare fuel".
 
 
-.. image:: Resources/treedude.jpg?raw=true
-   :target: Resources/treedude.jpg?raw=true
+.. image:: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/treedude.jpg?raw=true
+   :target: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/treedude.jpg?raw=true
    :alt: Alt Text
 
 
 Another interesting addition to Librum comes in the form of `Frozen Electrocuted Combustion <https://www.nexusmods.com/skyrimspecialedition/mods/3532>`_. This mod adds bodily repurcussions to magic and elemental effects of all kinds. Fire may burn an opponent's skin right off, or just leave a nasty scar. Shock can cause spasms, or many worse effects. Frost can freeze an opponent solid -- striking a frozen foe will break them into several pieces. Effects have been added to everything from Fear to Soul Trap, so see the mod page for more information. In general, these new effects make the battlefield a grisly sight, and they make you think twice before zapping a fellow human person with *Lightning Storm*.
 
 
-.. image:: Resources/oof.png?raw=true
-   :target: Resources/oof.png?raw=true
+.. image:: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/oof.png?raw=true
+   :target: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/oof.png?raw=true
    :alt: Alt Text
 
 
@@ -51,8 +51,8 @@ On the town-and-city level, Librum combines the `Great City series <https://www.
 Not only do these city improvements make the cities denser, livelier, and more realistic -- they also give each city, town, and hamlet its own unique character. Instead of the "see one, see them all" nature of the towns in vanilla Skyrim, each of Skyrim's villages has its own architectural style, its own industry, and its own landscape.
 
 
-.. image:: Resources/karthwasten.jpg?raw=true
-   :target: Resources/karthwasten.jpg?raw=true
+.. image:: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/karthwasten.jpg?raw=true
+   :target: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/karthwasten.jpg?raw=true
    :alt: Alt Text
 
 
@@ -63,8 +63,8 @@ These architectural changes are matched with AI improvements for the citizens of
 Librum overhauls specific buildings, as well, with `Palaces and Castles Enhanced <https://www.nexusmods.com/skyrimspecialedition/mods/1819>`_\ , `Distinct Interiors <https://www.nexusmods.com/skyrimspecialedition/mods/6130>`_\ , `Immersive College of Winterhold <https://www.nexusmods.com/skyrimspecialedition/mods/17004>`_\ , and `Immersive Fort Dawnguard <https://www.nexusmods.com/skyrimspecialedition/mods/40436>`_. Overall, these mods give a more hand-crafted feel to the world of Skyrim; many of Skyrim's interiors have been totally redesigned, with hand-placed objects, furniture, and lighting, and with elements unique to their location or purpose. Stores will now have goods on display, for instance, and inns and other regional establishments will be decorated according to their respective regions.
 
 
-.. image:: Resources/stendarr.jpg?raw=true
-   :target: Resources/stendarr.jpg?raw=true
+.. image:: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/stendarr.jpg?raw=true
+   :target: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/stendarr.jpg?raw=true
    :alt: Alt Text
 
 
@@ -73,8 +73,8 @@ Last but not least, Skyrim's wilderness has also seen some improvements. Along w
 Librum also includes `Man Those Borders <https://www.nexusmods.com/skyrimspecialedition/mods/681>`_\ , `Unique Border Gates <https://www.nexusmods.com/skyrimspecialedition/mods/4819>`_\ , `Hold Border Banners <https://www.nexusmods.com/skyrimspecialedition/mods/1737>`_\ , and `Immersive Dawnguard Dayspring Pass <https://www.nexusmods.com/skyrimspecialedition/mods/4126>`_\ , to make the transitions between different holds and the journeys through wilderness zones a little more unique. Guards will now be stationed where they ought to be, and each hold can be identified by its flags and architectural styles upon arrival. Also, the entrance to the Dawnguards' territory is no longer a stupid piece-of-shit hole in a cliff wall.
 
 
-.. image:: Resources/whiterun.jpg?raw=true
-   :target: Resources/whiterun.jpg?raw=true
+.. image:: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/whiterun.jpg?raw=true
+   :target: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/whiterun.jpg?raw=true
    :alt: Alt Text
 
 

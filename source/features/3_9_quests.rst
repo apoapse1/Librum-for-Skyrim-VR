@@ -9,8 +9,8 @@ For all its strengths, Skyrim never got the questing aspect quite right. The gam
 #. Every addition is balanced (within reason), interesting, and natural within the existing game world.
 
 
-.. image:: Resources/molag.jpg?raw=true
-   :target: Resources/molag.jpg?raw=true
+.. image:: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/molag.jpg?raw=true
+   :target: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/molag.jpg?raw=true
    :alt: Alt Text
 
 
@@ -35,8 +35,8 @@ With that in mind, here are the major new quest mods included in Librum:
 #. **\ `The Notice Board <https://www.nexusmods.com/skyrimspecialedition/mods/3218>`_.** The Notice Board overhauls radiant questing in Skyrim. In short, it adds two notice boards outside each major inn in Skyrim, which detail (a) miscellaneous quests you can undergo and (b) goings-on in the area.
 
 
-.. image:: Resources/sotha.jpg?raw=true
-   :target: Resources/sotha.jpg?raw=true
+.. image:: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/sotha.jpg?raw=true
+   :target: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/sotha.jpg?raw=true
    :alt: Alt Text
 
 
@@ -57,8 +57,8 @@ On top of these new quests and dungeons, Librum makes *tons* of improvements to 
 #. **\ `End Times <https://www.nexusmods.com/skyrimspecialedition/mods/39201>`_ (optional).** To double down on the NSFMQ pacing, you now need to kill Alduin within a set amount of time, or he will literally eat the world (and your game will be over). Good luck.
 
 
-.. image:: Resources/Alduin.jpeg?raw=true
-   :target: Resources/Alduin.jpeg?raw=true
+.. image:: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/Alduin.jpeg?raw=true
+   :target: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/Alduin.jpeg?raw=true
    :alt: Alt Text
 
 
@@ -77,8 +77,8 @@ Now, one of my all-time favorite Elder Scrolls experiences is Daggerfall's dunge
 #. **\ `Bleak Falls Barrow Revisited <https://www.nexusmods.com/skyrimspecialedition/mods/33251>`_.** Bleak Falls Barrow has been redone and significantly expanded, turning it from a cookie-cutter linear Skyrim dungeon into a mysterious and labyrinthine dungeon worthy of its in-game reputation.
 
 
-.. image:: Resources/map.jpg?raw=true
-   :target: Resources/map.jpg?raw=true
+.. image:: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/map.jpg?raw=true
+   :target: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/map.jpg?raw=true
    :alt: Alt Text
 
 

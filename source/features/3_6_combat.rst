@@ -14,8 +14,8 @@ Potions are no longer instantaneous and spammable, instead drawing their effects
 Pay close attention to the passive bonuses given through `Legacy <https://www.nexusmods.com/skyrimspecialedition/mods/36415>`_ and remember that they *now apply to NPCs as well as the player*. NPCs have also had Standing Stone passives distributed to them through `Curse of the Firmament <https://www.nexusmods.com/skyrimspecialedition/mods/28419>`_\ , potentially creating some tricky and unpredictable combinations to overcome. If you're fighting an Orc and they suddenly burst into 'flames' and dramatically increase in power, that's Legacy at work.
 
 
-.. image:: Resources/Trident.png?raw=true
-   :target: Resources/Trident.png?raw=true
+.. image:: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/Trident.png?raw=true
+   :target: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/Trident.png?raw=true
    :alt: Alt Text
 
 
@@ -24,8 +24,8 @@ Combining nicely with these AI and combat tweaks, Librum adds several new classe
 Special attention has been given to wild animals, combining `SkyTEST - Realistic Animals and Predators <https://www.nexusmods.com/skyrimspecialedition/mods/1104>`_ with `Savage Skyrim <https://www.nexusmods.com/skyrimspecialedition/mods/37768>`_. Animals will go about normal animal behaviors: hunting prey, running from predators or competing with other predators, raising cubs, and finding mates. Bears will hibernate in the winter, animals will search for food and water, and, importantly, they will not report your crimes. There will also be significantly more variety in different animals, with many animals now sporting different colorations:
 
 
-.. image:: Resources/Wolves.jpeg?raw=true
-   :target: Resources/Wolves.jpeg?raw=true
+.. image:: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/Wolves.jpeg?raw=true
+   :target: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/Wolves.jpeg?raw=true
    :alt: Alt Text
 
 
@@ -34,8 +34,8 @@ Savage Skyrim goes one step further, however, combining the several graphical mo
 Of course, dragon combat still forms the foundation of Librum, and dragons are not excluded from our tweaks here. Firstly, there is now a *much* wider variety of dragon types available, thanks to `Splendor <https://www.nexusmods.com/skyrimspecialedition/mods/9670>`_ and `Diverse Dragons Collection <https://www.nexusmods.com/skyrimspecialedition/mods/695>`_. They have all each been given unique names through `Zim's Dragon Improvements <https://www.nexusmods.com/skyrimspecialedition/mods/38693>`_\ , and they all `talk to you <https://www.nexusmods.com/skyrimspecialedition/mods/26955>`_ during your fights. Along with changes to make dragon combat more difficult and dynamic, this combination turns each dragon fight into a unique boss fight, rather than another generic Skyrim opponent.
 
 
-.. image:: Resources/Dragon.jpeg?raw=true
-   :target: Resources/Dragon.jpeg?raw=true
+.. image:: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/Dragon.jpeg?raw=true
+   :target: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/Dragon.jpeg?raw=true
    :alt: Alt Text
 
 
