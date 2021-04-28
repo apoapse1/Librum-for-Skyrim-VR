@@ -1,0 +1,30 @@
+VR Experience
+-------------
+
+Librum makes larger changes in terms of controls. For one, it includes `Dual Wield Block VR <https://www.nexusmods.com/skyrimspecialedition/mods/28456>`_\ , `Weapon Throw VR <https://www.nexusmods.com/skyrimspecialedition/mods/31374>`_\ , `Sprint Jump VR <https://www.nexusmods.com/skyrimspecialedition/mods/28354>`_\ , `VR Power Attack Fix <https://www.nexusmods.com/skyrimspecialedition/mods/28004>`_\ , `Haptic Skyrim VR <https://www.nexusmods.com/skyrimspecialedition/mods/20364>`_\ , and `Realistic Mining VR <https://www.nexusmods.com/skyrimspecialedition/mods/16692>`_ in order to better match player motions to character actions. With this suite of mods, VR combat is a much more natural experience, and you have all the options -- such as blocking with an off-hand weapon or throwing your weapon -- that you would expect. In particular, as we will further discuss in the next section, you can swing your pickaxe at *any* in-game rock (including, but not limited to standard ore veins) and swing your woodcutter's axe at (most) any in-game tree or wooden object to get the resources you expect.
+
+A big change in this direction is `HIGGS VR <https://www.nexusmods.com/skyrimspecialedition/mods/43930>`_\ , which allows you to use your hands to truly interact with the world. You can pick up items naturally and turn them in your hand, throw them at NPCs, or put them over your shoulder to put them in your inventory. You can drag bodies around (finally) to hide your crimes from the law, or grab armor pieces directly off of corpses without entering a menu. Finally, you have gravity-glove-like abilities, as in *Half-Life: Alyx*.
+
+
+.. image:: Resources/hands.jpg?raw=true
+   :target: Resources/hands.jpg?raw=true
+   :alt: Alt Text
+ 
+
+In a similar vein, Librum includes `Dragonborn Speaks Naturally <https://www.nexusmods.com/skyrimspecialedition/mods/16514>`_ and `SkyVoice <https://www.nexusmods.com/skyrimspecialedition/mods/17840>`_ to have the world respond naturally to your voice. Namely, when you begin reciting a dialogue option, the game will select it for you, and when you say the words of a learned dragon shout, you will use that shout in game. Not to worry, of course -- thanks to `Shout Pronunciations <https://www.nexusmods.com/skyrimspecialedition/mods/18572>`_\ , the dragon language words of each shout will be shown in your shout menu.
+
+Librum also includes `MageVR <https://www.nexusmods.com/skyrimspecialedition/mods/21297>`_\ , which generally overhauls the way you interact with spells and equipment. I recommend thoroughly reading its mod page for more information, but in short, it adds the following features:
+
+
+#. Spells can be slotted to drawn "glyphs". You can re-draw the glyph later to either equip or auto-cast the slotted spell, all without entering your menu.
+#. Archery is realistic. You will need to manually retrieve an arrow from your quiver in order to fire another shot.
+#. You can quickslot shouts and powers, usable through a gesture and hotkey press.
+#. You are able to "immersively" loot a container, in which you manually drag loot from the container to your backpack.
+#. You are able to "immersively" lockpick, in a way resembling the real procedure for a tumbler lock.
+
+Last but not least, Librum includes the fan-favorite `VRIK Player Avatar <https://www.nexusmods.com/skyrimspecialedition/mods/23416>`_\ , which allows you to see your character in-game. Not only that, but VRIK provides several visible weapon holsters around your body -- your calves, thighs, hips, forearms, upper arms, chest, stomach, and shoulders. To use these, hold your weapon over the appropriate holster (you should feel a haptic signal) and press "grip". Hold "grip" and pull away to unsheathe. VRIK also allows you to go into "selfie mode", by lifting your right hand above your head and rotating; you can finally see your VR character in his/her full glory!
+
+
+.. image:: Resources/hands.png?raw=true
+   :target: Resources/hands.png?raw=true
+   :alt: Alt Text

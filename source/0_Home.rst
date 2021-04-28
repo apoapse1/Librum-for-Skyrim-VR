@@ -26,10 +26,10 @@ Preamble
 
 .. raw:: html
 
-   <div align="center"><b>With big thanks to the Librum team: Mashtyx, Snidely, EllieMental, JulieChaos and NemeanLion.</b></div>
+   <div align="center"><b>With big thanks to the Librum team: Mashtyx, EllieMental, Snidely, JulieChaos, PrivateDelta, and tmt.</b></div>
    <br/>
 
-*You're lost in the woods, having narrowly escaped after scaring off a pack of wolves with a summoned flame atronach. Your torch finally fades out, and it's getting cold. You can conjure basic foods, and your summoned atronach provides enough heat for the time being, but you'll need to gather wood in order to sustain a fire and survive the night. With little time to spare, you can't search far for materials -- luckily, you've fashioned a basic hatchet the night before, and you can chop down a nearby tree for lumber. You fall asleep next to your fire, having placed several runes nearby to dispatch would-be predators. Despite a few interruptions in the night, the morning comes at last, and the sun finally breaks over the horizon.*
+*You’re lost in the woods, having narrowly escaped after scaring off a pack of wolves with your travel lantern. Your lantern’s oil finally runs dry, and it’s getting cold. You can conjure basic food and shelter, but your spells all seem to fizzle out in this weather. You need to gather wood in order to sustain a fire and survive the night. With little time to spare, you can’t search far for materials — luckily, you’ve fashioned a basic hatchet the night before, and you can chop down a nearby tree for lumber. After many failed attempts, you sustain a weak flame spell long enough to light your campfire. You fall asleep next to your fire, having prayed to Kynareth to fend off would-be predators. Despite a few interruptions in the night, the morning comes at last, and the sun finally breaks over the horizon.*
 
 Skyrim SE and VR are both wonderful experiences, but both very familiar ones. Even with all of the modern improvements, we visit the same locales and repeat the same adventures we have since the end of 2011.
 
@@ -44,34 +44,43 @@ User Comments
 
    <div align="center">"This is definitely the most different playthrough I've ever done."</div>
 
+
 .. raw:: html
 
    <div align="center">"I'm not used to the difficulty, but it was probably the most fun I had on Skyrim."</div>
+
 
 .. raw:: html
 
    <div align="center">"It's refreshing. At this point I would have all novice spells that I wanted in a normal playthrough."</div>
 
+
 .. raw:: html
 
    <div align="center">"I don't have enough money to pay followers 500/week."</div>
+
 
 .. raw:: html
 
    <div align="center">"Are bandits meant to attack when you're sleeping in an inn? Kinda like it, I have to admit."</div>
 
+
 .. raw:: html
 
    <div align="center">"Certainly seems like I'll have to treat this like a new game rather than the skyrim I've come to know."</div>
+
 
 .. raw:: html
 
    <div align="center">"Rick Harrison from pawn stars is literally from Librum's Skyrim. [Sword worth 150 Septims] 'Best I can do is 10.'"</div>
 
+
 .. raw:: html
 
    <div align="center">"So far I've had a blast with the modlist. Makes Skyrim feel like a new game."</div>
    
+
+
 Credits and Thanks
 ------------------
 
