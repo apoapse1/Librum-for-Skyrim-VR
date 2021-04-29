@@ -36,6 +36,8 @@ Added Mods:
    - _I'm Walkin' Here_
    - _Bard Instrumentals Mostly - Sing Rarely_
  - _Reflection - Level Up Messages_
+ - _MoreHUD_ and _MoreHUD - Inventory Edition_
+ - _Song of the Green_ and patches
 
 Bugfixes:
  - Fixed several 3DNPC-related bugs (will not apply to existing saves).
@@ -70,6 +72,7 @@ Removed Mods:
  - (VR only) _Night Sky HD_ (caused UI problems on RTX cards)
  - _Vokrii-CACO Patch_ (unnecessary with _Arbor Philosophorum_)
  - _JD's Coins and Coinpurses_ (inconsistent with new coins)
+ - _UNP Vanilla Clothing Replacer_ (looks better without)
 
 ***v2.11.***
 Added Mods:
