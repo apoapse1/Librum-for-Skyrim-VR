@@ -23,3 +23,7 @@ You are being redirected to the Librum home page.
    features/index
    survival/index
    5_Changelog
+
+.. |br| raw:: html
+
+   <br />

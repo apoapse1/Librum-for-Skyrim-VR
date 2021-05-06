@@ -5,8 +5,7 @@ Changelog
 ** Librum versions are of the form *x.y-z*. In this notation, changes to the *x* or *y* denote significant updates, and you will need to read the update notes to see how to patch your savefile. Changes to the *z* denote small hotfixes, and will never require a patched save.
 
 | **v2.2.0 - Gold, Silver, and Steel.**
-| Added Mods:
-
+| Added Mods: |br|
 * New assets from *Simply Realistic Armor*:
 
   - Alternative Steel Armor
