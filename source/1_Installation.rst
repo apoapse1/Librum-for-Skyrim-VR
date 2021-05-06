@@ -63,10 +63,8 @@ Downloading and Installing
 
 The download and installation process can take a very long time, depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
-
-#. Open Wabbajack.
-#. (VR) Browse for the modlist in the Wabbajack client, and click to download it.
-#. (SE) Download the Librum_SE.wabbajack file from the "Releases" tab on this GitHub, and open it up in the "Install From Disk" option in the Wabbajack client. Do not place the .wabbajack file in the folder you want to install Librum to.
+#. (Option 1) Open Wabbajack, browse for the modlist in the Wabbajack client, and click to download it.
+#. (Option 2) Download the Librum SE or VR file from the main page on `our website <https://librum-modpack.com>`\ , and open it up in the "Install From Disk" option in the Wabbajack client. Do not place the .wabbajack file in the folder you want to install Librum to.
 #. Once the download is complete, set the installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, or Desktop. Put it somewhere easy like ``C:/Modlists/Librum``\ ). The downloads path should automatically fill in the installation path, but this can be changed if needed. 
 #. Click the Go/Begin button.
 #. Wait for Wabbajack to finish.
