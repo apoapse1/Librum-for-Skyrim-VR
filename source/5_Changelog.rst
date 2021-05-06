@@ -1,11 +1,44 @@
 Changelog
 =========
 
-**Note:
-** Librum versions are of the form *x.y-z*. In this notation, changes to the *x* or *y* denote significant updates, and you will need to read the update notes to see how to patch your savefile. Changes to the *z* denote small hotfixes, and will never require a patched save.
+| **v2.2.1.**
+| Added Mods:
+
+* *Dynamic Things Alternative* (SE only)
+* *Project AHO Bug Fix - Start Questline at Level 15*
+
+Fixes:
+
+* *Project AHO* now starts only after level 15.
+* Fixed MCM menu displays.
+* Fixed non-nude (default) profile.
+* *Drink and Fill* power works correctly.
+* Armor correctly replaced with NordWarUA assets.
+* *SV Mods Menu* dialogue correctly mentions *medes* in place of gold.
+* *Arkay's Cremation* book restored.
+* Salt correctly handles the dead, in place of garlic.
+* *FMR* CTD issue resolved.
+* Lady Stone now allows sleeping.
+* *Wood and Paper* skin for *Dear Diary* correctly replaced.
+* Erroneous spell tomes removed (suck it, new players).
+* *Pick Up Books Simple* functions correctly.
+* *No Shiny Argonians* correctly applies to nude profile.
+* Erroneous SDK file moved in VR version.
+
+Other:
+
+* New Libri Antiqui added.
+* Ultrawide option for Dear Diary skin.
+* Papyrus budget defaults increased.
+* *FMR* and *AGO* enchanted items removed.
+* Many new MCM menus are automatically configured (thanks, hazarduss!)
+* Weapon skill XP gain slowed.
+* Sleep/wait times sped up.
+* Health regen and sleeping cut off at 25% health, instead of 50%.
 
 | **v2.2.0 - Gold, Silver, and Steel.**
-| Added Mods: |br|
+| Added Mods:
+
 * New assets from *Simply Realistic Armor*:
 
   - Alternative Steel Armor
@@ -86,9 +119,8 @@ Removed Mods:
 * *JD's Coins and Coinpurses* (inconsistent with new coins)
 * *UNP Vanilla Clothing Replacer* (looks better without)
 
-**v2.11.**
-
-Added Mods:
+| **v2.11.**
+| Added Mods:
 
 * *No Starting Spells*
 * *Arkay's Cremation*
@@ -112,9 +144,8 @@ Removed Mods:
 * *Optional Starting Spells* (didn't work)
 * (VR only! This is still in SE) *Frozen Electrocuted Combustion*
 
-**v2.10 - Libri Antiqui.**
-
-Added Mods:
+| **v2.10 - Libri Antiqui.**
+| Added Mods:
 
 * *Spell Wheel VR* (only VR)
 * *NavigateVR* (only VR)
@@ -167,9 +198,8 @@ Removed Mods:
 * *Smooth Shores* (not worth the necessary patching)
 * *Better College Application* (replaced by *Improved College Entry*)
 
-**v2.0 - Librum Re-Imagined.**
-
-Added Mods:
+| **v2.0 - Librum Re-Imagined.**
+| Added Mods:
 
 * Core gameplay mechanics redone:
 
@@ -320,18 +350,16 @@ Bugfixes:
 * fixed most VR crashing
 * fixed Growl MCM
 
-**v1.61.**
-
-Other:
+| **v1.61.**
+| Other:
 
 * fixed *More Informative Console*.
 * fixed player starting spells.
 * fixed RaceMenu overlays.
 * fixed Frostfall MCM.
 
-**v1.60 - the Kitchen Sink Update.**
-
-Added Mods:
+| **v1.60 - the Kitchen Sink Update.**
+| Added Mods:
 
 * *The Gray Cowl of Nocturnal*
 * *Dirt and Blood* and *HD Retexture*
@@ -393,9 +421,8 @@ Other:
 * Onmund dialogue/face fixed.
 * Floating door removed in Whiterun plains.
 
-**v1.52.**
-
-Added Mods:
+| **v1.52.**
+| Added Mods:
 
 * *The Curator's Companion* (by popular demand)
 * *Visual Animated Enchants*
@@ -421,9 +448,8 @@ Other:
 * Fixed animation issues in SE.
 * Fixed blurriness in VR.
 
-**v1.51.**
-
-Added Mods:
+| **v1.51.**
+| Added Mods:
 
 * *Smooth Sky Mesh*
 
@@ -438,9 +464,8 @@ Other:
 * Updated DynDOLOD.
 * Fixed CTD issue with Bruma.
 
-**v1.50 - the Swashbuckling Update.**
-
-Added Mods:
+| **v1.50 - the Swashbuckling Update.**
+| Added Mods:
 
 * New combat overhaul:
 
@@ -474,9 +499,8 @@ Other:
 * non-nude meshes included as optional install
 * Silver Hand leveled lists fixed
 
-**v1.41.**
-
-Added Mods:
+| **v1.41.**
+| Added Mods:
 
 * *Cathedral Mountain Fix*
 
@@ -492,9 +516,8 @@ Other:
 * (VR) Fixed bug with final Apocrypha battle.
 * Removed "Soothe" spell tome from Riverwood trader.
 
-**v1.40 - the Monster Update.**
-
-Added Mods:
+| **v1.40 - the Monster Update.**
+| Added Mods:
 
 * I got carried away with creature mods:
 
@@ -539,9 +562,8 @@ Other:
 * Most MCM settings automated.
 * Spell tome deleter fixed.
 
-**v1.30.**
-
-Added Mods:
+| **v1.30.**
+| Added Mods:
 
 * New grass setup:
 
@@ -589,9 +611,8 @@ Other:
 * Finally *actually* fixed dragons.
 * Lots of performance tweaks, but without noticeable visual drop.
 
-**v1.20.**
-
-Added Mods:
+| **v1.20.**
+| Added Mods:
 
 * New *Auriel's Dream ENB Preset*. I'm working with Kvitekvist to customize it to Librum.
 * New weapon and armor graphics:
@@ -636,9 +657,8 @@ Updating:
 * If you're updating from an old save, make sure you disable the old "Soul Search" power in the "Souls Do Things" MCM menu. There's a new one I made with the same name.
 * Move your current savegames to /profiles/Librum/saves within the Librum MO2 folder.
 
-**v1.1.**
-
-Added Mods:
+| **v1.1.**
+| Added Mods:
 
 * Custom-to-Librum ENB preset, courtesy of Kvitekvist.
 * *Less is More* texture fix, also courtesy of Kvitekvist.
@@ -673,9 +693,8 @@ Other:
 * *WICO* properly patched.
 * Dragon leveled lists fixed.
 
-**v1.03.**
-
-Added Mods:
+| **v1.03.**
+| Added Mods:
 
 * *Helgen Reborn*, now that it's compatible with *Realm of Lorkhan*.
 * *Better College Application*.
@@ -692,9 +711,8 @@ Updating:
 
 * Apply new MCM changes for CACO and SunHelm. 
 
-**v1.02.**
-
-Added Mods:
+| **v1.02.**
+| Added Mods:
 
 * *SunHelm* needs instead of *iNeed*, to fix a known issue with crashing-while-saving.
 * *Undiscovered Means Unknown*.
@@ -710,9 +728,8 @@ Other:
 * Fixed issue with wolves throwing you across the map. It was pretty funny.
 * Added several new voice commands -- see the optional voice command INI for details.
 
-**v1.0.**
-
-Added Mods:
+| **v1.0.**
+| Added Mods:
 
 * New graphics:
 
@@ -767,9 +784,8 @@ Updating:
   - AceBloodScriptAddItemstoVendor
 * Wait two in-game days before continuing.
 
-**v0.8-beta.**
-
-Added Mods:
+| **v0.8-beta.**
+| Added Mods:
 
 * *Realistic Ragdolls and Force*, and its *Higher Player Fall Damage* addon.
 * *Genesis* enemy spawner.
@@ -794,9 +810,8 @@ Other:
  v0.8-1, for compatibility.
 * *Realistic AI Detection* settings changed.
 
-**v0.7-beta.**
-
-Added Mods:
+| **v0.7-beta.**
+| Added Mods:
 
 * *VRIK*, *Be Seated*, and *Simple Realistic Archery*.
 * *MystiriousDawn's HD Skyrim Overhaul*, landscape textures only.
@@ -819,9 +834,8 @@ Fixes:
 * Fixed *Locational Damage*.
 * Balanced *Enhanced Reflexes* bullet-time mode.
 
-**v0.6-beta.**
-
-Added Mods:
+| **v0.6-beta.**
+| Added Mods:
 
 * *Open Cities* and patches.
 * *Locational Damage*.
