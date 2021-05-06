@@ -180,7 +180,7 @@ Once you have created your character, wait until all the messages in the top lef
 
 **If you are playing Librum with Skyrim VR, don't forget to follow the `VR Configuration <#VR-configuration>`_ section!**
 
-**f you don't want Survival Features:** 
+**If you don't want Survival Features:** 
 You still need to active **Frostfall** and **SunHelm**\ , just deactivate them again after they've finished starting up. This is to avoid script bloat and is very important.
 
 **If you are updating from Librum 2.0:** 
