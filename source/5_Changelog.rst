@@ -2,46 +2,47 @@ Changelog
 =========
 
 **Note:
-** Librum versions are of the form _x.y-z_. In this notation, changes to the _x_ or _y_ denote significant updates, and you will need to read the update notes to see how to patch your savefile. Changes to the _z_ denote small hotfixes, and will never require a patched save.
+** Librum versions are of the form *x.y-z*. In this notation, changes to the *x* or *y* denote significant updates, and you will need to read the update notes to see how to patch your savefile. Changes to the *z* denote small hotfixes, and will never require a patched save.
 
 | **v2.2.0 - Gold, Silver, and Steel.**
 | Added Mods:
-| * New assets from _Simply Realistic Armor_:
+
+ * New assets from *Simply Realistic Armor*:
   - Alternative Steel Armor
   - Dragonscale/Dragonbone Armor
   - Glass Armor
   - Stahlrim Armor
   - Thieves' Guild Armor
-* _StLU Immersive Level Up Message_
-* _Improved Night Sky_ (VR only)
-* _Arbor Philosophorum_
-* _BodySlide_ and UNP assets
+* *StLU Immersive Level Up Message*
+* *Improved Night Sky* (VR only)
+* *Arbor Philosophorum*
+* *BodySlide* and UNP assets
 * Alduin remaster:
-  - _Deiform Alduin_ and ENB Light addon
-  - Optional custom remaster of _Aurbic Alduin_
-  - _Children of the Sky_
-* _Animated Armoury_ and necessary patches
+  - *Deiform Alduin* and ENB Light addon
+  - Optional custom remaster of *Aurbic Alduin*
+  - *Children of the Sky*
+* *Animated Armoury* and necessary patches
 * Economy Overhaul:
-  - _Coins of Tamriel_
-  - _Exchange Currency_
-  - _Medes in Your Pockets_
-  - _Septim Texture Replacer_
-  - _Thematic Loot_
-* _LOTD Pale Pass Extension_
-* _Spell Research - Patch Grimoire_
-* _Respawn - Death Overhaul_ (massively redone for Librum)
+  - *Coins of Tamriel*
+  - *Exchange Currency*
+  - *Medes in Your Pockets*
+  - *Septim Texture Replacer*
+  - *Thematic Loot*
+* *LOTD Pale Pass Extension*
+* *Spell Research - Patch Grimoire*
+* *Respawn - Death Overhaul* (massively redone for Librum)
 * Optional no-HUD setup for VR:
-  - _Better Resource Warnings_
-  - _Hidden Location Info and More_
-  - _No Map Menu_ (redone for Librum)
-* _Loot and Degradation_
+  - *Better Resource Warnings*
+  - *Hidden Location Info and More*
+  - *No Map Menu* (redone for Librum)
+* *Loot and Degradation*
 * Script Patches:
-  - _To Your Face_
-  - _I'm Walkin' Here_
-  - _Bard Instrumentals Mostly - Sing Rarely_
-* _Reflection - Level Up Messages_
-* _MoreHUD_ and _MoreHUd - Inventory Edition_
-* _Song of the Green_ and patches
+  - *To Your Face*
+  - *I'm Walkin' Here*
+  - *Bard Instrumentals Mostly - Sing Rarely*
+* *Reflection - Level Up Messages*
+* *MoreHUD* and *MoreHUd - Inventory Edition*
+* *Song of the Green* and patches
 
 Bugfixes:
 
@@ -49,16 +50,16 @@ Bugfixes:
 * Fixed clipping and navmesh in Old Hroldan Inn.
 * Fixed water refill bugs.
 * Fixed occassional issue with NPC mages glowing.
-* All overwritten trees replaced with _Myrkvior_ versions.
+* All overwritten trees replaced with *Myrkvior* versions.
 * Fixed all known object placement issues.
 * Fixed all known water seam issues.
 * Forwarded NSUTR edits to associated objects.
 * Fixed ownership issues in Dawnstar and Falkreath.
 * Fixed Ysgramor's armor and Vahlok's armor.
-* Patched remaining magic effects to use _ENB Light_ (SE only)
-* Restored _ACE_ shoes to College questline.
+* Patched remaining magic effects to use *ENB Light* (SE only)
+* Restored *ACE* shoes to College questline.
 * Fixed issue with Sunhelm's resting condition.
-* Fixed issue with _Finding Helgi and Laelette_.
+* Fixed issue with *Finding Helgi and Laelette*.
 * Added cloaks to certain Civil War generals.
 * Mysticism spells fixed for Spell Research
 * Bound Bow FX restored in VR
@@ -75,22 +76,22 @@ Other:
 
 Removed Mods:
 
-* (VR only) _Improved Vanilla Torches_ (messed with torch placement)
-* (VR only) _Night Sky HD_ (caused UI problems on RTX cards)
-* _Vokrii-CACO Patch_ (unnecessary with _Arbor Philosophorum_)
-* _JD's Coins and Coinpurses_ (inconsistent with new coins)
-* _UNP Vanilla Clothing Replacer_ (looks better without)
+* (VR only) *Improved Vanilla Torches* (messed with torch placement)
+* (VR only) *Night Sky HD* (caused UI problems on RTX cards)
+* *Vokrii-CACO Patch* (unnecessary with *Arbor Philosophorum*)
+* *JD's Coins and Coinpurses* (inconsistent with new coins)
+* *UNP Vanilla Clothing Replacer* (looks better without)
 
 **v2.11.**
 
 Added Mods:
 
-* _No Starting Spells_
-* _Arkay's Cremation_
+* *No Starting Spells*
+* *Arkay's Cremation*
 
 Bugfixes:
 
-* Fixed _SunHelm_ water refill
+* Fixed *SunHelm* water refill
 * Fixed certain Open Cities door issues
 * Fixed root file loading error
 * Fixed "no starting spells"
@@ -98,45 +99,45 @@ Bugfixes:
 
 Other:
 
-* _VRIK_ selfie mode disabled by default
+* *VRIK* selfie mode disabled by default
 
 Removed Mods:
 
-* _Athletik Combat_ (correctly this time)
-* _NPCs Don't Regenerate Magicka While Casting_ (unnecessary)
-* _Optional Starting Spells_ (didn't work)
-* (VR only! This is still in SE) _Frozen Electrocuted Combustion_
+* *Athletik Combat* (correctly this time)
+* *NPCs Don't Regenerate Magicka While Casting* (unnecessary)
+* *Optional Starting Spells* (didn't work)
+* (VR only! This is still in SE) *Frozen Electrocuted Combustion*
 
 **v2.10 - Libri Antiqui.**
 
 Added Mods:
 
-* _Spell Wheel VR_ (only VR)
-* _NavigateVR_ (only VR)
-* _Splashes of Skyrim_ (SE and VR)
-* _Storm Lightning_ (SE and VR)
+* *Spell Wheel VR* (only VR)
+* *NavigateVR* (only VR)
+* *Splashes of Skyrim* (SE and VR)
+* *Storm Lightning* (SE and VR)
 * New ENBs, organized into a FOMOD:
 
-  - _Ominous ENB_, performance and full
-  - _Touch of Natural Tamriel_, performance and full
-  - _Silent Horizons_
-  - _Contrastive Adaptive Sharpener_
-  - _Pi-Cho ENB_
-* _Simply Realistic Armor and Weapons_ with alt. Steel and Leather
+  - *Ominous ENB*, performance and full
+  - *Touch of Natural Tamriel*, performance and full
+  - *Silent Horizons*
+  - *Contrastive Adaptive Sharpener*
+  - *Pi-Cho ENB*
+* *Simply Realistic Armor and Weapons* with alt. Steel and Leather
 * SE-specific patches and improvements
-  - _SSE Display Tweaks_
-* _Night Sky HD_
-* _Improved Vanilla Torches_
-* _ENB Light_ (for SE only)
-* _Improved College Entry_
-* _Chewing Sounds for Spell Tomes_
-* _Helgen Reborn - TGCoF Patch_
-* _Apoapse's Balanced Daggerfall Traits_
-* _Complete Widescreen Fix_
+  - *SSE Display Tweaks*
+* *Night Sky HD*
+* *Improved Vanilla Torches*
+* *ENB Light* (for SE only)
+* *Improved College Entry*
+* *Chewing Sounds for Spell Tomes*
+* *Helgen Reborn - TGCoF Patch*
+* *Apoapse's Balanced Daggerfall Traits*
+* *Complete Widescreen Fix*
 
 Other:
 
-* Distributed _Libri Antiqui_ around the world
+* Distributed *Libri Antiqui* around the world
 * Removed random enchantments from certain mods
 * Removed all starting spells
 * Rebalanced all traits
@@ -148,19 +149,19 @@ Bugfixes:
 * Fixed all navmeshes
 * Fixed issue with ENB binaries (SE)
 * Fixed issue with sun spells not working
-* Fixed _FEC_
+* Fixed *FEC*
 * Fixed floating objects
 * Fixed blocked dungeon doors
 * Fixed voice
 
 Removed Mods:
 
-* _Project NordWarUA_ (unnecessary with SRAW)
-* _Ethereal Cosmos_ (replaced by _Night Sky HD_)
-* _High Fidelity ENB_'s Night Sky (replaced by _Night Sky HD_)
-* _Athletik Combat_ (I didn't like it) 
-* _Smooth Shores_ (not worth the necessary patching)
-* _Better College Application_ (replaced by _Improved College Entry_)
+* *Project NordWarUA* (unnecessary with SRAW)
+* *Ethereal Cosmos* (replaced by *Night Sky HD*)
+* *High Fidelity ENB*'s Night Sky (replaced by *Night Sky HD*)
+* *Athletik Combat* (I didn't like it) 
+* *Smooth Shores* (not worth the necessary patching)
+* *Better College Application* (replaced by *Improved College Entry*)
 
 **v2.0 - Librum Re-Imagined.**
 
@@ -168,139 +169,139 @@ Added Mods:
 
 * Core gameplay mechanics redone:
 
-  - _Legacy Race Overhaul_
-  - _Apoapse's Legacy Startup_
-  - _Blade and Blunt_
-  - _Enchanting Awakened_
-  - _Curse of the Firmament_
-  - _Curse of the Vampire_
-  - _Daggerfall Traits for Skyrim SE_
-  - _Better Magical Progression_
-* _Nightmare of Lorkhan_ (by our very own dev, Algeddon!) and _Daggerfall Traits_ patch
+  - *Legacy Race Overhaul*
+  - *Apoapse's Legacy Startup*
+  - *Blade and Blunt*
+  - *Enchanting Awakened*
+  - *Curse of the Firmament*
+  - *Curse of the Vampire*
+  - *Daggerfall Traits for Skyrim SE*
+  - *Better Magical Progression*
+* *Nightmare of Lorkhan* (by our very own dev, Algeddon!) and *Daggerfall Traits* patch
 * New follower system:
 
-  - _Nether's Follower Framework_
-  - _Special Edition Followers_
-  - _Interesting Follower Requirements for Interesting NPCs_ (no hard req'ts version)
-  - _Meeko Reborn_
-  - _Vigilance Reborn_
+  - *Nether's Follower Framework*
+  - *Special Edition Followers*
+  - *Interesting Follower Requirements for Interesting NPCs* (no hard req'ts version)
+  - *Meeko Reborn*
+  - *Vigilance Reborn*
 * New dungeons and quests:
 
-  - _Hammet's Dungeon Pack_
-  - _The Land of Vominheim_
-  - _Midwood Isle_
-  - _Darkend_
-  - _Hammet's Dungeons - More Rewards_
-  - _EasierRider's Dungeon Pack_
+  - *Hammet's Dungeon Pack*
+  - *The Land of Vominheim*
+  - *Midwood Isle*
+  - *Darkend*
+  - *Hammet's Dungeons - More Rewards*
+  - *EasierRider's Dungeon Pack*
  * Enemy Encounters:
 
-  - _Less Dragons - No Random Dragons_
-  - _Skyrim Revamped - Complete Enemy Overhaul_
+  - *Less Dragons - No Random Dragons*
+  - *Skyrim Revamped - Complete Enemy Overhaul*
 * Patches for quest mods:
 
-  - _Helps to Have a Map_ patches for _Vominheim_, _Midwood_, and _Darkend_
-  - _Vigilant - SRCEO_ patch and delay
-  - _Project AHO - Start When You Want_
-  - _Unofficial LotD Bruma Patch_ (and _Curator's Companion_ add-on)
-  - _Quest and Reward Delay for Legacy of the Dragonborn_
-  - _Vigilant Crafting Stations_ by Sovn
-  - _Project AHO Telvanni Hybrid Temper Patch_
-  - _Moonpath Stuck Combat Music Fix_
+  - *Helps to Have a Map* patches for *Vominheim*, *Midwood*, and *Darkend*
+  - *Vigilant - SRCEO* patch and delay
+  - *Project AHO - Start When You Want*
+  - *Unofficial LotD Bruma Patch* (and *Curator's Companion* add-on)
+  - *Quest and Reward Delay for Legacy of the Dragonborn*
+  - *Vigilant Crafting Stations* by Sovn
+  - *Project AHO Telvanni Hybrid Temper Patch*
+  - *Moonpath Stuck Combat Music Fix*
 * Enhanced graphics for quest mods:
 
-  - _Majestic Mountains for Bruma_ (TheRetroCarrot's edit)
-  - _Vigilant Book Covers_
-  - _Ashes - Vigilant Witch Hunter Armor Retexture_
-  - _Stendarr Statue Replacer for Vigilant_
-  - _Alik'r Flora Overhaul_ for _Gray Cowl of Nocturnal_
+  - *Majestic Mountains for Bruma* (TheRetroCarrot's edit)
+  - *Vigilant Book Covers*
+  - *Ashes - Vigilant Witch Hunter Armor Retexture*
+  - *Stendarr Statue Replacer for Vigilant*
+  - *Alik'r Flora Overhaul* for *Gray Cowl of Nocturnal*
 * New UI for Skyrim SE:
 
-  - _Adventurer Theme_ perk menu and start menu backgrounds
-  - _A Matter of Time_
-  - _SkyHUD_
-  - _Vigilant Crafting Stations_ by Sovn
-  - _Project AHO Telvanni Hybrid Temper Patch_
-  - _Moonpath Stuck Combat Music Fix_
+  - *Adventurer Theme* perk menu and start menu backgrounds
+  - *A Matter of Time*
+  - *SkyHUD*
+  - *Vigilant Crafting Stations* by Sovn
+  - *Project AHO Telvanni Hybrid Temper Patch*
+  - *Moonpath Stuck Combat Music Fix*
 * Enhanced graphics for quest mods:
 
-  - _Majestic Mountains for Bruma_ (TheRetroCarrot's edit)
-  - _Vigilant Book Covers_
-  - _Ashes - Vigilant Witch Hunter Armor Retexture_
-  - _Stendarr Statue Replacer for Vigilant_
-  - _Alik'r Flora Overhaul_ for _Gray Cowl of Nocturnal_
+  - *Majestic Mountains for Bruma* (TheRetroCarrot's edit)
+  - *Vigilant Book Covers*
+  - *Ashes - Vigilant Witch Hunter Armor Retexture*
+  - *Stendarr Statue Replacer for Vigilant*
+  - *Alik'r Flora Overhaul* for *Gray Cowl of Nocturnal*
 * New UI for Skyrim SE:
 
-  - _Adventurer Theme_ perk menu and start menu backgrounds
-  - _A Matter of Time_
-  - _SkyHUD_
-  - _Paper HUD_ (bottom bar option)
-  - (VR and SE) _SkyUI The Adventurer Theme Mod Tweak_ (by our own dev, Mashtyx!)
+  - *Adventurer Theme* perk menu and start menu backgrounds
+  - *A Matter of Time*
+  - *SkyHUD*
+  - *Paper HUD* (bottom bar option)
+  - (VR and SE) *SkyUI The Adventurer Theme Mod Tweak* (by our own dev, Mashtyx!)
 * Gameplay and balance tweaks:
 
-  - _Unlocking Shouts Costs No Souls_
-  - _True Teacher Durnehviir_
-  - _Incognito_
-  - _Khajiits Steal ToO - Caravan Fence Option_
-  - _Ask Innkeepers to Show Room_
-  - (VR only) _Simple Realistic Archery_
-  - _No Killmoves - No Killcams - No Killbites_
-  - (VR) _Auto Sneak and Jump_
-  - _True Armor_
+  - *Unlocking Shouts Costs No Souls*
+  - *True Teacher Durnehviir*
+  - *Incognito*
+  - *Khajiits Steal ToO - Caravan Fence Option*
+  - *Ask Innkeepers to Show Room*
+  - (VR only) *Simple Realistic Archery*
+  - *No Killmoves - No Killcams - No Killbites*
+  - (VR) *Auto Sneak and Jump*
+  - *True Armor*
 * New city overhauls and textures:
 
-  - _The Great City of Rorikstead_
-  - _2K SMIM Whiterun Bench - Dark Option_
-  - _3D Solitude Market Trellis_
-  - _3D Whiterun Trellis_
-  - _Better Balustrades for Windhelm_
-  - _Markarth - a Mountainous Experience_
-  - _Markarth - a Reflective Experience_
-  - _Markarth Concrete Walkways_
-  - _Mrf's Riften_
-  - _Solitude Dome Paintings_
-  - _Solitude Dome New Meshes_
-  - _Solitude Clover to Ivy Replacer_
-  - _Solitude Grass Textures_
-  - _Visitant's Solitude Rooftops_
-  - _Windhelm Brazier Replacer_
+  - *The Great City of Rorikstead*
+  - *2K SMIM Whiterun Bench - Dark Option*
+  - *3D Solitude Market Trellis*
+  - *3D Whiterun Trellis*
+  - *Better Balustrades for Windhelm*
+  - *Markarth - a Mountainous Experience*
+  - *Markarth - a Reflective Experience*
+  - *Markarth Concrete Walkways*
+  - *Mrf's Riften*
+  - *Solitude Dome Paintings*
+  - *Solitude Dome New Meshes*
+  - *Solitude Clover to Ivy Replacer*
+  - *Solitude Grass Textures*
+  - *Visitant's Solitude Rooftops*
+  - *Windhelm Brazier Replacer*
 * General graphics improvements:
 
-  - _Regal Dragons - SSE Retexture Mod_
-  - _Pretty Animated Potions_
-  - _Cloaks of Skyrim Retextured_
-  - _Real 3D Walls_ alternative normal map
-  - _Mari's Flora_ all-in-one
-  - _Enchantment Effect Replacer_
-  - _Retexture for The Scroll_
-  - _Iconic Statues_
-  - _Undead Summons Emerge From the Ground_
+  - *Regal Dragons - SSE Retexture Mod*
+  - *Pretty Animated Potions*
+  - *Cloaks of Skyrim Retextured*
+  - *Real 3D Walls* alternative normal map
+  - *Mari's Flora* all-in-one
+  - *Enchantment Effect Replacer*
+  - *Retexture for The Scroll*
+  - *Iconic Statues*
+  - *Undead Summons Emerge From the Ground*
 
 Removed Mods:
 
-* _Simple Horse_ (redundant with NFF)
-* _Staydown_ (redundant with NFF)
+* *Simple Horse* (redundant with NFF)
+* *Staydown* (redundant with NFF)
 * WICO patches (unnecessary with Synthesis)
-* _Stunning Statues of Skyrim_ (_Iconic Statues_ better fits Librum's theme)
-* _TB's Improved Rivers_ (mod hidden)
-* _High Poly Project_ (poorly optimized)
-* _Bent Pines_ (unrealistic, so does not fit Librum's tree goals)
-* _OBIS_ (doesn't fit Librum's leveling and magic goals)
-* _Summermyst_ (incompatible with _Enchanting Awakened_, but we may reintroduce later)
-* _Visual Animated Enchants_ (_Enchantment Effect Replacer_ better fits Librum's theme)
-* _Underwhelming Multiple Followers_ (redundant with NFF)
-* _Shezarrine - the Fate of Tamriel - Prologue_ (compatibility concerns)
-* _Eagle's Nest Teleport Spell_ (works against Librum's magic goals)
-* _Diverse Dragons Collection_ (balance and theme issues)
-* _Unique Uniques_ (largely unnecessary with _LotD_, so not worthwhile)
+* *Stunning Statues of Skyrim* (*Iconic Statues* better fits Librum's theme)
+* *TB's Improved Rivers* (mod hidden)
+* *High Poly Project* (poorly optimized)
+* *Bent Pines* (unrealistic, so does not fit Librum's tree goals)
+* *OBIS* (doesn't fit Librum's leveling and magic goals)
+* *Summermyst* (incompatible with *Enchanting Awakened*, but we may reintroduce later)
+* *Visual Animated Enchants* (*Enchantment Effect Replacer* better fits Librum's theme)
+* *Underwhelming Multiple Followers* (redundant with NFF)
+* *Shezarrine - the Fate of Tamriel - Prologue* (compatibility concerns)
+* *Eagle's Nest Teleport Spell* (works against Librum's magic goals)
+* *Diverse Dragons Collection* (balance and theme issues)
+* *Unique Uniques* (largely unnecessary with *LotD*, so not worthwhile)
 * Individual Mari mods (replaced by all-in-one)
-* _JK's Rorikstead_ and _Rorikstead Wagons_ (TGCoR better fits Librum's theme)
-* _Advanced Adversary Encounters_ (SRCEO better fits Librum's leveling goals)
-* _Wildcat_ (_Blade and Blunt_ better fits Librum's new combat system)
-* _Less Dragons_ (replaced with _No Dragons_)
-* _Imperious_ (_Legacy_ better fits Librum's character goals)
-* _Andromeda_ (_Curse of the Firmament_ better fits Librum's character goals)
-* _Sacrosanct_ (_Curse of the Vampire_ better fits Librum's magic goals)
-* _Song of the Green - Auri_ (currently hidden)
+* *JK's Rorikstead* and *Rorikstead Wagons* (TGCoR better fits Librum's theme)
+* *Advanced Adversary Encounters* (SRCEO better fits Librum's leveling goals)
+* *Wildcat* (*Blade and Blunt* better fits Librum's new combat system)
+* *Less Dragons* (replaced with *No Dragons*)
+* *Imperious* (*Legacy* better fits Librum's character goals)
+* *Andromeda* (*Curse of the Firmament* better fits Librum's character goals)
+* *Sacrosanct* (*Curse of the Vampire* better fits Librum's magic goals)
+* *Song of the Green - Auri* (currently hidden)
 
 Bugfixes:
 
@@ -310,7 +311,7 @@ Bugfixes:
 * fixed all known floating or misplaced objects
 * fixed Moonpath combat music
 * fixed AHO starting requirements
-* fixed transparency issue with _Deadly Spell Impacts_
+* fixed transparency issue with *Deadly Spell Impacts*
 * fixed inconsistencies with follower payment
 * fixed most VR crashing
 * fixed Growl MCM
@@ -319,7 +320,7 @@ Bugfixes:
 
 Other:
 
-* fixed _More Informative Console_.
+* fixed *More Informative Console*.
 * fixed player starting spells.
 * fixed RaceMenu overlays.
 * fixed Frostfall MCM.
@@ -328,55 +329,55 @@ Other:
 
 Added Mods:
 
-* _The Gray Cowl of Nocturnal_
-* _Dirt and Blood_ and _HD Retexture_
-* _Wearable Lanterns_
-* _TFoS Trees of Solitude_
+* *The Gray Cowl of Nocturnal*
+* *Dirt and Blood* and *HD Retexture*
+* *Wearable Lanterns*
+* *TFoS Trees of Solitude*
 * Remaining Town Overhauls:
 
-  - _Kato's Riverwood_
-  - _Rorikstead Basalt Cliffs_
-  - _Rorikstead Wagons_
-  - _JK's Rorikstead_
-* _Bosmer NPCs Have Antlers_
-* _Cuyi's Bosmeri Antlers_
-* _Fulcimentum - More Staves and Wands of Skyrim_
+  - *Kato's Riverwood*
+  - *Rorikstead Basalt Cliffs*
+  - *Rorikstead Wagons*
+  - *JK's Rorikstead*
+* *Bosmer NPCs Have Antlers*
+* *Cuyi's Bosmeri Antlers*
+* *Fulcimentum - More Staves and Wands of Skyrim*
 * Combat and Animation changes:
 
-  - _Archery Gameplay Overhaul_
-  - _Athletik Combat_
-  - _STAYDOWN_
-  - _First Person Combat Animations Overhaul_ (SE only)
-  - _First Person Magic Animation_ (SE only)
-  - _More Painful NPC Death Sounds_
-  - _No Spinning Death Animation_
-* _Helps to Have a Map_
-* _Potion Toxicity_
-* _TDG's Legendary Enemies_
-* _Rally's Solstheim Shrines_
-* _Rally's Candlelight and Magelight Fix_
-* _Dawnguard Rewritten Arvak_
-* _Dawnguard Map Markers_
-* _Bird Sound Removed_
-* _True 3D Sound_
-* _Clean Menu Plus_
+  - *Archery Gameplay Overhaul*
+  - *Athletik Combat*
+  - *STAYDOWN*
+  - *First Person Combat Animations Overhaul* (SE only)
+  - *First Person Magic Animation* (SE only)
+  - *More Painful NPC Death Sounds*
+  - *No Spinning Death Animation*
+* *Helps to Have a Map*
+* *Potion Toxicity*
+* *TDG's Legendary Enemies*
+* *Rally's Solstheim Shrines*
+* *Rally's Candlelight and Magelight Fix*
+* *Dawnguard Rewritten Arvak*
+* *Dawnguard Map Markers*
+* *Bird Sound Removed*
+* *True 3D Sound*
+* *Clean Menu Plus*
 
 Updated Mods:
 
-* _Grass FPS Booster_
-* _Serana Dialogue Overhaul_
-* _Civil War Overhaul_
-* _Vigilant Armors and Weapons Retexture_
-* _R.A.S.S._
-* _Cathedral - 3D Mountain Flowers_
-* _Myrkvior_
-* _Dragonborn Speaks Naturally_
-* _Undiscovered Means Unknown_ (SE only)
+* *Grass FPS Booster*
+* *Serana Dialogue Overhaul*
+* *Civil War Overhaul*
+* *Vigilant Armors and Weapons Retexture*
+* *R.A.S.S.*
+* *Cathedral - 3D Mountain Flowers*
+* *Myrkvior*
+* *Dragonborn Speaks Naturally*
+* *Undiscovered Means Unknown* (SE only)
 
 Removed Mods:
 
-* _SkyVoice_
-* _Death Consumes All_
+* *SkyVoice*
+* *Death Consumes All*
 
 Other:
 
@@ -384,7 +385,7 @@ Other:
 * Fixed black face bug.
 * Magic damage fixed.
 * Invisible minotaurs fixed.
-* Made _Dragonborn Speaks Naturally_ optional, but available for both SE and VR.
+* Made *Dragonborn Speaks Naturally* optional, but available for both SE and VR.
 * Onmund dialogue/face fixed.
 * Floating door removed in Whiterun plains.
 
@@ -392,24 +393,24 @@ Other:
 
 Added Mods:
 
-* _The Curator's Companion_ (by popular demand)
-* _Visual Animated Enchants_
-* _Instant Equip VR_
-* _No Edge Glow_
-* _Pick Up Books Simpler_
-* New _Mysticism - Spell Research Patch_
-* _Depths of Skyrim_
-* _CAS Sharpener_ for VR only 
+* *The Curator's Companion* (by popular demand)
+* *Visual Animated Enchants*
+* *Instant Equip VR*
+* *No Edge Glow*
+* *Pick Up Books Simpler*
+* New *Mysticism - Spell Research Patch*
+* *Depths of Skyrim*
+* *CAS Sharpener* for VR only 
 
 Removed Mods:
 
-* Old _Mysticism - Spell Research Patch_
+* Old *Mysticism - Spell Research Patch*
 
 Other:
 
-* Fixed SE issue with _Sleep to Level Up_
+* Fixed SE issue with *Sleep to Level Up*
 * Fixed shiny Argonian skin in non-nude profile
-* Fixed _Realm of Lorkhan_ Unbound bug
+* Fixed *Realm of Lorkhan* Unbound bug
 * Lowered price of lumber
 * Improved LOD files
 * Frostfall/Campfire settings fixed.
@@ -420,12 +421,12 @@ Other:
 
 Added Mods:
 
-* _Smooth Sky Mesh_
+* *Smooth Sky Mesh*
 
 Removed Mods:
 
-* _Improved Atmosphere Mesh_
-* _Improved Cloud Mesh_
+* *Improved Atmosphere Mesh*
+* *Improved Cloud Mesh*
 
 Other:
 
@@ -439,28 +440,28 @@ Added Mods:
 
 * New combat overhaul:
 
-  - _Vigor - Enhanced Combat_
-  - _Flinching_
-  - _Combat Behavior Improved_
-  - _Jumping Behavior Overhaul_
-  - _Locational Damage skse64_
-* _Vigilant Armors and Weapons Retexture_
-* _Custom Music for Moonpath to Elsweyr_
-* _Project NordWarUA - Basic Wolf Armor_
+  - *Vigor - Enhanced Combat*
+  - *Flinching*
+  - *Combat Behavior Improved*
+  - *Jumping Behavior Overhaul*
+  - *Locational Damage skse64*
+* *Vigilant Armors and Weapons Retexture*
+* *Custom Music for Moonpath to Elsweyr*
+* *Project NordWarUA - Basic Wolf Armor*
 * Vanilla quests redone:
 
-  - _Finding Helgi and Laelette_
-  - _Finding Derkeethus_
-  - _Save the Icerunner_
-  - _Chill Out Aela_
-* _Lawbringer_ suite:
+  - *Finding Helgi and Laelette*
+  - *Finding Derkeethus*
+  - *Save the Icerunner*
+  - *Chill Out Aela*
+* *Lawbringer* suite:
 
-  - _Lawbringer_
-  - _Halted Stream Mine_
-  - _Serenity_
-  - _Tactical Valtheim_
-  - _Radiant Exclusions_
-* _Wyrmstooth_
+  - *Lawbringer*
+  - *Halted Stream Mine*
+  - *Serenity*
+  - *Tactical Valtheim*
+  - *Radiant Exclusions*
+* *Wyrmstooth*
 
 Other:
 
@@ -473,11 +474,11 @@ Other:
 
 Added Mods:
 
-* _Cathedral Mountain Fix_
+* *Cathedral Mountain Fix*
 
 Removed Mods:
 
-* _Destructible Skyrim_ (for now)
+* *Destructible Skyrim* (for now)
 
 Other:
 
@@ -493,40 +494,40 @@ Added Mods:
 
 * I got carried away with creature mods:
 
-  - _Hunt of Hircine_ (creatures only edit)
-  - _Mihail's Coral Atronach_
-  - _Mihail's Old Gods of the Hunt_
-  - _Mihail's Bantam Guar_ and _Return of the Bantam_
-  - _Mihail's Corprus Victims_
-  - _Mihail's Soul Trees_
-  - _Mihail's Leshens and Nekkers_
-  - _Mihail's Mudcrab Merchant_
-  - _Mihail's Rotten Maidens_
-  - _Mihail's Flesh Golems_
-  - _Mihail's Cliff Racers_
-  - _Mihail's Golden Saints_ (take that, Creation Club)
-* _Less Dragons_
-* _Dear Diary VR_ Wood and Paper Theme
-* _MoreHUD VR_
-* _IPm - Insane Armory_
-* _Spinning Skyrim Emblem_
-* _More to Say_
-* _Misc Dialogue Edits_
-* _SV Mods Menu_
-* _Apoapse's Watered Down Skyrim Mod_
-* _Underwhelming Multiple Followers_
-* _Increase Actor Limit VR_
-* _Curse of the Undying_
-* _The Honored Dead_
-* _Mihail's Animal Bones_
-* _Unofficial High Definition Audio Project_
-* _Volumetric Mists_
+  - *Hunt of Hircine* (creatures only edit)
+  - *Mihail's Coral Atronach*
+  - *Mihail's Old Gods of the Hunt*
+  - *Mihail's Bantam Guar* and *Return of the Bantam*
+  - *Mihail's Corprus Victims*
+  - *Mihail's Soul Trees*
+  - *Mihail's Leshens and Nekkers*
+  - *Mihail's Mudcrab Merchant*
+  - *Mihail's Rotten Maidens*
+  - *Mihail's Flesh Golems*
+  - *Mihail's Cliff Racers*
+  - *Mihail's Golden Saints* (take that, Creation Club)
+* *Less Dragons*
+* *Dear Diary VR* Wood and Paper Theme
+* *MoreHUD VR*
+* *IPm - Insane Armory*
+* *Spinning Skyrim Emblem*
+* *More to Say*
+* *Misc Dialogue Edits*
+* *SV Mods Menu*
+* *Apoapse's Watered Down Skyrim Mod*
+* *Underwhelming Multiple Followers*
+* *Increase Actor Limit VR*
+* *Curse of the Undying*
+* *The Honored Dead*
+* *Mihail's Animal Bones*
+* *Unofficial High Definition Audio Project*
+* *Volumetric Mists*
 
 Removed Mods:
 
-* _Savage Skyrim_ ESP file
-* _iHarvest_
-* _Cliff Racers on Solstheim_
+* *Savage Skyrim* ESP file
+* *iHarvest*
+* *Cliff Racers on Solstheim*
 
 Other:
 
@@ -540,77 +541,77 @@ Added Mods:
 
 * New grass setup:
 
-  - _Northern Grass_
-  - _Northern Cathedral Grass_
-  - _Grass FPS Booster_ (mostly for its graphical style)
-* _Magical Blackreach_
+  - *Northern Grass*
+  - *Northern Cathedral Grass*
+  - *Grass FPS Booster* (mostly for its graphical style)
+* *Magical Blackreach*
 * New creatures:
 
-  - _Apoapse's Invisible Lake Dragons_ (Nexus release coming soon)
-  - Mihail's _Dwarven Colossus_
-  - Mihail's _Dwarven Driller_
-  - Mihail's _Dwarven Sentinels_
-  - Mihail's _Iron Golem_
-  - Mihail's _Storm Golem_
-  - Mihail's _Verminous Fabricants_
-  - Mihail's _Wraiths_
-  - _Forgotten Spawns_ for Forgotten Dungeons
-* _Forgotten Dungeons - ELE Patch_
-* _Simply Stronger Dragons_
-* _Designs of the Nords_ (rip _Sigils of Skyrim_)
-* _Insignificant Object Remover_
-* _Wet and Cold Breath Texture for ENB_
-* _Wonders of Weather - Less Opaque Rain Splashes_
-* _Alduin Retexture Mashup_
-* _Ducks and Swans_
-* _Dear Diary UI_
-* _Unofficial Performance Optimized Textures_
-* _The Northerner Diaries_
-* _Canopies of Skyrim_
+  - *Apoapse's Invisible Lake Dragons* (Nexus release coming soon)
+  - Mihail's *Dwarven Colossus*
+  - Mihail's *Dwarven Driller*
+  - Mihail's *Dwarven Sentinels*
+  - Mihail's *Iron Golem*
+  - Mihail's *Storm Golem*
+  - Mihail's *Verminous Fabricants*
+  - Mihail's *Wraiths*
+  - *Forgotten Spawns* for Forgotten Dungeons
+* *Forgotten Dungeons - ELE Patch*
+* *Simply Stronger Dragons*
+* *Designs of the Nords* (rip *Sigils of Skyrim*)
+* *Insignificant Object Remover*
+* *Wet and Cold Breath Texture for ENB*
+* *Wonders of Weather - Less Opaque Rain Splashes*
+* *Alduin Retexture Mashup*
+* *Ducks and Swans*
+* *Dear Diary UI*
+* *Unofficial Performance Optimized Textures*
+* *The Northerner Diaries*
+* *Canopies of Skyrim*
 
 Removed Mods:
 
-* _3D Cathedral Pine Grass_
-* _VR FPS Stabilizer_
-* _Birds of Skyrim_
-* _Heljarchen Farm_
-* _ElSopa HD Texture Pack_
-* _The Eyes of Beauty_ (has glowing eye problem -- looking into it now)
-* _Shadow Spell Package_
+* *3D Cathedral Pine Grass*
+* *VR FPS Stabilizer*
+* *Birds of Skyrim*
+* *Heljarchen Farm*
+* *ElSopa HD Texture Pack*
+* *The Eyes of Beauty* (has glowing eye problem -- looking into it now)
+* *Shadow Spell Package*
 
 Other:
 
 * Totally redid LOD. Should be more consistent, performance-friendly, and higher quality.
-* Finally _actually_ fixed dragons.
+* Finally *actually* fixed dragons.
 * Lots of performance tweaks, but without noticeable visual drop.
 
 **v1.20.**
 
 Added Mods:
 
-* New _Auriel's Dream ENB Preset_. I'm working with Kvitekvist to customize it to Librum.
+* New *Auriel's Dream ENB Preset*. I'm working with Kvitekvist to customize it to Librum.
 * New weapon and armor graphics:
 
-  - _Project NordwarUA_. I'm working with the author to expand that mod.
-  - _Unique Uniques_.
-  - _Eldruin Dawnbreaker_.
-  - _Remiros' Hrothmund's Axe_.
-  - _New Legion_, by NordwarUA.
-  - _Guard Armor Replacer_, by NordwarUA.
-  - _Unplayable Faction Armor_, by NordwarUA.
-* _Bigger Argonian Tails_ and _Horns are Forever_.
-* (optional) _Nords Speak Deutsch_, _Frenchsworn_, _Italian for Tullius_, and _Kitties Speak Spanish_. These are standalone, so take these only if (a) you speak the aforementioned language or (b) you're fine with subtitles.
+  - *Project NordwarUA*. I'm working with the author to expand that mod.
+  - *Unique Uniques*.
+  - *Eldruin Dawnbreaker*.
+  - *Remiros' Hrothmund's Axe*.
+  - *New Legion*, by NordwarUA.
+  - *Guard Armor Replacer*, by NordwarUA.
+  - *Unplayable Faction Armor*, by NordwarUA.
+* *Bigger Argonian Tails* and *Horns are Forever*.
+* (optional) *Nords Speak Deutsch*, *Frenchsworn*, *Italian for Tullius*, and *Kitties Speak Spanish*. These are standalone, so take these only if (a) you speak the aforementioned language or (b) you're fine with subtitles.
 * Mari's suite of flora mods.
-* _3D Snowberries_.
-* _Cathedral 3D Pine Grass_ and _Cathedral 3D Mountain Flowers_.
-* _Food Resized_, by Kvitekvist.
-* _JS Purses and Septims_.
-* _High Poly Blackreach Mushrooms_.
-* _Salmon Roe Replacer_.
-* _Real Hay 4K_.
-* _TK Children_.
-* _Realistic Husky Sounds_.
-* _ElSopa Texture Pack_.
+* *3D Snowberries*.
+* *Cathedral 3D Pine Grass* and *Cathedral 3D Mountain Flowers*.
+* *Food Resized*, by Kvitekvist.
+* *JS Purses and Septims*.
+* *High Poly Blackreach Mushrooms*.
+* *Salmon Roe Replacer*.
+* *Real Hay 4K*.
+* *TK Children*.
+* *Realistic Husky Sounds*.
+* *ElSopa Texture Pack*.
 
 Other:
 
@@ -622,7 +623,7 @@ Other:
 * Navmesh issues resolved.
 * Open Cities issues resolved.
 * Several mods updated:
- _Vigilant_, _Rally's Five Cities Currency_, _Be Seated_, _Weapon Throw VR_.
+ *Vigilant*, *Rally's Five Cities Currency*, *Be Seated*, *Weapon Throw VR*.
 * Several smaller bugfixes.
 * Slightly more time afforded to Papyrus scripts per frame.
 
@@ -636,52 +637,52 @@ Updating:
 Added Mods:
 
 * Custom-to-Librum ENB preset, courtesy of Kvitekvist.
-* _Less is More_ texture fix, also courtesy of Kvitekvist.
+* *Less is More* texture fix, also courtesy of Kvitekvist.
 * New beast race overhaul, including optional Morrowind-like feet:
 
-  - _Grimoa's Plantigrade Feet for Beast Races_.
-  - _Barefoot Beasts_. I modified this plugin extensively.
-  - _True Digitigrade Beast Races_.
-  - _Feminine Khajiit Textures_ (grey cat option).
-  - _Slightly Less Shiny Argonians_ (no shine option, modified to work with plantigrade feet).
-* _Tempered Skins for Males_ and _Tempered Skins for Females_.
+  - *Grimoa's Plantigrade Feet for Beast Races*.
+  - *Barefoot Beasts*. I modified this plugin extensively.
+  - *True Digitigrade Beast Races*.
+  - *Feminine Khajiit Textures* (grey cat option).
+  - *Slightly Less Shiny Argonians* (no shine option, modified to work with plantigrade feet).
+* *Tempered Skins for Males* and *Tempered Skins for Females*.
 * New region-specific creatures and encounters:
 
-  - _Bogmort - Mud Monsters of Morthal Swamp_.
-  - _The Falkreath Hauntings_.
-  - _Wendigos and Howlers_.
-  - _The Blood Horker_.
-  - _Unicorn - The Steed of Hircine_.
-  - _Diverse Werewolf Collection_.
-  - _Grahl - The Ice Troll_.
-* _Karstaag - The Frost King Reborn_.
-* _Durnehviir - God of Death_.
-* _HD Serpentine Dragon and Mesh Fix_.
-* _TB's Improved Rivers_.
-* _Salt and Wind - KS Hardo's Retexture_. Only used for Vigilant NPCs.
-* _Wonders of Weather_.
-* _Dragon Souls to Perk Points_. Replaces corresponding feature from _Souls Do Things_.
+  - *Bogmort - Mud Monsters of Morthal Swamp*.
+  - *The Falkreath Hauntings*.
+  - *Wendigos and Howlers*.
+  - *The Blood Horker*.
+  - *Unicorn - The Steed of Hircine*.
+  - *Diverse Werewolf Collection*.
+  - *Grahl - The Ice Troll*.
+* *Karstaag - The Frost King Reborn*.
+* *Durnehviir - God of Death*.
+* *HD Serpentine Dragon and Mesh Fix*.
+* *TB's Improved Rivers*.
+* *Salt and Wind - KS Hardo's Retexture*. Only used for Vigilant NPCs.
+* *Wonders of Weather*.
+* *Dragon Souls to Perk Points*. Replaces corresponding feature from *Souls Do Things*.
 
 Other:
 
-* _Forgotten Argonian Textures'_ male textures removed.
-* _WICO_ properly patched.
+* *Forgotten Argonian Textures'* male textures removed.
+* *WICO* properly patched.
 * Dragon leveled lists fixed.
 
 **v1.03.**
 
 Added Mods:
 
-* _Helgen Reborn_, now that it's compatible with _Realm of Lorkhan_.
-* _Better College Application_.
+* *Helgen Reborn*, now that it's compatible with *Realm of Lorkhan*.
+* *Better College Application*.
 
 Other:
 
-* Fixed _SunHelm_ water issue.
-* Fixed _Sleep to Level Up_ issue.
+* Fixed *SunHelm* water issue.
+* Fixed *Sleep to Level Up* issue.
 * Attempted to fix issue where attack knockback was too high.
 * Removed spell tomes from second Forgotten Spells Redone vendor.
-* Pre-applied MCM settings for _Bounty Gold_ and _Clockwork_.
+* Pre-applied MCM settings for *Bounty Gold* and *Clockwork*.
 
 Updating:
 
@@ -691,12 +692,12 @@ Updating:
 
 Added Mods:
 
-* _SunHelm_ needs instead of _iNeed_, to fix a known issue with crashing-while-saving.
-* _Undiscovered Means Unknown_.
+* *SunHelm* needs instead of *iNeed*, to fix a known issue with crashing-while-saving.
+* *Undiscovered Means Unknown*.
 
 Removed Mods:
 
-* _iNeed_ and extensions.
+* *iNeed* and extensions.
 * Health/Magicka/Stamina bar patch.
 
 Other:
@@ -711,45 +712,45 @@ Added Mods:
 
 * New graphics:
 
-  - _Believable Weapons_ (not all meshes used).
-  - _Myrkvior_ trees.
-  - _Cathedral_ landscapes and plants.
-  - _Fluffy Snow_ kept on top of Cathedral.
-  - _Night Sky by SGS_, as a darker night sky option.
+  - *Believable Weapons* (not all meshes used).
+  - *Myrkvior* trees.
+  - *Cathedral* landscapes and plants.
+  - *Fluffy Snow* kept on top of Cathedral.
+  - *Night Sky by SGS*, as a darker night sky option.
 * HIGGS VR (every modlist has just added this, I know).
- -_Azura Shrine Temple_ and _Elizabeth's Tower - Azura Shrine_. The latter was modified.
+ -*Azura Shrine Temple* and *Elizabeth's Tower - Azura Shrine*. The latter was modified.
 
 Removed Mods:
 
-* Landscape textures, _3D Trees and Plants_, etc.
+* Landscape textures, *3D Trees and Plants*, etc.
 
 Other:
 
 * Tons of updates.
-  - _Pretty Combat Animations_ and _PCA 1hm Animations Overhaul_.
-  - _Magic Casting Animations Overhaul SSE_.
-  - _360 Walk and Run Plus_.
-  - _Expressive Facial Animation_.
+  - *Pretty Combat Animations* and *PCA 1hm Animations Overhaul*.
+  - *Magic Casting Animations Overhaul SSE*.
+  - *360 Walk and Run Plus*.
+  - *Expressive Facial Animation*.
 * New graphics:
 
-  - _Forgotten Argonian Roots_.
-  - _CoverKhajiits_ and _Better Males_-compatible meshes.
-  - _ENB Brow Fix_.
-  - _Eye Normal Map Fix_.
-  - _Real Bows_.
-  - _Better-Shaped Bows of the Heavens_.
-  - (optional) _Magic Cards Font_.
-* New patches for _Great Cities_ series of mods.
+  - *Forgotten Argonian Roots*.
+  - *CoverKhajiits* and *Better Males*-compatible meshes.
+  - *ENB Brow Fix*.
+  - *Eye Normal Map Fix*.
+  - *Real Bows*.
+  - *Better-Shaped Bows of the Heavens*.
+  - (optional) *Magic Cards Font*.
+* New patches for *Great Cities* series of mods.
 
 Other:
 
-* Fixed problem with _No Perks on Level Up_ module.
-* Added _New Voice Commands_ module.
+* Fixed problem with *No Perks on Level Up* module.
+* Added *New Voice Commands* module.
 * Added location levels on location names and map icons (e.g., "Bleak Falls Barrow" -> "Bleak Falls Barrow (8-14)")
-* Fixed _Forgotten Dungeons_ map names.
+* Fixed *Forgotten Dungeons* map names.
 * Reorganized and rebuilt several merges.
 * Fixed crashes related to Bound Weapons.
-* Activated _Shezarrine_ and _Death Consumes All_ as optional plugins.
+* Activated *Shezarrine* and *Death Consumes All* as optional plugins.
 * Fixed ENB version -- should fix "white hair" bug.
 
 Updating:
@@ -766,64 +767,64 @@ Updating:
 
 Added Mods:
 
-* _Realistic Ragdolls and Force_, and its _Higher Player Fall Damage_ addon.
-* _Genesis_ enemy spawner.
-* _Display Enemy Level_.
-* Several graphics mods; among them, _Better Males_, _the Eyes of Beauty_,
- Rally's suite of mods, _Better Dwemer Exteriors_, _3D Stonewalls_, _3D High
- Hrothgar Steps_, etc.
-* _Point the Way_.
-* _Lock Overhaul_.
-* _COTN Morthal - Notice Board Patch_.
-* _Simple Horse_.
+* *Realistic Ragdolls and Force*, and its *Higher Player Fall Damage* addon.
+* *Genesis* enemy spawner.
+* *Display Enemy Level*.
+* Several graphics mods; among them, *Better Males*, *the Eyes of Beauty*,
+ Rally's suite of mods, *Better Dwemer Exteriors*, *3D Stonewalls*, *3D High
+ Hrothgar Steps*, etc.
+* *Point the Way*.
+* *Lock Overhaul*.
+* *COTN Morthal - Notice Board Patch*.
+* *Simple Horse*.
 
 Removed Mods:
 
 * Other graphics mods:
- _SkySight Skins_, etc.
-* _Essential Lockpicking and Immersive Thievery_, for compatibility.
+ *SkySight Skins*, etc.
+* *Essential Lockpicking and Immersive Thievery*, for compatibility.
 
 Other:
 
-* _Dynamic Immersive Seriously Dark Dungeons_ added in v0.8 and removed in
+* *Dynamic Immersive Seriously Dark Dungeons* added in v0.8 and removed in
  v0.8-1, for compatibility.
-* _Realistic AI Detection_ settings changed.
+* *Realistic AI Detection* settings changed.
 
 **v0.7-beta.**
 
 Added Mods:
 
-* _VRIK_, _Be Seated_, and _Simple Realistic Archery_.
-* _MystiriousDawn's HD Skyrim Overhaul_, landscape textures only.
-* _AI Overhaul_.
-* _SkyVRaan_ water effects.
-* _Know Your Enemy_, along with _Know Your Elements_ and _Light and Shadow_
+* *VRIK*, *Be Seated*, and *Simple Realistic Archery*.
+* *MystiriousDawn's HD Skyrim Overhaul*, landscape textures only.
+* *AI Overhaul*.
+* *SkyVRaan* water effects.
+* *Know Your Enemy*, along with *Know Your Elements* and *Light and Shadow*
  addons.
-* _Immersive Patrols Simplified_.
-* _Essential Lockpicking and Immersive Thievery_.
+* *Immersive Patrols Simplified*.
+* *Essential Lockpicking and Immersive Thievery*.
 
 Removed Mods:
 
-* _3D Groundcover_\ 's landscape textures.
-* _Immersive Citizens - AI Overhaul_.
-* _OBIS Patrols Addon_.
-* _MageVR_ holsters only.
+* *3D Groundcover*\ 's landscape textures.
+* *Immersive Citizens - AI Overhaul*.
+* *OBIS Patrols Addon*.
+* *MageVR* holsters only.
 
 Fixes:
 
-* Fixed _Locational Damage_.
-* Balanced _Enhanced Reflexes_ bullet-time mode.
+* Fixed *Locational Damage*.
+* Balanced *Enhanced Reflexes* bullet-time mode.
 
 **v0.6-beta.**
 
 Added Mods:
 
-* _Open Cities_ and patches.
-* _Locational Damage_.
-* (Optional) _Toggleable Slow Time Power_. Acts more like bullet time than
+* *Open Cities* and patches.
+* *Locational Damage*.
+* (Optional) *Toggleable Slow Time Power*. Acts more like bullet time than
  vanilla slow time effects, and drains stamina.
-* _Magistrate Levitate_
-* _iHarvest_
+* *Magistrate Levitate*
+* *iHarvest*
 
 Updated Mods:
 
