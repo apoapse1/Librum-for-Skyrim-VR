@@ -190,18 +190,13 @@ And wish to use the same save, we recommend that you open the **Traits for Skyri
 
 **Base MCM Configuration for SE & VR**
 
-
-#. **AGO** Disable "Arrow Wounds (Player)", "Arrow Wounds (NPC)", "Persistent Arrows" and *Optionally* "Arm Fatigue".
-#. **Cobb Encumbrance.** In the *Presets* tab, apply the preset "Classic (SEM)".
 #. **Follower Framework.** Under *System*\ , hit "Load from File". *Note:* Capslock is set to "Followers Attack" and Y is set to "Command Followers".
-#. **Frostfall.** Enable it. Close the entire System Menu and wait for it to activate fully before moving on. Once it gives you the "fully loaded" message, re-open the MCM and ensure that it's set to "On Exposure: Death"
-#. **Hunterborn**. Start the mod, close the MCM and once it has finished starting up reopen it head to *Profile* and select "Load Profile", and also disable the Hunterborn config power in the *Enable* tab.
+#. **Frostfall.** Enable it. Close the entire System Menu and wait for it to activate fully before moving on. 
+#. **Hunterborn**. Start the mod, close the MCM and once it has finished starting up reopen it head to *Profile* and select "Load Profile".
 #. **Lock Overhaul.** Activate the mod.
-#. **PSDI Menu.** Confirm the mod is Activated. *Optional:* Set up a Hotkey to easily activate and deactivate the mod.
 #. **SoT Sleeping Encounters.** Uncheck "Allow Drowsy Effect".
-#. **Spell Research.** Import spells. It takes a bit to import everything, several pop ups will appear, hit Yes for all.
-#. **SunHelm.** Activate the mod. Close the entire System Menu and wait for it to activate fully before moving on. *Note:* Cannibalism is enabled by default.
-#. **Tentapalooza.** Change all settings to "Rain and Snow".
+#. **Spell Research.** Import spells. It takes a bit to import everything, but you will get a popup once it's all done.
+#. **SunHelm.** Activate the mod. Close the entire System Menu and wait for it to activate fully before moving on.
 #. **Trade & Barter.** Under *Barter Rates*\ , set "Barter Presets" -> "Hardcore".
 #. **True Armor.** Scroll all the way down to *Save & Load* and select Load Balanced Settings (it's on the right side).
 #. **Vigor.** Start the mod.
