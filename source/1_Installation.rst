@@ -16,6 +16,7 @@ Librum makes use of the excellent `Wabbajack <https://www.wabbajack.org/#/>`_ pr
 
 
 #. Clean your Skyrim folder and disable the Steam overlay.
+#. Load Skyrim, let it set your graphics, open it to main menu, then close it.
 #. Install the Wabbajack desktop client from `here <https://github.com/wabbajack-tools/wabbajack/releases>`_.
 #. Navigate to Librum under the *Browse for Modlists* tab.
 #. Install Librum to a new folder outside of ``Program Files`` using Wabbajack.
