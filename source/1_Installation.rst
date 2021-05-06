@@ -178,7 +178,7 @@ Configure the MCM
 
 Once you have created your character, wait until all the messages in the top left of the screen stop appearing and click Yes/OK to all message pop-ups that appear, and then open up the in-game settings and navigate to the *Mod Configuration Menu* (MCM). You will need to make several changes here to adhere to the suggested Librum setup. Unfortunately, very few of the mods used in Librum support FISS, so you will need to do this each time you create a new character. 
 
-**If you are playing Librum with Skyrim VR, don't forget to follow the `VR Configuration <#VR-configuration>` section!**
+**If you are playing Librum with Skyrim VR, don't forget to follow the `VR Configuration <#VR-configuration>`_\_ section!**
 
 **If you don't want Survival Features:** 
 You still need to active **Frostfall** and **SunHelm**\ , just deactivate them again after they've finished starting up. This is to avoid script bloat and is very important.
