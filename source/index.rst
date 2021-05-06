@@ -22,3 +22,4 @@ You are being redirected to the Librum home page.
    2_FAQ
    features/index
    survival/index
+   5_Changelog

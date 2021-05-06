@@ -8,7 +8,7 @@ Support and Community
 	Unfortunately, since so many mods are English-only, Librum itself can't be offered in other languages. However, I can offer support auf Deutsch, en français, en español, или по-русски.
 
 **I have a suggestion!**
-	If you believe your suggestion would be a good fit for Librum, and you don't see it on our `Trello <https://trello.com/b/dYUOOuIv/librum-modpack>` or in our #suggestions channel in our `Discord <https://discord.com/invite/BnUHUswABG>`, please fill out this Google Form: https://forms.gle/4nBCPopDgrh1HpxX9.
+	If you believe your suggestion would be a good fit for Librum, and you don't see it on our `Trello <https://trello.com/b/dYUOOuIv/librum-modpack>`_ or in our #suggestions channel in our `Discord <https://discord.com/invite/BnUHUswABG>`_\ , please fill out this Google Form: https://forms.gle/4nBCPopDgrh1HpxX9.
  
 **I found a bug!**
 	If you're certain it's a bug, and you can reproduce it, please fill out this Google Form: https://forms.gle/kFw7c3kHHoULue4k7.
