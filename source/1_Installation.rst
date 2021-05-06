@@ -64,7 +64,7 @@ Downloading and Installing
 The download and installation process can take a very long time, depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
 #. (Option 1) Open Wabbajack, browse for the modlist in the Wabbajack client, and click to download it.
-#. (Option 2) Download the Librum SE or VR file from the main page on `our website <https://librum-modpack.com>`\ , and open it up in the "Install From Disk" option in the Wabbajack client. Do not place the .wabbajack file in the folder you want to install Librum to.
+#. (Option 2) Download the Librum SE or VR file from the main page on `our website <https://librum-modpack.com>` , and open it up in the "Install From Disk" option in the Wabbajack client. Do not place the .wabbajack file in the folder you want to install Librum to.
 #. Once the download is complete, set the installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, or Desktop. Put it somewhere easy like ``C:/Modlists/Librum``\ ). The downloads path should automatically fill in the installation path, but this can be changed if needed. 
 #. Click the Go/Begin button.
 #. Wait for Wabbajack to finish.
@@ -149,7 +149,7 @@ The UI and UX of your game is a very personal and subjective choice, so we've in
 * 
   **Librum ENB Selector** (Defaults to Ominous ENB) Right-clicking and selecting Reinstall Mod on the Librum ENB Selector will allow you to choose between several included ENB options with various quality presets. If playing Skyrim VR, we’ve also included some reshade options for better sharpening.
 
-**Please note that if you have your Wabbajack Downloads folder outside of the ``<Librum Install>/downloads`` path, you will need to go to your downloads folder, copy the Librum ENB Selector and Librum UI Customizer .7z files to your ``<Librum Install>/downloads`` folder before you can Reinstall them in MO2 and use the FOMOD.**
+**Please note that if you have your Wabbajack Downloads folder outside of the** ``<Librum Install>/downloads`` **path, you will need to go to your downloads folder, copy the Librum ENB Selector and Librum UI Customizer .7z files to your** ``<Librum Install>/downloads`` **folder before you can Reinstall them in MO2 and use the FOMOD.**
 
 
 * 
