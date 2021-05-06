@@ -7,7 +7,8 @@ Changelog
 | **v2.2.0 - Gold, Silver, and Steel.**
 | Added Mods:
 
- * New assets from *Simply Realistic Armor*:
+* New assets from *Simply Realistic Armor*:
+
   - Alternative Steel Armor
   - Dragonscale/Dragonbone Armor
   - Glass Armor
@@ -18,11 +19,13 @@ Changelog
 * *Arbor Philosophorum*
 * *BodySlide* and UNP assets
 * Alduin remaster:
+
   - *Deiform Alduin* and ENB Light addon
   - Optional custom remaster of *Aurbic Alduin*
   - *Children of the Sky*
 * *Animated Armoury* and necessary patches
 * Economy Overhaul:
+
   - *Coins of Tamriel*
   - *Exchange Currency*
   - *Medes in Your Pockets*
@@ -32,11 +35,13 @@ Changelog
 * *Spell Research - Patch Grimoire*
 * *Respawn - Death Overhaul* (massively redone for Librum)
 * Optional no-HUD setup for VR:
+
   - *Better Resource Warnings*
   - *Hidden Location Info and More*
   - *No Map Menu* (redone for Librum)
 * *Loot and Degradation*
 * Script Patches:
+
   - *To Your Face*
   - *I'm Walkin' Here*
   - *Bard Instrumentals Mostly - Sing Rarely*
