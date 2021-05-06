@@ -17,8 +17,7 @@ Librum makes use of the excellent `Wabbajack <https://www.wabbajack.org/#/>`_ pr
 
 #. Clean your Skyrim folder and disable the Steam overlay.
 #. Install the Wabbajack desktop client from `here <https://github.com/wabbajack-tools/wabbajack/releases>`_.
-#. (VR) Navigate to Librum under the *Browse for Modlists* tab.
-#. (SE) Download the Librum_SE.wabbajack file from the "Releases" tab on this GitHub.
+#. Navigate to Librum under the *Browse for Modlists* tab.
 #. Install Librum to a new folder outside of ``Program Files`` using Wabbajack.
 #. Copy the ``Game Folder Files`` folder to your Skyrim VR or SE directory.
 #. Start a new game, and wait until mod installation notes finish appearing in the top left.
