@@ -6,6 +6,8 @@ Changelog
 
 * *Dynamic Things Alternative* (SE only)
 * *Project AHO Bug Fix - Start Questline at Level 15*
+* *Paper UI Sounds* (optional)
+* *Scrambled Bugs* (SE only)
 
 Fixes:
 
