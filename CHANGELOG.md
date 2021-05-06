@@ -1,3 +1,5 @@
+# **The documentation for Librum's Changelog has moved. Please head [here](https://librum-for-skyrim-vr.readthedocs.io/en/latest/5_Changelog.html#) for all future Changelog updates. Thank you!**
+
 ***Note:*** Librum versions are of the form _x.y-z_. In this notation, changes to the _x_ or _y_ denote significant updates, and you will need to read the update notes to see how to patch your savefile. Changes to the _z_ denote small hotfixes, and will never require a patched save.
 
 ***v2.2.0 - Gold, Silver, and Steel.***
