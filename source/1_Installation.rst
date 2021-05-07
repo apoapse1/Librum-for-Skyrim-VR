@@ -194,6 +194,7 @@ And wish to use the same save, we recommend that you open the **Traits for Skyri
 #. **Frostfall.** Enable it. Close the entire System Menu and wait for it to activate fully before moving on. 
 #. **Hunterborn**. Start the mod, close the MCM and once it has finished starting up reopen it head to *Profile* and select "Load Profile".
 #. **Lock Overhaul.** Activate the mod.
+#. **PSDI Menu.** Make sure the mod is Active. *Optional:* Set a Hotkey.
 #. **SoT Sleeping Encounters.** Uncheck "Allow Drowsy Effect".
 #. **Spell Research.** Import spells. It takes a bit to import everything, but you will get a popup once it's all done.
 #. **SunHelm.** Activate the mod. Close the entire System Menu and wait for it to activate fully before moving on.
