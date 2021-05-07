@@ -151,6 +151,8 @@ The UI and UX of your game is a very personal and subjective choice, so we've in
 
 **Please note that if you have your Wabbajack Downloads folder outside of the** ``<Librum Install>/downloads`` **path, you will need to go to your downloads folder, copy the Librum ENB Selector and Librum UI Customizer .7z files to your** ``<Librum Install>/downloads`` **folder before you can Reinstall them in MO2 and use the FOMOD.**
 
+**Alternatively, you can change the Librum Mod Organizer 2 Downloads directory by clicking the "Configure settings and workarounds" button in Mod Organizer 2 (it looks like a screw and wrench crossed over eachother) and changing the Downloads directory to whatever you selected when installing Librum in Wabbajack.**
+
 
 * 
   **Undiscovered Means Unknown** *('GPS' disabled by default)* Right-clicking and selecting *Reinstall Mod* for Undiscovered Means Unknown in MO2 will allow you to restore the 'GPS' functionality that shows the player on your map. 
