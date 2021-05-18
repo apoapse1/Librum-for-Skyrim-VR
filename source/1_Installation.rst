@@ -1,6 +1,16 @@
 Installation
-----------------------
+============
+Video Tutorial
+--------------
 
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/ZcN0fZG4_hI" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+	
+Text Guide
+----------
 Librum is relatively lightweight, with most of the graphical draw coming from the ENB you select. Your mileage will certainly vary -- I can only provide my own specs, but I imagine you will find good performance on a weaker system.
 
 **Space Requirements.** Librum requires 38 GB of space for its downloads, and 70 GB of space for the installation. In total, you will need 118 GB free on your computer.
