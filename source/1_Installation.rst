@@ -26,9 +26,9 @@ Librum makes use of the excellent `Wabbajack <https://www.wabbajack.org/#/>`_ pr
 
 
 #. Clean your Skyrim folder and disable the Steam overlay.
+#. Load Skyrim, let it set your graphics, open it to main menu, then close it.
 #. Install the Wabbajack desktop client from `here <https://github.com/wabbajack-tools/wabbajack/releases>`_.
-#. (VR) Navigate to Librum under the *Browse for Modlists* tab.
-#. (SE) Download the Librum_SE.wabbajack file from the "Releases" tab on this GitHub.
+#. Navigate to Librum under the *Browse for Modlists* tab.
 #. Install Librum to a new folder outside of ``Program Files`` using Wabbajack.
 #. Copy the ``Game Folder Files`` folder to your Skyrim VR or SE directory.
 #. Start a new game, and wait until mod installation notes finish appearing in the top left.
@@ -74,7 +74,7 @@ Downloading and Installing
 The download and installation process can take a very long time, depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
 #. (Option 1) Open Wabbajack, browse for the modlist in the Wabbajack client, and click to download it.
-#. (Option 2) Download the Librum SE or VR file from the main page on `our website <https://librum-modpack.com>`\ , and open it up in the "Install From Disk" option in the Wabbajack client. Do not place the .wabbajack file in the folder you want to install Librum to.
+#. (Option 2) Download the Librum SE or VR file from the main page on `our website <https://librum-modpack.com>` , and open it up in the "Install From Disk" option in the Wabbajack client. Do not place the .wabbajack file in the folder you want to install Librum to.
 #. Once the download is complete, set the installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, or Desktop. Put it somewhere easy like ``C:/Modlists/Librum``\ ). The downloads path should automatically fill in the installation path, but this can be changed if needed. 
 #. Click the Go/Begin button.
 #. Wait for Wabbajack to finish.
@@ -159,7 +159,9 @@ The UI and UX of your game is a very personal and subjective choice, so we've in
 * 
   **Librum ENB Selector** (Defaults to Ominous ENB) Right-clicking and selecting Reinstall Mod on the Librum ENB Selector will allow you to choose between several included ENB options with various quality presets. If playing Skyrim VR, we’ve also included some reshade options for better sharpening.
 
-**Please note that if you have your Wabbajack Downloads folder outside of the ``<Librum Install>/downloads`` path, you will need to go to your downloads folder, copy the Librum ENB Selector and Librum UI Customizer .7z files to your ``<Librum Install>/downloads`` folder before you can Reinstall them in MO2 and use the FOMOD.**
+**Please note that if you have your Wabbajack Downloads folder outside of the** ``<Librum Install>/downloads`` **path, you will need to go to your downloads folder, copy the Librum ENB Selector and Librum UI Customizer .7z files to your** ``<Librum Install>/downloads`` **folder before you can Reinstall them in MO2 and use the FOMOD.**
+
+**Alternatively, you can change the Librum Mod Organizer 2 Downloads directory by clicking the "Configure settings and workarounds" button in Mod Organizer 2 (it looks like a screw and wrench crossed over eachother) and changing the Downloads directory to whatever you selected when installing Librum in Wabbajack.**
 
 
 * 
@@ -188,9 +190,9 @@ Configure the MCM
 
 Once you have created your character, wait until all the messages in the top left of the screen stop appearing and click Yes/OK to all message pop-ups that appear, and then open up the in-game settings and navigate to the *Mod Configuration Menu* (MCM). You will need to make several changes here to adhere to the suggested Librum setup. Unfortunately, very few of the mods used in Librum support FISS, so you will need to do this each time you create a new character. 
 
-**If you are playing Librum with Skyrim VR, don't forget to follow the `VR Configuration <#VR-configuration>`_ section!**
+**If you are playing Librum with Skyrim VR, don't forget to follow the** `VR Configuration <#VR-configuration>`_ **section!**
 
-**f you don't want Survival Features:** 
+**If you don't want Survival Features:** 
 You still need to active **Frostfall** and **SunHelm**\ , just deactivate them again after they've finished starting up. This is to avoid script bloat and is very important.
 
 **If you are updating from Librum 2.0:** 
@@ -202,6 +204,7 @@ And wish to use the same save, we recommend that you open the **Traits for Skyri
 #. **Frostfall.** Enable it. Close the entire System Menu and wait for it to activate fully before moving on. 
 #. **Hunterborn**. Start the mod, close the MCM and once it has finished starting up reopen it head to *Profile* and select "Load Profile".
 #. **Lock Overhaul.** Activate the mod.
+#. **PSDI Menu.** Make sure the mod is Active. *Optional:* Set a Hotkey.
 #. **SoT Sleeping Encounters.** Uncheck "Allow Drowsy Effect".
 #. **Spell Research.** Import spells. It takes a bit to import everything, but you will get a popup once it's all done.
 #. **SunHelm.** Activate the mod. Close the entire System Menu and wait for it to activate fully before moving on.

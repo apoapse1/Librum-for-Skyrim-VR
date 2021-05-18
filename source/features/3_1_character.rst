@@ -25,7 +25,7 @@ Librum makes several major changes to character progression, described by the fo
    * - Perk points are gained when you level up.
      - You do not gain perk points through leveling. Using `Souls Do Things 2 <https://www.nexusmods.com/skyrimspecialedition/mods/33518>`_\ , you will have a power to convert one dragon soul to one perk point. Leveling will continue to grant you 10 Health, Magicka, or Stamina.
    * - Dragon souls are exclusively used to unlock dragon shouts.
-     - Dragon souls have three purposes. They can be used to unlock shouts, they can be used to unlock perk points (as mentioned above), and finally, you will have passive buffs applied depending on the number of unspent souls in your collection.
+     - Dragon souls have two purposes. They can be used to unlock perk points (as mentioned above), and you will have passive buffs applied depending on the number of unspent souls in your collection.
    * - You can level up at any time by opening the Skills menu.
      - You must sleep for 8 hours in order to level up, in order to prevent level-ups in dangerous locations.
    * - Perks are typically straight buffs to your existing skills, and form the core part of your character's identity.
