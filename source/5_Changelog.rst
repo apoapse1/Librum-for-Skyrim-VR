@@ -96,6 +96,7 @@ Removed Mods:
 * *Curse of the Vampire* (replaced with *Predators*)
 
 Fixes:
+
 * Several spells nerfed and/or rebalanced
 * Several BSA files repacked for faster startup times
 * *NETScriptFramework* repaired, so crashlogs work
