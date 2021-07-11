@@ -84,9 +84,29 @@ Added Mods:
 
 Removed Mods:
 
-Fixes:
+* *Nether's Follower Framework* (creative differences)
+* *Not So Fast - Main Quest* (caused certain quest problems)
+* *Archery Gameplay Overhaul* (replaced with new mods)
+* *Serana Dialogue Add-On* (did not meet Librum expectations)
+* *Windhelm Brazier Replacer* (mesh issues)
+* *Nightmare of Lorkhan* (replaced with *Wanderer's Glade*)
+* *Visitant's Solitude Rooftops* (removed from Nexus)
+* *Solitude Grass Replacer* (removed from Nexus)
+* *Growl* (replaced with *Predators*)
+* *Curse of the Vampire* (replaced with *Predators*)
 
-Other:
+Fixes:
+* Several spells nerfed and/or rebalanced
+* Several BSA files repacked for faster startup times
+* *NETScriptFramework* repaired, so crashlogs work
+* Door textures in cities fixed
+* Riverwood navmesh issue fixed
+* Erroneous message removed from respawn script
+* Papyrus script budget increased
+* Dragon Rising no longer steals your dragon souls
+* Inigo's ebony bow is no longer playable
+* *Forgotten City* letters muted
+* Witcher 3 music removed
 
 | **v2.2.1.**
 | Added Mods:
