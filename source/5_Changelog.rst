@@ -7,6 +7,7 @@ Changelog
 * *Apoapse's Arcana* - Spellforge recreated for the Spell Research system, usable both in SE and in VR
 * *Apoapse's Advancement* - completely seamless level-up framework, based on *Smooth Attribute Scaling*
 * *The Wanderer's Glade* - all-new, in-setting starting zone, using the excellent resources from *Bosmer City Kit Resource*
+* All mod initialization is *automated*, so you can play normally from the get-go.
 
 Added Mods:
 
@@ -81,6 +82,8 @@ Added Mods:
 * *Don't Stay in the Water* (SE only)
 * *Sink or Swim* and patches
 * *Skyrim Belongs to the Nords - Bandit Edition*
+* *SkyUI Weapon Icon Patches*
+* *Configurable Real Names for SSE*
 
 Removed Mods:
 
@@ -94,6 +97,7 @@ Removed Mods:
 * *Solitude Grass Replacer* (removed from Nexus)
 * *Growl* (replaced with *Predators*)
 * *Curse of the Vampire* (replaced with *Predators*)
+* *People are Strangers* (replaced with *Configurable Real Names*)
 
 Fixes:
 
