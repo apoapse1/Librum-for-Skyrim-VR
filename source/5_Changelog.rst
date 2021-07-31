@@ -8,6 +8,7 @@ Changelog
 * *Apoapse's Advancement* - completely seamless level-up framework, based on *Smooth Attribute Scaling*
 * *The Wanderer's Glade* - all-new, in-setting starting zone, using the excellent resources from *Bosmer City Kit Resource*
 * All mod initialization is *automated*, so you can play normally from the get-go.
+* Totally custom HUD, built on top of Paper HUD and integrating all mod features into a Daggerfall-style bar at the bottom of the screen.
 
 Added Mods:
 
@@ -23,10 +24,11 @@ Added Mods:
   - *Slow Effect Fixes*
   - *Realistic AI Detection - Medium Settings*
   - *TDF Equipment Restriction*
+  - *Honed Metal* and *Honed Metal Revoiced*
 * New suite of werewolf/vampire mods:
   
   - *Predators - A Werewolf and Vampire Role-Playing Tool*
-  - *Lupine - Werewolf Perk Expansion*
+  - *Canis Hysteria*
   - *Royal Bloodline - Vampire Lord perk tree*
 * New quality-of-life mods:
 
@@ -37,6 +39,7 @@ Added Mods:
   - *Simply Knock*
   - *Better Telekinesis* (SE only)
   - *Auto Walk* (SE only, optional)
+  - *iEquip*
 * Skeleton and animation redux:
 
   - *XP32 Maximum Skeleton Special Extended*
@@ -54,6 +57,9 @@ Added Mods:
   - *Difficulty Balance* (SE only)
   - *STAYDOWN*
   - *SV Mods Menu* wage system
+  - *Follower Potions* (SE only)
+  - *Quick Mass Follower Command* (SE only)
+  - *Better Follower Stealth AI*
 * New creatures:
 
   - *Morrowind Creatures SE*
@@ -77,16 +83,24 @@ Added Mods:
   - *Sea of Spirits*
   - *Snow Whale Bones*
   - *Seagulls of Skyrim*
+* Grass Redux:
+
+  - *No Grass In Objects* (and grass LOD)
+  - *Northern Cathedral Regional Grass*
+  - *Landscape Fixes for Grass Mods*
 * *ConsoleUtil*
+* *Attack Speed Framework*
 * *Forgotten Memories* (optional)
 * *Don't Stay in the Water* (SE only)
 * *Sink or Swim* and patches
 * *Skyrim Belongs to the Nords - Bandit Edition*
 * *SkyUI Weapon Icon Patches*
 * *Configurable Real Names for SSE*
+* *Timing is Everything*
 
 Removed Mods:
 
+* *Northern Cathedral Grass* (replaced with *Northern Cathedral Regional Grass*)
 * *Nether's Follower Framework* (creative differences)
 * *Not So Fast - Main Quest* (caused certain quest problems)
 * *Archery Gameplay Overhaul* (replaced with new mods)
