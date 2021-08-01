@@ -1,7 +1,7 @@
 Changelog
 =========
 
-| **v2.3.0 - the Wanderer's Glade.**
+| **v3.0 - the Wanderer's Glade.**
 | New Unique-to-Librum Features:
 
 * *Apoapse's Arcana* - Spellforge recreated for the Spell Research system, usable both in SE and in VR
