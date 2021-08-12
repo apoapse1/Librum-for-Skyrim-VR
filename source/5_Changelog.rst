@@ -9,6 +9,7 @@ Changelog
 * *The Wanderer's Glade* - all-new, in-setting starting zone, using the excellent resources from *Bosmer City Kit Resource*
 * All mod initialization is *automated*, so you can play normally from the get-go.
 * Totally custom HUD, built on top of Paper HUD and integrating all mod features into a Daggerfall-style bar at the bottom of the screen.
+* Redo of city navmeshes, for better pathing and AI
 
 Added Mods:
 
@@ -40,6 +41,7 @@ Added Mods:
   - *Better Telekinesis* (SE only)
   - *Auto Walk* (SE only, optional)
   - *iEquip*
+  - *A Quality World Map* and *World Map - Skyrim Hold Borders*
 * Skeleton and animation redux:
 
   - *XP32 Maximum Skeleton Special Extended*
@@ -62,6 +64,7 @@ Added Mods:
   - *Better Follower Stealth AI*
 * New creatures:
 
+  - *Animallica - Lore Friendly Redux* with less bright animals
   - *Morrowind Creatures SE*
   - *Beast Skeletons Revised*
   - *Wild Penguins*
@@ -78,11 +81,13 @@ Added Mods:
   - *Kwama Creatures SE*
   - *Durzogs SE*
   - *Clannfears SE*
-  - *Rhinos of Skyrim*
   - *Improved Fish SE*
-  - *Sea of Spirits*
+  - *Sea of Spirits* (with no snow whales)
   - *Snow Whale Bones*
   - *Seagulls of Skyrim*
+  - *Otters SE* (with no Wolf Otters)
+  - *Snow Whales* (with Reyqune's slowed animation patch)
+  - *Giant Spider Crabs*
 * Grass Redux:
 
   - *No Grass In Objects* (and grass LOD)
@@ -97,6 +102,7 @@ Added Mods:
 * *SkyUI Weapon Icon Patches*
 * *Configurable Real Names for SSE*
 * *Timing is Everything*
+* *Legacy of the Dragonborn - Clockwork Castle Replica Display Patch*
 
 Removed Mods:
 
@@ -112,6 +118,12 @@ Removed Mods:
 * *Growl* (replaced with *Predators*)
 * *Curse of the Vampire* (replaced with *Predators*)
 * *People are Strangers* (replaced with *Configurable Real Names*)
+* *Open Cities* (removed from accessible sources)
+* *Dawnguard Map Markers* (removed from accessible sources)
+* *Notice Board MCM* (removed from accessible sources)
+* *Notice Board - Better Solstheim Quests* (removed from accessible sources)
+* *Incognito* (removed from accessible sources)
+* *Septim Texture Replacer* (removed from accessible sources)
 
 Fixes:
 
@@ -126,6 +138,7 @@ Fixes:
 * Inigo's ebony bow is no longer playable
 * *Forgotten City* letters muted
 * Witcher 3 music removed
+* Renamed Gold Medes to Gold Septims, in accordance with removing *Septim Texture Replacer*
 
 | **v2.2.1.**
 | Added Mods:
