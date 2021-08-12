@@ -9,7 +9,8 @@ Changelog
 * *The Wanderer's Glade* - all-new, in-setting starting zone, using the excellent resources from *Bosmer City Kit Resource*
 * All mod initialization is *automated*, so you can play normally from the get-go.
 * Totally custom HUD, built on top of Paper HUD and integrating all mod features into a Daggerfall-style bar at the bottom of the screen.
-* Redo of city navmeshes, for better pathing and AI
+* Redo of city navmeshes, for better pathing and AI.
+* FOMOD selector for new custom start screens, based on *the Wanderer's Glade* and designed by PrivateDelta.
 
 Added Mods:
 
@@ -103,6 +104,7 @@ Added Mods:
 * *Configurable Real Names for SSE*
 * *Timing is Everything*
 * *Legacy of the Dragonborn - Clockwork Castle Replica Display Patch*
+* *Daggerfall Main Menu Music* and *Daggerfall Music Suite* (both optional)
 
 Removed Mods:
 
