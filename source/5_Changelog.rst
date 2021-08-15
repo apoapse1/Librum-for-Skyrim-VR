@@ -32,7 +32,7 @@ Added Mods:
   - *Predators - A Werewolf and Vampire Role-Playing Tool*
   - *Canis Hysteria*
   - *Royal Bloodline - Vampire Lord perk tree*
-* New quality-of-life mods:
+* New UI and quality-of-life mods:
 
   - *MiniMap* (SE only)
   - *Take Notes - Journal of the Dragonborn* (SE only)
@@ -43,6 +43,7 @@ Added Mods:
   - *Auto Walk* (SE only, optional)
   - *iEquip*
   - *A Quality World Map* and *World Map - Skyrim Hold Borders*
+  - *Dialog Interface Reshaped*
 * Skeleton and animation redux:
 
   - *XP32 Maximum Skeleton Special Extended*
@@ -141,6 +142,8 @@ Fixes:
 * *Forgotten City* letters muted
 * Witcher 3 music removed
 * Renamed Gold Medes to Gold Septims, in accordance with removing *Septim Texture Replacer*
+* Incestual couple from 3DNPC removed
+* Several clipping errors resolved
 
 | **v2.2.1.**
 | Added Mods:
