@@ -15,7 +15,7 @@ Text Guide
 ----------
 Librum is relatively lightweight, with most of the graphical draw coming from the ENB you select. Your mileage will certainly vary -- I can only provide my own specs, but I imagine you will find good performance on a weaker system.
 
-**Space Requirements.** Librum requires 38 GB of space for its downloads, and 70 GB of space for the installation. In total, you will need 118 GB free on your computer.
+**Space Requirements.** Librum requires 63 GB of space for its downloads, and 139 GB of space for the installation. In total, you will need 202 GB free on your computer.
 
 **Recommended Specs.** This was the machine I compiled Librum on. I get a very smooth 40 FPS, which gives quite smooth gameplay along with Oculus/SteamVR motion smoothing.
 
