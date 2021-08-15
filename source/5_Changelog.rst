@@ -53,6 +53,7 @@ Added Mods:
   - *Feline Movement Animations for Khajiits Only*
   - *Furniture Height Size Fix* and patches
   - *First Person Camera Height Fix* (SE only)
+  - *True Directional Movement - Modernized Third Person Gameplay* (SE only)
 * New follower framework:
 
   - *Simple Follower Extension*
