@@ -129,9 +129,6 @@ Gameplay Customization
   **End Times** [\ `Nexus <https://www.nexusmods.com/skyrimspecialedition/mods/39201>`_\ ] *(Enabled)* This plugin adds a sense of urgency to the Main Quest, and it ties in nicely with Librum's re-centering of Skyrim around being the Dragonborn. Specifically, if you do not defeat Alduin within a certain amount of time (365 days by default, but configurable in the MCM), he will swallow the world (accompanied by a nice visual), and you will have to reload and try again. You will have a *Doomsday Clock* spell available, as well as configurable regular updates, to tell you how much time you have left. If you do not want this plugin, disable it in MO2.
 
 * 
-  **Dragons from the Start** [\ `Nexus <https://www.nexusmods.com/skyrimspecialedition/mods/41453>`_\ ] *(Enabled)* This plugin enables dragon encounters from the very beginning of the game (keep in mind there are no random dragons as of 2.0). This is highly recommended for Librum's Dragonborn-centric play, and it is especially important if you use the next optional plugin. If you do not want this plugin, disable it in MO2.
-
-* 
   **No Perks on Level-Up** *(Enabled)* This is a core feature of Librum, so it is highly recommended. With this plugin, you will no longer earn perks when you level up; rather, you will have to spend dragon souls or discover special Librums (books) in order to earn perk points. This accomplishes two things. First, along with other mods from the core modlist, this re-centers the Skyrim experience on you *actually being the Dragonborn*. You will not progress without hunting dragons and advancing major questlines. Secondly, this reframes the role of perks in the Librum experience - because (especially at the beginning) they are much harder to obtain, they will form a much smaller part of your character's identity, and your character will spend a longer time being a "normal person". If you do not want this plugin, disable it in MO2 - but keep in mind that we've still implemented 1 perk every 2 levels instead of 1 for 1 to help maintain some semblance of balance with our vision.
 
 * 
@@ -190,50 +187,9 @@ If you want to read up on your character creation options, please see the `Chara
 Configure the MCM
 ~~~~~~~~~~~~~~~~~
 
-Once you have created your character, wait until all the messages in the top left of the screen stop appearing and click Yes/OK to all message pop-ups that appear, and then open up the in-game settings and navigate to the *Mod Configuration Menu* (MCM). You will need to make several changes here to adhere to the suggested Librum setup. Unfortunately, very few of the mods used in Librum support FISS, so you will need to do this each time you create a new character. 
+Once you have created your character, wait until all the messages in the top left of the screen stop appearing and you receive a confirmation prompt to continue playing. **There is no MCM customization necessary for Librum.**
 
-**If you are playing Librum with Skyrim VR, don't forget to follow the** `VR Configuration <#VR-configuration>`_ **section!**
-
-**If you don't want Survival Features:** 
-You still need to active **Frostfall** and **SunHelm**\ , just deactivate them again after they've finished starting up. This is to avoid script bloat and is very important.
-
-**If you are updating from Librum 2.0:** 
-And wish to use the same save, we recommend that you open the **Traits for Skyrim** MCM, click **Uninstall**\ , and then re-select your traits with the new balanced costs and abilities by using the Medical History again.
-
-**Base MCM Configuration for SE & VR**
-
-#. **Follower Framework.** Under *System*\ , hit "Load from File". *Note:* Capslock is set to "Followers Attack" and Y is set to "Command Followers".
-#. **Frostfall.** Enable it. Close the entire System Menu and wait for it to activate fully before moving on. 
-#. **Hunterborn**. Start the mod, close the MCM and once it has finished starting up reopen it head to *Profile* and select "Load Profile".
-#. **Lock Overhaul.** Activate the mod.
-#. **PSDI Menu.** Make sure the mod is Active. *Optional:* Set a Hotkey.
-#. **SoT Sleeping Encounters.** Uncheck "Allow Drowsy Effect".
-#. **Spell Research.** Import spells. It takes a bit to import everything, but you will get a popup once it's all done.
-#. **SunHelm.** Activate the mod. Close the entire System Menu and wait for it to activate fully before moving on.
-#. **Trade & Barter.** Under *Barter Rates*\ , set "Barter Presets" -> "Hardcore".
-#. **True Armor.** Scroll all the way down to *Save & Load* and select Load Balanced Settings (it's on the right side).
-#. **Vigor.** Start the mod.
-
-**Special Edition MCMs**
-
-
-#. **A Matter of Time** Head to *Presets*\ , and under *User Settings*\ , hit GO on Load user settings. *Note:* Not every UI option in the *Librum UI Customizer* has an AMOT preset. You'll have to customize the mod yourself for the ones that don't.
-
-VR Configuration
-^^^^^^^^^^^^^^^^
-
-If you're playing the VR edition of Librum, this section covers some important additional configuration, as well as suggesting some tweaks you will likely want to make to settings and for 3rd party tools.
-
-(VR) MCMs
-~~~~~~~~~
-
-
-#. **Nemesis PCEA.** Activate both options.
-
-**Mod Configuration Spells**
-
-
-#. **VRIK.** This configuration spell is available in the *Powers* tab. Calibrate to headset height, and then to VR scale.
+If you are interested in voice commands, the following settings will allow you to use the optional voice commands modules.
 
 **Optional Voice Command MCMs**
 
@@ -242,21 +198,8 @@ If you're playing the VR edition of Librum, this section covers some important a
 #. **Spell Research.** Set the "Spell Research" hotkey to "alt".
 #. **SunHelm.** Set the "Continuance" hotkey to "y", and the "Drink Water/Fill Waterskin" hotkey to "l".
 
-(VR) In-Game Settings
-~~~~~~~~~~~~~~~~~~~~~
-
-Note that Wabbajack will reset some of the in-game Skyrim VR settings, which you will want to fix before continuing.
-Open the ``Main Menu -> Settings -> VR Performance``\ , and apply the following settings:
-
-
-* Untick Dynamic Resolution
-* Untick the two "Disable LOD" options
-* Other options can be configured according to your hardware. In particular, note the "Actor Distance" slider -- keep this low or you will lag in towns and cities, even with the best CPU.
-
 (VR) Natural Locomotion
 ~~~~~~~~~~~~~~~~~~~~~~~
-
-If you don't plan on using Natural Locomotion, turn off "physical sneak".
 
 This step is **not mandatory**\ , but it will significantly improve your VR experience. Download `Natural Locomotion <https://store.steampowered.com/app/798810/Natural_Locomotion/>`_ through Steam. It is an independent app, which allows you to walk around in VR games by swinging your arms (and possibly holding a hotkey). Although this sounds intrusive and unnatural, it quickly becomes a *very* natural way to move around Skyrim. As a bonus, it works for everything from Skyrim and Fallout 4 VR to *No Man's Sky*.
 
