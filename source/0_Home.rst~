@@ -2,8 +2,8 @@
    :format: html
 
 
-Librum (for Skyrim SE/VR)
-=========================
+Introduction
+============
 
 **A small request: if you enjoy my work, please consider contributing to my Patreon page at the link below. Although I certainly don't expect any donations from users, these sorts of contributions allow me to continue improving and supporting Librum.**
 
@@ -36,6 +36,18 @@ Skyrim SE and VR are both wonderful experiences, but both very familiar ones. Ev
 *Librum* is a comprehensive gameplay, graphics, and content overhaul that attempts to change all of this. Combining together some of the best and most popular mods for Skyrim SE, a suite of new quests and adventures that outnumber Skyrim's own, the tradition of great "hardcore" gameplay overhauls that have come before -- like Skyrim's _Requiem_ and _YASH_ or Oblivion's _Oscuro's Oblivion Overhaul_ -- and a host of unique-to-VR immersion improvements, Librum brings new life (and new challenge!) to Skyrim in a way that has never been experienced before.
 
 Librum is available for both VR and SE. 
+
+Installation Guide
+------------------
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/ZcN0fZG4_hI" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+	
+\_
+
+For more detailed installation information, please see the Installation tab on the left.
 
 User Comments
 -------------
