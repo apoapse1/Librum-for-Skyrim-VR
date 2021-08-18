@@ -98,7 +98,7 @@ User Comments
 Credits and Thanks
 ------------------
 
-I couldn't have done it without the Librum team: *Mashtyx*\ , *EllieMental*\ , *Snidely*\ , *JulieChaos*\ , *PrivateDelta*\ , and *tmt*\ . They have been a huge part of this process, both creatively and in developing the modlist and its associated resources.
+I couldn't have done it without the Librum team:. They have been a huge part of this process, both creatively and in developing the modlist and its associated resources.
 
 Contact
 -------
