@@ -26,3 +26,4 @@ With every change, Librum attempts to adhere to the points of its **core philoso
    3_9_quests
    3_a_followers
    3_b_graphics
+   3_c_dragonborn
