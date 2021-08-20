@@ -221,7 +221,7 @@ However, if you are interested in using the voice commands available as an optio
 #. **Spell Research.** Set the "Spell Research" hotkey to "alt".
 #. **SunHelm.** Set the "Continuance" hotkey to "y", and the "Drink Water/Fill Waterskin" hotkey to "l".
 
-**Voice commands is an optional part of Librum located in the ``Optional- Controls`` section near the bottom of the left panel in Mod Organiser 2.**
+**Voice commands is an optional part of Librum located in the *Optional Controls* section near the bottom of the left panel in Mod Organiser 2.**
 
 
 Personalizing the MCM
