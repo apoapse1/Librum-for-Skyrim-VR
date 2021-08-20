@@ -19,7 +19,7 @@ Librum makes several major changes to character progression, described by the fo
    * - Available equipment and enemies depend exclusively on your level.
      - Librum's loot distribution is based on `Morrowloot Ultimate <https://www.nexusmods.com/skyrimspecialedition/mods/3058>`_\ , so equipment and enemies (with the exception of dragons) are entirely unleveled.
    * - Higher level equipment can be made and improved at any time, mitigating any effect of leveled weapons and armor
-     - Smithing now requires more knowledge than just a perk point; for instance, you need to acquire the _\ `Ancient Knowledge <http://en.uesp.net/wiki/Skyrim:Powers#Ancient_Knowledge>`_\ _ effect to make any Dwarven equipment, and Daedric smithing requires uncovering the secret of its construction. Improving equipment is no longer as effective.
+     - Smithing now requires more knowledge than just a perk point; for instance, you need to acquire the \ `Ancient Knowledge <http://en.uesp.net/wiki/Skyrim:Powers#Ancient_Knowledge>`_\ effect to make any Dwarven equipment, and Daedric smithing requires uncovering the secret of its construction. Improving equipment is no longer as effective.
    * - Available spell tomes depend exclusively on your skill level, but are readily available at spell merchants.
      - Spell tomes do not exist, by and large, with the exception of select hand-placed tomes. Rather, all spell progression is done through `Spell Research <https://www.nexusmods.com/skyrimspecialedition/mods/20983>`_.
    * - Perk points are gained when you level up.
