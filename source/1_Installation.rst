@@ -49,36 +49,37 @@ Steam Config
 Firstly, the easiest part. We need to disable the Steam Overlay for your chosen Skyrim version (SSE or VR). Simply right click the game in the left tab of steam, select properties, and then uncheck "Enable the Steam Overlay while in-game."
 
 We also need to make sure that Steam won't install the game into the default Program Files Location. This is more complicated, but still not difficult. You should be fine if you follow this `guide
-<https://help.steampowered.com/en/faqs/view/4BD4-4528-6B2E-8327>`_ on how to create a Steam Library folder elsewhere. You only need to follow the "How do I change the default installation path for my games?" section. **You do not need to set the new folder to the default install location**_, but you can if you would like. Simply having a new location is enough.
+<https://help.steampowered.com/en/faqs/view/4BD4-4528-6B2E-8327>`_ on how to create a Steam Library folder elsewhere. You only need to follow the "How do I change the default installation path for my games?" section. 
+  **You do not need to set the new folder to the default install location.** You can if you would like. Simply having a new location is enough.
 
 After you have a new Steam Library folder outside of the ``Program Files (x86)`` location, you can install your Skyrim version. When you click to install now you should get a pop-up with a drop down box in which you can select where you would like to install the game. Simply select the newly created folder from this menu.
 
 Once the game is installed you should check to make sure the install is clean. The only files inside the ``Data`` folder of your new Skyrim install should be:
 
-	Video *(this is a folder)*
-	Dawnguard.esm
-	Dragonborn.esm
-	Hearthfire.esm
-	Skyrim - Animations.bsa
-	Skyrim - Interface.bsa
-	Skyrim - Meshes0.bsa
-	Skyrim - Meshes1.bsa
-	Skyrim - Misc.bsa
-	Skyrim - Patch.bsa
-	Skyrim - Shaders.bsa
-	Skyrim - Sounds.bsa
-	Skyrim - Textures0.bsa
-	Skyrim - Textures1.bsa
-	Skyrim - Textures2.bsa
-	Skyrim - Textures3.bsa
-	Skyrim - Textures4.bsa
-	Skyrim - Textures5.bsa
-	Skyrim - Textures6.bsa
-	Skyrim - Textures7.bsa
-	Skyrim - Textures8.bsa
-	Skyrim - Voices_en0.bsa
-	Skyrim.esm
-	Update.esm
+	* Video *(this is a folder)*
+	* Dawnguard.esm
+	* Dragonborn.esm
+	* Hearthfire.esm
+	* Skyrim - Animations.bsa
+	* Skyrim - Interface.bsa
+	* Skyrim - Meshes0.bsa
+	* Skyrim - Meshes1.bsa
+	* Skyrim - Misc.bsa
+	* Skyrim - Patch.bsa
+	* Skyrim - Shaders.bsa
+	* Skyrim - Sounds.bsa
+	* Skyrim - Textures0.bsa
+	* Skyrim - Textures1.bsa
+	* Skyrim - Textures2.bsa
+	* Skyrim - Textures3.bsa
+	* Skyrim - Textures4.bsa
+	* Skyrim - Textures5.bsa
+	* Skyrim - Textures6.bsa
+	* Skyrim - Textures7.bsa
+	* Skyrim - Textures8.bsa
+	* Skyrim - Voices_en0.bsa
+	* Skyrim.esm
+	* Update.esm
 
 If there are other files in your Data folder, go back and make sure you followed all the steps when uninstalling. If your folder only has those files, you can continue.
 
@@ -128,6 +129,11 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 
 * 
   **Cyclic Redundancy Check error during installation** This could be several things, but the first thing we would recommend is confirming that Wabbajack is not installed in your Documents, Downloads or Program Files folders, then delete the contents of ``%APPDATA%/Local/Wabbajack`` and re-open the app and try again. If this does not resolve the problem, it could be related to drive corruption and you should run CHKDSK on the drive in question.
+
+Post-Installation
+^^^^^^^^^^^^^^^^^
+
+Now that Librum is installed, it is time to get the game ready to start up. You should have a number of things in the folder that was just installed by Wabbajack. The next few steps will require you to be accessing that folder. 
 
 Copy "Game Folder Files"
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -193,12 +199,6 @@ The UI and UX of your game is a very personal and subjective choice, so we've in
 
 **Alternatively, you can change the Librum Mod Organizer 2 Downloads directory by clicking the "Configure settings and workarounds" button in Mod Organizer 2 (it looks like a screw and wrench crossed over eachother) and changing the Downloads directory to whatever you selected when installing Librum in Wabbajack.**
 
-Post-Installation
-^^^^^^^^^^^^^^^^^
-
-Now that Librum is installed, it is time to start the game up for real and create your character. The character creation process has changed with Librum, so we will give details below. 
-
-
 Starting Librum
 ~~~~~~~~~~~~~~~
 
@@ -230,20 +230,18 @@ If you find that some of the default settings in Librum are not to your taste, y
 
 *
   **Survival and Needs.** By default, `Frostfall
-<https://www.nexusmods.com/skyrimspecialedition/mods/671>`_ *(used for cold weather survival)* and `Sunhelm
-<https://www.nexusmods.com/skyrimspecialedition/mods/39414>`_ *(used for hunger/thirst needs)* are enabled. If you do not want to have survival mechanics in your game, you can deactivate these mods via thier MCM menus. **After deactivating one, close the MCM completely to be back in the game and wait for a moment. Then open the MCM and deactivate the other. Do not try to deactivate both without closing and reopening the MCM.**
+<https://www.nexusmods.com/skyrimspecialedition/mods/671>`_ (used for cold weather survival) and `Sunhelm
+<https://www.nexusmods.com/skyrimspecialedition/mods/39414>`_ (used for hunger/thirst needs) are enabled. If you do not want to have survival mechanics in your game, you can deactivate these mods via thier MCM menus. **After deactivating one, close the MCM completely to be back in the game and wait for a moment. Then open the MCM and deactivate the other. Do not try to deactivate both without closing and reopening the MCM.**
   If you are feeling like you are freezing too quickly or getting hungry/thirsty/tired too quickly you can also ajust the rates that these increase in the respective MCM menus. Turning down the "Exposure Rate" in the Frostfall MCM will slow the rate your character gets cold. The default value is 1.0 if you ever wish to reset it to default. Meanwhile, lowering the Hunger, Thirst, or Fatigue rates inside the Sunhelm MCM will make you need to eat, drink, and sleep less often. The default values for these are at 10 if you wish to go back to Librum default.
 
 *
-  **Encumbrance.** Librum uses two mods to affect your encumbrance: `Realistic Capacity
-<https://www.nexusmods.com/skyrimspecialedition/mods/17577>`_ and `Cobb Encumbrance
-<https://www.nexusmods.com/skyrimspecialedition/mods/18362>`_. Realistic Capacity is the culprit if you are wondering why your carry weight is so low compared to normal Skyrim. It dynamically alters your carryweight depending on what you are wearing and fighting with. It makes your weapons and armor you use effectively weightless so that your carryweight is mostly taken up by the loot you grab. It is designed to make it more important to prioritize gems, and other small, but expensive items as loot over whole sets of armor and big weapons. You can disable the whole mod in the MCM if you are not enjoying the change, though Librum is very much balanced around the idea of a smaller carry capacity. You may want to enable Sunhelm's Carry Weight modifier in the Sunhelm MCM if you disable Realistic Capacity. Another option is to adjust the "Base Carry Capacity" section of Realistic Capacity MCM. It defaults to 25 with Librum, but you can increase that some if you like the idea of the mod, but want some more wiggle room.
-  Cobb Encumbrance makes you move slower the more you are carrying, but also faster if you are traveling very light. This is also done dynamically as you pick up more things. You can disable this from the MCM if you do not like the speed changes. There is also a section where you can tweak the modifiers it applies to your speed, and the weight you need for that effect to become active for each stage.
+  **Encumbrance.** Librum uses two mods to affect your encumbrance: `Realistic Capacity <https://www.nexusmods.com/skyrimspecialedition/mods/17577>`_ and `Cobb Encumbrance <https://www.nexusmods.com/skyrimspecialedition/mods/18362>`_. Realistic Capacity is the culprit if you are wondering why your carry weight is so low compared to normal Skyrim. It dynamically alters your carryweight depending on what you are wearing and fighting with. It makes your weapons and armor you use effectively weightless so that your carryweight is mostly taken up by the loot you grab. It is designed to make it more important to prioritize gems, and other small, but expensive items as loot over whole sets of armor and big weapons. You can disable the whole mod in the MCM if you are not enjoying the change, though Librum is very much balanced around the idea of a smaller carry capacity. You may want to enable Sunhelm's Carry Weight modifier in the Sunhelm MCM if you disable Realistic Capacity. Another option is to adjust the "Base Carry Capacity" section of Realistic Capacity MCM. It defaults to 25 with Librum, but you can increase that some if you like the idea of the mod, but want some more wiggle room.
+
+Cobb Encumbrance makes you move slower the more you are carrying, but also faster if you are traveling very light. This is also done dynamically as you pick up more things. You can disable this from the MCM if you do not like the speed changes. There is also a section where you can tweak the modifiers it applies to your speed, and the weight you need for that effect to become active for each stage.
 
 *
-  **Economy and Trade.** Librum uses `Trade & Barter
-<https://www.nexusmods.com/skyrimspecialedition/mods/23081>`_ to make the Skyrim economy feel more dynamic. It makes earning large amounts of money harder, and it pairs well with the reduced carryweight default to Librum. You cannot disable this mod, but it can be heavily altered.
-  If you are simply wanting the merchants to be a little less ruthless, you can change the preset from "Hardcore" to "Difficult. The big factor to note about this mod, it places the barter pricing reliance more on the Speechcraft perks rather than simply your speechcraft skill. This will make early game buying/selling seem far harder as perks are inherently more difficult to get, but if you put a few perks into speechcraft you will find the difference becomes more in your favor. This reliance on perks over skill makes putting your first few perks into speechcraft more reasonable if you are looking to make money. This is especially true for a theif as fences will be the hardest to haggle with at low level and no perks.
+  **Economy and Trade.** Librum uses `Trade & Barter <https://www.nexusmods.com/skyrimspecialedition/mods/23081>`_ to make the Skyrim economy feel more dynamic. It makes earning large amounts of money harder, and it pairs well with the reduced carryweight default to Librum. You cannot disable this mod, but it can be heavily altered.If you are simply wanting the merchants to be a little less ruthless, you can change the preset from "Hardcore" to "Difficult.
+  The big factor to note about this mod, it places the barter pricing reliance more on the Speechcraft perks rather than simply your speechcraft skill. This will make early game buying/selling seem far harder as perks are inherently more difficult to get, but if you put a few perks into speechcraft you will find the difference becomes more in your favor. This reliance on perks over skill makes putting your first few perks into speechcraft more reasonable if you are looking to make money. This is especially true for a theif as fences will be the hardest to haggle with at low level and no perks.
 
 (VR) Natural Locomotion
 ~~~~~~~~~~~~~~~~~~~~~~~
