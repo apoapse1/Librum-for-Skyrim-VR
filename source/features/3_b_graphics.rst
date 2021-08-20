@@ -1,7 +1,7 @@
 Graphics and Ambience
 ---------------------
 
-Last but not least, Librum includes a full graphical makeover of Skyrim. The goal is to match the photorealism we are used to these days, but with a bend towards realizing Librum's dark, gritty, and foreboding nature in Skyrim's atmosphere.Perhaps most important for this end, Librum includes a suite of literal atmosphere mods, centered around a Frankenstein-ing of `Obsidian Weathers <https://www.nexusmods.com/skyrimspecialedition/mods/12125>`_ and `True Storms <https://www.nexusmods.com/skyrimspecialedition/mods/2472>`_\ :
+Last but not least, Librum includes a full graphical makeover of Skyrim. The goal is to match the photorealism we are used to these days, but with a bend towards realizing Librum's dark, gritty, and foreboding nature in Skyrim's atmosphere. Perhaps most important for this end, Librum includes a suite of literal atmosphere mods, centered around a Frankenstein-ing of `Obsidian Weathers <https://www.nexusmods.com/skyrimspecialedition/mods/12125>`_ and `True Storms <https://www.nexusmods.com/skyrimspecialedition/mods/2472>`_\ :
 
 
 .. image:: https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/rain.jpg?raw=true

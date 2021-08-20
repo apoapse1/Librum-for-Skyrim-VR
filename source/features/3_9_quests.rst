@@ -53,7 +53,6 @@ On top of these new quests and dungeons, Librum makes *tons* of improvements to 
 #. **\ `Better College Application <https://www.nexusmods.com/skyrimspecialedition/mods/5272>`_.** When Faralda asks you why you want to enter the college, your response now actually determines the spell you're tested on. This is critical for Librum's spell system, because it gives you a headstart in whatever school you want to focus on.
 #. **\ `Save the Icerunner <https://www.nexusmods.com/skyrimspecialedition/mods/34681>`_.** This fits into the general TCIY framework -- if you don't want to brutally murder a ship full of people, now you don't have to.
 #. **\ `Chill Out Aela <https://www.nexusmods.com/skyrimspecialedition/mods/31949>`_.** When Aela asks you why you didn't help fight the giant, you now have a third option to choose from (instead of just "Screw you!" and "I'm just a wimp!").
-#. **\ `Not So Fast - Main Quest <https://www.nexusmods.com/skyrimspecialedition/mods/2475>`_.** You've got no idea how often this mod's features are reported as bugs. In short, NSFMQ changes a number of the narrative beats of the main quest. The dragon sighting is no longer immediately after you recover the Dragonstone, Delphine no longer steals the Horn of Jurgen Windcaller, and Season Unending can largely be skipped.
 #. **\ `End Times <https://www.nexusmods.com/skyrimspecialedition/mods/39201>`_ (optional).** To double down on the NSFMQ pacing, you now need to kill Alduin within a set amount of time, or he will literally eat the world (and your game will be over). Good luck.
 
 

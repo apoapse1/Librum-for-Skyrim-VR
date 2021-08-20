@@ -8,10 +8,7 @@ In regards to character progression, Librum primarily takes inspiration from AD&
 
 
 * Good gear is vital, but will only take you so far, especially at first. 
-* You likely won't get any perk points for a while, and that's okay.
-* Don't forget that you have to sleep a full eight hours to level up. Even without perk points, the extra health/stamina/magicka is important.
-* Your skills will still increase without sleeping to actually level up, albeit at half the speed of vanilla, and scale higher. 
-* Dungeons and the like show their level, but they're more like guidelines for what it takes to clear the whole area. For example, with a good party and good tactics (and a whole lot of luck), a level 5 character still can clear a level 8 - 20 dungeon. 
+* Dungeons and the like show their level, but they're more like guidelines for what it takes to clear the whole area. For example, with a good party and good tactics (and a whole lot of luck), a level 5 character still can clear a level 8 - 20 dungeon.
 
 Spell Research
 ^^^^^^^^^^^^^^
