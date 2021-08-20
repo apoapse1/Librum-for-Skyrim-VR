@@ -41,11 +41,7 @@ Installation Guide
 ------------------
 .. raw:: html
 
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="https://www.youtube.com/embed/ZcN0fZG4_hI" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-    </div>
-	
-\_
+We used to have a link to a video guide here, but it is no longer accurate as of the 3.0 update. The MCM is now configured completely for you. That's right, you can create a character and just start playing!
 
 For more detailed installation information, please see the Installation tab on the left.
 

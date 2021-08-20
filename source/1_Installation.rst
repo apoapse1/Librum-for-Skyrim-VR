@@ -1,18 +1,5 @@
 Installation
 ============
-Video Tutorial
---------------
-
-.. raw:: html
-
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="https://www.youtube.com/embed/ZcN0fZG4_hI" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-    </div>
-
-\_
-
-Text Guide
-----------
 Librum is relatively lightweight, with most of the graphical draw coming from the ENB you select. Your mileage will certainly vary -- I can only provide my own specs, but I imagine you will find good performance on a weaker system.
 
 **Space Requirements.** Librum requires 63 GB of space for its downloads, and 139 GB of space for the installation. In total, you will need 202 GB free on your computer.
@@ -112,7 +99,6 @@ Copy "Game Folder Files"
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 Navigate to the installed Librum folder, where you will find a folder titled ``Game Folder Files``. Copy the contents of this folder to the Skyrim root folder.
-If you don't want 3D sound, do not copy over ``x3audio1_7.dll`` and the ``hrtf`` folder.
 
 **(VR) Optional: CAS Sharpener for VR.** If you find that the game is too blurry with the default ENB preset, I have included `CAS Sharpener <https://www.nexusmods.com/skyrimspecialedition/mods/38219>`_ Note that it will compromise the "ominous" look of the default ENB.
 
@@ -134,6 +120,19 @@ Gameplay Customization
 * 
   **Morrowind-Style Beast Races** *(Enabled)* This mod liberates the paws and claws of Argonians and Khajiits. Plan accordingly for their inability to wear boots! If you do not want this plugin, disable it in MO2.
 
+
+*
+  **Undiscovered Means Unknown** *('GPS' disabled by default)* Right-clicking and selecting *Reinstall Mod* for Undiscovered Means Unknown in MO2 will allow you to restore the 'GPS' functionality that shows the player on your map.
+
+*
+  **Darker Night Sky** *(Enabled)* This is SGS's night sky texture, to go alongside the ENB preset we're using. It is a darker texture with reddish auroras, and it fits in very nicely with Librum's theme. If you do not use this, you will have the brighter and arguably prettier textures from `Ethereal Cosmos <https://www.nexusmods.com/skyrimspecialedition/mods/5728>`_. If you want Ethereal Cosmos textures instead, disable this in MO2.
+
+*
+  **SkyUI The Adventurer Theme Mod SE** *(Enabled)* If you want a nicer cursor and Oblivion-style inventory icons, this is the plugin for you. If you do not want this plugin, disable it in MO2.
+
+*
+  **Frenchsworn, Kitties Speak Spanish, Nords speak Deutsch, Italian for Tullius** *(Disabled)* These mods replace the voice and lip-syncing for the appropriate NPCs with alternate languages. Forsworn will speak French, Khajiit will speak Spanish, Nords (and some non-Nords) will speak German, and Imperials (not just Tullius) will speak Italian. Subtitles will remain in English, so make sure you have them turned on if you choose to use some or all of these optional mods!
+
 * 
   **(VR) New Voice Commands** *(Enabled)* This adds several new voice commands, to automate many of the features you'll be using frequently: *Open Map* and *Close Map*\ , *Call Horse*\ , *Spell Research*\ , *Drink Water* and *Fill Waterskin*\ , *Continuance* or *Get Status* (for general health and hunger/thirst/fatigue status), and *Sense Direction*. If you do not want this plugin, disable it in MO2.
 
@@ -154,8 +153,7 @@ The UI and UX of your game is a very personal and subjective choice, so we've in
 
 * 
   **Librum UI Customizer** *(Defaults to Magic Cards)* Right-clicking and selecting Reinstall Mod on the Librum UI Customizer will allow you to choose between several pre-installed fonts, compatibility patches/replacers, and UI/HUD Presets. When prompted by MO2, select **Replace Mod**. The fonts can be previewed `here <https://i.imgur.com/a/QhGuCU9>`_\ , as well as in the FOMOD installer. A massive thanks to all the authors who have given permission for us to include these!
-
-* 
+*
   **Librum ENB Selector** (Defaults to Ominous ENB) Right-clicking and selecting Reinstall Mod on the Librum ENB Selector will allow you to choose between several included ENB options with various quality presets. If playing Skyrim VR, we’ve also included some reshade options for better sharpening.
 
 **Please note that if you have your Wabbajack Downloads folder outside of the** ``<Librum Install>/downloads`` **path, you will need to go to your downloads folder, copy the Librum ENB Selector and Librum UI Customizer .7z files to your** ``<Librum Install>/downloads`` **folder before you can Reinstall them in MO2 and use the FOMOD.**
@@ -163,17 +161,6 @@ The UI and UX of your game is a very personal and subjective choice, so we've in
 **Alternatively, you can change the Librum Mod Organizer 2 Downloads directory by clicking the "Configure settings and workarounds" button in Mod Organizer 2 (it looks like a screw and wrench crossed over eachother) and changing the Downloads directory to whatever you selected when installing Librum in Wabbajack.**
 
 
-* 
-  **Undiscovered Means Unknown** *('GPS' disabled by default)* Right-clicking and selecting *Reinstall Mod* for Undiscovered Means Unknown in MO2 will allow you to restore the 'GPS' functionality that shows the player on your map. 
-
-* 
-  **Darker Night Sky** *(Enabled)* This is SGS's night sky texture, to go alongside the ENB preset we're using. It is a darker texture with reddish auroras, and it fits in very nicely with Librum's theme. If you do not use this, you will have the brighter and arguably prettier textures from `Ethereal Cosmos <https://www.nexusmods.com/skyrimspecialedition/mods/5728>`_. If you want Ethereal Cosmos textures instead, disable this in MO2.
-
-* 
-  **SkyUI The Adventurer Theme Mod SE** *(Enabled)* If you want a nicer cursor and Oblivion-style inventory icons, this is the plugin for you. If you do not want this plugin, disable it in MO2.
-
-* 
-  **Frenchsworn, Kitties Speak Spanish, Nords speak Deutsch, Italian for Tullius** *(Disabled)* These mods replace the voice and lip-syncing for the appropriate NPCs with alternate languages. Forsworn will speak French, Khajiit will speak Spanish, Nords (and some non-Nords) will speak German, and Imperials (not just Tullius) will speak Italian. Subtitles will remain in English, so make sure you have them turned on if you choose to use some or all of these optional mods!
 
 Starting Librum
 ~~~~~~~~~~~~~~~
