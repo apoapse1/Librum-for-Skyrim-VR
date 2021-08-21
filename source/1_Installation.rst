@@ -13,15 +13,14 @@ Librum is relatively lightweight, with most of the graphical draw coming from th
 
 Librum makes use of the excellent `Wabbajack <https://www.wabbajack.org/#/>`_ program to make its installation as fast and painless as possible. That said, there are a few, very easy steps involved in setting up Librum. We will go over each in detail, but they are summarized as follows:
 
-
-#. Clean your Skyrim folder and disable the Steam overlay.
+#. Clean your Skyrim folder and disable the Steam Overlay.
 #. Load Skyrim, let it set your graphics, open it to main menu, then close it.
 #. Install the Wabbajack desktop client from `here <https://github.com/wabbajack-tools/wabbajack/releases>`_.
 #. Navigate to Librum under the *Browse for Modlists* tab.
 #. Install Librum to a new folder outside of ``Program Files`` using Wabbajack.
-#. Copy the ``Game Folder Files`` folder to your Skyrim VR or SE directory.
-#. Start a new game, and wait until mod installation notes finish appearing in the top left.
-#. Configure the Mod Configuration Menu (MCM) according to the `instructions that follow <#mcm>`_.
+#. When it has finished intalling (which can take a while depending on your internet), copy the files ``Game Folder Files`` folder to your Skyrim VR or SE directory.
+#. Start a new game, and wait until a pop-up notifies you that all the mods are active and the MCM has been set properly.
+
 
 Pre-Installation
 ^^^^^^^^^^^^^^^^
@@ -33,15 +32,56 @@ Installing Microsoft Visual C++ Redistributable Package
 
 I doubt you need to do this since you likely already have this installed. The package is required for MO2 and you can download it from `Microsoft <https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads>`_. Download the x64 version under "Visual Studio 2015, 2017 and 2019". `Direct link <https://aka.ms/vs/16/release/vc_redist.x64.exe>`_ if you can't find it.
 
+Cleaning Skyrim Folders
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Our First step is goign to be to clean out the current Skyrim install. **If you are playing Special Edition:**
+* Uninstall Skyrim Special Edition with Steam
+* Unsubscribe to all Steam Workshop Mods
+* Delete the ``Skyrim Special Edition`` folder found at: ``C:\ProgramFiles(x86)\Steam\Steamapps\common\Skyrim Special Edition``_.
+* Delete the ``Skyrim Special Edition`` folder found at: ``Documents\my games\Skyrim Special Edition``_.
+
+**If you are playing VR** you will instead be deleting the SkyrimVR versions of these folders.
+
 Steam Config
 ~~~~~~~~~~~~
 
+Firstly, the easiest part. We need to disable the Steam Overlay for your chosen Skyrim version (SSE or VR). Simply right click the game in the left tab of steam, select properties, and then uncheck "Enable the Steam Overlay while in-game."
 
-* **Disable the Steam Overlay** - The Steam Overlay can cause issues with ENB and is recommended to be turned off. Open the Properties window (right click the game in your ``Library -> Properties``\ ), navigate to the *General* tab and un-tick the *Enable the Steam Overlay while in-game* checkbox.
+We also need to make sure that Steam won't install the game into the default Program Files Location. This is more complicated, but still not difficult. You should be fine if you follow this `guide
+<https://help.steampowered.com/en/faqs/view/4BD4-4528-6B2E-8327>`_ on how to create a Steam Library folder elsewhere. You only need to follow the "How do I change the default installation path for my games?" section. 
+  **You do not need to set the new folder to the default install location.** You can if you would like. Simply having a new location is enough.
 
-* **Set the Game language to English** - Librum is entirely in English, as many excellent mods are English-exclusive. This may change in the future, but for now, I highly recommend playing the game in English. Open the Steam Properties window, navigate to the *Language* tab and select *English* from the dropdown menu.
+After you have a new Steam Library folder outside of the ``Program Files (x86)`` location, you can install your Skyrim version. When you click to install now you should get a pop-up with a drop down box in which you can select where you would like to install the game. Simply select the newly created folder from this menu.
 
-* **Clean Skyrim** - If your Skyrim VR or SE installation is not newly installed, I recommend uninstalling the game through Steam, deleting the game folder, and reinstalling it. You should also clean up the ``Skyrim VR`` or ``Skyrim SE`` folder in ``Documents/My Games/`` by deleting the contents in it. 
+Once the game is installed you should check to make sure the install is clean. The only files inside the ``Data`` folder of your new Skyrim install should be:
+
+	* Video *(this is a folder)*
+	* Dawnguard.esm
+	* Dragonborn.esm
+	* Hearthfire.esm
+	* Skyrim - Animations.bsa
+	* Skyrim - Interface.bsa
+	* Skyrim - Meshes0.bsa
+	* Skyrim - Meshes1.bsa
+	* Skyrim - Misc.bsa
+	* Skyrim - Patch.bsa
+	* Skyrim - Shaders.bsa
+	* Skyrim - Sounds.bsa
+	* Skyrim - Textures0.bsa
+	* Skyrim - Textures1.bsa
+	* Skyrim - Textures2.bsa
+	* Skyrim - Textures3.bsa
+	* Skyrim - Textures4.bsa
+	* Skyrim - Textures5.bsa
+	* Skyrim - Textures6.bsa
+	* Skyrim - Textures7.bsa
+	* Skyrim - Textures8.bsa
+	* Skyrim - Voices_en0.bsa
+	* Skyrim.esm
+	* Update.esm
+
+If there are other files in your Data folder, go back and make sure you followed all the steps when uninstalling. If your folder only has those files, you can continue.
 
 Start up Skyrim
 ~~~~~~~~~~~~~~~
@@ -93,12 +133,12 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 Post-Installation
 ^^^^^^^^^^^^^^^^^
 
-Now that Librum is installed, it is time to start the game up for real and create your character. The character creation process has changed with Librum, so we will give details below. Moreover, it is highly recommended that you **configure the MCM after race selection** as described below.
+Now that Librum is installed, it is time to get the game ready to start up. You should have a number of things in the folder that was just installed by Wabbajack. The next few steps will require you to be accessing that folder. 
 
 Copy "Game Folder Files"
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-Navigate to the installed Librum folder, where you will find a folder titled ``Game Folder Files``. Copy the contents of this folder to the Skyrim root folder.
+Navigate to the installed Librum folder, where you will find a folder titled ``Game Folder Files``. Copy the contents of this folder to the Skyrim root folder. This folder will be in the new ``Steam Library`` folder that you created earlier. 
 
 **(VR) Optional: CAS Sharpener for VR.** If you find that the game is too blurry with the default ENB preset, I have included `CAS Sharpener <https://www.nexusmods.com/skyrimspecialedition/mods/38219>`_ Note that it will compromise the "ominous" look of the default ENB.
 
@@ -134,7 +174,6 @@ Navigate back to the installed Librum folder, and launch the program ``ModOrgani
 Gameplay Customization
 """"""""""""""""""""""
 
-
 * 
   **End Times** [\ `Nexus <https://www.nexusmods.com/skyrimspecialedition/mods/39201>`_\ ] *(Enabled)* This plugin adds a sense of urgency to the Main Quest, and it ties in nicely with Librum's re-centering of Skyrim around being the Dragonborn. Specifically, if you do not defeat Alduin within a certain amount of time (365 days by default, but configurable in the MCM), he will swallow the world (accompanied by a nice visual), and you will have to reload and try again. You will have a *Doomsday Clock* spell available, as well as configurable regular updates, to tell you how much time you have left. If you do not want this plugin, disable it in MO2.
 
@@ -153,6 +192,9 @@ Gameplay Customization
 
 *
   **SkyUI The Adventurer Theme Mod SE** *(Enabled)* If you want a nicer cursor and Oblivion-style inventory icons, this is the plugin for you. If you do not want this plugin, disable it in MO2.
+
+*
+  **Minimap** *(Enabled)* This introduces a minimap UI aspect similar to The Witcher 3. By default the minimap included in your Mod Organizer 2 works with 2K displays. If your system uses another display type (1080p or 4K) you will need to, currently, grab the proper version from our `discord <https://discord.gg/nAQWr4VmG6>`_. The files you are looking for are pinned in the "Anouncements" channel. All you need to do is download the proper version for your computer, and then drop the contents of the file into your ``Librum\Overwrite`` folder. This is located in your Librum install, where you were directed to get the "Game Folder Files." It is not on MO2. If you do not want a minimap, disable the plugin in MO2.
 
 *
   **Frenchsworn, Kitties Speak Spanish, Nords speak Deutsch, Italian for Tullius** *(Disabled)* These mods replace the voice and lip-syncing for the appropriate NPCs with alternate languages. Forsworn will speak French, Khajiit will speak Spanish, Nords (and some non-Nords) will speak German, and Imperials (not just Tullius) will speak Italian. Subtitles will remain in English, so make sure you have them turned on if you choose to use some or all of these optional mods!
@@ -176,38 +218,54 @@ The UI and UX of your game is a very personal and subjective choice, so we've in
 
 
 * 
-  **Librum UI Customizer** *(Defaults to Magic Cards)* Right-clicking and selecting Reinstall Mod on the Librum UI Customizer will allow you to choose between several pre-installed fonts, compatibility patches/replacers, and UI/HUD Presets. When prompted by MO2, select **Replace Mod**. The fonts can be previewed `here <https://i.imgur.com/a/QhGuCU9>`_\ , as well as in the FOMOD installer. A massive thanks to all the authors who have given permission for us to include these!
+  **Librum UI Customizer** *(Defaults font to Magic Cards)* Right-clicking and selecting Reinstall Mod on the Librum UI Customizer will allow you to choose between several pre-installed fonts, compatibility patches/replacers, and UI/HUD Presets. When prompted by MO2, select **Replace Mod**. The fonts can be previewed `here <https://i.imgur.com/a/QhGuCU9>`_\ , as well as in the FOMOD installer. A massive thanks to all the authors who have given permission for us to include these!
 *
-  **Librum ENB Selector** (Defaults to Ominous ENB) Right-clicking and selecting Reinstall Mod on the Librum ENB Selector will allow you to choose between several included ENB options with various quality presets. If playing Skyrim VR, we’ve also included some reshade options for better sharpening.
+  **Librum ENB Selector** *(Defaults to Ominous ENB)* Right-clicking and selecting Reinstall Mod on the Librum ENB Selector will allow you to choose between several included ENB options with various quality presets. If playing Skyrim VR, we’ve also included some reshade options for better sharpening.
 
 **Please note that if you have your Wabbajack Downloads folder outside of the** ``<Librum Install>/downloads`` **path, you will need to go to your downloads folder, copy the Librum ENB Selector and Librum UI Customizer .7z files to your** ``<Librum Install>/downloads`` **folder before you can Reinstall them in MO2 and use the FOMOD.**
 
 **Alternatively, you can change the Librum Mod Organizer 2 Downloads directory by clicking the "Configure settings and workarounds" button in Mod Organizer 2 (it looks like a screw and wrench crossed over eachother) and changing the Downloads directory to whatever you selected when installing Librum in Wabbajack.**
-
-
 
 Starting Librum
 ~~~~~~~~~~~~~~~
 
 To start the game for real, start SKSE or "Play Librum" through Mod Organizer 2. This will be necessary every time you start the game; if you try to launch Skyrim through its default folder or through Steam, the game will be entirely vanilla.
 
-Start a new game once you get to the main menu. You will start in the character creation area from `Nightmare of Lorkhan <https://www.nexusmods.com/skyrimspecialedition/mods/46649>`_. For more information on character creation, please read the `Strategy Guide <Strategy_Guide.md>`_ (but come back here after!).
+Start a new game once you get to the main menu. You will start in the character creation area called *The Glade.* For more information on character creation, please read the `Survival Guide
+<https://librum-for-skyrim-vr.readthedocs.io/en/latest/survival/index.html>`_ (but come back here after!).
 
-If you want to read up on your character creation options, please see the `Character Creation <https://librum-modpack.com/?page_id=296>`_ page.
+If you want to read up on your character creation options, please see the `Character Creation
+<https://librum-modpack.com/?page_id=296>`_ page.
 
 Configure the MCM
 ~~~~~~~~~~~~~~~~~
 
-Once you have created your character, wait until all the messages in the top left of the screen stop appearing and you receive a confirmation prompt to continue playing. **There is no MCM customization necessary for Librum.**
+Once you have created your character, wait until you receive a confirmation prompt to continue playing. **There is no MCM customization necessary for Librum 3.0.** The MCM options for all mods are set automatically to Librum's standard. There will be a section below this detailing options to personalize this yourself if you are not happy with some of the default settings.
 
-If you are interested in voice commands, the following settings will allow you to use the optional voice commands modules.
-
-**Optional Voice Command MCMs**
-
+However, if you are interested in using the voice commands available as an optional part of Librum, the following settings will have to be changed manually in the MCM.
 
 #. **Hunterborn.** Set the "Sense Direction" hotkey to "x".
 #. **Spell Research.** Set the "Spell Research" hotkey to "alt".
 #. **SunHelm.** Set the "Continuance" hotkey to "y", and the "Drink Water/Fill Waterskin" hotkey to "l".
+
+**Voice commands is an optional part of Librum located in the *Optional Controls* section near the bottom of the left panel in Mod Organiser 2.**
+
+
+Personalizing the MCM
+~~~~~~~~~~~~~~~~~~~~~
+
+If you find that some of the default settings in Librum are not to your taste, you can usually customize most of them via the MCM. I will go over a number of the usual alteration requests we see:
+
+**Survival and Needs.** By default `Frostfall <https://www.nexusmods.com/skyrimspecialedition/mods/671>`_ (used for cold weather survival) and `Sunhelm
+<https://www.nexusmods.com/skyrimspecialedition/mods/39414>`_ (used for hunger/thirst needs) are enabled. If you do not want to have survival mechanics in your game, you can deactivate these mods via thier MCM menus. **After deactivating one, close the MCM completely to be back in the game and wait for a moment. Then open the MCM and deactivate the other. Do not try to deactivate both without closing and reopening the MCM.**
+  If you are feeling like you are freezing too quickly or getting hungry/thirsty/tired too quickly you can also ajust the rates that these increase in the respective MCM menus. Turning down the "Exposure Rate" in the Frostfall MCM will slow the rate your character gets cold. The default value is 1.0 if you ever wish to reset it to default. Meanwhile, lowering the Hunger, Thirst, or Fatigue rates inside the Sunhelm MCM will make you need to eat, drink, and sleep less often. The default values for these are at 10 if you wish to go back to Librum default.
+
+**Encumbrance.** Librum uses two mods to affect your encumbrance: `Realistic Capacity <https://www.nexusmods.com/skyrimspecialedition/mods/17577>`_ and `Cobb Encumbrance <https://www.nexusmods.com/skyrimspecialedition/mods/18362>`_. Realistic Capacity is the culprit if you are wondering why your carry weight is so low compared to normal Skyrim. It dynamically alters your carryweight depending on what you are wearing and fighting with. It makes your weapons and armor you use effectively weightless so that your carryweight is mostly taken up by the loot you grab. It is designed to make it more important to prioritize gems, and other small, but expensive items as loot over whole sets of armor and big weapons. You can disable the whole mod in the MCM if you are not enjoying the change, though Librum is very much balanced around the idea of a smaller carry capacity. You may want to enable Sunhelm's Carry Weight modifier in the Sunhelm MCM if you disable Realistic Capacity. Another option is to adjust the "Base Carry Capacity" section of Realistic Capacity MCM. It defaults to 25 with Librum, but you can increase that some if you like the idea of the mod, but want some more wiggle room.
+
+Cobb Encumbrance makes you move slower the more you are carrying, but also faster if you are traveling very light. This is also done dynamically as you pick up more things. You can disable this from the MCM if you do not like the speed changes. There is also a section where you can tweak the modifiers it applies to your speed, and the weight you need for that effect to become active for each stage.
+
+
+**Economy and Trade.** Librum uses `Trade & Barter <https://www.nexusmods.com/skyrimspecialedition/mods/23081>`_ to make the Skyrim economy feel more dynamic. It makes earning large amounts of money harder, and it pairs well with the reduced carryweight default to Librum. You cannot disable this mod, but it can be heavily altered.If you are simply wanting the merchants to be a little less ruthless, you can change the preset from "Hardcore" to "Difficult. The big factor to note about this mod, it places the barter pricing reliance more on the Speechcraft perks rather than simply your speechcraft skill. This will make early game buying/selling seem far harder as perks are inherently more difficult to get, but if you put a few perks into speechcraft you will find the difference becomes more in your favor. This reliance on perks over skill makes putting your first few perks into speechcraft more reasonable if you are looking to make money. This is especially true for a theif as fences will be the hardest to haggle with at low level and no perks.
 
 (VR) Natural Locomotion
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -241,8 +299,6 @@ In terms of configuring NaLo, I recommend the following settings (although it is
 
 When you want to play, first load up NaLo and click "Start selected profile" on Skyrim VR, and then launch Skyrim normally (SKSE through MO2).
 
-Congratulations! You've completed the Librum setup, and you are ready to play. The next several sections will explain what Librum is and does, as well as provide support.
-
 Updating
 ^^^^^^^^
 
@@ -254,3 +310,8 @@ This means that any additional mods you have installed on top of Librum will be 
 
 Updating is like installing. You only have to make sure that you select the same path and tick the *Overwrite existing modlist* button.
 Note that some in-game settings will get reset when updating. Check them all again! Particularly, "dynamic resolution" and "disable lod" in the "VR Performance" settings menu. 
+
+Finished
+^^^^^^^^
+
+Congratulations! You've completed the Librum setup, and you are ready to play. The next several sections will explain what Librum is and does, as well as provide support.
