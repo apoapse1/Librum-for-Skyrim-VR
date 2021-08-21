@@ -160,11 +160,11 @@ These are not strictly essential, but you may find that them helpful if you are 
 #. Disable 'Automatically manage paging file size for all drives'
 #. If you have more than one drive, try enabling it for at least one more drive as a backup (make sure it has a decent bit of free space, like 15GB). Set the size to 'System managed size'. Otherwise, set a custom size for the drive it's currently on and increase the maximum size to be roughly 20GB.
 
-*  **Misc Tips**
+*
+  **Disable Certain Programs** Close Logitech Keyboard or Mouse as well as any Sonic Suite "tray" applications running in the background of your computer before launching the game. These programs are known to cause random CTDs and audio issues respectively.
 
-Close Logitech Keyboard or Mouse as well as any Sonic Suite "tray" applications running in the background of your computer, close them before launching the game. These programs are known to cause random CTDs and audio issues respectively.
-
-Block any outgoing connections from the Skyrim SE/VR process in your Windows firewall.
+*
+  **Block Skyrim in Your Firewall** Block any outgoing connections from the Skyrim SE/VR process in your Windows firewall.
 
 Optional Plugins
 ~~~~~~~~~~~~~~~~
