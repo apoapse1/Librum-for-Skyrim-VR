@@ -154,11 +154,11 @@ These are not strictly essential, but you may find that them helpful if you are 
 *
   **Make a Huge Pagefile** If you're running into problems where the game is running out of usable memory, this is for you. The steps are a bit technical, but nothing too crazy. For those who already know how to make them, set the pagefile on the same drive as the game to 20 GB. Do it for any extra drives you have as well if the one doesn't help enough. For everybody else who needs more guidance, here is a step-by-step breakdown:
 
-#. Press Windows + R on your keyboard and enter sysdm.cpl ,3
-#. Under the Performance section, press 'Settings'
-#. Go to the Advanced tab at the top, and at the Virtual memory section press 'Change...'
-#. Disable 'Automatically manage paging file size for all drives'
-#. If you have more than one drive, try enabling it for at least one more drive as a backup (make sure it has a decent bit of free space, like 15GB). Set the size to 'System managed size'. Otherwise, set a custom size for the drive it's currently on and increase the maximum size to be roughly 20GB.
+  #. Press Windows + R on your keyboard and enter sysdm.cpl ,3
+  #. Under the Performance section, press 'Settings'
+  #. Go to the Advanced tab at the top, and at the Virtual memory section press 'Change...'
+  #. Disable 'Automatically manage paging file size for all drives'
+  #. If you have more than one drive, try enabling it for at least one more drive as a backup (make sure it has a decent bit of free space, like 15GB). Set the size to 'System managed size'. Otherwise, set a custom size for the drive it's currently on and increase the maximum size to be roughly 20GB.
 
 *
   **Disable Certain Programs** Close Logitech Keyboard or Mouse as well as any Sonic Suite "tray" applications running in the background of your computer before launching the game. These programs are known to cause random CTDs and audio issues respectively.
