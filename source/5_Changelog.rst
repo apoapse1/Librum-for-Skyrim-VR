@@ -1,6 +1,29 @@
 Changelog
 =========
 
+| **v3.0.2**
+| Fixes:
+
+* Different minimap resolutions made available by default.
+* Several merges cleaned.
+* *Real Names* scripts patched.
+* Palace of Kings doors' positions corrected.
+* Outstanding guards patched for *Real Names*.
+* Form 43 issue resolved (it was never an issue, it just garnered questions).
+* Rock seam in Wanderer's Glade fixed.
+* *SunHelm* "unknown food" bug fixed.
+* Defaulted to borderless window (SE only, of course).
+* Clipping tree corrected.
+
+| **v3.0.1** (released as separate zip file on Discord)
+| Fixes:
+
+* *SunHelm* water refilling now works.
+* Memory leak fixed.
+* *Apoapse's Advancement* negative EXP values fixed.
+* *Frostfall* exposure death glitch fixed.
+* Respawn overhaul made optional.
+
 | **v3.0 - the Wanderer's Glade.**
 | New Unique-to-Librum Features:
 
