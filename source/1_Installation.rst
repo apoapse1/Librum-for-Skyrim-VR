@@ -142,11 +142,17 @@ Navigate to the installed Librum folder, where you will find a folder titled ``G
 
 **(VR) Optional: CAS Sharpener for VR.** If you find that the game is too blurry with the default ENB preset, I have included `CAS Sharpener <https://www.nexusmods.com/skyrimspecialedition/mods/38219>`_ Note that it will compromise the "ominous" look of the default ENB.
 
+Grab the 3.0.1.7 Hotfix from the Librum Google Drive
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+While we prepare for a full release of 3.1 that will fix as many bugs and issues as we can, you will need to use `hotfixes <https://drive.google.com/file/d/1NvKUy812dFPIAdgGJi7KSpapihczJtKf/view>`_ for any outstanding issues in the meantime.
+
+All you need to do is to download the .zip file from the Google Drive link. Then, in MO2, there is an option towards the top right with a CD in the graphic. This will allow you to import the .zip file you just downloaded into your MO2 profile. it should appear at the bottom of the left panel and you can leave it there. Once that is done, simply activate it and you have the most recent fixes. We still recommend you join our `discord <https://discord.gg/nAQWr4VmG6>`_ so that you can get announcements for any further hotfix releases.
 
 Performance Tips
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~
 
-These are not strictly essential, but you may find that them helpful if you are experiencing stutter, lag, or general instability. This list may be added to as time goes on.
+These are not strictly essential, but you may find them helpful if you are experiencing stutter, lag, or general instability. This list may be added to as time goes on.
 
 *
   **Change or Disable ENB** You may find that your graphics card simply isn't powerful enough for any sort of ENB. This may very well be the case, but before you toss it entirely, try reinstalling the ENB selector in the mod manager and set it to the performance version of the default. If that doesn't help enough, try out some of the other ones we've included. If all else fails, then yes, you may want to consider removing the ENB entirely.
