@@ -114,10 +114,6 @@ Problems with Wabbajack
 
 There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off, so you lose no progress.
 
-
-* 
-  **Could not download X.** If a mod updated and the old files got deleted, it is impossible to download them. In this case, just wait until I update Librum.
-
 * 
   **X is not a whitelisted download.** This can happen when I update the modlist. Check if a new update is available and wait if there is none.
 
