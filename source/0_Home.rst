@@ -76,7 +76,7 @@ User Comments
 
 .. raw:: html
 
-   <div align="center">"Certainly seems like I'll have to treat this like a new game<br>rather than the skyrim I've come to know."</div>
+   <div align="center">"I WAS A WIMP BEFORE I PLAYED LIBRUM (TM), NOW I HAVE AN 8-PACK AND SMALL FEET! TRY LIBRUM (TM) TODAY, AND BE AMAZED BY ITS SEEMINGLY IMPOSSIBLE-TO-COMPREHEND COMPLEXITY!"</div>
 
 
 .. raw:: html
