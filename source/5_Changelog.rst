@@ -14,6 +14,16 @@ Changelog
 * *SunHelm* "unknown food" bug fixed.
 * Defaulted to borderless window (SE only, of course).
 * Clipping tree corrected.
+* Respawn disables itself now in certain quest-locked locations, to prevent breaking those quests.
+* Nightgate Inn was cleaned up a bit (a lot, actually).
+* The "Traits" book in the Glade was set to reset its location upon re-entering the Glade.
+* A small respawning food/drink knapsack was added to the Glade, in case you die of thirst or hunger.
+* An AI marker in Windhelm was moved.
+* Synthesis.esp masters corrected.
+* *Respawn* is no longer mandatory.
+* The Spell Research Experience Book bug was fixed, allowing you to open it normally (SE only).
+* Level-up filler messages were removed.
+* A bug involving *Advancement* was fixed.
 
 | **v3.0.1** (released as separate zip file on Discord)
 | Fixes:
