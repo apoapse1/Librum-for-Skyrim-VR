@@ -5,7 +5,7 @@
 Introduction
 ============
 
-**A small request: if you enjoy my work, please consider contributing to my Patreon page at the link below. Although I certainly don't expect any donations from users, these sorts of contributions allow me to continue improving and supporting Librum.**
+**A small request: if you enjoy my work, please consider contributing to my Patreon page at the link below. Although I certainly don't expect any donations from users, these sorts of contributions allow me to continue improving and supporting our modlists.**
 
 
 .. raw:: html
@@ -51,7 +51,7 @@ User Comments
 
 .. raw:: html
 
-   <div align="center">"This is definitely the most different playthrough I've ever done."</div>
+   <div align="center">"This list is a complete re-imagination of the game the likes of which hasn't been seen since Requiem."</div>
 
 
 .. raw:: html
@@ -61,12 +61,12 @@ User Comments
 
 .. raw:: html
 
-   <div align="center">"It's refreshing. At this point I would have all novice spells that I wanted in a normal playthrough."</div>
+   <div align="center">"[Magic] takes a huge amount of work and is genuinely taxing for you the player, as much as your character."</div>
 
 
 .. raw:: html
 
-   <div align="center">"I don't have enough money to pay followers 500/week."</div>
+   <div align="center">"Brutal. Unforgiving. Dark. Wonderful."</div>
 
 
 .. raw:: html
@@ -76,7 +76,7 @@ User Comments
 
 .. raw:: html
 
-   <div align="center">"Certainly seems like I'll have to treat this like a new game<br>rather than the skyrim I've come to know."</div>
+   <div align="center">"I WAS A WIMP BEFORE I PLAYED LIBRUM (TM), NOW I HAVE AN 8-PACK AND SMALL FEET! TRY LIBRUM (TM) TODAY, AND BE AMAZED BY ITS SEEMINGLY IMPOSSIBLE-TO-COMPREHEND COMPLEXITY!"</div>
 
 
 .. raw:: html
@@ -86,7 +86,7 @@ User Comments
 
 .. raw:: html
 
-   <div align="center">"So far I've had a blast with the modlist. Makes Skyrim feel like a new game."</div>
+   <div align="center">"You're just a normal person forced to adapt to your surroundings and hardships. "</div>
    
 
 \ 
