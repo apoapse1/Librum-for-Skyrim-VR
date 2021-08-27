@@ -177,7 +177,8 @@ Gameplay Customization
 """"""""""""""""""""""
 
 *
-  **Helps to Have a Map** [\ `Nexus <https://www.nexusmods.com/skyrimspecialedition/mods/37238>`_\ ] *(Enabled)** This plugin restricts using the map menu. You will need to have a physical map equipped in order to open the map menu. The best way to find maps is to buy them from general stores. Maps will need to be reinforced periodically or they will eventually degrade through use and disappear. If you do not want this plugin, do NOT disable it in MO2. Instead, run the following command in the console: *set mapreqsdisabled to 1*
+  **Helps to Have a Map** [\ `Nexus <https://www.nexusmods.com/skyrimspecialedition/mods/37238>`_\ ] *(Enabled)** This plugin restricts using the map menu. You will need to have a physical map equipped in order to open the map menu. The best way to find maps is to buy them from general stores. Maps will need to be reinforced periodically or they will eventually degrade through use and disappear. If you do not want this plugin, do NOT disable it in MO2. Instead, run the following command in the console: **set mapreqsdisabled to 1** If you would like to ONLY disable degradation, then run the following: **set MapDegradationDisabled to 0**
+
 
 * 
   **End Times** [\ `Nexus <https://www.nexusmods.com/skyrimspecialedition/mods/39201>`_\ ] *(Enabled)* This plugin adds a sense of urgency to the Main Quest, and it ties in nicely with Librum's re-centering of Skyrim around being the Dragonborn. Specifically, if you do not defeat Alduin within a certain amount of time (365 days by default, but configurable in the MCM), he will swallow the world (accompanied by a nice visual), and you will have to reload and try again. You will have a *Doomsday Clock* spell available, as well as configurable regular updates, to tell you how much time you have left. If you do not want this plugin, disable it in MO2.
