@@ -1,6 +1,16 @@
 Changelog
 =========
 
+| **v3.0.3**
+| Fixes:
+
+* Crashing fixed.
+* Almost all instances of "gold" changed to "coppers" or "medes".
+* Magic HUD bar fix by Haz -- will make HUD design much easier.
+* Morrowind-Style Beast Races corrected.
+* Updated lots of mods.
+* Reintroduced traveling merchants in Immersive Patrols.
+
 | **v3.0.2**
 | Fixes:
 
