@@ -1,6 +1,31 @@
 Changelog
 =========
 
+| **v3.0.4**
+| Added Mods:
+
+* *HD Reworked Horses*
+* *Follower Death and Injury Chance*
+* *Immersive First Person View* (SE only)
+* *SmoothCam* (SE only)
+
+Fixes:
+
+* *Apoapse's Advancement* corrected in VR. This fixes the leveling CTD y'all were having.
+* Perks/level now adjustable in *Advancement* MCM.
+* Khajiit/Argonian skeletons now corrected.
+* *True Directional Movement* MCM restored.
+* Armor formulas edited; KYE armor removed and *Armor Rating Redux* introduced.
+* *STAYDOWN* replaced with *Follower Death and Injury Chance*.
+* *Simple Outfit System* removed for now.
+* Another seam corrected in the Glade.
+* Riften textures corrected.
+* Sapphire scene corrected.
+* Azura statue texture fixed.
+* *MoreHUD* preset updated to look better.
+* Economy more reasonable.
+* *SSSO* automated correctly.
+
 | **v3.0.3**
 | Fixes:
 
