@@ -25,6 +25,7 @@ Fixes:
 * *MoreHUD* preset updated to look better.
 * Economy more reasonable.
 * *SSSO* automated correctly.
+* All interior navs reviewed and corrected.
 
 | **v3.0.3**
 | Fixes:
