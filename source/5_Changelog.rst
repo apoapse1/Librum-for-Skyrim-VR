@@ -6,8 +6,7 @@ Changelog
 
 * *HD Reworked Horses*
 * *Follower Death and Injury Chance*
-* *Immersive First Person View* (SE only)
-* *SmoothCam* (SE only)
+* *SmoothCam* (SE only, and optional)
 
 Fixes:
 
@@ -26,6 +25,8 @@ Fixes:
 * Economy more reasonable.
 * *SSSO* automated correctly.
 * All interior navs reviewed and corrected.
+* Weapon reach fixed.
+* Locational damage (including headshots) settings customized and balanced.
 
 | **v3.0.3**
 | Fixes:
