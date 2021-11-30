@@ -131,12 +131,6 @@ Post-Installation
 
 Now that Librum is installed, it is time to get the game ready to start up. You should have a number of things in the folder that was just installed by Wabbajack. The next few steps will require you to be accessing that folder. 
 
-Copy "Game Folder Files"
-~~~~~~~~~~~~~~~~~~~~~~~~
-
-Navigate to the installed Librum folder, where you will find a folder titled ``Game Folder Files``. Copy the contents of this folder to the Skyrim root folder. This folder will be in the new ``Steam Library`` folder that you created earlier. 
-
-**(VR) Optional: CAS Sharpener for VR.** If you find that the game is too blurry with the default ENB preset, I have included `CAS Sharpener <https://www.nexusmods.com/skyrimspecialedition/mods/38219>`_ Note that it will compromise the "ominous" look of the default ENB.
 
 Performance Tips
 ~~~~~~~~~~~~~~~~
