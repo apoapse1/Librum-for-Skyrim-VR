@@ -18,7 +18,6 @@ Librum makes use of the excellent `Wabbajack <https://www.wabbajack.org/#/>`_ pr
 #. Install the Wabbajack desktop client from `here <https://github.com/wabbajack-tools/wabbajack/releases>`_.
 #. Navigate to Librum under the *Browse for Modlists* tab.
 #. Install Librum to a new folder outside of ``Program Files`` using Wabbajack.
-#. When it has finished intalling (which can take a while depending on your internet), copy the files ``Game Folder Files`` folder to your Skyrim VR or SE directory.
 #. Start a new game, and wait until a pop-up notifies you that all the mods are active and the MCM has been set properly.
 
 
@@ -187,7 +186,7 @@ Gameplay Customization
   **SkyUI The Adventurer Theme Mod SE** *(Enabled)* If you want a nicer cursor and Oblivion-style inventory icons, this is the plugin for you. If you do not want this plugin, disable it in MO2.
 
 *
-  **Minimap** *(Enabled)* This introduces a minimap UI aspect similar to The Witcher 3. By default the minimap included in your Mod Organizer 2 works with 2K displays. If your system uses another display type (1080p or 4K) you will need to, currently, grab the proper version from our `discord <https://discord.gg/nAQWr4VmG6>`_. The files you are looking for are pinned in the "Anouncements" channel. All you need to do is download the proper version for your computer, and then drop the contents of the file into your ``Librum\Overwrite`` folder. This is located in your Librum install, where you were directed to get the "Game Folder Files." It is not on MO2. If you do not want a minimap, disable the plugin in MO2.
+  **Minimap** *(Enabled)* This introduces a minimap UI aspect similar to The Witcher 3. By default the minimap included in your Mod Organizer 2 works with 2K displays. If your system uses another display type (1080p or 4K) you will need to, currently, grab the proper version from our `discord <https://discord.gg/nAQWr4VmG6>`_. The files you are looking for are pinned in the "Anouncements" channel. All you need to do is download the proper version for your computer, and then drop the contents of the file into your ``Librum\Overwrite`` folder. This is located in your Librum install. It is not on MO2. If you do not want a minimap, disable the plugin in MO2.
 
 *
   **Frenchsworn, Kitties Speak Spanish, Nords speak Deutsch, Italian for Tullius** *(Disabled)* These mods replace the voice and lip-syncing for the appropriate NPCs with alternate languages. Forsworn will speak French, Khajiit will speak Spanish, Nords (and some non-Nords) will speak German, and Imperials (not just Tullius) will speak Italian. Subtitles will remain in English, so make sure you have them turned on if you choose to use some or all of these optional mods!
