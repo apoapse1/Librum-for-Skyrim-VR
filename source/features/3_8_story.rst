@@ -4,7 +4,7 @@ The Dragonborn Story
 Librum is designed around your character being the legendary Dovahkiin. However, the vanilla experience didn't fit our vision for what it means to be Dragonborn, and what the The Dragonborn's story holds. To handle this, we have `Dragon souls are free <https://www.nexusmods.com/skyrimspecialedition/mods/46794/>`_ and `True Teacher Durnehviir <https://www.nexusmods.com/skyrimspecialedition/mods/44969>`_.
 
 The Dragonborn of Legend
-------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 For the average denizen of Tamriel, it can take years to fully grasp even the basics of any chosen discipline. People spend their whole lives devoted to mastering a martial art, alchemical study, or even a single school of magecraft. As the Dragonborn, you are capable of feats beyond that of the average person, but mastery always comes at a cost...
 
