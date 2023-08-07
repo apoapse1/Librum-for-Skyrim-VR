@@ -31,56 +31,22 @@ Installing Microsoft Visual C++ Redistributable Package
 
 I doubt you need to do this since you likely already have this installed. The package is required for MO2 and you can download it from `Microsoft <https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads>`_. Download the x64 version under "Visual Studio 2015, 2017 and 2019". `Direct link <https://aka.ms/vs/16/release/vc_redist.x64.exe>`_ if you can't find it.
 
-Cleaning Skyrim Folders
+Setting up the game:
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-Our First step is goign to be to clean out the current Skyrim install. **If you are playing Special Edition:**
-* Uninstall Skyrim Special Edition with Steam
-* Unsubscribe to all Steam Workshop Mods
-* Delete the ``Skyrim Special Edition`` folder found at: ``C:\ProgramFiles(x86)\Steam\Steamapps\common\Skyrim Special Edition``_.
-* Delete the ``Skyrim Special Edition`` folder found at: ``Documents\my games\Skyrim Special Edition``_.
+Make sure you have the game installed outside of program files.
+Use this tool to make more than one Steam directory on a single drive:
+<https://github.com/LostDragonist/steam-library-setup-tool>
 
-**If you are playing VR** you will instead be deleting the SkyrimVR versions of these folders.
+Set the game language to English in Steam, make sure you're not using a beta branch, and verify the game files.
+Then run Wabbajack again.
 
-Steam Config
-~~~~~~~~~~~~
+Steam and Games - Language Settings
+<https://help.steampowered.com/en/faqs/view/4984-C127-121D-B3F2>
 
-Firstly, the easiest part. We need to disable the Steam Overlay for your chosen Skyrim version (SSE or VR). Simply right click the game in the left tab of steam, select properties, and then uncheck "Enable the Steam Overlay while in-game."
+Verify Integrity of Game Files
+<https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB>
 
-We also need to make sure that Steam won't install the game into the default Program Files Location. This is more complicated, but still not difficult. You should be fine if you follow this `guide
-<https://help.steampowered.com/en/faqs/view/4BD4-4528-6B2E-8327>`_ on how to create a Steam Library folder elsewhere. You only need to follow the "How do I change the default installation path for my games?" section. 
-  **You do not need to set the new folder to the default install location.** You can if you would like. Simply having a new location is enough.
-
-After you have a new Steam Library folder outside of the ``Program Files (x86)`` location, you can install your Skyrim version. When you click to install now you should get a pop-up with a drop down box in which you can select where you would like to install the game. Simply select the newly created folder from this menu.
-
-Once the game is installed you should check to make sure the install is clean. The only files inside the ``Data`` folder of your new Skyrim install should be:
-
-	* Video *(this is a folder)*
-	* Dawnguard.esm
-	* Dragonborn.esm
-	* Hearthfire.esm
-	* Skyrim - Animations.bsa
-	* Skyrim - Interface.bsa
-	* Skyrim - Meshes0.bsa
-	* Skyrim - Meshes1.bsa
-	* Skyrim - Misc.bsa
-	* Skyrim - Patch.bsa
-	* Skyrim - Shaders.bsa
-	* Skyrim - Sounds.bsa
-	* Skyrim - Textures0.bsa
-	* Skyrim - Textures1.bsa
-	* Skyrim - Textures2.bsa
-	* Skyrim - Textures3.bsa
-	* Skyrim - Textures4.bsa
-	* Skyrim - Textures5.bsa
-	* Skyrim - Textures6.bsa
-	* Skyrim - Textures7.bsa
-	* Skyrim - Textures8.bsa
-	* Skyrim - Voices_en0.bsa
-	* Skyrim.esm
-	* Update.esm
-
-If there are other files in your Data folder, go back and make sure you followed all the steps when uninstalling. If your folder only has those files, you can continue.
 
 Start up Skyrim
 ~~~~~~~~~~~~~~~
