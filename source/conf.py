@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Librum for Skyrim SE/VR'
+project = 'Librum for Skyrim VR/SE'
 copyright = '2023, Scenic Route Games'
 author = 'Scenic Route Games'
 
