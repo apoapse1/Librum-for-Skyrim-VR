@@ -27,7 +27,7 @@ Librum makes several major changes to character progression, described by the fo
    * - Dragon souls are exclusively used to unlock dragon shouts.
      - Dragon souls have two purposes. They can be used to unlock perk points (as mentioned above), and you will have passive buffs applied depending on the number of unspent souls in your collection.
    * - You can level up at any time by opening the Skills menu.
-     - You must sleep for 8 hours in order to level up, in order to prevent level-ups in dangerous locations.
+     - `Apoapse's Advancement<https://www.nexusmods.com/skyrimspecialedition/mods/55174>`_ autocalculates stats AND player level according to your skills (and other achievements). Basically, no level up menus ever.
    * - Perks are typically straight buffs to your existing skills, and form the core part of your character's identity.
      - Librum uses `Vokrii <https://www.nexusmods.com/skyrimspecialedition/mods/26176>`_ to mix up perk benefits and to help balance around having only a small handful of perks; a single perk investment in any tree replaces vanilla's "20/40/60/80/100%" improvement perks or "Novice/Apprentice/Adept/Expert/Master" perks.
    * - Standing Stones provide moderate benefits to an existing character build, and can be changed at any time.
