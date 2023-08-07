@@ -47,13 +47,6 @@ Steam and Games - Language Settings
 Verify Integrity of Game Files
 <https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB>
 
-
-Start up Skyrim
-~~~~~~~~~~~~~~~
-
-After you have done everything above and have a clean Skyrim VR/SE installation ready, start the Launcher and and let it do the initial graphics check. Do not worry about the graphics settings at this point, as the Librum installation will replace them. 
-Start the game and exit once you're in the main menu.
-
 Using Wabbajack
 ^^^^^^^^^^^^^^^
 
