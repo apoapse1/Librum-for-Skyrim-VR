@@ -5,7 +5,7 @@
 Introduction
 ============
 
-**A small request: if you enjoy my work, please consider contributing to my Patreon page at the link below. Although I certainly don't expect any donations from users, these sorts of contributions allow me to continue improving and supporting our modlists.**
+**A small request: if you enjoy our work, please consider contributing to our Patreon page at the link below. Although we certainly don't expect any donations from users, these sorts of contributions allow us to continue improving and supporting our modlists.**
 
 
 .. raw:: html
