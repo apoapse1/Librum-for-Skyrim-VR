@@ -12,7 +12,7 @@ Introduction
 
 	<img src="https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/patreon.png" width="150" height="50">
 
-`Patreon Link <https://www.patreon.com/apoapse?fan_landing=true>`_
+`Patreon Link <https://www.patreon.com/scenicroutegames?fan_landing=true>`_
 
 Preamble
 --------
