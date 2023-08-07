@@ -35,6 +35,7 @@ Setting up the game:
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 Make sure you have the game installed outside of program files.
+
 Use `this tool <https://github.com/LostDragonist/steam-library-setup-tool>`_ to make more than one Steam directory on a single drive 
 
 Set the game language to English in Steam, make sure you're not using a beta branch, and verify the game files.
