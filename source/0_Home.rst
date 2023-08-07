@@ -26,7 +26,7 @@ Preamble
 
 .. raw:: html
 
-   <div align="center"><b>With big thanks to the Librum team:<br>EllieMental, PrivateDelta, EreEric98, Killbotvii, tmt, Destiny, Jayden, JulieChaos, Reina Bunny, Braven, IHateViolence, Reyqune, Mixtape Romeo, and Haz.</b></div>
+   <div align="center"><b>With big thanks to the Librum design team at Scenic Route Games:<br>EllieMental, PrivateDelta, EreEric98, Killbotvii, tmt, Destiny, Jayden, JulieChaos, Reina Bunny, Braven, IHateViolence, Reyqune, Mixtape Romeo, and Haz.</b></div>
    <br/>
 
 *You’re lost in the woods, having narrowly escaped after scaring off a pack of wolves with your travel lantern. Your lantern’s oil finally runs dry, and it’s getting cold. You can conjure basic food and shelter, but your spells all seem to fizzle out in this weather. You need to gather wood in order to sustain a fire and survive the night. With little time to spare, you can’t search far for materials — luckily, you’ve fashioned a basic hatchet the night before, and you can chop down a nearby tree for lumber. After many failed attempts, you sustain a weak flame spell long enough to light your campfire. You fall asleep next to your fire, having prayed to Kynareth to fend off would-be predators. Despite a few interruptions in the night, the morning comes at last, and the sun finally breaks over the horizon.*
@@ -94,9 +94,9 @@ User Comments
 Credits and Thanks
 ------------------
 
-I couldn't have done it without the Librum team:. They have been a huge part of this process, both creatively and in developing the modlist and its associated resources.
+We couldn’t have accomplished all of this without the team at Scenic Route Games. They have been a huge part of this process, both creatively and in developing the modlist and its associated resources.
 
 Contact
 -------
 
-For any questions, comments, or suggestions, please join the `Librum Discord server <https://discord.gg/3f8vPYFmJX>`_\ .
+For any questions, comments, or suggestions, please join the `Scenic Route Games discord server <https://discord.gg/3f8vPYFmJX>`_\ .
