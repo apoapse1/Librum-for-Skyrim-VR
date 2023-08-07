@@ -33,7 +33,7 @@ Preamble
 
 Skyrim SE and VR are both wonderful experiences, but both very familiar ones. Even with all of the modern improvements, we visit the same locales and repeat the same adventures we have since the end of 2011.
 
-*Librum* is a comprehensive gameplay, graphics, and content overhaul that attempts to change all of this. Combining together some of the best and most popular mods for Skyrim SE, a suite of new quests and adventures that outnumber Skyrim's own, the tradition of great "hardcore" gameplay overhauls that have come before -- like Skyrim's _Requiem_ and _YASH_ or Oblivion's _Oscuro's Oblivion Overhaul_ -- and a host of unique-to-VR immersion improvements, Librum brings new life (and new challenge!) to Skyrim in a way that has never been experienced before.
+*Librum* is a comprehensive gameplay, graphics, and content overhaul that attempts to change all of this. Combining together some of the best and most popular mods for Skyrim SE, a suite of new quests and adventures that outnumber Skyrim's own, the tradition of great "hardcore" gameplay overhauls that have come before -- like Skyrim's Requiem, and YASH, or Oblivion's Oscuro's Oblivion Overhaul -- and a host of unique-to-VR immersion improvements, Librum brings new life (and new challenge!) to Skyrim in a way that has never been experienced before.
 
 Librum is available for both VR and SE. 
 
