@@ -18,11 +18,11 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Librum for Skyrim SE/VR'
-copyright = '2021, The Librum Team'
-author = 'The Librum Team'
+copyright = '2023, Scenic Route Games'
+author = 'Scenic Route Games'
 
 # The full version, including alpha/beta/rc tags
-release = '2.2.0'
+release = '3.0.6'
 
 
 # -- General configuration ---------------------------------------------------
