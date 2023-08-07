@@ -31,7 +31,7 @@ Installing Microsoft Visual C++ Redistributable Package
 
 I doubt you need to do this since you likely already have this installed. The package is required for MO2 and you can download it from `Microsoft <https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads>`_. Download the x64 version under "Visual Studio 2015, 2017 and 2019". `Direct link <https://aka.ms/vs/16/release/vc_redist.x64.exe>`_ if you can't find it.
 
-Setting up the game:
+Setting up the game
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 Make sure you have the game installed outside of program files, or any other protected folder.
