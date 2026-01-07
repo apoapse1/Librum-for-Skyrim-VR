@@ -9,12 +9,13 @@
         "game": "skyrimspecialedition",
         "official": true,
         "tags": [
-            "Official",
-            "LotD",
+            "Combat Overhaul",
+            "Dark Fantasy",
+            "Hardcore",
+            "SFW",
+            "Steam",
             "Survival",
-            "Custom Content",
-            "Gritty",
-            "Realism"
+            "Total Overhaul"
         ],
         "nsfw": false,
         "utility_list": false,
@@ -53,13 +54,14 @@
         "game": "skyrimvr",
         "official": true,
         "tags": [
-            "Official",
-            "VR",
-            "LotD",
+            "Combat Overhaul",
+            "Dark Fantasy",
+            "Hardcore",
+            "SFW",
+            "Steam",
             "Survival",
-            "Custom Content",
-            "Gritty",
-            "Realism"
+            "Total Overhaul",
+            "VR"
         ],
         "nsfw": false,
         "utility_list": false,
