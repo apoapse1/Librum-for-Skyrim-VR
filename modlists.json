@@ -25,19 +25,19 @@
         "links": {
             "image": "https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/LibSE_logo.webp",
             "readme": "https://www.scenicroute.games/projects/librum-se",
-            "download": "https://github.com/apoapse1/Librum-for-Skyrim-VR/releases/download/v3.1.0.3/Librum.SE.wabbajack",
+            "download": "https://github.com/apoapse1/Librum-for-Skyrim-VR/releases/download/v3.1.0.4/Librum.SE.wabbajack",
             "machineURL": "librum_se",
             "discordURL": "https://discord.gg/esGVnCjWpJ",
             "websiteURL": "https://www.scenicroute.games/"
         },
         "download_metadata": {
-            "Hash": "ChrFdu0fR6s=",
-            "Size": 488235535,
-            "NumberOfArchives": 1347,
-            "SizeOfArchives": 89730840356,
-            "NumberOfInstalledFiles": 202715,
-            "SizeOfInstalledFiles": 148979229721,
-            "TotalSize": 238710070077
+            "Hash": "XdEzeAFNKYI=",
+            "Size": 488214334,
+            "NumberOfArchives": 1343,
+            "SizeOfArchives": 89676064646,
+            "NumberOfInstalledFiles": 202816,
+            "SizeOfInstalledFiles": 148961890363,
+            "TotalSize": 238637955009
         },
         "version": "3.1.0.3",
         "repositoryName": "librum"
@@ -69,19 +69,19 @@
         "links": {
             "image": "https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/LibVR_logo.webp",
             "readme": "https://www.scenicroute.games/projects/librum-vr",
-            "download": "https://github.com/apoapse1/Librum-for-Skyrim-VR/releases/download/v3.1.0.3/Librum.VR.wabbajack",
+            "download": "https://github.com/apoapse1/Librum-for-Skyrim-VR/releases/download/v3.1.0.4/Librum.VR.wabbajack",
             "machineURL": "librum_vr",
             "discordURL": "https://discord.gg/esGVnCjWpJ",
             "websiteURL": "https://www.scenicroute.games/"
         },
         "download_metadata": {
-            "Hash": "cZefH/Eo+n4=",
-            "Size": 184547977,
-            "NumberOfArchives": 1471,
-            "SizeOfArchives": 101142736336,
-            "NumberOfInstalledFiles": 237052,
-            "SizeOfInstalledFiles": 164980209226,
-            "TotalSize": 266122945562
+            "Hash": "qTXt99/w93I=",
+            "Size": 184552835,
+            "NumberOfArchives": 1474,
+            "SizeOfArchives": 101080158777,
+            "NumberOfInstalledFiles": 237163,
+            "SizeOfInstalledFiles": 164935434112,
+            "TotalSize": 266015592889
         },
         "version": "3.1.0.3",
         "repositoryName": "librum"
