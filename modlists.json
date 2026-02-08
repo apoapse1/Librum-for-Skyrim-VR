@@ -4,7 +4,8 @@
         "description": "A gritty, low-magic, hardcore survival-adventure experience with an uncompromising vision. Hundreds of new quests and locations, a total mechanics overhaul, and a complete makeover of the graphics and atmosphere. The path to your destiny as the Dragonborn will be long and treacherous. Welcome to Librum.",
         "author": "Scenic Route Games",
         "maintainers": [
-            "apoapse"
+            "apoapse",
+            "github/reyqune"
         ],
         "game": "skyrimspecialedition",
         "official": true,
@@ -25,21 +26,21 @@
         "links": {
             "image": "https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/LibSE_logo.webp",
             "readme": "https://www.scenicroute.games/projects/librum-se",
-            "download": "https://github.com/apoapse1/Librum-for-Skyrim-VR/releases/download/v3.1.0.4/Librum.SE.3.1.0.4.wabbajack",
+            "download": "https://github.com/apoapse1/Librum-for-Skyrim-VR/releases/download/v3.1.0.5/Librum.SE.3.1.0.5.wabbajack",
             "machineURL": "librum_se",
             "discordURL": "https://discord.gg/esGVnCjWpJ",
             "websiteURL": "https://www.scenicroute.games/"
         },
         "download_metadata": {
-            "Hash": "XdEzeAFNKYI=",
-            "Size": 488214334,
-            "NumberOfArchives": 1343,
-            "SizeOfArchives": 89676064646,
-            "NumberOfInstalledFiles": 202816,
-            "SizeOfInstalledFiles": 148961890363,
-            "TotalSize": 238637955009
+            "Hash": "rvEUFRmP8f0=",
+            "Size": 488215253,
+            "NumberOfArchives": 1345,
+            "SizeOfArchives": 89718012778,
+            "NumberOfInstalledFiles": 202811,
+            "SizeOfInstalledFiles": 148964867437,
+            "TotalSize": 238682880215
         },
-        "version": "3.1.0.4",
+        "version": "3.1.0.5",
         "repositoryName": "librum"
     },
     {
@@ -47,7 +48,8 @@
         "description": "A gritty, low-magic, hardcore survival-adventure experience with an uncompromising vision. Hundreds of new quests and locations, a total mechanics overhaul, and a complete makeover of the graphics and atmosphere. The path to your destiny as the Dragonborn will be long and treacherous. Welcome to Librum.",
         "author": "Scenic Route Games",
         "maintainers": [
-            "apoapse"
+            "apoapse",
+            "github/reyqune"
         ],
         "game": "skyrimvr",
         "official": true,
@@ -69,21 +71,21 @@
         "links": {
             "image": "https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/LibVR_logo.webp",
             "readme": "https://www.scenicroute.games/projects/librum-vr",
-            "download": "https://github.com/apoapse1/Librum-for-Skyrim-VR/releases/download/v3.1.0.4/Librum.VR.3.1.0.4.wabbajack",
+            "download": "https://github.com/apoapse1/Librum-for-Skyrim-VR/releases/download/v3.1.0.5/Librum.VR.3.1.0.5.wabbajack",
             "machineURL": "librum_vr",
             "discordURL": "https://discord.gg/esGVnCjWpJ",
             "websiteURL": "https://www.scenicroute.games/"
         },
         "download_metadata": {
-            "Hash": "qTXt99/w93I=",
-            "Size": 184552835,
-            "NumberOfArchives": 1474,
-            "SizeOfArchives": 101080158777,
-            "NumberOfInstalledFiles": 237163,
-            "SizeOfInstalledFiles": 164935434112,
-            "TotalSize": 266015592889
+            "Hash": "CClWUHNw6IM=",
+            "Size": 184553294,
+            "NumberOfArchives": 1475,
+            "SizeOfArchives": 101080394566,
+            "NumberOfInstalledFiles": 237159,
+            "SizeOfInstalledFiles": 164938410601,
+            "TotalSize": 266018805167
         },
-        "version": "3.1.0.4",
+        "version": "3.1.0.5",
         "repositoryName": "librum"
     }
 ]
