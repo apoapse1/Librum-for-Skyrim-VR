@@ -32,13 +32,13 @@
             "websiteURL": "https://www.scenicroute.games/"
         },
         "download_metadata": {
-            "Hash": "hbCBAEagm8Q=",
-            "Size": 488214876,
+            "Hash": "W87hJQLKgtY=",
+            "Size": 488208889,
             "NumberOfArchives": 1343,
             "SizeOfArchives": 89676295684,
-            "NumberOfInstalledFiles": 202811,
-            "SizeOfInstalledFiles": 148964869645,
-            "TotalSize": 238641165329
+            "NumberOfInstalledFiles": 202806,
+            "SizeOfInstalledFiles": 148964848174,
+            "TotalSize": 238641143858
         },
         "version": "3.1.0.5",
         "repositoryName": "librum"
@@ -77,13 +77,13 @@
             "websiteURL": "https://www.scenicroute.games/"
         },
         "download_metadata": {
-            "Hash": "a5DYiycYLgs=",
-            "Size": 184554916,
+            "Hash": "7VNKsn11/Vc=",
+            "Size": 184549089,
             "NumberOfArchives": 1475,
             "SizeOfArchives": 101122101581,
-            "NumberOfInstalledFiles": 237179,
-            "SizeOfInstalledFiles": 165038999762,
-            "TotalSize": 266161101343
+            "NumberOfInstalledFiles": 237174,
+            "SizeOfInstalledFiles": 165038978289,
+            "TotalSize": 266161079870
         },
         "version": "3.1.0.5",
         "repositoryName": "librum"
