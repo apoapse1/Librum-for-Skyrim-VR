@@ -22,23 +22,23 @@
         "utility_list": false,
         "image_contains_title": true,
         "DisplayVersionOnlyInInstallerView": false,
-        "force_down": true,
+        "force_down": false,
         "links": {
             "image": "https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/LibSE_logo.webp",
             "readme": "https://www.scenicroute.games/projects/librum-se",
-            "download": "https://github.com/apoapse1/Librum-for-Skyrim-VR/releases/download/v3.1.0.5/Librum.SE.3.1.0.5.C.wabbajack",
+            "download": "https://authored-files.wabbajack.org/Librum%20SE.wabbajack_d6109117-f38d-4127-a94b-46f3712df1c3",
             "machineURL": "librum_se",
             "discordURL": "https://discord.gg/esGVnCjWpJ",
             "websiteURL": "https://www.scenicroute.games/"
         },
         "download_metadata": {
-            "Hash": "W87hJQLKgtY=",
-            "Size": 488208889,
-            "NumberOfArchives": 1343,
-            "SizeOfArchives": 89676295684,
-            "NumberOfInstalledFiles": 202806,
-            "SizeOfInstalledFiles": 148964848174,
-            "TotalSize": 238641143858
+            "Hash": "ipb92fWAxqc=",
+            "Size": 501777075,
+            "NumberOfArchives": 1338,
+            "SizeOfArchives": 89373161961,
+            "NumberOfInstalledFiles": 202830,
+            "SizeOfInstalledFiles": 149119557711,
+            "TotalSize": 238492719672
         },
         "version": "3.1.0.5",
         "repositoryName": "librum"
@@ -67,25 +67,25 @@
         "utility_list": false,
         "image_contains_title": true,
         "DisplayVersionOnlyInInstallerView": false,
-        "force_down": true,
+        "force_down": false,
         "links": {
             "image": "https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/LibVR_logo.webp",
             "readme": "https://www.scenicroute.games/projects/librum-vr",
-            "download": "https://github.com/apoapse1/Librum-for-Skyrim-VR/releases/download/v3.1.0.5/Librum.VR.3.1.0.5.C.wabbajack",
+            "download": "https://authored-files.wabbajack.org/Librum%20VR.wabbajack_9baeaf14-e29c-4e4f-9d47-78f45bdf4355",
             "machineURL": "librum_vr",
             "discordURL": "https://discord.gg/esGVnCjWpJ",
             "websiteURL": "https://www.scenicroute.games/"
         },
         "download_metadata": {
-            "Hash": "7VNKsn11/Vc=",
-            "Size": 184549089,
-            "NumberOfArchives": 1475,
-            "SizeOfArchives": 101122101581,
-            "NumberOfInstalledFiles": 237174,
-            "SizeOfInstalledFiles": 165038978289,
-            "TotalSize": 266161079870
+            "Hash": "NAAEyFw4lrM=",
+            "Size": 473558045,
+            "NumberOfArchives": 1449,
+            "SizeOfArchives": 100622600493,
+            "NumberOfInstalledFiles": 236452,
+            "SizeOfInstalledFiles": 165379587978,
+            "TotalSize": 266002188471
         },
-        "version": "3.1.0.5",
+        "version": "3.1.0.6",
         "repositoryName": "librum"
     }
 ]
