@@ -1,91 +1,97 @@
 [
-    {
-        "title": "Librum SE",
-        "description": "A gritty, low-magic, hardcore survival-adventure experience with an uncompromising vision. Hundreds of new quests and locations, a total mechanics overhaul, and a complete makeover of the graphics and atmosphere. The path to your destiny as the Dragonborn will be long and treacherous. Welcome to Librum.",
-        "author": "Scenic Route Games",
-        "maintainers": [
-            "apoapse",
-            "github/reyqune"
-        ],
-        "game": "skyrimspecialedition",
-        "official": true,
-        "tags": [
-            "Combat Overhaul",
-            "Dark Fantasy",
-            "Hardcore",
-            "SFW",
-            "Steam",
-            "Survival",
-            "Total Overhaul"
-        ],
-        "nsfw": false,
-        "utility_list": false,
-        "image_contains_title": true,
-        "DisplayVersionOnlyInInstallerView": false,
-        "force_down": false,
-        "links": {
-            "image": "https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/LibSE_logo.webp",
-            "readme": "https://www.scenicroute.games/projects/librum-se",
-            "download": "https://authored-files.wabbajack.org/Librum%20SE.wabbajack_d6109117-f38d-4127-a94b-46f3712df1c3",
-            "machineURL": "librum_se",
-            "discordURL": "https://discord.gg/esGVnCjWpJ",
-            "websiteURL": "https://www.scenicroute.games/"
-        },
-        "download_metadata": {
-            "Hash": "ipb92fWAxqc=",
-            "Size": 501777075,
-            "NumberOfArchives": 1338,
-            "SizeOfArchives": 89373161961,
-            "NumberOfInstalledFiles": 202830,
-            "SizeOfInstalledFiles": 149119557711,
-            "TotalSize": 238492719672
-        },
-        "version": "3.1.0.5",
-        "repositoryName": "librum"
+  {
+    "title": "Librum SE",
+    "description": "A gritty, low-magic, hardcore survival-adventure experience with an uncompromising vision. Hundreds of new quests and locations, a total mechanics overhaul, and a complete makeover of the graphics and atmosphere. The path to your destiny as the Dragonborn will be long and treacherous. Welcome to Librum.",
+    "author": "Scenic Route Games",
+    "maintainers": [
+      "apoapse",
+      "github/reyqune"
+    ],
+    "game": "skyrimspecialedition",
+    "official": true,
+    "tags": [
+      "Combat Overhaul",
+      "Dark Fantasy",
+      "Hardcore",
+      "SFW",
+      "Steam",
+      "Survival",
+      "Total Overhaul"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/LibSE_logo.webp",
+      "readme": "https://www.scenicroute.games/projects/librum-se",
+      "download": "https://authored-files.wabbajack.org/Librum%20SE.wabbajack_d6109117-f38d-4127-a94b-46f3712df1c3",
+      "machineURL": "librum_se",
+      "discordURL": "https://discord.gg/esGVnCjWpJ",
+      "websiteURL": "https://www.scenicroute.games/",
+      "nexusCollection": null
     },
-    {
-        "title": "Librum VR",
-        "description": "A gritty, low-magic, hardcore survival-adventure experience with an uncompromising vision. Hundreds of new quests and locations, a total mechanics overhaul, and a complete makeover of the graphics and atmosphere. The path to your destiny as the Dragonborn will be long and treacherous. Welcome to Librum.",
-        "author": "Scenic Route Games",
-        "maintainers": [
-            "apoapse",
-            "github/reyqune"
-        ],
-        "game": "skyrimvr",
-        "official": true,
-        "tags": [
-            "Combat Overhaul",
-            "Dark Fantasy",
-            "Hardcore",
-            "SFW",
-            "Steam",
-            "Survival",
-            "Total Overhaul",
-            "VR"
-        ],
-        "nsfw": false,
-        "utility_list": false,
-        "image_contains_title": true,
-        "DisplayVersionOnlyInInstallerView": false,
-        "force_down": false,
-        "links": {
-            "image": "https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/LibVR_logo.webp",
-            "readme": "https://www.scenicroute.games/projects/librum-vr",
-            "download": "https://authored-files.wabbajack.org/Librum%20VR.wabbajack_9baeaf14-e29c-4e4f-9d47-78f45bdf4355",
-            "machineURL": "librum_vr",
-            "discordURL": "https://discord.gg/esGVnCjWpJ",
-            "websiteURL": "https://www.scenicroute.games/"
-        },
-        "download_metadata": {
-            "Hash": "NAAEyFw4lrM=",
-            "Size": 473558045,
-            "NumberOfArchives": 1449,
-            "SizeOfArchives": 100622600493,
-            "NumberOfInstalledFiles": 236452,
-            "SizeOfInstalledFiles": 165379587978,
-            "TotalSize": 266002188471
-        },
-        "version": "3.1.0.6",
-        "repositoryName": "librum"
-    }
+    "download_metadata": {
+      "Hash": "ipb92fWAxqc=",
+      "Size": 501777075,
+      "NumberOfArchives": 1338,
+      "SizeOfArchives": 89373161961,
+      "NumberOfInstalledFiles": 202830,
+      "SizeOfInstalledFiles": 149119557711,
+      "TotalSize": 238492719672
+    },
+    "version": "3.1.0.5",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "0001-01-01T00:00:00",
+    "repositoryName": "librum"
+  },
+  {
+    "title": "Librum VR",
+    "description": "A gritty, low-magic, hardcore survival-adventure experience with an uncompromising vision. Hundreds of new quests and locations, a total mechanics overhaul, and a complete makeover of the graphics and atmosphere. The path to your destiny as the Dragonborn will be long and treacherous. Welcome to Librum.",
+    "author": "Scenic Route Games",
+    "maintainers": [
+      "apoapse",
+      "github/reyqune"
+    ],
+    "game": "skyrimvr",
+    "official": true,
+    "tags": [
+      "Combat Overhaul",
+      "Dark Fantasy",
+      "Hardcore",
+      "SFW",
+      "Steam",
+      "Survival",
+      "Total Overhaul",
+      "VR"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/LibVR_logo.webp",
+      "readme": "https://www.scenicroute.games/projects/librum-vr",
+      "download": "https://authored-files.wabbajack.org/Librum VR.wabbajack_06b18539-80fc-49c6-a1a5-94b204470e10",
+      "machineURL": "librum_vr",
+      "discordURL": "https://discord.gg/esGVnCjWpJ",
+      "websiteURL": "https://www.scenicroute.games/",
+      "nexusCollection": null
+    },
+    "download_metadata": {
+      "Hash": "gkGCEkuRDIU=",
+      "Size": 473557846,
+      "NumberOfArchives": 1449,
+      "SizeOfArchives": 100622600493,
+      "NumberOfInstalledFiles": 236452,
+      "SizeOfInstalledFiles": 165379587994,
+      "TotalSize": 266002188487
+    },
+    "version": "3.1.0.6",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2026-04-01T19:52:10.4461569Z",
+    "repositoryName": "librum"
+  }
 ]
