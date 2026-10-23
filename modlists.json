@@ -74,24 +74,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/LibVR_logo.webp",
       "readme": "https://www.scenicroute.games/projects/librum-vr",
-      "download": "https://authored-files.wabbajack.org/Librum VR.wabbajack_c6cd4a0e-02ec-4349-be8e-cd3755eb92d5",
+      "download": "https://authored-files.wabbajack.org/Librum VR.wabbajack_45ef5076-2a2b-49a8-82fb-c6b407813518",
       "machineURL": "librum_vr",
       "discordURL": "https://discord.gg/esGVnCjWpJ",
       "websiteURL": "https://www.scenicroute.games/",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "HE4RJm8sc/g=",
-      "Size": 195789788,
+      "Hash": "14vou08MLRM=",
+      "Size": 195789909,
       "NumberOfArchives": 1277,
       "SizeOfArchives": 86275840748,
       "NumberOfInstalledFiles": 236859,
-      "SizeOfInstalledFiles": 165336697722,
-      "TotalSize": 251612538470
+      "SizeOfInstalledFiles": 165336696869,
+      "TotalSize": 251612537617
     },
-    "version": "3.1.0.9",
+    "version": "3.1.0.10",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-10-18T18:12:17.4096651Z",
+    "dateUpdated": "2026-10-23T16:13:18.2070291Z",
     "repositoryName": "librum"
   }
 ]
